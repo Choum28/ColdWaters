@@ -1,0 +1,4 @@
+﻿[Unit Reference]
+ShipClass=Partizan
+Description=Navire de transport classe Yuniy Partizan
+History=Ce sont de petits porte-conteneurs côtiers, dont 4 en service régulier dans la marine soviétique et 20 autres sous pavillon civil qui rejoindraient la marine en temps de guerre. Leur tirant d'eau peu profond les rend aptes à transporter des approvisionnements, des munitions, etc. à l'appui des opérations amphibies. Ils pourraient aussi être utilisés pour ravitailler les zones côtières occupées.

@@ -1,0 +1,7 @@
+Image=campaign/images/nato submarine
+MissionLocation=Est de l'Islande, dans la mer de Norvège
+Briefing=15 DEC 1984
+Briefing=Après quelques jours sans événement marquant, le sonar détecte un contact isolé.
+Briefing=
+Briefing=Objectif principal:
+Briefing=Combattre en duel contre un sous-marin ennemi

@@ -1,0 +1,14 @@
+NextAction=MAP
+Image=campaign/images/oilrig destroyed
+Photo=campaign/images/photos/naval plan 3
+Music=audio/music/Cold Waters Campaign Loss
+Header=<DATE>
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>UNE PLATE-FORME PÉTROLIÈRE CAPTURÉE</b>
+Color=57,61,73,255
+Sentence1=Les forces navales ennemies ont capturé une installation de forage pétrolier près de <ENDLOCATION> à la suite d'accusations récentes selon lesquelles les États-Unis avaient utilisé la plateforme pour espionner les mouvements navals dans la région. Le Pentagone a nié ces affirmations et a appelé à la cessation immédiate des agressions et des destructions non provoquées d'installations civiles.
+Color=218,218,208,255
+Sentence2=Les autorités chinoises ont déclaré que la plupart des travailleurs civils de la plate-forme seront libérés dans les prochains jours, tandis que quelques-uns sont encore détenus pour être interrogés.

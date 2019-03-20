@@ -1,0 +1,10 @@
+Image=campaign/images/pact warship tender 2
+MissionLocation=Exercice de formation
+Briefing=Utilisez toute la gamme de detecteurs de votre SM pour localiser et identifier les cibles.
+Briefing=
+Briefing=Points couverts:
+Briefing=- Comprendre les sonars actif et passif.
+Briefing=- Comprendre les conditions oceaniques environnantes.
+Briefing=- Manoeuvrer a la profondeur periscopique.
+Briefing=- Utiliser les aeriens: periscope, ESM et radar.
+Briefing=- Apprendre a utiliser le reseau sonar remorque.

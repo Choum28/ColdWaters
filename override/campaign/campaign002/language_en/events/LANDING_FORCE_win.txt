@@ -1,0 +1,15 @@
+﻿
+NextAction=MAP
+Image=campaign/images/pact landing sunk
+Photo=campaign/images/photos/infantry nato 3,campaign/images/photos/infantry nato 4,campaign/images/photos/naval nato 2,campaign/images/photos/naval nato 4,campaign/images/photos/naval nato sub 3,campaign/images/photos/naval nato sub 4
+Music=audio/music/Cold Waters Campaign Victory
+Header=<DATE>
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b><COUNTRY> RÉSISTE</b>|<b>LES ROUGES HORS DE <COUNTRY></b>|<b>LA BATAILLE DE <COUNTRY></b>|<b><COUNTRY> DÉFENDUE</b>
+Color=57,61,73,255
+Sentence1=<ENDLOCATION>, <COUNTRY>: un débarquement massif et coordonné en mer a été repoussé. Selon un porte-parole de l'OTAN, «une combinaison de combats acharnés par la défense des troupes et un affaiblissement significatif de la force d'invasion par les unités navales de l'OTAN» a contribué à éviter le désastre et la défaite.
+Color=218,218,208,255
+Sentence2=Selon les analystes, la capacité de l'OTAN à contenir l'ennemi et à empêcher l'ouverture de nouveaux fronts sera un facteur majeur dans l'issue de la guerre. Garder la ligne de front concentrée, plutôt que dispersée sur plusieurs territoires, assurera le succès.

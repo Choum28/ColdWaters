@@ -1,0 +1,5 @@
+﻿[Unit Reference]
+ShipClass=Kresta I
+Description=Croiseur lance-missiles classe Kresta I
+DefensiveWeapons=SA-N-1 SAM\nAK-570 57mm AA Guns
+History=Cette classe a été conçue comme un successeur plus grand et plus capable pour les croiseurs de missiles de classe Kynda, qui se sont avérés trop lourds et trop exigus. Le Kresta I est conçu pour le rôle anti-navire mais possède des capacités bien améliorées pour la guerre anti-aérienne et anti-sous-marine. Si ces navires sont autorisés dans les routes des convois de l'Atlantique Nord, ils pourraient constituer une véritable menace pour l'OTAN en tant que raiders.

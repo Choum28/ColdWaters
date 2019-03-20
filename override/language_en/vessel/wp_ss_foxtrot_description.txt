@@ -1,0 +1,4 @@
+﻿[Unit Reference]
+ShipClass=Foxtrot
+Description=Sous-marin diesel-électrique classe Foxtrot
+History=Au début des années 60, ces bateaux représentaient le dernier des anciens sous-marins conventionnels bon marché conçus pour rôder dans l'Atlantique Nord pour les convois de l'OTAN, mais dans les années 1980, ils sont principalement utilisés comme bateaux d'opérations spéciales pour commandos Spetsnaz. Bien qu'ils soient à la limite dépassés, ils sont des bateaux silencieux et peuvent encore constituer une menace pour les capitaines de sous-marins de l'OTAN non vigilants.

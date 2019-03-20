@@ -1,0 +1,9 @@
+﻿[Unit Reference]
+ShipClass=Flt-3 Los Angeles
+Description=SNA classe Los-Angeles Flt-3
+History=Cette classe est une version améliorée de la conception originale du 688 qui inclut une meilleure furtivité, le système de contrôle de combat amélioré BSY-1, la capacité de navigation sous la glace et le stockage accru d'armes sous forme de 12 tubes VLS dans le réservoir de ballast avant. Le sous-marin peut transporter des missiles anti-navires TASM ou des missiles terrestres TLAM.
+
+[Player Ship Instances]
+PlayerClassNames=San Juan, Pasadena, Albany, Topeka, Miami, Scranton, Alexandria, Asheville, Jefferson City, Annapolis, Springfield, Columbus, Santa Fe, Boise, Montpelier, Charlotte, Hampton, Hartford, Toledo, Tucson, Columbia, Greeneville, Cheyenne
+
+PlayerClassHullNumbers=SSN-751,SSN-752,SSN-753,SSN-754,SSN-755,SSN-756,SSN-757,SSN-758,SSN-759,SSN-760,SSN-761,SSN-762,SSN-763,SSN-764,SSN-765,SSN-766,SSN-767,SSN-768,SSN-769,SSN-770,SSN-771,SSN-772,SSN-773

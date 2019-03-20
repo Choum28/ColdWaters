@@ -1,0 +1,6 @@
+﻿[Unit Reference]
+ShipClass=Sverdlov
+Description=Croiseur léger classe Sverdlov
+DefensiveWeapons=100mm DP Guns\n57mm AA Guns
+Aircraft=Aucun
+History=Ce sont les derniers navires de guerre de gros calibre construits après la Seconde Guerre mondiale au cours des années 1950. Bien qu'ils soient obsolètes avec l'avènement des missiles antiaériens et des avions à réaction, les Soviétiques les considèrent toujours utiles pour fournir un soutien d'artillerie pendant les opérations amphibies, et plusieurs de la classe ont été améliorés pour servir de vaisseaux amiraux. équipement radar étendu ainsi que des installations de commandement et de contrôle. Ils pourraient également être utilisés en tant que raiders de convoi s'ils sont autorisés à pénétrer dans les voies de convoi de l'Atlantique Nord.

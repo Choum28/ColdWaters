@@ -1,0 +1,13 @@
+NextAction=event_campaign_fail_3
+Image=campaign/images/cuban missiles
+Photo=campaign/images/photos/riot 1,campaign/images/photos/riot 2,campaign/images/photos/protests 2
+Music=audio/music/Cold Waters Campaign Loss
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>LE COÛT DE LA DÉFAITE</b>
+Sentence1=La menace immédiate d'une guerre nucléaire semble s'être évanouie alors que les États-Unis et la Chine négocient enfin les conditions de la cessation des hostilités. Les Chinois ont clairement la main haute sur ces pourparlers de paix en raison de leur forte position dans le Pacifique occidental. Le résultat de la guerre a amplifié les effets de l'effondrement économique asiatique et de la surévaluation des entreprises  «dot com», déclenchant un effondrement économique massif et un mouvement vers l'isolationnisme.
+Sentence2=Les analystes économiques prédisent que la défaite pourrait conduire à un effondrement de l'ordre sécuritaire américain dans le Pacifique, avec même de forts alliés hésitant sur leur engagement envers les institutions de sécurité occidentales face à un Pékin dominant.

@@ -1,0 +1,14 @@
+NextAction=MAP
+Image=campaign/images/plan air 1,campaign/images/pact air 2
+Photo=campaign/images/photos/explosions 1
+Music=audio/music/Cold Waters Campaign Loss
+Header=<DATE>
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>SUPERIORITÉ AÉRIENNE</b>
+Color=57,61,73,255
+Sentence1=Au cours des derniers jours, de nombreuses frappes aériennes chinoises ont été lancées à partir de bases aériennes situées aux alentours de <ENDLOCATION> (<COUNTRY>). Le changement soudain de la supériorité aérienne dans la région a pris les Etats-Unis au dépourvu et aurait eu un impact négatif sur les opérations alliées dans la région.
+Color=218,218,208,255
+Sentence2=Les analystes supposent que les installations hautement défendues auraient été ciblées par des missiles de croisière lancés par des sous-marins, mais que les sous-marins doivent avoir été mis en déroute par les défenseurs chinois.

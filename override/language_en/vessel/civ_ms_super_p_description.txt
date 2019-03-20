@@ -1,0 +1,4 @@
+﻿[Unit Reference]
+ShipClass=Marchand
+Description=Grand cargo moderne
+History=Le dernier né des cargos à cale sèche, ces grands navires sont rapides et équipés d'un assortiment de grues et de derricks pour manipuler des marchandises en vrac. Bien que construits à la fin des années 1960, ils ont rapidement été éclipsés par l'émergence du porte-conteneurs et, bien que certains aient été modifiés pour transporter des conteneurs, ils ne seraient jamais aussi rentables et la plupart ont été abandonnés au cours des années 80 après des durées de vie relativement courtes.

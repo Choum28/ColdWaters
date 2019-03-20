@@ -1,0 +1,11 @@
+Image=campaign/images/pact landing sunk
+MissionLocation=Exercice de formation
+Briefing=Utilisez <KEY:Help> pour ouvrir le panneau du tutoriel ou, s'il est deja ouvert, <KEY:Help> ouvre l'aide sur la page la plus pertinente.
+Briefing=
+Briefing=Effectuez une attaque de base a la torpille contre une cible fixe.
+Briefing=
+Briefing=Points couverts:
+Briefing=- Controle de la camera.
+Briefing=- Utilisation du periscope.
+Briefing=- Introduction a la carte tactique.
+Briefing=- Tir de torpilles.

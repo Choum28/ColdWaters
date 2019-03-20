@@ -1,0 +1,14 @@
+﻿
+NextAction=END
+Image=campaign/images/pact france
+Photo=campaign/images/photos/riot 1
+Music=audio/music/Cold Waters Campaign Loss
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>LE RIDEAU DE FER S'ABAT SUR L'EUROPE</b> 
+Sentence1=Des centaines de milliers de réfugiés fuient vers la Manche alors que la tache rouge du communisme domine finalement le continent. En Europe occupée, on dit que de nombreux membres de la classe moyenne et des intellectuels sont de plus en plus nombreux à être envoyés dans des camps de rééducation. Les forces d'occupation soviétiques ont renforcé la sécurité en réponse à ce qu'ils qualifient d '«actions de subversion des ennemis de la classe ouvrière».
+Sentence2=<b>DES TEMPS INCERTAINS</b><n>En raison de la tension économique et militaire du récent conflit, les analystes s'attendent à ce que, malgré la cessation des hostilités, le climat de guerre froide reprenne de plus belle et s'aggrave même pour les décennies à venir. La détente semble maintenant un fantasme naïf. Le conflit actuel exigera sans aucun doute un futur accroissement substantiel des dépenses militaires, et des sacrifices continus, tant de la part des pays de l'Est que des pays occidentaux qui restent libres.

@@ -1,0 +1,24 @@
+﻿
+Text=
+Text=Commandant,
+Text=Nous avons un nouveau contact sonar, relèvement <BEARING>, code Sierra 1.
+Text=
+Text=Notre situation actuelle:
+Text=     Profondeur: <DEPTH>
+Text=     Cap: <HEADING>
+Text=     Vitesse: <SPEED>
+Text=
+Text=<DEPLOYMENTZONE>Quels sont vos ordres?
+
+
+Text2=
+Text2=
+Text2=
+Text2=
+Text2=Conditions locales:
+Text2=     <CONDITIONS>
+Text2=     Conduction de surface <SURFACEDUCT>
+Text2=     Thermocline <STRENGTH> <LAYERDEPTH>
+//Text2=     Water depth is <WATERDEPTH>
+
+TextNoContact=Aucun contact. Poursuivre la route.

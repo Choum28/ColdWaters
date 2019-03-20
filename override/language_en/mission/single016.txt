@@ -1,0 +1,7 @@
+Image=campaign/images/plan wolfpack 1
+MissionLocation=Mer de Chine orientale
+Briefing=2 JUL 2000
+Briefing=Un sous-marin d'attaque US a été détecté en mer de Chine orientale. Après plusieurs jours de recherche, un contact non identifié pourrait bien être ce que vous cherchez...
+Briefing=
+Briefing=Objectif principal:
+Briefing=Engagez un duel avec un SSN ennemi

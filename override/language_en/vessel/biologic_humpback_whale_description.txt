@@ -1,0 +1,4 @@
+﻿[Unit Reference]
+ShipClass=Baleine à bosse
+Description=Baleine à bosse (Megaptera novaeangliae)
+History=Le rorqual à bosse est une baleine à fanons appartenant à la même famille que la baleine bleue. Comme leur grand cousin, ils ont été chassés jusqu'au bord de l'extinction par les humains jusqu'au moratoire international sur la chasse à la baleine en 1966. L'espèce est célèbre pour ses "chants" longs et complexes, dont le son voyage sur de grandes distances.

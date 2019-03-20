@@ -1,0 +1,4 @@
+﻿[Unit Reference]
+ShipClass=Qiongsha
+Description=Navire de transport côtier classe Qiongsha
+History=Ce sont des versions civiles du transport militaire de Qiongsha. Contrairement à leurs frères militaires, ils ne possèdent pas d'armes défensives, mais à tous égards, ils sont identiques.

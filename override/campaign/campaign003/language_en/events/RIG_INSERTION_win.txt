@@ -1,0 +1,14 @@
+NextAction=MAP
+Image=campaign/images/oilrigs
+Photo=campaign/images/photos/naval us 3
+Music=audio/music/Cold Waters Campaign Victory
+Header=<DATE>
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>LES TRAVAILLEURS DE LA MER RENTRENT CHEZ EUX</b>|<b>LES TRAVAILLEURS DE LA MER LIBÉRÉS</b>
+Color=57,61,73,255
+Sentence1=Les forces américaines opérant près de <ENDLOCATION> ont libéré une plate-forme pétrolière qui avait été prise en charge par les forces ennemies plus tôt cette semaine. Un porte-parole du Département de la défense a publié une déclaration confirmant que tous les civils impliqués dans l’incident étaient sains et saufs.
+Color=218,218,208,255
+Sentence2=Le gouvernement chinois continue d'affirmer que les marines occidentales opérant dans la mer de Chine méridionale utilisent des installations civiles, telles que des plates-formes pétrolières, comme bases d'opérations avancées. Les experts en environnement craignent que les dommages ou la destruction de ces installations ne se traduisent, si cela était vrai, en des dommages écologiques sans précédent et irréparables pour la région.

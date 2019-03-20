@@ -1,0 +1,8 @@
+﻿[Unit Reference]
+ShipClass=Alfa
+Description=SNA classe Alfa
+History=Ce sont parmi les sous-marins les plus rapides jamais construits. Hautement automatisé et doté de sonars et d'armes perfectionnés, un réacteur exotique en métal liquide propulse ces bateaux à un niveau stupéfiant de 40 nœuds sous l'eau. Ces vitesses élevées leur permettent de distancer la plupart des torpilles anti-SM, mais cela rend l'Alfas extrêmement bruyant. Cependant, à des vitesses plus lentes, ils sont silencieux et équipés de moteurs de fluage spéciaux pour un fonctionnement silencieux.
+
+[Player Ship Instances]
+PlayerClassNames=Lira,Lira,Lira,Lira,Lira,Lira
+PlayerClassHullNumbers=K-123,K-316,K-432,K-373,K-493,K-463

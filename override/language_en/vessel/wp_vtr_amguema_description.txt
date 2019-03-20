@@ -1,0 +1,4 @@
+﻿[Unit Reference]
+ShipClass=Amguema
+Description=Transport de troupes classe Amguema
+History=Il s'agit d'une classe de cargos de brise-glace de taille moyenne conçus pour fonctionner dans les climats nordiques. Normalement, sous pavillon civil, ils seraient probablement utilisés comme transport de troupes au début des hostilités, chaque navire pouvant transporter 6 600 tonnes.

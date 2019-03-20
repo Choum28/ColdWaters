@@ -1,0 +1,4 @@
+﻿[Unit Reference]
+ShipClass=Marchand
+Description=Cargo côtier
+History=Ces petits cargos peuvent généralement être trouvés dans et autour des zones côtières où ils constituent la majeure partie du trafic régional et d'alimentation.

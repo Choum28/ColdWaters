@@ -1,0 +1,9 @@
+﻿[Unit Reference]
+ShipClass=Skipjack
+Description=SNA de classe Skipjack
+History=La classe Skipjack est une classe de sous-marins nucléaires d'attaque de la marine des États-Unis. Elle est la première classe de sous-marins nucléaires américains équipés d'une coque en forme de "goutte d'eau" et d'un réacteur S5W1. Les sous-marins de la classe Skipjack ont été les plus rapides sous-marins nucléaires américains jusqu'à l'introduction de la classe Los Angeles. Elle est notamment connue pour le naufrage de l'USS Scorpion (SSN-589), le 22 mai 1968, avec 99 marins à son bord.
+
+[Player Ship Instances]
+PlayerClassNames=Skipjack,Scamp,Sculpin,Shark,Snook
+
+PlayerClassHullNumbers=SSN-585,SSN-588,SSN-590,SSN-591,SSN-592

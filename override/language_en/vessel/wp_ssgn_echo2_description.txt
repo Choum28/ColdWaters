@@ -1,0 +1,4 @@
+﻿[Unit Reference]
+ShipClass=Echo II
+Description=Sous-marin nucléaire lance-missiles classe Echo II
+History=L'Echo II est une modification de la classe Echo originale qui portait la version nucléaire d'attaque terrestre du missile de croisière SS-N-3 Shaddock. Les modifications comprennent l'ajout d'une paire de lanceur à l'arrière de la voile, et l'élargissement de la voile pour accueillir le radar de guidage de missiles de porte avant dans un montage pivotant, comme cela a été fait sur le Juliette. Ils sont équipés de la même installation de propulsion peu fiable que les Novembers, mais les grandes découpes pour les échappements de missile les rendent encore plus bruyant. La nécessité de rester à la surface pour tirer plus loin limite leur utilité.

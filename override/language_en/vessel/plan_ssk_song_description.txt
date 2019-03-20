@@ -1,0 +1,4 @@
+﻿[Unit Reference]
+ShipClass=Song
+Description=SM d'attaque diesel-électrique classe Song
+History=Le Song est la première conception de sous-marin chinois vraiment moderne, avec une forme de coque en forme de larme et une propulsion à arbre unique. Comparé aux modèles précédents, il intègre des technologies améliorant la furtivité, dispose du dernier sonar numérique français couplé à un système de contrôle avancé capable de tirer la torpille anti-SM filoguidée YU-5 et le missile anti-SM AS-1 CY-1.

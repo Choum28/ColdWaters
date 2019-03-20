@@ -1,0 +1,15 @@
+﻿
+NextAction=MAP
+Image=campaign/images/pact landing 1,campaign/images/pact landing 2,campaign/images/pact landing 3
+Photo=campaign/images/photos/explosions 3,campaign/images/photos/infantry pact 2,campaign/images/photos/infantry pact 5
+Music=audio/music/Cold Waters Campaign Loss
+Header=<DATE>
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b><COUNTRY> ENVAHIE</b>|<b>LES ROUGES EN <COUNTRY></b>|<b>L'ARMÉE ROUGE EN <COUNTRY></b>|<b>LES SOVIETIQUES DÉBARQUENT EN <COUNTRY></b>
+Color=57,61,73,255
+Sentence1=Un assaut amphibie s'est déroulé sur <ENDLOCATION>, <COUNTRY> par les forces soviétiques, ouvrant encore un autre front alors que l'ennemi continue de gagner du terrain. Des questions immédiates ont été soulevées quant à ce qui aurait dû être fait pour protéger la région côtière du <COUNTRY> contre un assaut maritime.
+Color=218,218,208,255
+Sentence2=La perte de <ENDLOCATION>, <COUNTRY> porte un coup énorme à l'OTAN qui continue de perdre l'initiative sur plusieurs fronts. Ni les porte-parole de l'OTAN ni le Pentagone n'ont indiqué si une tentative de recapture de <ENDLOCATION> sera tentée.

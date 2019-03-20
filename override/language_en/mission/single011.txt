@@ -1,0 +1,10 @@
+Image=campaign/images/pact specops
+MissionLocation=Dans le detroit de Luzon
+Briefing=21 SEP 2000
+Briefing=Il y a quelques heures, les forces navales chinoises (PLAN) ont lancé une série de missiles de croisière et des forces spéciales contre nos bases navales de Sasebo, Okinawa et Subic Bay. L'amirauté redoute une nouvelle attaque au moyen de sous-marins contre l'île de Guam, notre dernière base opérationnelle dans la region.
+Briefing=
+Briefing=Objectif principal:
+Briefing=Couler les sous-marins ennemis
+Briefing=
+Briefing=Objectif secondaire:
+Briefing=Eviter les dommages collatéraux

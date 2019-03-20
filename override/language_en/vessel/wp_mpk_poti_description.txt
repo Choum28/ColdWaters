@@ -1,0 +1,7 @@
+﻿[Unit Reference]
+ShipClass=Poti
+Description=Corvette anti-sous-marine classe Poti
+//DefensiveWeapons=AK275 57mm AA Guns
+OffensiveWeapons=RBU-6000 anti-SM Rockets
+Aircraft=Aucun
+History=Ces navires sont des prédécesseurs de la classe Grisha plus familière. Ils ont été parmi les premiers à disposer d'un système de propulsion combiné à turbine à gaz / diesel (COGOG) et étaient équipés du sonar et des armes les plus récents. Ils sont réputés pour être de bons bateaux de mer et bien qu'ils soient limités en termes de capteurs, cependant la portée de plus de 6000 mètres de leurs fusées anti-sous-marins en fait des adversaires dangereux pour tous les sous-marins capturés à la profondeur des périscopes.

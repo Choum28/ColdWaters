@@ -1,0 +1,7 @@
+﻿[Unit Reference]
+ShipClass=Jianghu3
+Description=Frégate classe Jianghu 3
+DefensiveWeapons=37mm AA Guns
+OffensiveWeapons=Type 81 anti-SM Rockets
+Aircraft=Aucun
+History=Cette classe est un développement de l'ancien Jianghu, mais plus clairement sur des modèles européens contemporains, avec des cabines étanches, la climatisation centrale, la protection NBC et des systèmes de combat intégrés utilisant l'électronique à semi-conducteurs. La conception comporte quatre lance-missile anti-navire YJ-8, ainsi qu'un sonar d'étrave amélioré qui permet au navire d'engager des sous-marins en utilisant une batterie de mortier anti-SM améliorée.

@@ -1,0 +1,7 @@
+﻿[Unit Reference]
+ShipClass=Kara
+Description=Frégate anti-sous-marine classe Kara
+DefensiveWeapons=SA-N-3 SAM\nSA-N-4 SAM\nAK726 76mm DP Guns
+OffensiveWeapons=RBU-6000 anti-SM Rockets\nRBU-1000 anti-SM Rockets
+Aircraft=1 Ka-25 Hormone anti-SM helicopter
+History=Cette classe est un dérivé élargi et amélioré du design de Kresta II. Les turbines à gaz ont remplacé les anciennes centrales à vapeur, et les navires ont des espaces de commandement et de contrôle plus étendus. L'ajustement des armes anti-SM est identique à celui de la Kresta II, mais les capacités AA ont été améliorées avec l'ajout de lanceurs SA-N-4 au milieu du navire. La plus grande taille de la coque a également permis d'équiper ces navires avec le sonar d'arc de Bull Nose aussi bien que le sonar variable de queue de Mare Tail également trouvé sur les Krivaks.

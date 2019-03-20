@@ -1,0 +1,187 @@
+ImageBackground=campaign/images/nato submarine 2
+ImagePosition=15,-825
+ImageHeight=260
+Image=help_images/helm_panel.png
+ImagePosition=15,-2200
+ImageHeight=260
+Image=help_images/dive_panel.png
+ImagePosition=15,-3600
+ImageHeight=260
+Image=help_images/navigation_status.png
+[/Image]
+<size=24><color=maroon><b>NAVIGATION</b></color></size>
+
+<b>CONTRÔLE DE VOTRE SOUS-MARIN</b>
+Les sous-marins se comportent comme des avions sous-marins lents, et ils sont contrôlés principalement avec des forces dynamiques, en utilisant le gouvernail et les barres de plongée. Il y a aussi un contrôle d'inclinaison (assiette) et un système de navigation stationnaire pour les manœuvres à basse vitesse.
+Dans Cold Waters, vous pouvez contrôler votre sous-marin de la manière traditionnelle en ordonnant à votre timonier ou officier de plongée d'adopter le cap ou la profondeur désirée, mais vous pouvez également prendre le contrôle direct du sous-marin, ce qui ressemble alors beaucoup à une "simulation de vol" sous l'eau.
+
+<b>DONNÉES LOCALES</b>
+Au-dessus de la mini-carte se trouve un panneau de données contenant 3 colonnes de données (de gauche à droite).
+1) Données de notre bateau
+2) Données de contact
+3) Données d'arme (torpille sur un fil)
+
+La première colonne affiche vos propres données de navigation:
+<b>CAP</b> Cap actuel
+<b>VIT</b> Vitesse
+<b>PRF</b> Profondeur
+<b>BAR</b> Barre de direction
+<b>ASS</b> Assiette
+<b>BAL</b> Ballast
+
+Au fur et à mesure que vous ajustez le gouvernail, les barres de plongée et le ballast de votre sous-marin, leurs réglages actuels seront affichés, ainsi que votre cap actuel, votre vitesse et votre profondeur.
+
+<b>PANNEAU DE CONTRÔLE DU SOUS-MARIN</b>
+Au-dessus du panneau de données se trouve trois onglets qui donnent accès à diverses parties de l'interface de contrôle. De haut en bas:
+Mâts
+Contrôle immersion
+Barre
+Cliquez sur l'un ou l'autre pour ouvrir le panneau correspondant. Cliquez sur le bouton triangulaire dans le coin pour le masquer.
+
+<size=24><color=maroon><b>VITESSE</b></color></size>
+Utilisez <KEY:Increase Power> et <KEY:Decrease Power> pour régler la vitesse.
+La vitesse de votre sous-marin peut être ajustée dans les incréments suivants:
+- En arrière d'urgence
+- Stopper les machines
+- En avant 1/3
+- En avant 2/3
+- En avant Normal
+- En avant toute
+- En avant à flanc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Le panneau de commande de barre offre deux manières supplémentaires de contrôler la vitesse:
+Le télégraphe ou transmetteur d'ordres, qui reflète directement la fonctionnalité des raccourcis clavier.
+Vitesse à la demande, qui vous permet de spécifier la vitesse précise que vous voulez. Cela vous permet d'optimiser votre vitesse pour aller aussi vite que possible sans caviter à une profondeur donnée.
+
+Les changements de vitesse nécessitent un certain temps pour prendre effet, l'accélération de la vitesse stationnaire à la vitesse à flanc peut prendre plusieurs minutes. Voyager à la vitesse à flanc et couper votre vitesse à Stopper les Machines permettra à votre sous-marin de naviguer sur une assez longue distance. Lorsque vous voyagez rapidement et que vous réglez la vitesse sur En arrière d'urgence, votre sous-marin décélère rapidement. Vous pouvez utiliser le roulis à votre avantage dans les tactiques de sprint et de dérive en glissant silencieusement à travers les thermoclines pour mieux écouter sans alerter les ennemis proches.
+
+<b>CAVITATION</b>
+La cavitation est la formation de bulles par une hélice à rotation rapide. Ces bulles produisent des quantités importantes de bruit qui peuvent donner votre position. À des profondeurs plus profondes, une pression d'eau plus élevée diminue cet effet, vous permettant d'aller plus vite sans caviter. Notez que la cavitation est basée sur la vitesse du moteur, et non sur la vitesse de votre sous-marin, de sorte que la réduction rapide de votre vitesse peut arrêter la cavitation peu de temps après le début.
+
+Votre opérateur de sonar vous avertira par la voix et le journal des messages si vous creusez et une icône d'état de cavitation apparaîtra dans le coin supérieur droit.
+
+<b>BRUIT DU COURANT</b>
+Une vitesse plus élevée augmente la quantité de bruit généré par votre sous-marin, en raison de la machinerie et de l'écoulement de l'eau autour de la coque. Ce flux d'eau, appelé bruit d'écoulement, peut grandement interférer avec la sensibilité du sonar, finissant par le noyer à des vitesses plus élevées, entraînant la perte de faibles contacts. Les réseaux remorqués sont extrêmement sensibles au bruit d'écoulement et sont noyés à environ 10 nœuds.
+
+Comme le bruit de flux diminue le rapport signal / bruit lors de l'écoute de contacts, il rend l'analyse de signature plus difficile. Le bruit de flux augmente également la capacité du sonar ennemi à détecter votre sous-marin.
+
+La capacité à équilibrer la position, maintenir un contact clair avec l'ennemi et gérer la cavitation sans être détecté par le sonar ennemi fera de vous un commandant de sous-marin qui réussira.
+
+<b>EFFETS DES AVARIES</b>
+En cas de dommage à la propulsion de votre sous-marin, la vitesse est limitée à "Ahead 2/3". Si le réacteur de votre sous-marin est endommagé, la vitesse est limitée à "Tout arrêter". Une fois ces systèmes réparés, la vitesse maximale est rétablie sur Flank.
+
+
+<size=24><color=maroon><b>CHANGEMENTS DE CAP</b></color></size>
+Utilisez <KEY:Rudder Left> et <KEY:Rudder Right> pour diriger votre bateau.
+La barre est réglée par incréments de 5 degrés jusqu'à un minimum de -30 degrés (gauche) et un maximum de +30 degrés (droite).
+Le réglage actuel du gouvernail est indiqué dans le panneau inférieur gauche.
+
+Vous pouvez également tracer un cap désiré sur la carte tactique en utilisant la touche <KEY:Set Course> ou en appuyant sur le bouton de tracé du tracé sur le panneau de la barre.
+Votre taux de virage s'améliorera au fur et à mesure que vous progresserez, mais le fait de tourner induit une traînée qui ralentit le sous-marin, ce qui signifie que pendant les virages prolongés, les performances de virage se détérioreront. Ceci est important à retenir lorsque vous essayez d'esquiver des torpilles, qui sont beaucoup moins sujettes à la traînée induite que votre sous-marin.
+<b>EFFETS DES DOMMAGES</b>
+Les dégâts infligés au gouvernail de votre sous-marin augmentent considérablement le rayon de votre virage jusqu'à ce qu'il soit réparé.
+
+
+<size=24><color=maroon><b>CONTRÔLE DE L'IMMERSION</b></color></size>
+Barres de plongée: Utilisez <KEY:Planes Down> et <KEY:Planes Up> pour changer la profondeur en utilisant les barres de plongée.
+Les barres sont réglées par incréments de 5 degrés jusqu'à un minimum de -30 degrés (bas) et un maximum de 30 degrés (haut) et nécessitent un mouvement vers l'avant pour fonctionner.
+
+Ballast: Utilisez <KEY:Ballast Down> et <KEY:Ballast Up> pour changer la profondeur en utilisant le ballast.
+Le ballast est réglé par incréments de 5 unités jusqu'à un minimum de -30 (bas) et un maximum de +30 (haut) et ne nécessite aucun mouvement vers l'avant pour fonctionner.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vous pouvez également définir la profondeur souhaitée par incréments de 50 pieds à l'aide du panneau de plongée. Le panneau de plongée comporte également des boutons pour:
+Profondeur périscopique: L'utilisation de <KEY:Periscope Depth> ordonne à votre sous-marin d'atteindre la profondeur du périscope.
+Plongée en urgence: En mode <KEY:Emergency Deep>, le sous-marin passe en vitesse en avant à flanc et les barres à plonger. Utile si vous êtes pris en embuscade près de la surface. N'oubliez pas de sortir de la plongée sous peine de subir les effets désastreux de l'implosion en profondeur.
+Surface d'urgence: Utilisez <KEY:Blow Ballast> pour purger immédiatement les ballasts, ce qui place le ballast à +60 et empêche d'autres changements au ballast jusqu'à ce que votre sous-marin ait refait surface. Une fois en surface, l'air comprimé doit être réapprovisionné avant de pouvoir plonger à nouveau. La valeur du ballast revient lentement à 0 et une fois atteinte, vous pourrez à nouveau plonger votre sous-marin.
+
+<b>PROFONDEURS DE TEST ET D'IMPLOSION</b>
+Les coques des sous-marins sont construites pour résister à l'immense pression de l'eau aux profondeurs qu'elles exploitent. Pour chaque 10 mètres de profondeur, près de 1 atmosphère de pression est ajoutée.
+
+La profondeur d'essai est la profondeur sécuritaire à laquelle un sous-marin peut fonctionner; lors des essais en mer, il a été effectivement atteint. La profondeur d'écrasement est la profondeur réelle qui fait que la coque est structurellement défaillante et implosée, en moyenne environ 1,5 à 1,75 fois celle de la profondeur d'essai.
+
+Au fur et à mesure que vous changez de profondeur, l'homme de barre vous notifiera via le journal des messages lorsque vous franchirez des incréments de 100 pieds. Si vous êtes en dessous de la profondeur de test, les incréments plus profonds de 100 pieds seront affichés en rouge.
+
+<b>EFFETS DES DOMMAGES</b>
+Les dommages subis par les barres ou les ballasts de votre sous-marin diminuent leur efficacité de 50%, ce qui rend le surfaçage et la plongée significativement plus lents et moins efficaces. Les dommages subis par le ballast de votre sous-marin empêchent également l'utilisation du système d'urgence, ce qui fait du système de ballast une priorité absolue pour une réparation aussi rapide que possible. Ces effets sont supprimés une fois le système réparé.
+
+Lorsqu'un sous-marin subit des dommages, l'intégrité de la coque diminue, ce qui a un impact sur sa capacité à résister à la pression de l'eau. Une coque fortement endommagée peut avoir une profondeur d'écrasement réduite de 50%, l'amenant à imploser à des profondeurs plus faibles et plus sûres. La perte d'intégrité de la coque ne peut pas être réparée en mer.
+
+La perte d'intégrité de la coque peut également entraîner une inondation. La gravité de l'inondation augmente avec la profondeur, due une fois de plus à l'augmentation de la pression de l'eau.
+Voir la section des dommages de plus de détails.
+
+
+<size=24><color=maroon><b>BARRE À ZÉRO</b></color></size>
+Utilisez <KEY:Level Submarine> pour remettre la barre de direction, les barres de plongée et le ballast (si pas en Surface d'urgence) immédiatement à 0.
+
+
+<size=24><color=maroon><b>COLLISIONS</b></color></size>
+Heurter de la glace ou toucher le fond avec votre sous-marin entraîne immédiatement une perte rapide de vitesse. La vitesse à laquelle la collision se produit détermine combien de dommages (le cas échéant) peuvent être encourus. Voyager à moins de 5 noeuds n'entraîne généralement pas ou peu de dommages, tandis que des vitesses élevées peuvent paralyser ou détruire votre sous-marin en raison de dommages importants à la coque, de voies d'eau et de sous-systèmes hors d'usage.
+
+Lorsque vous naviguerez dans des eaux peu profondes ou près du fond de la mer, votre timonier vous avisera s'il y a moins de 50 pieds d'eau sous votre quille. De plus, un sonar de navigation haute fréquence détectera la présence de glace ou de mines à moins de 4 000 mètres devant votre sous-marin. La compression de l'heure sera désactivée et les icônes d'état apparaîtront dans le coin supérieur droit pour vous avertir de tout risque de navigation en cours.
+
+Toute collision désactivera immédiatement la compression temporelle, si elle est activée, et la compression temporelle ne pourra pas être réactivée jusqu'à ce que votre sous-marin soit à l'abri du danger. En outre, la marche arrière peut être utilisée pour éloigner votre sous-marin de la glace ou du fond de la mer si votre sous-marin devient stationnaire pendant une collision. Le ballast peut également être utilisé pour «remonter» du fond de la mer après une collision.
+
+
+<size=24><color=maroon><b>ICÔNES DE NAVIGATION</b></color></size>
+Lorsque vous naviguez dans votre sous-marin, les icônes d'état suivantes s'affichent en haut à droite dans certaines conditions pour vous avertir des dangers de la navigation ou vous avertir de certaines conditions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<b>DESCRIPTION DES ICÔNES DE NAVIGATION</b>
+<b>Compression temporelle:</b> La compression temporelle peut être activée et désactivée avec <KEY:Compression temporelle> pour accélérer le jeu lorsque vous traversez de plus longues distances. Lorsqu'elle est activée, cette icône d'état est affichée. La compression temporelle sera automatiquement annulée chaque fois qu'un risque de navigation est rencontré ou si votre sous-marin subit des dégâts.
+
+<b>Caméra événementielle</b> Si activée, la caméra d'événements se concentre automatiquement sur les événements d'intérêt tels que les lancements d'armes et les impacts, les largages aériens ou les tirs d'artillerie anti-missiles. Utilisez <KEY:Event Camera> pour activer ou désactiver la caméra d'événements.
+
+<b>Cavitation:</b> Votre sous-marin est en train de caviter, ce qui fait que l'hélice fait du bruit supplémentaire. Diminuez la vitesse ou plongez plus profondément pour éviter la cavitation.
+
+<b>Situation Super Silence:</b> Apparaît lorsque votre sous-marin est configuré pour un fonctionnement silencieux. La course silencieuse diminue le bruit fait par votre sous-marin, mais diminue également votre vitesse maximum permise et arrête toutes les réparations, le pompage de l'eau et le rechargement des armes. La course silencieuse est activée et désactivée en utilisant <KEY:Silent Running>. De même,l'augmentation de la vitesse, l'assignation d'actions de contrôle des dégâts ou le chargement d'une arme annuleront le fonctionnement silencieux.
+
+<b>Profondeur superficielle:</b> S'affiche lorsque la profondeur sous la quille de votre sous-marin est inférieure à 50 pieds.
+
+<b>Danger glace:</b> Un sondeur de glace à haute fréquence a détecté de la glace devant votre sous-marin. Le sonar de navigation est limité à environ 4000 mètres et ne peut détecter des dangers immédiatement devant votre sous-marin. Une fois détectées, les positions de la glace seront cartographiées sur votre affichage de carte tactique.
+
+<b>Danger mines:</b> Le sonar d'évitement de mines à haute fréquence a détecté des mines devant votre sous-marin. Ce sonar est limité à environ 4000 mètres et ne peut détecter les dangers immédiatement devant votre sous-marin. Une fois détectées, les mines seront cartographiées sur votre affichage de carte tactique.

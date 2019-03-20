@@ -1,0 +1,4 @@
+﻿[Weapon Reference]
+WeaponName=ADCAP
+WeaponDescriptiveName=Torpille Mark 48 ADCAP
+WeaponDescription=La Mark 48 ADCAP est une amélioration de la Mk48 offrant une vitesse accrue et une meilleure électronique, ce qui lui permet d'engager efficacement des sous-marins ennemis plus rapides et plus profonds comme l'Alfa.

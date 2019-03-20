@@ -1,0 +1,7 @@
+Image=campaign/images/plan wolfpack 3
+MissionLocation=Au large des îles Paracel
+Briefing=7 AUG 2000
+Briefing=Les forces navales US effectuent des manoeuvres de provocation dans la zone d'exclusion autour des îles Paracel. Vous avez les mains libres pour engager tout navire US sur zone, sans sommation.
+Briefing=
+Briefing=Objectif principal:
+Briefing=Coulez les navires ennemis

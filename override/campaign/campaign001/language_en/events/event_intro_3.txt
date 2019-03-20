@@ -1,0 +1,16 @@
+﻿
+NextAction=event_intro_4
+Image=campaign/images/securing forces
+Photo=campaign/images/photos/infantry pact 4,campaign/images/photos/infantry pact 5,campaign/images/photos/air pact helicopters 1
+Music=audio/music/Cold Waters Campaign Victory
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>Provoquer l'ours<n>- Est-ce que Reagan va trop loin ?</b>
+Color=57,61,73,255
+Sentence1=OPINION - Avec l'annonce récente de l'Initiative de défense stratégique (IDS), plusieurs analystes politiques et de sécurité indépendants expriment de plus en plus leur crainte que l'administration Reagan ne mette trop de pression sur les Soviétiques.
+Color=218,218,208,255
+Sentence2=Les tensions entre l'Union soviétique et les États-Unis ne cessent d'augmenter. Les dépenses militaires accrues des États-Unis, suivies de la dénonciation par le président Reagan de l'Union soviétique comme «empire du mal», soulèvent la question de la réaction du Kremlin.

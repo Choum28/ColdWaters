@@ -1,0 +1,9 @@
+﻿[Unit Reference]
+ShipClass=Narwhal
+Description=SNA de classe Narwhal
+History=Ce SM est issu d'un concept unique destiné à tirer parti de la pompe-hélice à circulation naturelle très silencieuse S5G. Cela en a fait l'un des bateaux les plus silencieux jusqu'à l'apparition du SSL-21 Seawolf au milieu des années 90. L'équipement sonar et le contrôle de tir sont les mêmes que ceux de la classe Sturgeon.
+
+[Player Ship Instances]
+PlayerClassNames=Narwhal
+
+PlayerClassHullNumbers=SSN-671

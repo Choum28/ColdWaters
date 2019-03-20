@@ -1,0 +1,7 @@
+﻿[Unit Reference]
+ShipClass=Jianghu
+Description=Frégate classe Jianghu
+DefensiveWeapons=37mm AA Guns
+OffensiveWeapons=RBU-1200 anti-SM Rockets
+Aircraft=Aucun
+History=La conception de Jianghu est une version agrandie de la frégate Riga / Chengdu, comportant un moteur diesel à la place de l'usine à vapeur originale pour une meilleure endurance. Leur armement de canons est plus puissant, et la longueur accrue permet un lanceur SSM à double tube supplémentaire. Comme le Chengdu, cependant, leur capacité anti-SM est au mieux discutable, avec seulement des composants électroniques rudimentaires et des fusées anti-SM à courte portée.

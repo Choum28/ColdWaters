@@ -1,0 +1,4 @@
+﻿[Weapon Reference]
+WeaponName=MK37
+WeaponDescriptiveName=Torpille Mark 37
+WeaponDescription=La Mk37 était le torpille anti-SM lancée par les sous-marins américains standard jusqu'à ce que le Mk48 le remplace. Ces armes sont assez lentes pour que la plupart des SSN les dépassent. Ainsi, un soin extraordinaire doit être pris lors de la mise en place d'une attaque avec ces armes. Cette vitesse lente les rend tout aussi inefficaces contre les navires de surface, et la probabilité d'impact est faible contre tout autre sous-marin que les diesel-électriques conventionnels lents.

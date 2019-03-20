@@ -1,0 +1,14 @@
+﻿
+NextAction=END
+Image=campaign/images/pact tanks,campaign/images/pact port takeover 1,campaign/images/pact port takeover 2,campaign/images/pact ruined city,campaign/images/nato victory 1
+Photo=campaign/images/photos/protests 1,campaign/images/photos/protests 2
+Music=audio/music/Cold Waters Campaign Victory
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>EFFONDREMENT DE L'URSS</b>|<b>LA GUERRE DEVIENT CIVILE</b>
+Sentence1=La guerre avec l'Occident s'est brutalement arrêtée au moment où l'Union soviétique se fracture, certaines régions tombant même en guerre civile. Les forces de l'OTAN ont rapidement réagi, regagnant le terrain perdu jusqu'aux frontières d'avant la guerre. Des tentatives sont faites pour contenir la situation instable et aider les civils à sortir de l'ex-Union soviétique.
+Sentence2=Cette fin inattendue du conflit est un choc pour les analystes, qui admettent que le «pouvoir du peuple» a été grossièrement négligé. Bien qu'affaiblie sur le plan économique et avec la rupture de ses États satellites, la Russie demeure une formidable puissance militaire. Mais pour l'instant, la guerre froide est terminée.

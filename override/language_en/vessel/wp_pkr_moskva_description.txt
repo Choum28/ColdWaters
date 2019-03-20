@@ -1,0 +1,7 @@
+﻿[Unit Reference]
+ShipClass=Moskva
+Description=Croiseur anti-sous-marins classe Moskva
+DefensiveWeapons=SA-N-3 SAM\nAK570 57mm AA Guns
+OffensiveWeapons=SUW-N-1 Launcher\nRBU-6000 anti-SM Rockets
+Aircraft=18 Ka-25 Hormone anti-SM helicopter
+History=Les deux navires de la classe Moskva ont été conçus pour chasser les sous-marins américains de missiles Polaris en haute mer, en utilisant leur large éventail d'hélicoptères et de charges de profondeur nucléaires pour cette tâche. Bien que ce concept ait échoué, principalement en raison de l'introduction du missile Poséidon à longue portée dans le service américain, leurs hélicoptères les rendent encore utiles en tant que multiplicateur de force pour les opérations anti-SM. Cependant, ils ne disposent pas d'une arme anti-SM non nucléaire et ne peuvent utiliser que leurs propres RBU contre des sous-marins, ce qui les rend dépendants d'autres unités telles que Kresta ou Kara BPK pour réaliser leur potentiel. Ce sont de pauvres bateaux de mer et ils opèrent généralement en Méditerranée, mais dans un conflit dans le théâtre norvégien, il n'est pas improbable qu'ils soient transférés pour rejoindre la Flotte du Nord.

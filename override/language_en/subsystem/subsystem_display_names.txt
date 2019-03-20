@@ -1,0 +1,14 @@
+﻿[Subsystem Display Names]
+Sonar d'étrave
+Antenne linéaire
+Périscope
+Mât ESM
+Mât Radar
+Tubes
+Central
+Pompes
+Propulsion
+Barres direction
+Barres plongée
+Ballast
+Réacteur

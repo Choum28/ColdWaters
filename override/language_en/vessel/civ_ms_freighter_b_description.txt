@@ -1,0 +1,4 @@
+﻿[Unit Reference]
+ShipClass=Marchand
+Description=Grand cargo, modèle d'après-guerre
+History=Ce sont des navires à cale sèche typiques d'après-guerre. Les turbines à vapeur puissantes les rendent capables de vitesses plus rapides que leurs homologues de guerre. Ils ont une salle des machines traditionnelle avec des trappes à l'avant et à l'arrière.

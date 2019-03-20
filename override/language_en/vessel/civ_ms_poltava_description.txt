@@ -1,0 +1,4 @@
+﻿[Unit Reference]
+ShipClass=Poltava
+Description=Grand cargo classe Poltava
+History=Navires généraux de grande tonnage typiques, 21 navires de cette classe ont été achevés entre 1962-74 pour la marine marchande soviétique. Conçus à l'origine pour le commerce du bois d'œuvre, ces navires ont été utilisés comme briseurs de blocus pendant la crise des missiles, et ils sont bien équipés pour transporter des cargaisons militaires telles que des munitions et des véhicules. Il est donc naturel de supposer qu'ils seront utilisés en temps de guerre comme transport de ravitaillement pendant un conflit en mer de Norvège.

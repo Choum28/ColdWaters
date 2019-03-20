@@ -1,0 +1,4 @@
+[Unit Reference]
+AircraftName=SH-2F Seasprite
+AircraftDescriptiveName=Kaman SH-2F Seasprite
+History=Le Seasprite a été conçu à l'origine comme un hélicoptère utilitaire maritime comme le Huey, mais comme l'échec du programme de drones DASH a laissé des escortes américaines sans capacité antisubmarine à longue portée, le Seasprite a été reconverti dans le LAMPS (Light Airborne Multipurpose System). ce qui améliore considérablement la capacité ASW, en utilisant la vaste gamme de sonars embarqués SQS-26.

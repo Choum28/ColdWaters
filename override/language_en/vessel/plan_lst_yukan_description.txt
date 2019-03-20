@@ -1,0 +1,7 @@
+﻿[Unit Reference]
+ShipClass=Yukan
+Description=Navire de débarquement classe Yukan
+DefensiveWeapons=57mm AA Guns, 25mm AA Guns
+OffensiveWeapons=
+Aircraft=Aucun
+History=Ce sont de grands navires de débarquement construits pour remplacer les LST vieillissants de la Seconde Guerre mondiale, exploités auparavant par la PLAN. Un pont continu avec des portes à étrave et un faible tirant d'eau permet à ces navires de livrer des chars et des troupes directement sur la plage pendant les opérations de débarquement. Avec seulement des armes anti-aériennes rudimentaires, ces vaisseaux dépendent entièrement de leurs escortes pour se protéger.

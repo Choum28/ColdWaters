@@ -1,0 +1,7 @@
+﻿[Unit Reference]
+ShipClass=Kashin
+Description=Frégate anti-sous-marine classe Kashin
+DefensiveWeapons=SA-N-1 SAM
+OffensiveWeapons=AK762 76.2mm DP Guns\n533mm anti-SM Torpedoes\nRBU-6000 anti-SM Rockets\nRBU-1000 anti-SM Rockets
+Aircraft=Landing pad for anti-SM helicopter
+History=À son introduction en 1962, le Kashin était la première classe de navire de guerre du monde entièrement actionnée par la commande de turbine à gaz. Le navire a la disposition classique d'armement à double extrémité typique des navires soviétiques de la période, avec l'armement anti-sous-marin comprenant des torpilles guidées et des fusées anti-sous-marines. Avancé pour leur époque, dans les années 1980, ces navires désormais obsolètes font des navires «bas» dans un groupe naval en utilisant un mélange «haut-bas».

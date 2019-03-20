@@ -1,0 +1,21 @@
+﻿[ORDERS]
+1. (S) SITUATION TACTIQUE:
+UNE MEUTE DE SOUS-MARINS D'ATTAQUE ENNEMIS EST DE RETOUR APRES AVOIR EFFECTUE UNE OPERATION EFFICACE CONTRE L'EXPEDITION DE L'OTAN DANS LES ROUTES DE CONVOI DE L'ATLANTIQUE NORD ET ENVISAGE MAINTENANT DE TRANSITER DANS LA REGION DE GIUK VERS LEUR PORT D'ATTACHE OU ILS PRÉPARERONT DE NOUVELLES OPÉRATIONS. VOUS DEVEZ LES ATTAQUER ET LES COULER AVANT QU'ILS PUISSENT AVOIR UNE CHANCE DE SE REARMER.
+
+2. (S) OBJECTIF PRINCIPAL
+LOCALISER ET COULER LES SOUS-MARINS D'ATTAQUE ENNEMIS
+
+3. (S) OBJECTIF SECONDAIRE:
+AUCUN
+
+4. (S) ÉVITER LA DÉTECTION PAR DES PATROUILLES ENNEMIES
+
+5. (S) RE: ALERTE MAXIMALE, UTILISER TOUTES ARMES UTILES SUR LES CIBLES DÉSIGNÉES
+
+6. (S) EMCON - MAINTENIR LE SILENCE RADIO JUSQU'A NOUVEL ORDRE
+[MISSION WIN]
+COMSUBLANT était très heureux d'entendre parler de votre récent succès, Commandant. Les Soviétiques devraient être conscients que l'Atlantique nous appartient et que toute tentative d'y opérer sera traitée avec force. L'excellent travail de vous et de votre équipe est ce qui fait passer ce message! Bien joué.
+[MISSION FAIL]
+Commandant, l'incapacité de faire face à la menace sous-marine ennemie avec détermination rendra la vie sur l'Atlantique beaucoup plus difficile pour nos collègues. Sans compter sur un ennemi encore beaucoup plus dangereux pour nous. Nous devons intensifier nos efforts.
+[MISSION MISSED]
+Poursuite de la recherche de l'ennemi jugée improductive jusqu'à présent.

@@ -1,0 +1,4 @@
+﻿[Unit Reference]
+ShipClass=Chilikin
+Description=Pétrolier classe Boris Chilikin
+History=Les six navires de cette catégorie, achevés entre 1967 et 1978, sont de grands navires modernes de réapprovisionnement / ravitaillement comparables à des navires similaires dans le service occidental. La classe est équipée de grands poteaux pour le ravitaillement en carburant de deux navires à la fois de chaque côté ou en arrière, et le kingpost avant a une station de tension constante pour le transfert des fournitures. La capacité de chargement est de 13 500 tonnes de carburant et d'eau douce, 400 tonnes de munitions et 800 tonnes de provisions et provisions.

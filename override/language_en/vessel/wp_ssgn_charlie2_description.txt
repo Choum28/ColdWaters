@@ -1,0 +1,4 @@
+﻿[Unit Reference]
+ShipClass=Charlie II
+Description=Sous-marin nucléaire lance-missiles classe Charlie II
+History=Les Charlie II se distinguent du Charlie I principalement en adoptant le missile SS-N-9 Siren à la place du SS-N-7 Starbright à pattes courtes, ce qui a nécessité l'allongement du sous-marin. Ils sont également équipés d'une hélice tandem un peu plus silencieuse et ont la capacité de tirer des missiles SS-N-15 de leurs tubes lance-torpilles, ce qui en fait des adversaires plus redoutables.

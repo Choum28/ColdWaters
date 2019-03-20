@@ -1,0 +1,4 @@
+﻿[Unit Reference]
+ShipClass=Juliet
+Description=Sous-marin lance-missiles classe Juliet
+History=Ces bateaux, construits dans les années 1960, sont des bateaux de missiles de croisière soviétiques de première génération, conçus comme des équivalents diesel-électriques moins chers des SSGN de la classe Echo. Comme les Echos, ce sont des bateaux très bruyants, même selon les normes diesel-électriques. Ils doivent également rester à la surface pour cibler, lancer et guider leurs missiles SS-N-3, au cours desquels ils sont extrêmement vulnérables à l'anti-SM de l'OTAN. Avec l'avènement des missiles à lancement submergé dans les classes Charlie et Oscar, ces bateaux obsolètes sont probablement conservés comme un moyen de harceler les convois marchands de l'OTAN.

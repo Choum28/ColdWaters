@@ -1,0 +1,7 @@
+Image=campaign/images/pact wolfpack 5
+MissionLocation=Près des îles Féroé
+Briefing=15 MAR 1984
+Briefing=Lors d'une patrouille de routine, vous détectez une meute de SM diesel-électriques essayant de s'infiltrer dans les zones d'approche ouest.
+Briefing=
+Briefing=Objectif principal:
+Briefing=Combattez les sous-marins ennemis et assurez-vous qu'ils ne s'échappent pas.

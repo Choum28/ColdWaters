@@ -1,0 +1,6 @@
+﻿[Unit Reference]
+ShipClass=Kresta II
+Description=Frégate anti-sous-marine classe Kresta II
+DefensiveWeapons=SA-N-3 SAM\nAK-570 57mm AA Guns
+Aircraft=1 Ka-25 Hormone anti-SM helicopter
+History=Cette classe de croiseurs de missiles guidés est une modification des croiseurs de lance-missile Kresta I-class, redessinés pour se spécialiser dans anti-SM, bien qu'ils conservent encore une capacité anti-aérienne efficace de zone-défense aussi bien. Bien qu'ils manquent d'équipement VDS, leur capacité à utiliser l'hélicoptère KA-25 à bord comme désignateur de cible pour leur batterie de missiles SS-N-14 en fait des adversaires dangereux.

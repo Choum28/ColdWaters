@@ -1,0 +1,7 @@
+﻿[Unit Reference]
+ShipClass=Luda
+Description=Frégate classe Luda
+DefensiveWeapons=37mm AA Guns, 25mm AA Guns
+OffensiveWeapons=EDS-25 anti-SM Rockets
+Aircraft=Aucun
+History=Les Ludas sont les premiers navires de guerre de surface conçus et construits en Chine, et ressemblent à un dérivé amélioré et agrandi du destroyer soviétique de la classe Kotlin construit dans les années 1950. Ils diffèrent des navires soviétiques en étant conçus avec des missiles de croisière antinavires dès le départ au lieu de torpilles. Ils ont été largement améliorés au fil des années, avec un meilleur silencieux et des sonars numériques modernes et un sonar à profondeur variable.

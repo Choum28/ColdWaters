@@ -1,0 +1,10 @@
+Image=campaign/images/pact wolfpack 2
+MissionLocation=Zone GIUK
+Briefing=12 JUN 1984
+Briefing=Un grand SM lance-engins de classe Oscar essaie de s'infiltrer à travers la barrière de navires anti sous-marins de l'OTAN et de s'échapper vers les routes de convois de l'Atlantique nord. Il est probablement accompagné d'une escorte de SM d'attaque, la chasse risque donc d'être intense.
+Briefing=
+Briefing=Objectif principal:
+Briefing=Localisez et coulez l'Oscar
+Briefing=
+Briefing=Objectif secondaire:
+Briefing=Localisez et coulez tout SM d'escorte, si possible

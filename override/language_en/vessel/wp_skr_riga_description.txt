@@ -1,0 +1,7 @@
+﻿[Unit Reference]
+ShipClass=Riga
+Description=Patrouilleur classe Riga
+DefensiveWeapons=37mm AA Guns
+OffensiveWeapons=RBU-2500 anti-SM Rockets
+Aircraft=Aucun
+History=Cette classe a été construite dans les années 1950 comme un plus petit compagnon des destroyers de la classe Kotlin. Ils disposent d'un armement de canon relativement lourd, mais étaient technologiquement obsolètes dès la première mise en service. Au cours des années, ils ont été modernisés avec des fusées électroniques et anti-sous-marines un peu meilleures, mais ils restent des navires de seconde classe. Ils ont de très petits bunkers de carburant et seront principalement utilisés dans les zones côtières, ou comme escortes pour des groupes de surface opérant à proximité des eaux soviétiques.

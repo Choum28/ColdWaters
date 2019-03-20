@@ -1,0 +1,84 @@
+﻿[TRAINING 1] = 7
+<b>Sonar actif</b>
+Utilisez <KEY:Help> maintenant pour en savoir plus sur les capteurs.
+
+Une fois qu'un contact est détecté, utilisez <KEY:Sonar Mode> pour basculer sur votre Sonar actif et commencer à envoyer un ping. Si un contact n'est pas détecté, augmentez la vitesse à 5 noeuds et avancez jusqu'à ce que ce soit le cas.
+
+La solution cible pour ce contact augmente plus rapidement en raison de la portée précise du sonar actif tant que le contact est à portée. Cependant le sonar actif est très bruyant et peut révéler votre position.
+
+Utilisez à nouveau <KEY:Sonar Mode> pour désactiver votre Sonar actif.
+[/TRAINING 1]
+
+[TRAINING 2]
+<b>Conditions</b>
+Utilisez <KEY:Conditions> ou <LEFTCLICK> l'onglet Conditions en bas à droite pour ouvrir le panneau des conditions.
+Utilisez <KEY:Help> maintenant pour en savoir plus sur l'acoustique et les conditions sous-marines afin de comprendre coomment elles affectent les performances du sonar.
+
+<b>Atteindre la profondeur du mât</b>
+Pour utiliser les mâts (les "aériens"), vous devrez faire surface à plus de 50 pieds.
+Utilisez <KEY:Ballast Up> pour régler votre ballast à 30 et commencer à monter (utilisez la compression du temps si vous le souhaitez).
+Veillez à ne pas faire surface ou l'ennemi vous repèrera!
+
+Lorsque vous atteignez environ 65 pieds de profondeur, utilisez <KEY:Level Submarine> pour arrêter votre remontée.
+
+Votre profondeur finale devrait être de 40-50 pieds. Sinon, utilisez <KEY:Ballast Up> et <KEY:Ballast Down> car vous ne pouvez pas utiliser les mâts si vous êtes trop profond.
+
+Comme vous avez fait surface, votre sous-marin a traversé la couche inférieure jusque dans la zone de surface, permettant la détection de contacts supplémentaires.
+[/TRAINING 2]
+
+[TRAINING 3]
+<b>Mât ESM</b>
+Utilisez <KEY:ESM Mast> pour hisser votre mât ESM, ou mât de radiodétection.
+Ce capteur passif détecte les signaux radar, fournissant une mesure de leur force et de leur portance (représenté par des lignes violettes sur la carte).
+
+Il n'y a pas de vaisseaux de guerre hostiles ou d'avions utilisant le radar de recherche dans ce tutoriel, cependant s'il y en avait, des indicateurs violets occasionnels des radars ennemis seraient affichés sur votre carte tactique. La force de ce signal est indiquée sur le compteur en haut à gauche.
+
+La détection d'un contact ESM fournit ainsi un petit coup de pouce à la solution cible.
+
+Utilisez <KEY:ESM Mast> pour affaler votre mât ESM.
+[/TRAINING 3]
+
+[TRAINING 4]
+<b>Périscope</b>
+Appuyez sur <KEY:Periscope> pour hisser votre périscope. Une fois levé et prêt à utiliser, une icône apparaît en haut à droite. Utilisez <KEY:Periscope View> pour entrer dans la vue périscope. La vue de périscope peut être affichée avec <RIGHTCLICK> et en faisant glisser ou en utilisant <KEY:Camera Left> et <KEY:Camera Right>.
+
+L'amélioration de la vision basse lumière peut être activée / désactivée avec <KEY:Night Vision>.
+Placer une cible en mode réticule et utiliser <KEY:Mark Target> permet de l'aligner au laser, ce qui fournit une amélioration massive de la solution cible et de la catégorisation de la cible.
+Regardez vers le nord et marquez une ou les deux cibles que vous trouvez.
+
+Le mât de périscope contient également un récepteur ESM qui détecte la force (mais pas la direction) des transmissions radar ennemies.
+Utilisez <KEY:Periscope> pour affaler votre périscope.
+[/TRAINING 4]
+
+[TRAINING 5]
+<b>Mât radar</b>
+Utilisez <KEY:RADAR Mast> pour hisser le mât radar.
+
+Le radar utilise les transmissions radio pour répartir avec précision les contacts et fournit une augmentation massive de la solution cible. Très rapidement, vous devriez voir que les solutions cibles pour tous les contacts sont considérablement augmentées.
+
+Cependant, les ondes radar se déplacent sur de longues distances et sont facilement détectées par l'ESM ennemi, il est donc préférable de ne pas l'utiliser si l'ESM a détecté des navires de guerre ou des avions ennemis à proximité.
+
+Utilisez <KEY:RADAR Mast> pour affaler le mât radar.
+[/TRAINING 5]
+
+[TRAINING 6]
+<b>Antenne linéaire</b>
+De nombreux sous-marins sont équipés d'une antenne linéaire, ou réseau sonar remorqué, qui fonctionne le mieux à environ 5 noeuds. Utilisez <KEY:Increase Power> pour régler votre vitesse sur En Avant 1/3.
+
+Utilisez <KEY:Signature> ou <LEFTCLICK> l'onglet Signature en bas à droite pour ouvrir le panneau des conditions.
+
+Lorsque votre vitesse atteint 5 noeuds, vous remarquerez que votre signal SONAR REMORQUE peut devenir plus fort que le signal PASSIF. C'est la sensibilité supplémentaire fournie par le réseau remorqué. Parcourez les contacts avec <KEY:Next Contact> pour voir les différences de détection entre vos différents types de capteurs.
+
+Notez que les réseaux remorqués ont un point aveugle étroit vers l'avant, tandis que le sonar monté sur la coque a un angle mort plus large à l'arrière, appelé "baffles" ou cône de silence, ce qui peut entraîner une force de signal à 0 pour les contacts situés devant votre sous-marin.
+
+Enfin, utilisez <KEY:Increase Power> pour augmenter la vitesse vers l'avant 2/3 et notez la réduction spectaculaire de la force du signal du réseau remorqué.
+[/TRAINING 6]
+
+[TRAINING 7]
+<b>Fin du combat</b>
+Pour quitter le combat, utilisez <KEY:Cancel or Quit> pour entrer dans le menu de mission et terminer la mission (le panneau est automatiquement masqué).
+
+Une fois dans le menu de mission <LEFTCLICK> <DICTIONARY:ExitMission> pour terminer cette mission et afficher le rapport après action.
+
+Lorsque vous avez fini d'afficher le rapport après action, <LEFTCLICK> <DICTIONARY:Continue> ou <KEY:Continue>.
+[/TRAINING 7]

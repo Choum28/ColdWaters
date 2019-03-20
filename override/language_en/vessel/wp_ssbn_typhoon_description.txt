@@ -1,0 +1,4 @@
+﻿[Unit Reference]
+ShipClass=Typhoon
+Description=SNLE classe Typhoon
+History=Ce sont les plus grands sous-marins jamais construits. Ils disposent d'une disposition innovante de coque de pression parallèle, et sont conçus pour fonctionner pendant des périodes prolongées sous la banquise arctique. Par rapport à la classe Delta, ils représentent une énorme amélioration de la capacité, avec une meilleure furtivité, une meilleure capacité de survie, plus d'armes et des missiles porteurs d'une plus grande précision.

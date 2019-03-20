@@ -1,0 +1,9 @@
+Image=campaign/images/nato submarine
+MissionLocation=Exercice de formation
+Briefing=Apprenez a vous deplacer et a manoeuvrer votre sous-marin.
+Briefing=
+Briefing=Points couverts:
+Briefing=- Ajuster la vitesse.
+Briefing=- Manier les barres de direction.
+Briefing=- Ajuster la profondeur avec les barres de plongee et les ballasts.
+Briefing=- Effectuer une remontee d'urgence.

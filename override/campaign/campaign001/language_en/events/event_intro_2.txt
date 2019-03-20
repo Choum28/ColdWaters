@@ -1,0 +1,17 @@
+﻿
+NextAction=event_intro_3
+Image=campaign/images/88 soviet factory
+Photo=campaign/images/photos/politics 4
+Music=audio/music/Cold Waters Campaign Victory
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>L'héritage de Brejnev - Stagnation et Paranoïa</b>
+Color=57,61,73,255
+Sentence1=ANALYSE - Il est sûr que la mort du secrétaire général Leonid Brejnev va provoquer un débat considérable derrière les murs du Kremlin. La dernière décennie a été marquée par la stagnation et la bureaucratisation accrue du colosse soviétique.
+Bien qu'une réforme soit nécessaire, la résistance interne est lourde. On craint que l'assouplissement de la politique intérieure envoie un signal de la république socialiste cédant au pouvoir du capitalisme.
+Color=218,218,208,255
+Sentence2=Une source diplomatique anonyme a été citée dans un article récent du Time: «Les provocations constantes de l'administration Reagan ont créé une inquiétude élevée et permanente concernant l'agression américaine au sein du Politburo: le président Reagan devrait y réfléchir, c'est dangereux.»

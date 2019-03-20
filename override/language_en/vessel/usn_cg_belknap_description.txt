@@ -1,0 +1,7 @@
+﻿[Unit Reference]
+ShipClass=Belknap
+Description=Croiseur lance-missiles de classe Belknap
+DefensiveWeapons=RIM-67B Standard SAM
+OffensiveWeapons=
+Aircraft=1 SH-2F Seasprite
+History=La classe Belknap est une classe de neuf croiseurs lance-missiles de l'United States Navy en service entre 1964 et 1995.

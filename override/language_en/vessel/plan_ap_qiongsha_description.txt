@@ -1,0 +1,4 @@
+﻿[Unit Reference]
+ShipClass=Qiongsha
+Description=Transport de troupes classe Qiongsha
+History=Il s'agit d'une classe de petits cargos côtiers destinés à transporter des troupes vers des garnisons chinoises dans toute la mer de Chine méridionale. Naviguant sous pavillon PLAN, ils transportent 350 tonnes de fret et environ 400 soldats. Ils ne sont pas de vrais navires de débarquement, ils sont incapables de livrer directement leurs troupes aux plages et doivent compter sur les installations portuaires conventionnelles pour décharger les marchandises.

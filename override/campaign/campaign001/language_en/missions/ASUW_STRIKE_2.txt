@@ -1,0 +1,21 @@
+﻿[ORDERS]
+1. (S) SITUATION TACTIQUE:
+NOS SERVICES DE RENSEIGNEMENT RAPPORTENT QU'UN GROUPE DE COMBAT AÉRONAVAL ENNEMI SE PRÉPARE À PARTIR DE <STARTLOCATION> POUR UNE PATROUILLE À PROXIMITÉ DE <COUNTRY>. UN GROUPE DE COMBAT AÉRONAVAL DE L'OTAN FOURNIT ACTUELLEMENT UNE COUVERTURE DANS LA RÉGION ET DOIT ÊTRE PROTÉGÉ. VOUS DEVEZ DONC INTERVENIR ET DÉTRUIRE CE GROUPE DE COMBAT, EN PARTICULIER LE PORTE-AVIONS. UNE ESCORTE ENNEMIE DE COMBATTANTS DE SURFACE ET / OU DE SOUS-MARINS D'ATTAQUE EST ATTENDUE.
+
+2. (S) OBJECTIF PRINCIPAL
+LOCALISER ET COULER LE PORTE-AVIONS ENNEMI
+
+3. (S) OBJECTIF SECONDAIRE:
+LOCALISER ET ENGAGER TOUT NAVIRE D'ESCORTE SI POSSIBLE
+
+4. (S) ÉVITER LA DÉTECTION PAR DES PATROUILLES ENNEMIES
+
+5. (S) RE: ALERTE MAXIMALE, UTILISER TOUTES ARMES UTILES SUR LES CIBLES DÉSIGNÉES
+
+6. (S) EMCON - MAINTENIR LE SILENCE RADIO JUSQU'A NOUVEL ORDRE
+[MISSION WIN]
+SACLANT // Mes félicitations personnelles au commandant <PLAYERNAME> et à son équipage pour avoir porté ce coup crucial aux forces navales ennemies. C'est un honneur de servir de commandant. Nous veillerons à ce que nous, l'équipage et tous, buvions quand <PLAYERVESSELNAME> arrivera sur la plage // SACLANT FIN
+[MISSION FAIL]
+Déçu d'apprendre que vous avez perdu cette opportunité contre une cible aussi hautement prioritaire. Le groupe de travail ennemi continuera sans aucun doute à constituer une menace majeure.
+[MISSION MISSED]
+Déçu d'entendre que la cible n'a pas été interceptée. Le groupe de travail ennemi continuera sans aucun doute à constituer une menace majeure.

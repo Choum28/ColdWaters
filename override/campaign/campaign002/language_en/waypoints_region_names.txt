@@ -1,0 +1,19 @@
+﻿
+Regions=Allemagne de l'Ouest,Danemark,Hollande,Belgique,Suède,Norvège,Islande
+Reykjavik and Keflavik=Islande
+Hofn=Islande
+Frankfurt and the Rhine-Main area=Allemagne de l'Ouest
+Bremen and Hamburg=Allemagne de l'Ouest
+North Rhine-Westphalia=Allemagne de l'Ouest
+Amsterdam=Hollande
+Brussels, Antwerp and Charleroi=Belgique
+Copenhagen=Danemark
+northern Norway=Norvège
+Andoya=Norvège
+Narvik=Norvège
+central Norway=Norvège
+Trondheim=Norvège
+Bergen=Norvège
+Oslo=Norvège
+Stockholm=Suède
+central Sweden=Suède

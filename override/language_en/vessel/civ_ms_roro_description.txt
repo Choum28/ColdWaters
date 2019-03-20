@@ -1,0 +1,4 @@
+﻿[Unit Reference]
+ShipClass=Marchand
+Description=Grand cargo polyvalent
+History=Les navires "RORO" (Roll-On Roll-Off) sont des cargos polyvalents qui peuvent être chargés rapidement par des rampes, ce qui les rend très adaptés au transport de véhicules et d'autres équipements roulants. Ils peuvent également transporter des conteneurs d'expédition standard, qui sont conduits sur le navire et placés par des camions spéciaux à bord. La cargaison de plate-forme peut être simplement soulevée à bord par des grues de pierside.

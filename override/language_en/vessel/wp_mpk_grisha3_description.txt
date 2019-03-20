@@ -1,0 +1,6 @@
+﻿[Unit Reference]
+ShipClass=Grisha III
+Description=Corvette anti-sous-marine classe Grisha III
+DefensiveWeapons=SA-N-4 SAM\nAK570 57mm AA Guns
+Aircraft=Aucun
+History=Ce sont de petites frégates anti-SM qui malgré leur taille disposent d'un armement anti-SM lourd couplé à un armement lourd d'autodéfense. Leurs coques manient mal les mers agitées et sont difficiles à ravitailler en mer, ce qui les empêche de patrouiller et d'escorter les navires dans les eaux côtières. Malgré ces inconvénients, ils sont encore capables de causer un chagrin considérable aux sous-marins de l'OTAN. Contrairement aux plus grands Krivaks, ces navires disposent d'un canon antimissile de 30 mm dans le cadre de leur armement auto-dense.

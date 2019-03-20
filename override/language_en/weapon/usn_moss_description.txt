@@ -1,0 +1,4 @@
+﻿[Weapon Reference]
+WeaponName=MOSS
+WeaponDescriptiveName=Simulateur de SM Mark 70 (MOSS)
+WeaponDescription=La MK70 est un leurre passif qui tente de simuler le son d'un sous-marin pour attirer le sonar passif de l'ennemi. Elle est lancée sur une trajectoire rectiligne et reste à la profondeur de lancement, ce qui signifie qu'un sous-marin peut la lancer et s'échapper du côté opposé à sa route.

@@ -1,0 +1,80 @@
+﻿[TRAINING 1]=6
+<b>Torpilles filoguidées</b>
+Utilisez <KEY:Help> pour en savoir plus sur les paramètres de torpille et le guidage par câble.
+
+Entraînons-nous:
+Utilisez <KEY:Tactical Map> pour passer en mode plein écran.
+Utilisez <KEY:Fire Tube> et faites glisser la souris pour définir approximativement le waypoint:
+Relèvement: 0 Distance 20 KYD
+<RIGHTCLICK> pour fixer la direction et faire feu.
+
+La troisième colonne au-dessus de la mini-carte montre les données de cette torpille guidée par fil:
+<b>ARME</b> Numéro de fil/tube
+<b>CAP</b> Cap
+<b>DIS</b> Distance
+<b>REL</b> Relèvement - direction de votre sous-marin à l'arme
+<b>RTE</b> Distance entre l'arme et son point de cheminement
+<b>TTR</b> Temps de fonctionnement - secondes restantes pour le fonctionnement de la torpille
+
+Notez le "1" à côté de l'icône de torpille sur la carte tactique, c'est le numéro de tube / fil.
+[/TRAINING 1]
+
+[TRAINING 2]
+<b>Déplacer le waypoint </b>
+<i>Si la torpille 1 a atteint son point de route et est active:
+Tirer une autre torpille sur le relèvement: 0 Distance 20 KYD </i>
+
+<LEFTCLICK> pour définir le waypoint (peut nécessiter un zoom sur la carte si d'autres icônes se trouvent à proximité).
+Faites glisser le waypoint avec le pointeur de la souris, par ex.:
+Relèvement 330, distance 3 KYD.
+<RIGHTCLICK> pour placer le waypoint comme nouvelle position (ou utiliser <KEY:Cancel or Quit> pour annuler le déplacement).
+La torpille se dirige vers cette position de waypoint mise à jour.
+
+Une fois que la torpille atteint son point de cheminement, elle:
+- devient activée et commence à chercher une cible
+- utilise maintenant le capteur, les paramètres de recherche et de profondeur fournis
+- ne peut plus avoir son waypoint déplacé
+- Peut être dirigée directement
+[/TRAINING 2]
+
+[TRAINING 3]
+<b>Diriger la torpille</b>
+Une torpille a atteint son point de cheminement et est activée:
+Utilisez <KEY:Steer Torpedo Left> et <KEY:Steer Torpedo Right> pour changer de direction. La torpille continuera tout droit à moins que le réglage du tube ne soit utilisé pour définir d'autres paramètres de recherche.
+
+Utilisez <KEY:Steer Torpedo Shallow> et <KEY:Steer Torpedo Deep> pour changer la profondeur. La profondeur peut également être ajustée en réglant les paramètres du tube avec les icônes A NIVEAU, EN HAUT et EN BAS. <i>En ouvrant l'onglet Conditions avec <KEY:Conditions> vous verrez la profondeur actuelle de la torpille. </i>
+
+<b>Autres actions de torpille</b>
+<KEY:Activate Torpedo> activera une torpille comme si elle avait atteint son point de cheminement.
+<KEY:Cut Wire> coupe le fil, empêchant tout contrôle externe supplémentaire (désactivé pendant l'entraînement).
+
+Les torpilles guidées par fil ne seront pas dirigées sur les vaisseaux amicaux, mais une torpille avec un fil cassé pourra se retourner contre son camp!
+[/TRAINING 3]
+
+[TRAINING 4]
+<b>Rupture de fil</b>
+Désactivé à des fins de formation, un fil peut être cassé involontairement avec le même effet que la coupe du fil.
+
+Utilisez <KEY:Help> maintenant pour lire les conditions qui provoquent la rupture du fil et comment l'éviter.
+[/TRAINING 4]
+
+[TRAINING 5]
+<b> Pratique ciblée </b>
+Assurez-vous que l'appareil photo suit l'une de vos torpilles (utilisez l'icône de torpille <KEY:Camera To Weapon> ou <LEFTCLICK> sur la carte / mini-carte.
+
+Utilisez <KEY:Activate Torpedo> pour activer la torpille si elle n'est pas déjà active.
+En utilisant les réglages du tube et / ou la direction directe, dirigez votre torpille vers l'un des vaisseaux cibles. Une fois à portée, votre torpille devrait "se verrouiller" et rentrer à la cible.
+
+Essayez de couler les autres cibles. Utilisez <KEY:Load Tube> pour lancer plus de torpilles si nécessaire.
+
+Les torpilles peuvent également être guidées en utilisant la carte, mais cela nécessite généralement suffisamment de données pour tracer avec précision la position de la cible. Un sujet à examiner dans la mission # 5.
+[/TRAINING 5]
+
+[TRAINING 6]
+<b>Fin du combat</b>
+Pour quitter le combat, utilisez <KEY:Cancel or Quit> pour entrer dans le menu de mission et terminer la mission (ce panneau est automatiquement masqué).
+
+Une fois dans le menu de mission <LEFTCLICK> <DICTIONARY:ExitMission> pour terminer cette mission et afficher le rapport après action.
+
+Lorsque vous avez fini d'afficher le rapport après action, <LEFTCLICK> <DICTIONARY:Continue> ou <KEY:Continue>.
+[/TRAINING 6]

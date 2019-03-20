@@ -1,0 +1,7 @@
+﻿[Unit Reference]
+ShipClass=Udaloy
+Description=Frégate anti-sous-marine classe Udaloy
+DefensiveWeapons=SA-N-9 SAM
+OffensiveWeapons=SS-N-14 anti-SM Missiles\nAK100 DP Guns\nASW Torpedoes\nRBU-6000 anti-SM Rockets\nRBU-1000 anti-SM Rockets
+Aircraft=2 Ka-27 Helix anti-SM helicopter
+History=La classe la plus récente de grands navires anti-sous-marins, l'Udaloy, est optimisée pour anti-SM dans la mesure où elle ne dispose plus d'un système SAM de défense de zone. Par rapport aux BPK précédents, ces navires sont équipés du plus grand sonar à archet Horse Jaw et du sonar à queue variable Horse Tail que l'on trouve également sur le Kirov. Ceci en conjonction avec leurs installations de commande et de contrôle élaborées et la capacité d'opérer deux fois le nombre d'hélicoptères font d'eux des adversaires redoutables.

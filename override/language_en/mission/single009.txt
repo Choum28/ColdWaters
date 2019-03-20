@@ -1,0 +1,11 @@
+Image=campaign/images/nato missile land attack
+MissionLocation=Iles Paracel, Mer de Chine méridionale
+Briefing=27 MAR 1999
+Briefing=Effectuez une frappe de missiles de croisière pour détruire la cible loin derrière les défenses chinoises
+Briefing=
+Briefing=Objectif principal:
+Briefing=Ajoutez 8 missiles TLAM dans vos magasins
+Briefing=Tirez les 8 missiles TLAM sur la zone de déploiement (4 missiles sur chaque site)
+Briefing=
+Briefing=Objectif secondaire:
+Briefing=Engagez les navires ennemis

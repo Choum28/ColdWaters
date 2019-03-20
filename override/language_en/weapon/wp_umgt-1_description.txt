@@ -1,0 +1,4 @@
+﻿[Weapon Reference]
+WeaponName=UGMT-1
+WeaponDescriptiveName=Torpille UGMT-1
+WeaponDescription=Torpille aérienne qui équipe la plupart des hélicoptères soviétiques, avions anti-SM et sert de charge utile pour les missiles ASW SS-N-14 et SS-N-16. Étant légères, leurs ogives sont plus faibles que celles des torpilles utilisées par les navires ou les sous-marins.

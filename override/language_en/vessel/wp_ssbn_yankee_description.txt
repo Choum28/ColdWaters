@@ -1,0 +1,4 @@
+﻿[Unit Reference]
+ShipClass=Yankee
+Description=SNLE classe Yankee
+History=C'était le premier boomer vraiment moderne construit par l'Union Soviétique, et suit étroitement le modèle établi par les SNLE occidentaux contemporains avec des avions avancés montés sur la voile, et 16 missiles dans un compartiment derrière la voile en contraste marqué avec des conceptions antérieures comme le Golf et Hôtel qui avait des missiles beaucoup plus grands montés dans une grande structure de voile. Il est intéressant de noter que ce même arrangement avait été sérieusement envisagé par l'USN avant l'arrivée de Polaris. Contrairement à ces premiers bateaux, les Yankees sont capables de lancer submergé, ce qui les rend plus performants. Comme les autres bateaux soviétiques, ils sont bruyants par rapport aux bateaux occidentaux. Cette conception serait plus tard raffinée dans la classe Delta.

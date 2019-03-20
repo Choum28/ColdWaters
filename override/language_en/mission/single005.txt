@@ -1,0 +1,10 @@
+Image=campaign/images/pact surface raiders 2
+MissionLocation=Au large du Cap Nord
+Briefing=19 MAR 1984
+Briefing=Un SSN de classe Sturgeon rencontre un grand groupe d'attaque de surface soviétique au large du Cap Nord. La pièce centrale de ce dispositif n'est rien d'autre que le rêve de tout navire d'attaque rapide: un croiseur de type Kirov.
+Briefing=
+Briefing=Objectif principal:
+Briefing=Pénétrer les dispositifs anti sous-marins et couler le Kirov
+Briefing=
+Briefing=Objectif secondaire:
+Briefing=Survivre

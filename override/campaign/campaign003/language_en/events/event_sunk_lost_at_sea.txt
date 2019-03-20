@@ -1,0 +1,14 @@
+NextAction=END
+Image=campaign/images/lost at sea
+Photo=campaign/images/photos/naval nato sub 1,campaign/images/photos/naval nato sub 2,campaign/images/photos/naval nato sub 3,campaign/images/photos/naval nato sub 4
+Music=audio/music/Cold Waters Campaign Loss
+Header=<DATE>
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>UN SOUS-MARIN NUCLEAIRE COULÉ!</b>
+Color=57,61,73,255
+Sentence1=Un porte-parole des Etats-Unis a confirmé qu'un sous-marin d'attaque nucléaire américain avait été perdu au combat. Bien que les détails soient incomplets pour le moment, des sources proches du Pentagone affirment que le sous-marin a été perdu avec tout son équipage au cours de son service.
+Color=218,218,208,255
+Sentence2=<b>Défaite en mer de Chine</b><n>Les forces navales chinoises ont coupé les accès de nos convois à la mer de Chine méridionale, laissant les forces des Etats-Unis dans la région avec peu d'espoir de renforts.

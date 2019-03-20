@@ -1,0 +1,4 @@
+﻿[Unit Reference]
+ShipClass=Dubna
+Description=Pétrolier classe Dubna
+History=Les quatre navires de cette classe, construits entre 1974 et 1979, sont de petits navires de ravitaillement destinés à soutenir les navires de guerre ainsi que la flotte de pêche soviétique. De grands poteaux et une station à tension constante transfèrent du carburant et des réserves sèches aux navires de chaque côté et sur la poupe. Par rapport aux navires UNREP américains, ils sont plus lents et manquent d'installations pour hélicoptères.

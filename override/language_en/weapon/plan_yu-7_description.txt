@@ -1,0 +1,4 @@
+﻿[Weapon Reference]
+WeaponName=Yu-7
+WeaponDescriptiveName=Torpille Yu-7
+WeaponDescription=Copie chinoise de la torpille passive / active US-Mk-46. Comme il s'agit d'une arme plus petite, elle est moins puissante, mais elle est transportée par hélicoptères, avions et sert de charge utile pour le missile de combat CY-1 ASW. Le système de guidage a une portée de 1600 mètres.

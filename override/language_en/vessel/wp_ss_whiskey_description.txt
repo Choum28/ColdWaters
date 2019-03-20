@@ -1,0 +1,4 @@
+﻿[Unit Reference]
+ShipClass=Whiskey
+Description=Sous-marin diesel-électrique classe Whisky
+History=Le Whisky a été initialement conçu pendant la guerre comme une suite à la classe S, mais après la guerre il a été repensé pour incorporer la technologie allemande capturée. L'influence allemande peut être clairement vue dans l'installation du sonar, avec son menton proéminent. La classe a été modernisée pendant les années 1950 jusqu'au Whisky V définitif qui se sont débarrassés des canons de pont en faveur d'une voile profilée. Ces bateaux sont extrêmement lents et bruyants, mais avec plus de 200 construits, c'est la classe de sous-marins la plus nombreuse au monde.

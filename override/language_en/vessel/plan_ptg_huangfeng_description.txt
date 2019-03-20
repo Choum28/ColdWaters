@@ -1,0 +1,7 @@
+﻿[Unit Reference]
+ShipClass=Huangfeng
+Description=Navire lance-missile Huangfeng
+DefensiveWeapons=25mm AA Guns
+OffensiveWeapons=
+Aircraft=Aucun
+History=Le Huangfeng est une version chinoise du lance-missile soviétique Osa, l'un des navires de guerre littorale les plus largement exportés au monde. Ils sont une évolution des torpilleurs de la Seconde Guerre mondiale où les missiles ont remplacé les torpilles d'antan, rendant ces navires très puissants en ce qui concerne leur taille et leur faible coût. Ils ont tendance à opérer en groupes en utilisant des tactiques de "tirer et fuir", souvent sous le contrôle central d'un radar au sol ou d'un avion de patrouille maritime, ce qui leur permet de se fier au ciblage hors-bord pour des attaques furtives. Leur vitesse élevée et leur faible tirant d'eau font d'eux des cibles difficiles pour les torpilles, de sorte que les missiles sont plus efficaces pour les éliminer.

@@ -1,0 +1,12 @@
+﻿
+FRIENDLY=L'OTAN|Les forces alliées|Les Alliés|L'Ouest
+ENEMY=Les soviétiques|Les Rouges|Le Pacte de Varsovie|Le Pacte|Le Pacte|Les communistes|Les communistes|L'Est|La Russie
+
+FRIENDLY_SINGULAR=L'OTAN|L'Ouest
+ENEMY_SINGULAR=Le Pacte de Varsovie|Le Pacte|Le Pacte|L'Est|La Russie|L'Ours
+
+FRIENDLY_PREFIX=L'OTAN|Les forces alliées|Les Alliés|L'Ouest
+ENEMY_PREFIX=Les soviétiques|Les Rouges|Le Pacte de Varsovie|Le Pacte|Le Pacte|Les communistes|Les communistes|L'Est|La Russie
+
+FRIENDLY_SUFFIX=L'OTAN|Les forces alliées|Les Alliés|L'Ouest
+ENEMY_SUFFIX=les soviétiques|les Rouges|le Pacte de Varsovie|le Pacte|le Pacte|les communistes|les communistes|l'Est|la Russie

@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=MK48
+WeaponDescriptiveName=Torpille Mark 48 (Mk48)
+WeaponDescription=La Mk48 est une torpille à double usage avancée en service dans l'US Navy depuis 1972 où elle a remplacé les torpilles Mk14 et Mk37. Elle combine une grande vitesse et un système de guidage passif / actif avancé avec une portée impressionnante de 3000 mètres.

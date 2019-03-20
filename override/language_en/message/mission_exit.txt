@@ -1,0 +1,7 @@
+﻿
+NoContact=Commandant,\nCdt en second au rapport:\nNous n'avons aucun contact, parés à quitter la zone.\n<LEAVESTATUS>\nQuels sont vos ordres?
+Contact=Commandant,\nCdt en second au rapport:\nAucune activité , Nous devons quitter la zone.\n<LEAVESTATUS>\nQuels sont vos ordres?
+Flooding=Commandant,\nCdt en second au rapport:\nNous avons une voie d'eau qui doit être réparée avant de pouvoir quitter la zone.\n<LEAVESTATUS>Quels sont vos ordres?
+Sinking=Commandant,\nCdt en second au rapport:\nBrêche dans la coque! Nous subissons des dommages critiques et une voie d'eau incontrolée, le navire est perdu!\n<LEAVESTATUS>Quels sont vos ordres?
+Doomed=Commandant,\nCdt en second au rapport:\nBrêche dans la coque!  Nous subissons des dommages critiques, une voie d'eau incontrolée, et nous sommes au-delà de la profondeur d'évasion. Ce fut un honneur de servir sous vos ordres, Commandant.\n<LEAVESTATUS>Quels sont vos ordres?
+OutOfBounds=Commandant,\nCdt en second au rapport:\n\nNous avons quitté la zone de combat.\n<LEAVESTATUS>Quels sont vos ordres?

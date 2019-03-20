@@ -1,0 +1,16 @@
+﻿
+NextAction=event_intro_6
+Image=campaign/images/pershings
+Photo=campaign/images/photos/protests 1,campaign/images/photos/protests 2
+Music=audio/music/Cold Waters Campaign Victory
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>Des missiles Pershing déployés en Allemagne de l'Ouest</b>
+Color=57,61,73,255
+Sentence1=BONN, RFA - Le déploiement des nouveaux missiles balistiques nucléaires Pershing II a commencé dans divers sites autour de l'Allemagne de l'Ouest. L'introduction de ce missile nucléaire «tactique» à moyenne portée dans l'arsenal des États-Unis a déjà suscité de vives controverses entre l'OTAN et le Pacte de Varsovie, ainsi qu'en Allemagne même.
+Color=218,218,208,255
+Sentence2=Des analystes politiques indépendants s'accordent à dire que l'escalade continue de la course aux armements, les craintes de chacun de la supériorité technique de l'autre, et la forte rhétorique anti-soviétique de l'administration Reagan contribuent à une situation instable. La dernière menace de Moscou - se retirer de nouvelles négociations sur le contrôle des armements - est considérée comme un tournant particulièrement inquiétant. La question qui se pose à l'Europe est de savoir comment l'Union soviétique pourrait réagir si elle considérait que ses options diplomatiques étaient épuisées? 

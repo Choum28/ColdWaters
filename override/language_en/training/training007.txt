@@ -1,0 +1,9 @@
+Image=campaign/images/nato submarine 2
+MissionLocation=Exercice de formation
+Briefing=Combinez ce que vous avez appris jusqu'a present avec les contre-mesures et le controle des avaries pour assurer votre securite et celle de votre equipage.
+Briefing=
+Briefing=Points couverts:
+Briefing=- Rester indetectable.
+Briefing=- Tromper l'ennemi avec des leurres.
+Briefing=- Utiliser les generateurs de bruit et les turbulences.
+Briefing=- Comprendre le controle des avaries, les voies d'eau et les reparations.

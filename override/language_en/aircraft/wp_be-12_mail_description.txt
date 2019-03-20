@@ -1,0 +1,4 @@
+[Unit Reference]
+AircraftName=BE-12 Mail
+AircraftDescriptiveName=Beriev Be-12 Mail
+History=Avec l'hélicoptère Ka-25, le Beriev Be-12 Chayka («Swallow»), nom de l'OTAN sous le nom de MAIL, a été le premier aéronef ASW à voilure fixe conçu pour répondre à la menace des SNLE de classe George Washington et Polaris A-1. des missiles nucléaires. (Les avions MAY et BEAR-F étaient des conversions, pas de nouveaux types.) Ce hydravion à turbopropulseur, opérationnel pour la première fois en 1964, s'est avéré robuste et polyvalent, avec une bonne endurance. Près de 50% des heures ASW enregistrées par l'aviation navale soviétique entre 1965 et 1981 ont été effectuées par ce type d'avion. Cependant, à partir du début des années 1970, la portée croissante des missiles nucléaires américains signifiait que le rôle de l'ASW était confié à des aéronefs à plus longue portée capables d'opérer plus loin de la côte soviétique. 

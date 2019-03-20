@@ -1,0 +1,57 @@
+﻿[TRAINING 1]=4
+<b>Rechargement des tubes en combat </b>
+Sur la page Briefing que vous venez de quitter, vous avez appris comment changer les armes à bord et les placer dans des tubes prêts à tirer avant le combat.
+Une fois en combat, les magasins ne peuvent pas être changés mais les tubes peuvent être rechargés.
+
+Utilisez <KEY:Help> maintenant pour en savoir plus sur les paramètres de missiles.
+
+Sélectionnez le tube n° 1 soit par <LEFTCLICK> sur l'arme dans le tube ou utilisez <KEY:Next Tube>.
+Le tube sélectionné est surligné en rouge.
+Appuyez sur <KEY:Load Tube> jusqu'à ce qu'une icône TASM s'affiche à nouveau dans le tube n° 1.
+Attendez quelques secondes et un nouveau TASM commence à glisser dans le tube.
+Le journal des messages vous avertit une fois qu'il est entièrement chargé et prêt à être déclenché.
+
+<b>Compression temporelle</b>
+Utilisez <KEY:Time Compression> pour activer / désactiver la compression temporelle afin de charger rapidement le TASM.
+Une fois que le TASM est complètement chargé, passez à l'étape suivante du didacticiel.
+[/TRAINING 1]
+
+[TRAINING 2]
+<b>Tirer un missile</b>
+Nous allons tirer un missile UGM-84.
+Votre cible ne bouge pas et se trouve directement au nord de votre sous-marin stationnaire.
+
+Pour tirer un missile;
+<b> 1) Sélectionnez Tube </b>
+Sélectionnez un tube contenant un UGM-84 (ou TASM) soit par <LEFTCLICK> sur l'arme dans le tube ou utilisez <KEY:Next Tube>. Le tube sélectionné est surligné en rouge.
+Modifier les paramètres de l'arme. Pour cette attaque, il est recommandé d'utiliser le cône de détection WIDE (large).
+
+<b> 2) Placez le waypoint</b>
+Assurez-vous que votre sous-marin est visible sur la mini-carte et utilisez <KEY:Fire Tube> pour régler le waypoint comme pour les torpilles.
+
+Déplacez le pointeur de votre souris sur la mini-carte, placez-le directement devant votre sous-marin (nord) jusqu'à ce que l'affichage du relèvement du waypoint affiche 0 et que la portée soit comprise entre 8 et 10 KYD (les missiles ont une portée minimum). Utilisez <MOUSEWHEEL> ou <KEY:Zoom Out> pour réduire la mini-carte si nécessaire. La carte peut être mise en panoramique et zoomée tout en faisant glisser un waypoint et si nécessaire, utilisez <KEY:Cancel or Quit> pour annuler la configuration d'un waypoint.
+
+Lorsque vous êtes prêt, <RIGHTCLICK> pour régler le waypoint et faire feu.
+Votre missile va être lancé et voler vers le waypoint où il sera actif et cherchera une cible. S'il ne peut pas trouver de cible, le missile s'auto-détruira, ce qui rend crucial de placer le waypoint devant votre cible.
+
+Si tout s'est bien passé, votre missile devrait se diriger vers le nord et frapper la cible.
+Si elle la manque ou si le vaisseau ne coule pas, renvoyez-en un autre, en n'oubliant pas de sélectionner un tube chargé, de régler le relèvement du waypoint sur 0 et la portée de 8 à 10 KYD.
+[/TRAINING 2]
+
+[TRAINING 3]
+<b>Entraînement au ciblage</b>
+Deux autres navires cibles sont à proximité, approximativement aux relèvements 350 et 010.
+Assurez-vous de ne pas placer le point de cheminement au-delà de la cible (ou le missile la dépassera avant d'être actif) ou trop près de la cible, de sorte qu'il se trouve à l'extérieur du cône du capteur du missile.
+
+Essayez de couler ces autres cibles avec des missiles et essayez de changer les paramètres de l'arme.
+Utilisez <KEY:Load Tube> pour recharger plus de missiles si nécessaire.
+[/TRAINING 3]
+
+[TRAINING 4]
+<b>Fin du combat</b>
+Pour quitter le combat, utilisez <KEY:Cancel or Quit> pour entrer dans le menu de mission et terminer la mission (le panneau est automatiquement masqué).
+
+Une fois dans le menu de mission <LEFTCLICK> <DICTIONARY:ExitMission> pour terminer cette mission et afficher le rapport après action.
+
+Lorsque vous avez fini d'afficher le rapport après action, <LEFTCLICK> <DICTIONARY:Continue> ou <KEY:Continue>.
+[/TRAINING 4]

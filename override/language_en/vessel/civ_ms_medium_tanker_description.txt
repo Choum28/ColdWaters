@@ -1,0 +1,4 @@
+﻿[Unit Reference]
+ShipClass=Marchand
+Description=Tanker de moyen tonnage
+History=Ces gros navires viennent alimenter le monde, transportant d'énormes quantités de pétrole et causant généralement d'importants dommages environnementaux s'ils échouaient ou s'ils coulaient.

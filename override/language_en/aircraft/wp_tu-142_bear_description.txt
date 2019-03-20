@@ -1,0 +1,4 @@
+[Unit Reference]
+AircraftName=TU-142 BEAR-F
+AircraftDescriptiveName=Tupolev TU-142 BEAR-F
+History=Le Tu-142M est un dérivé de l'ASW et de la frappe maritime du bombardier stratégique Tu-95. Bien que remplissant ostensiblement le même rôle que l'IL-38 MAY, le Tu-142 dispose d'une portée et d'une capacité de déplacement beaucoup plus grandes, et il transporte une charge utile beaucoup plus grande que le MAY. Leur principal inconvénient est leur rendement incroyablement élevé, qui est assez fort pour être suivi sur les réseaux US SOSUS.

@@ -1,0 +1,4 @@
+﻿[Weapon Reference]
+WeaponName=MG74
+WeaponDescriptiveName=Leurre auto-propulsé MG-74
+WeaponDescription=Le MG-74 est un leurre passif qui tente de simuler le son d'un sous-marin pour attirer le sonar passif de l'ennemi. Il est lancé sur une trajectoire rectiligne et reste à la profondeur de lancement, ce qui signifie qu'un sous-marin peut le lancer et s'échapper du côté opposé à sa course.

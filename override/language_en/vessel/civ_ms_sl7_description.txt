@@ -1,0 +1,4 @@
+﻿[Unit Reference]
+ShipClass=Marchand
+Description=Porte-container rapide SL-7
+History=Ce sont des porte-conteneurs à grande vitesse conçus pour traverser les océans Atlantique et Pacifique à des vitesses de croisière supérieures à 30 noeuds. Initialement destinés à la propulsion nucléaire, ils ont été construits avec une centrale à vapeur très puissante. Finalement rendus non rentables par la crise pétrolière, ils ont depuis été repris par l'US Navy et convertis en navires de transport maritime rapide polyvalents de la classe Algol. Ce sont les navires marchands les plus rapides jamais construits.

@@ -1,0 +1,7 @@
+﻿[Unit Reference]
+ShipClass=Han
+Description=SNA classe Han
+History=En service depuis 1974, les Hans sont des sous-marins d'attaque nucléaires chinois de première génération. Ils sont notoirement bruyants et connus pour avoir une mauvaise protection contre les radiations, ce qui leur a valu le surnom de «glowboats» (bâteaux luisants). Ils sont équipés de sonars et de systèmes de commande à distance dérivés de modèles français et italiens. 
+
+PlayerClassNames=Long March I,Long March II,Long March III
+PlayerClassHullNumbers=401,402,403

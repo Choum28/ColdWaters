@@ -1,0 +1,4 @@
+﻿[Weapon Reference]
+WeaponName=MK46
+WeaponDescriptiveName=Torpille Mark 46
+WeaponDescription=La Mark 46 est la torpille active / passive standard de l'US Navy. Étant une arme plus petite, elle est moins puissante, mais elle est transportée par hélicoptère et par avion et sert de charge utile à la torpille-missile RUR-5 ASROC. Le système de guidage a une portée de 1600 mètres.

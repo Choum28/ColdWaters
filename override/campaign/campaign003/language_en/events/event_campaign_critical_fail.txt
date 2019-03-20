@@ -1,0 +1,12 @@
+NextAction=event_campaign_fail_2
+Image=campaign/images/plan ssbn
+Photo=campaign/images/photos/naval pact sub 1,campaign/images/photos/naval pact sub 2,campaign/images/photos/politics 3
+Music=audio/music/Cold Waters Campaign Victory
+Header=<DATE>
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>DES MENACES NUCLÉAIRES TROP FORTES</b>
+Sentence1=Les sous-marins à missiles balistiques nucléaires dissimulés dans les eaux territoriales chinoises ont été utilisés comme levier lors des récents pourparlers sur l'armistice. Alors que les tensions continuent d'augmenter, l'utilisation inévitable des armes nucléaires tactiques est devenue une certitude alors que la crise continue d'échapper à tout contrôle.
+Sentence2=CHAOS<n>Des troubles civils et des émeutes ont éclaté à travers les grandes villes des États-Unis, avec la violence et le pillage dans leur sillage, alors que la peur nucléaire se renforce à chaque heure.

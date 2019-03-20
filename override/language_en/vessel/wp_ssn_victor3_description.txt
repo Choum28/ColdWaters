@@ -1,0 +1,4 @@
+﻿[Unit Reference]
+ShipClass=Victor III
+Description=SNA classe Victor III
+History=Ces bateaux représentent l'évolution ultime du sous-marin de classe Victor. Ils ont été les premiers bateaux à recevoir un ensemble remorqué, et ils ont été les premiers à être construits avec des caractéristiques améliorées de furtivité telles que des machines montées sur radeau. Conçus à l'origine avec une hélice tandem décalée, ils ont depuis été améliorés avec des hélices à cavitation réduite. Le groupe entier est également équipé de la commande de tir pour le missile anti-SM SS-N-16.

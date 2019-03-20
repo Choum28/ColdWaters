@@ -1,0 +1,4 @@
+﻿[Unit Reference]
+ShipClass=Oscar
+Description=Sous-marin nucléaire lance-missiles classe Oscar
+History=L'Oscar est l'équivalent sous-marin des croiseurs lourds lance-missiles de classe Kirov. À 16 500 tonnes, cette classe est plus grande que tous les autres sous-marins sauf les classes géantes Ohio et Typhoon. Cette grande taille a été rendue nécessaire par la nécessité d'accueillir la même batterie de 24 missiles SS-N-19 Shipwreck trouvés sur le Kirov. Malgré la taille énorme de ces bateaux, ils peuvent se déplacer à 30 nœuds et disposent d'armes, de capteurs et de silencieux à égalité avec ceux des Victor III, ce qui en fait des adversaires redoutables pour n'importe quel sous-marin de l'OTAN.

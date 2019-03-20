@@ -1,0 +1,4 @@
+﻿[Unit Reference]
+ShipClass=Yasen
+Description=SNA classe Yasen
+History=Le sous-marin d'attaque polyvalent à propulsion nucléaire de classe Yasen est le dernier ajout à la force sous-marine de la marine russe. Basé sur des sous-marins antérieurs de la classe Sierra et de la classe Akula, ce bateau dispose d'équipements ultramodernes, d'un meilleur silence, d'un énorme arsenal de torpilles et d'une lourde charge utile de missiles de croisière. Ce sous-marin est la fierté de la marine russe et doit être considéré comme une menace extrêmement dangereuse.

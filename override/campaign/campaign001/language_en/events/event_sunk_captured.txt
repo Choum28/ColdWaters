@@ -1,0 +1,17 @@
+﻿
+NextAction=event_early_end_1
+Image=campaign/images/gulag
+Photo=campaign/images/photos/naval nato sub 1,campaign/images/photos/naval nato sub 2,campaign/images/photos/naval nato sub 3,campaign/images/photos/naval nato sub 4
+Music=audio/music/Cold Waters Loss Gulag
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>LES SOVIETIQUES CAPTURENT<n>UN EQUIPAGE DE SOUS-MARIN</b>
+Color=57,61,73,255
+Sentence1=Des porte-parole soviétiques prétendent avoir capturé l'équipage survivant, avec le commandant, d'un sous-marin d'attaque nucléaire américain. Bien qu'ils refusent de révéler l'endroit exact et la manière dont les membres de l'équipage ont été capturés, la connaissance soviétique des détails opérationnels confirme clairement l'exactitude de leur demande.
+
+Color=218,218,208,255
+Sentence2=Des préoccupations ont été soulevées concernant le traitement soviétique des prisonniers de guerre. Des rapports troublants suggèrent qu'un nombre important d'officiers et d'hommes enrôlés ont été soumis à la torture, jugés comme criminels de guerre ou exécutés. D'innombrables autres auraient été internés dans de nombreux camps de travail du Goulag à travers l'Union soviétique. Le sort de milliers de soldats et de non-combattants de l'OTAN non comptabilisés ne sera probablement pas confirmé avant la fin des hostilités.

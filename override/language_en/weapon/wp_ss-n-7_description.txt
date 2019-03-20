@@ -1,0 +1,4 @@
+﻿[Weapon Reference]
+WeaponName=SS-N-7
+WeaponDescriptiveName=Missile anti-navire SS-N-7 Starbright
+WeaponDescription=Il s'agit d'un missile de croisière subsonique conçu pour les sous-marins Papa et Charlie. Les premiers sous-marins des classes Echo et Juliet utilisaient le missile de croisière supersonique SS-N-3 Shaddock, dont les directives à mi-parcours exigeaient que le sous-marin de lancement reste à la surface pendant de longues périodes. Le SS-N-7 utilise plutôt le lancement immergé, et la portée relativement courte du missile signifie qu'aucun guidage à mi-parcours n'est nécessaire et le sous-marin peut utiliser ses propres capteurs pour le ciblage.

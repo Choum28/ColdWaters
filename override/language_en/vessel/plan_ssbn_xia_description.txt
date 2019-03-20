@@ -1,0 +1,4 @@
+﻿[Unit Reference]
+ShipClass=Xia
+Description=SNLE classe Xia
+History=Mis au point en 1978 et achevé en 1981, le Xia est un SNLE chinois de première génération unique en son genre. Il s'agit essentiellement d'un sous-marin de classe Han élargi avec un compartiment de missiles ajouté, dont l'ensemble de capteurs et l'unité de propulsion sont probablement les mêmes, ce qui en fait un sous-marin assez bruyant, comparable aux premiers boomers américains et soviétiques.

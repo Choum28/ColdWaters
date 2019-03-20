@@ -1,0 +1,4 @@
+﻿[Unit Reference]
+ShipClass=Plateforme
+Description=Plateforme pétrolière
+History=Les plates-formes offshore semi-submersibles sont populaires dans les eaux de plus de 1500 pieds car les structures fixes ne sont plus pratiques. Ils sont conçus pour offrir de bonnes caractéristiques de stabilité et de tenue en mer et sont conçus pour être remorqués de puits à puits. Lorsqu'ils sont engagés dans des opérations de forage, ils émettent un important bruit à large bande plus que suffisant pour masquer même des contacts relativement forts.

@@ -1,0 +1,232 @@
+ImageBackground=campaign/images/pact landing sunk
+ImagePosition=15,-300
+ImageHeight=260
+Image=help_images/tubes.png
+ImagePosition=15,-1652
+ImageHeight=260
+Image=help_images/tube_settings.png
+ImagePosition=15,-3805
+ImageHeight=260
+Image=help_images/stores.png
+ImagePosition=15,-4435
+ImageHeight=260
+Image=help_images/stores_port.png
+[/Image]
+<size=24><color=maroon><b>ARMES</b></color></size>
+Cette section examinera comment utiliser et gérer les systèmes d’armes à bord de votre sous-marin. Pour comprendre comment maximiser vos chances de toucher des cibles avec vos armes et éviter les armes ennemies, consultez la section Tactique.
+
+Les armes à bord de votre sous-marin peuvent se trouver dans:
+1) un magasin d'armes
+2) un tube lance-torpille
+3) le système de lancement vertical (VLS) si votre sous-marin en possède un
+
+Les armes dans les magasins doivent être chargées dans des tubes à torpilles pour pouvoir être utilisées, tandis que les armes dans les tubes à torpilles sont prêtes à faire feu, à moins qu’elles ne soient en train d’être chargées dans ce tube.
+
+<size=24><color=maroon><b>TUBES LANCE-TORPILLES</b></color></size>
+Tout en bas à droite de l'écran se trouvent les tubes de torpille du sous-marin. Les différentes classes de sous-marins peuvent avoir un nombre de tubes différents.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Un tube est constitué du tube lui-même et de 3 boutons de réglage associés. Si elle est chargée, une image de l'arme prête à tirer est affichée. Cliquez sur un tube ou utilisez <KEY:Next Tube> pour sélectionner les tubes. Le tube actuellement sélectionné est surligné en rouge.
+
+Un tube en cours de chargement aura l'image de l'arme glissant lentement dedans. Utiliser <KEY:Load Tube> fait défiler les armes pour les charger.
+
+Un tube alimenté par une torpille filoguidée contient l'icône ci-dessus. Recharger un tube avec un fil coupe immédiatement ce fil.
+
+Un tube détruit est ombré en rouge et ne peut être réparé en mer.
+
+<b>SYSTÈME DE LANCEMENT VERTICAL (VLS)</b>
+Les armes dans le VLS ne nécessitent pas de rechargement. Au lieu de cela, le VLS est une représentation à tube unique des multiples tubes VLS à bord. Il vous suffit de choisir une arme dans ce groupe de tubes en utilisant <KEY:Load Tube> afin de la déclencher. Les tubes VLS ne peuvent pas être rechargés en mer.
+
+Comme le VLS lance des armes perpendiculairement à la direction du mouvement de votre sous-marin, il ne peut être utilisé qu'à basse vitesse. Le journal des messages vous avertira si votre vitesse dépasse la vitesse de lancement du VLS.
+
+<size=24><color=maroon><b>UTILISER LES ARMES</b></color></size>
+Votre équipage exécute automatiquement toutes les petites tâches requises, telles que l'activation des armes et l'ouverture des tubes. En tant que commandant, votre rôle est de décider quelle arme tirer et où l'envoyer. Toutes les armes dans Cold Waters sont tirées en utilisant un système de points de cheminement à l'aide de la carte tactique.
+
+<b>AFFICHAGE DE LA CARTE TACTIQUE</b>
+La carte tactique est le centre névralgique du système de tir. Elle contient toutes les informations recueillies par les capteurs et calcule le mouvement de la cible afin de prévoir sa position exacte. La section Capteurs expliquera en détail la carte tactique.
+
+Dans le coin inférieur gauche se trouve une mini-carte affichant votre sous-marin, votre contact et vos torpilles qui servent à définir les points de cheminement des armes.
+
+<b>Déplacer la carte:</b> <LEFTCLICK> sur la mini-carte et faites glisser la souris.
+<b>Zoom carte:</b> Positionnez la souris sur la carte et <MOUSEWHEEL> ou <KEY:Zoom In> et <KEY:Zoom Out>.
+<b>Agrandir la carte:</b> <KEY:Tactical Map> permet de basculer entre la carte plein écran (mini-carte masquée automatiquement).
+<b>Masquer la carte:</b> <LEFTCLICK> dans la partie supérieure de la mini-carte la masque / restaure.
+<b>Centrer la carte:</b> <KEY:Centre Map> positionne votre sous-marin au centre de la carte.
+<b>Centrer automatiquement la carte:</b> <KEY:Auto Centre Map> verrouille la carte sur votre sous-marin.
+
+En sélectionnant votre sous-marin avec la souris, vous déplacez la caméra vers votre sous-marin.
+En cliquant sur un contact, vous le sélectionnez comme contact ou, s'il est déjà sélectionné, vous déplacez la caméra vers celui-ci.
+En cliquant sur une torpille, vous déplacez la caméra.
+
+<b>FAIRE FEU</b>
+Tirer une torpille;
+1) sélectionner un tube chargé
+2) placez un waypoint sur la carte pour envoyer la torpille
+
+1) Sélectionner un tube
+Utilisez <KEY:Next Tube> ou cliquez directement sur une arme dans le tube pour sélectionner le tube à tirer, il sera surligné en rouge.
+
+2) Placez le waypoint
+Assurez-vous que votre sous-marin est visible sur la mini-carte et utilisez <KEY:Fire Tube> pour définir le waypoint. Le relèvement et la distance du waypoint sont affichés et une ligne bleue apparaît sur la carte qui suit le pointeur de la souris.
+
+Déplacez simplement le pointeur de la souris sur la mini-carte en la plaçant à l'endroit où vous souhaitez que votre arme se dirige, puis sur <RIGHTCLICK> pour faire feu.
+
+La carte peut être déplacée et zoomée en faisant glisser un waypoint ou, si nécessaire, utilisez <KEY:Cancel or Quit> pour annuler le réglage d'un waypoint.
+
+
+<size=24><color=maroon><b>PARAMÈTRES DU TUBE</b></color></size>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chaque tube peut avoir jusqu'à 3 réglages d'arme, en fonction de l'arme chargée, pour le capteur, la recherche et la profondeur / hauteur. Les boutons de configuration ne peuvent être modifiés que si le tube est actuellement sélectionné et peuvent être modifiés en cliquant directement sur eux ou en utilisant <KEY:Weapon Homing>, <KEY:Weapon Attack> et <KEY:Weapon Depth>.
+
+
+<size=24><color=maroon><b>TORPILLES NON GUIDÉES</b></color></size>
+Certaines armes (et leurres) sont de simples torpilles à tir rectiligne. La torpille se déclenche, engage un gyroscope pour se diriger vers le point de cheminement que vous avez défini, puis continue simplement à naviguer en ligne droite jusqu’à ce qu’elle atteigne une cible ou atteigne sa limite de portée.
+
+Les torpilles non guidées n'ont aucun réglage de tube applicable. Ils fonctionneront soit à la profondeur lancée (leurres), soit à une profondeur prédéterminée pour ce modèle de torpille.
+
+
+<size=24><color=maroon><b>TORPILLES FILOGUIDÉES</b></color></size>
+Ces armes sophistiquées sont directement liées à votre ordinateur de contrôle de tir par un câble. Tant que le fil reste intact, son comportement peut être modifié, il est même possible de définir de nouvelles positions de waypoint ou de guider manuellement la torpille. Si le fil est cassé ou coupé, l'arme exécutera ses réglages programmés.
+
+La troisième colonne de données affiche des informations sur l'arme filoguidée:
+<b>ARME</b> Numéro de fil / tube
+<b>CAP</b> Route suivie par l'arme
+<b>DIS</b> Distance
+<b>REL</b> Relèvement - direction de votre sous-marin à l’arme
+<b>RTE</b> (Range To Enable) Distance à activation - distance entre l'arme et son waypoint
+<b>TTR</b> (Time To Run) Autonomie - secondes restantes de fonctionnement
+
+Une torpille filoguidée se dirige vers son point de cheminement. Une fois atteint, elle devient active et applique les paramètres de référencement, de recherche et de profondeur définis sur ce tube.
+
+<b>PARAMÈTRES DE TUBE</b>
+Les paramètres de tube peuvent être modifiés pour le tube en surbrillance en utilisant directement les paramètres ou en utilisant <KEY:Weapon Homing>, <KEY:Weapon Attack> et <KEY:Weapon Depth>.
+
+<b>Paramètres du capteur:</b>
+<b>Passif:</b> Une fois activée, la torpille utilisera un sonar passif pour écouter sa cible. Il est beaucoup plus difficile pour l’ennemi de détecter les torpilles à recherche passive, mais il faut que la cible fasse un bruit important.
+<b>Actif:</b> Une fois activée, la torpille utilisera un sonar actif pour rechercher sa cible. Il est très efficace pour détecter les cibles silencieuses.
+
+<b>Paramètres de recherche:</b>
+<b>Recherche directe:</b> La recherche de torpilles s'effectue en ligne droite.
+<b>Recherche en serpentement:</b> La torpille recherche en serpentant de gauche à droite.
+<b>Recherche à gauche:</b> La torpille cherche en cercle à gauche.
+<b>Recherche à droite:</b> La torpille cherche en cercle à droite.
+
+<b>Paramètres de profondeur:</b>
+<b>A niveau:</b> Une fois activée, la torpille restera à sa profondeur actuelle.
+<b>En surface:</b> Une fois activée, la torpille changera de profondeur pour être au-dessus de la couche (s’il y en a une) et effectuer une recherche à environ 30 pieds de profondeur.
+<b>En profondeur:</b> Une fois activée, la torpille changera de profondeur pour se situer à environ 30 pieds sous la couche, ou si aucune couche n’existe, effectuera une recherche à environ 350 pieds de profondeur.
+
+Si une torpille à guidage filaire est activée et que son câble est toujours intact, toute modification des paramètres du tube appliquera immédiatement ce paramètre à la torpille.
+
+Les torpilles filoguidées ont des commandes supplémentaires disponibles:
+<b>Couper le fil:</b> Utilisez <KEY:Cut Wire> pour couper le fil sur ce tube.
+<b>Activer la torpille:</b> Utilisez <KEY:Activate Torpedo> pour mettre la torpille en mode activé, comme si elle avait atteint son point de cheminement.
+<b>Modifier le waypoint:</b> <LEFTCLICK> waypoint sur la carte tactique ou la mini-carte et <RIGHTCLICK> pour le placer à la position actuelle de la souris. Seules les torpilles sur un fil qui n'ont pas encore atteint leur point de cheminement et qui sont activées peuvent voir leur point de passage modifié.
+<b>Diriger la torpille:</b> Utilisez <KEY:Steer Torpedo Left> et <KEY:Steer Torpedo Right> pour changer manuellement la trajectoire de la torpille.
+<b>Profondeur des torpilles:</b> Utilisez <KEY:Steer Torpedo Shallow> et <KEY:Steer Torpedo Deep> pour modifier manuellement la profondeur des torpilles.
+
+<b>RUPTURE DE FIL</b>
+Le fil reliant la torpille à l'ordinateur de contrôle de tir est relativement fragile et peut être accidentellement cassé. Un fil peut se briser au lancement, ce qui est inévitable et un fil sera automatiquement coupé si une nouvelle arme est chargée dans un tube avec un fil. Certaines classes de sous-marins ont moins de fils que les tubes, de sorte que les lancements de torpilles à guidage par fil supplémentaires ne possèdent pas de câble.
+
+Les ruptures de fil pendant le fonctionnement d'une torpille peuvent être minimisées par:
+- se déplacer à vitesse lente
+- garder votre niveau d'immersion
+- garder l'arme à moins de 60 degrés de l'axe de votre sous-marin
+
+
+<size=24><color=maroon><b>MISSILES GUIDÉS</b></color></size>
+Les missiles guidés se lancent, se dirigent vers leur waypoint et, une fois atteints, deviennent activés. Une fois activé, le système de guidage embarqué utilise un radar pour rechercher une cible de surface qui, si elle est trouvée, provoquera le guidage automatique du missile. Les missiles guidés peuvent être trompés par le déploiement de paillettes, une contre-mesure qui confond le guidage radar, ou être abattu par des navires possédant des défenses antimissiles telles que des canons CIWS. De plus, si un missile devient actif mais ne parvient pas à trouver une cible, il s’autodétruit.
+
+<b>PARAMÈTRES DE TUBES</b>
+Les paramètres du tube peuvent être modifiés pour le tube en surbrillance en utilisant directement les boutons de réglage ou <KEY:Weapon Homing>, <KEY:Weapon Attack> et <KEY:Weapon Depth> pour respectivement basculer chacun des trois paramètres. Une fois lancés, les paramètres d'un missile ne peuvent pas être modifiés.
+
+<b>Paramètres du capteur:</b>
+<b>Aucun</b>
+
+<b>Paramètres de recherche:</b>
+<b>Cône large:</b> Utilise un cône de détection large pour rechercher une cible. Cela peut être utile si l'emplacement de la cible n'a pas été déterminé avec précision ou si le missile est fortement incliné par rapport à la cible.
+<b>Cône étroit:</b> Utilise un cône de détection étroit pour rechercher une cible. Utile pour focaliser le missile sur une cible spécifique si d’autres cibles potentielles se trouvent à proximité.
+
+<b>Paramètres de hauteur:</b>
+<b>Surface:</b> Maintient le missile bas, parcourant la surface de l’océan jusqu’à la cible.
+<b>Dos-d'âne:</b> Lors du guidage final, le missile va soudainement remonter puis plonger vers la cible.
+
+
+<size=24><color=maroon><b>MAGASINS D'ARMES</b></color></size>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Le panneau Armes est toujours disponible avant le combat, pendant le briefing de mission, afin de mettre en place des armes à bord ainsi que des armes pré-chargées dans des tubes. Une fois que le combat commence, le panneau Armes reste disponible pour continuer à gérer vos armes.
+
+Dans le briefing de mission, sélectionnez <DICTIONARY:VesselStatus> ou utilisez <KEY:Stores> pour ouvrir le panneau Armes.
+En combat, utilisez <KEY:Stores> ou cliquez directement sur l'onglet Armes pour ouvrir le panneau Armes.
+
+Le panneau des armes affiche une liste de toutes les armes que votre sous-marin est capable de transporter, y compris leur nom, combien sont actuellement à bord, le nombre total d’armes à bord et le maximum autorisé, par ex. "23/23". Les nombres entre parenthèses "()" correspondent au nombre d'armes de cette sorte actuellement chargées dans le tube. Le nombre suivant "VLS:" est le nombre d'armes de cette sorte actuellement chargées dans le système de lancement vertical (VLS) si votre sous-marin en possède un. Notez que toutes les armes ne sont pas compatibles avec le VLS et que seules celles listées avec "VLS:" peuvent être utilisées. En combat, il fournit également des commandes pour contrôler manuellement les torpilles à guidage filaire. Ces contrôles à l'écran correspondent aux raccourcis clavier répertoriés sous la section des armes. Les autres contrôles sont le tube de tir, la sélection du tube et le changement d'arme chargée.
+
+<b>INVENTAIRE DES ARMES</b>
+Dans les missions uniques et les missions d’entraînement, l’inventaire des armes peut être modifié pendant le briefing de la mission. Lorsque vous jouez à une campagne, l’inventaire des armes ne peut être modifié que dans les ports et lors du chargement et du déchargement des armes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cliquez sur un nom ou une image d'arme pour le sélectionner (surligné en blanc).
+Ensuite, utilisez <DICTIONARY:UnloadWeapon> pour supprimer l'arme ou <DICTIONARY:LoadWeapon> pour ajouter l'arme dans l'inventaire de votre sous-marin.
+Les armes dans les tubes seront toujours déchargées et chargées en dernier. Les armes chargées dans des tubes et leurs réglages persisteront au début du combat.
+
+Des commandos peuvent également être embarqués pour des missions spécifiques nécessitant leur dépose. Charger une équipe de commandos occupe tout l’espace d’inventaire de votre sous-marin, ce qui permet de transporter des armes uniquement dans des tubes et dans le VLS. Le maximum d'armes autorisées à bord changera pour refléter cela et toutes les armes qui ne sont pas dans des tubes ou des VLS seront retirées lors du chargement des commandos. Les commandos sont embarqués et débarqués à l'aide de <DICTIONARY:LoadCommando> et <DICTIONARY:UnloadCommando>.
+
+Votre sous-marin sera toujours équipé du nombre maximal de leurres phoniques (bruiteurs) au début d’une mission (ou lors du retour au port pendant une campagne) et au combat, le nombre restant peut être affiché sur le panneau des magasins.

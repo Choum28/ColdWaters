@@ -1,0 +1,15 @@
+﻿
+NextAction=MAP
+Image=campaign/images/nato naval 1
+Photo=campaign/images/photos/naval nato 1,campaign/images/photos/naval nato 2,campaign/images/photos/naval nato 3,campaign/images/photos/naval nato 4,campaign/images/photos/naval nato carrier 2
+Music=audio/music/Cold Waters Campaign Victory
+Header=<DATE>
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>LA MARINE AVANCE</b>|<b>MERS SÉCURISÉES</b>|<b>LES NAVIRES DE GUERRE SE RETIRENT</b>
+Color=57,61,73,255
+Sentence1=Les navires de guerre et les sous-marins de l'OTAN ont pris plusieurs nouvelles positions stratégiques, dont certaines autour de <ENDLOCATION>, en réponse à une activité navale soviétique considérablement réduite. Des sources proches du Pentagone affirment que la guerre pèse lourdement sur les opérations navales ennemies et que leurs lignes d'approvisionnement continuent d'être fortement sollicitées.
+Color=218,218,208,255
+Sentence2=Les succès récents de l'OTAN en mer ont réduit le nombre de navires de guerre nécessaires pour maintenir le contrôle dans plusieurs régions. De nombreux navires de ces régions ont été rapidement réaffectés à des tâches d'escorte afin de mieux protéger les convois transportant les armes, les blindés et les hommes dont ils avaient tant besoin, des États-Unis au Royaume-Uni.

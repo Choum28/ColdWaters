@@ -1,0 +1,6 @@
+﻿[Unit Reference]
+ShipClass=Ugra
+Description=Ravitailleur de sous-marins classe Ugra
+DefensiveWeapons=57mm AA Guns
+Sensors=Radar de navigation seulement
+History=Achevés entre 1963 et 1972, ces six navires ont été dessinés à la classe Don précédente. Ils sont conçus pour maintenir et soutenir les sous-marins en mer et transporter des armes, de la nourriture, de l'eau et des équipes de secours en plus de fournir des installations de réparation importantes. Comme les Dons, ils sont destinés à fonctionner comme des vaisseaux amiraux en plus de leur rôle de soutien. Parce qu'ils ne portent que des armes AA rudimentaires pour se défendre, ils opèrent généralement avec des escortes de surface.

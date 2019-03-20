@@ -1,0 +1,7 @@
+Image=campaign/images/pact wolfpack 3
+MissionLocation=Dans le détroit du Danemark
+Briefing=14 NOV 1984
+Briefing=Une patrouille anti sous-marine de l'OTAN vous poursuit dans le détroit du Danemark. Maintenant il est temps de passer à l'offensive.
+Briefing=
+Briefing=Objectif principal:
+Briefing=Couler les navires d'escorte

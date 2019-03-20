@@ -1,0 +1,4 @@
+﻿[Unit Reference]
+ShipClass=Kommunist
+Description=Grand cargo classe Kommunist
+History=Navires généraux à grande capacité, 20 navires de cette classe ont été construits en Pologne entre 1968-71 pour la marine marchande soviétique. Plus rapides que les Poltavas, et bien adaptés à la manutention de marchandises diverses telles que les munitions et les véhicules, ils seraient probablement utilisés en temps de guerre comme transport de ravitaillement rapide lors d'un conflit dans la mer de Norvège.

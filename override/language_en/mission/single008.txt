@@ -1,0 +1,10 @@
+Image=campaign/images/plan surface raiders 3
+MissionLocation=Dans le détroit de Taiwan
+Briefing=20 AUG 2000
+Briefing=CINCPAC vous ordonne d'attaquer un groupe amphibie chinois faisant route vers la côte sud de Taiwan, et ayant déjà coulé un vaisseau patrouilleur taïwanais. Ce groupe inclut un certain nombre de vaisseaux de surface et de sous-marins soviétiques.
+Briefing=
+Briefing=Objectif principal:
+Briefing=Couler les navires de débarquement
+Briefing=
+Briefing=Objectif secondaire:
+Briefing=Engager tout navire ennemi

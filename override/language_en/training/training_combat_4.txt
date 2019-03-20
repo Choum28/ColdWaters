@@ -1,0 +1,83 @@
+﻿[TRAINING 1]=6
+<b>Panneau de données - Nous</b>
+Au-dessus de la mini-carte se trouve le panneau de données qui contient 3 colonnes de données (de gauche à droite).
+1) Données de notre SM
+2) Données du contact
+3) Données d'arme (torpille filoguidée)
+
+Pour cette mission, nous allons nous concentrer sur la première colonne qui affiche votre navire;
+<b>CAP</b> Cap actuel (direction)
+<b>VIT</b> Vitesse
+<b>PRF</b> Profondeur
+<b>BAR</b> Barre de direction
+<b>ASS</b> Assiette (barres de plongée)
+<b>BAL</b> Ballast
+
+Au fur et à mesure que vous ajustez la barre de direction, les barres de plongée et le ballast de votre sous-marin, les paramètres seront affichés ici, tout comme le cap, la vitesse et la profondeur de votre sous-marin.
+[/TRAINING 1]
+
+[TRAINING 2]
+<b>Vitesse et direction</b>
+<b>Vitesse</b>
+Utilisez <KEY:Increase Power> et <KEY:Decrease Power> pour ajuster votre vitesse.
+Le journal des messages en bas à droite montre votre réglage de vitesse actuel.
+Maintenant, utilisez <KEY:Increase Power> pour amener votre vitesse jusqu'à Avant Toute (25 noeuds).
+
+<b>Direction</b>
+Utilisez <KEY:Rudder Left> et <KEY:Rudder Right> pour diriger votre bateau.
+La barre est réglée par incréments de 5 degrés jusqu'à un minimum de -30 degrés (gauche) et de +30 degrés (droite).
+Maintenant, utilisez <KEY:Rudder Left> pour amener votre gouvernail à -30 degrés.
+
+Votre sous-marin devrait maintenant tourner dans un cercle. Notez la colonne la plus à gauche du panneau de données reflétant votre changement de cap et le réglage actuel du gouvernail.
+[/TRAINING 2]
+
+[TRAINING 3]
+<b>Contrôle de profondeur</b>
+<color=red><b><i>AVERTISSEMENT: Commandant, vous devez naviguer dans votre bateau en toute sécurité et ne pas dépasser 1000 pieds de profondeur </i></b></color>
+
+Barres de plongée: Utilisez <KEY:Planes Down> et <KEY:Planes Up> pour modifier la profondeur avec les barres de plongée.
+Les barres sont réglées par incréments de 5 degrés jusqu'à un minimum de -30 degrés (bas) et de +30 degrés (haut) et nécessitent un mouvement vers l'avant pour fonctionner.
+Réglez vos barres à 0 afin de rétablir l'assiette à niveau.
+
+Ballast: Utilisez <KEY:Ballast Down> et <KEY:Ballast Up> pour changer la profondeur en utilisant le ballast.
+Le ballast est réglé par incréments de 5 unités jusqu'à un minimum de -30 (bas) et +30 (haut) et ne nécessite aucun mouvement vers l'avant pour fonctionner.
+Les changements de profondeur avec le ballast sont beaucoup plus lents qu'avec les barres.
+
+<b>Droit devant et à niveau</b>
+Utilisez <KEY:Level Submarine> pour régler rapidement les paramètres de barres et de ballast à 0.
+
+<b>Maintenir les touches de navigation</b>
+Plutôt que d'appuyer sur les touches pour modifier les barres de direction, les barres de plongée, le ballast et la vitesse, vous pouvez maintenir la touche enfoncée et la relâcher au niveau désiré.
+[/TRAINING 3]
+
+[TRAINING 4]
+<b>Surface d'urgence</b>
+Contrôlez votre sous-marin en profondeur et en vitesse. Assurez-vous de ne pas dépasser 1000 pieds de profondeur.
+
+Lorsque vous êtes prêt, faites plonger votre sous-marin à environ 200 pieds de profondeur et remettez-le à niveau.
+
+<b>Surface d'urgence</b>
+Dans une situation d'urgence, vous pouvez utiliser <KEY:Blow Ballast> pour purger les ballasts en urgence afin de faire surface le plus rapidement possible.
+
+Utilisez <KEY:Blow Ballast> maintenant. Réglez votre vitesse sur Avant à flanc et les barres de plongée à 30 en conjonction avec le ballast à 30 pour accélérer considérablement le taux de remontée à la surface.
+
+Une fois en surface, remettez à niveau vos barres.
+[/TRAINING 4]
+
+[TRAINING 5]
+<b>Air comprimé</b>
+La procédure de surface en urgence épuise les réserves d'air comprimé. Une fois à la surface, l'air est disponible pour reconstituer ces réserves, mais cela prend du temps.
+
+Graduellement, l'indicateur de ballast descend jusqu'à 0, moment auquel l'air comprimé est réapprovisionné et votre sous-marin est capable de plonger à nouveau et d'utiliser de nouveau la remontée en urgence.
+
+Notez qu'à partir du déclenchement de la surface en urgence avec le ballast de secours, jusqu'à ce que les réserves d'air comprimé soient rétablies, les réglages du ballast ne peuvent pas être modifiés.
+[/TRAINING 5]
+
+[TRAINING 6]
+<b>Fin du combat</b>
+Pour quitter le combat, utilisez <KEY:Cancel or Quit> pour entrer dans le menu de mission et terminer la mission (le panneau est automatiquement masqué).
+
+Une fois dans le menu de mission <LEFTCLICK> <DICTIONARY:ExitMission> pour terminer cette mission et afficher le rapport après action.
+
+Lorsque vous avez fini d'afficher le rapport après action, <LEFTCLICK> <DICTIONARY:Continue> ou <KEY:Continue>.
+[/TRAINING 6]

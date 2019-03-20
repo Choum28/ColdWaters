@@ -1,0 +1,7 @@
+﻿[Unit Reference]
+ShipClass=Kanin
+Description=Frégate anti-sous-marine classe Kanin
+DefensiveWeapons=SA-N-1 SAM
+OffensiveWeapons=AK762 76.2mm DP Guns\n533mm anti-SM Torpedoes\nRBU-6000 anti-SM Rockets\nRBU-1000 anti-SM Rockets
+Aircraft=Landing pad for anti-SM helicopter
+History=Les huit navires de cette classe étaient à l'origine construits comme des fusées de classe Krupny armés de missiles de croisière SS-N-1. De 1968 à 1977, ils ont été pris en charge et entièrement reconstruits en tant que grands navires anti-sous-marins, avec un sonar amélioré et un armement anti-SM, et équipés de montures SA-N-1 restantes initialement prévues pour le programme Kresta I. Alors qu'ils sont équipés d'une plate-forme d'atterrissage d'hélicoptère sur la poupe, ils n'ont aucune installation de hangar pour faire fonctionner efficacement des hélicoptères. Dans l'ensemble, ils font des navires de second ordre dans un mix Hi-Lo.

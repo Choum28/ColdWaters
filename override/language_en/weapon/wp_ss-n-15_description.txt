@@ -1,0 +1,4 @@
+﻿[Weapon Reference]
+WeaponName=SS-N-15
+WeaponDescriptiveName=Missile anti-SM SS-N-15
+WeaponDescription=Missile anti-SM lancé par sous-marin. Il est similaire au SS-N-14 et laisse tomber la même torpille à détection UGMT.

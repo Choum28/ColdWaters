@@ -1,0 +1,7 @@
+﻿[Unit Reference]
+ShipClass=Sovremenny
+Description=Frégate classe Sovremenny
+DefensiveWeapons=SA-N-7 SAM
+OffensiveWeapons=RBU-1000 anti-SM Rockets
+Aircraft=1 Ka-27 Helix anti-SM helicopter
+History=La Sovremenny est une classe de compagnons pour les Udaloys, mais lorsque ces derniers sont optimisés pour les opérations anti-SM, les Sovremennys sont optimisés pour la mission anti-navire. Le design est clairement dérivé de la conception antérieure de Kresta, avec des dimensions presque identiques et probablement la même usine de vapeur. Au lieu du grand système de défense de zone SA-N-3, ils sont équipés d'un système SAM à moyenne portée et d'espaces de commandement et de contrôle plus étendus, mais ne possèdent que des armes anti-SM rudimentaires. Dans une rupture avec la praxis soviétique, ils comportent une plate-forme d'atterrissage au milieu du navire, semblable aux conceptions occidentales.
