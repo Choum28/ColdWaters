@@ -1,7 +1,7 @@
 [Unit Reference]
 ShipClass=Belknap
-Description=Croiseurs lance-missiles de classe Belknap
+Description=Croiseur lance-missiles de classe Belknap
 DefensiveWeapons=SAM RIM-67B Standard
 OffensiveWeapons=
 Aircraft=1 SH-2F Seasprite
-History=Cette classe a été construite dans les années 1960 en tant que frégates rapides lances-missiles destiné au pillonage de force opérationnelle de porte-avions. La conception est dérivée des anciennes frégates de classe Leahy ayant une proue et poupe de forme identique, mais remplace le lanceur de missile arrière par un canon de 5 pouces, ainsi qu'un système de lance-missiles amélioré capable de tirer à la fois le missile sol-air Standard et le missile anti sous-marin ASROC. Ils ont été reclassés comme croiseurs lance-missiles en 1975.
+History=Cette classe a été construite dans les années 1960 en tant que frégates rapides lance-missiles simple extrémité destiné au repérage de force opérationnelle de porte-avions. La conception est dérivée des anciennes frégates double extrémité de classe Leahy, mais remplace le lanceur de missile arrière par un canon de 5 pouces, ainsi qu'un système de lance-missiles amélioré capable de tirer à la fois le missile sol-air Standard et le missile anti sous-marin ASROC. Ils ont été reclassés comme croiseurs lance-missiles en 1975.

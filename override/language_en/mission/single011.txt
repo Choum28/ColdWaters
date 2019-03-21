@@ -1,4 +1,4 @@
-Image=campaign/images/plan wolfpack 2
+Image=campaign/images/pact specops
 MissionLocation=Dans le détroit de Luçon
 Briefing=21 SEP 2000
 Briefing=Il y a quelques heures, le PLAN a lancé une série d'attaques de missiles de croisière et de forces spéciales sur nos bases navales à Sasebo, Okinawa et de la Baie de Subic. Nav Ops suspecte qu'une frappe similaire utilisant des sous-marins est prévue sur Guam, notre dernière base dans la région.

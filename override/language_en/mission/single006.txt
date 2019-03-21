@@ -1,4 +1,4 @@
-Image=campaign/images/pact surface raiders 2
+Image=campaign/images/68 pact naval 1
 MissionLocation=Détroit du Danemark, près de l'Islande
 Briefing=04 FEB 1968
 Briefing=Vous avez détecté un groupe de combat ASM soviétique, comprenant un porte-hélicoptères, qui tente de pénétrer dans l'Atlantique Nord avec l'intention d'y chasser nos sous-marins Polaris.

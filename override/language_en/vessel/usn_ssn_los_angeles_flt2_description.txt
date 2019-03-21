@@ -1,5 +1,5 @@
 [Unit Reference]
-ShipClass=Los Angeles
+ShipClass=Flt-2 Los Angeles
 Description=Sous-marin nucléaire d'attaque de classe Los Angeles Flt-2
 History=Cette sous-classe améliore la conception 688 originale avec des tuiles anéchoïques et un stockage accru des armes sous la forme de 12 tubes de lancement vertical (VLS) dans le ballast avant pouvant transporter des missiles antinavires TASM ou des missiles de croisière TLAM.
 

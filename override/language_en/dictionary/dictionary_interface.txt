@@ -100,7 +100,6 @@ Kilometer=KM
 Solution=SOL
 Percentage=%
 WeaponData=DONN ARM
-//a vérif (durée de fonctionnement)
 RangeToEnable=RTE
 TimeToRun=DDF
 AmbientNoise=BRUIT AMBIENT
@@ -144,7 +143,6 @@ PLOT CSE=DÉFINIR CAP
 SET DEPTH=DÉFINIR PLONGÉE
 DIVE ORDERS=ORDRES PLONGÉE
 E. BLOW=SURF. URG
-// EN
 MASTS=MÂTS
 ACTIVE=ACTIF
 DECOY=LEURRE
@@ -197,7 +195,6 @@ ReferenceTorpedoes=Torpilles
 ReferenceSensors=Capteurs
 ReferenceNavRADAR=Radar de navigation seulement
 ReferenceSearchRADAR=Radar de recherche, MSE
-// a finir
 ReferenceMastMounted=monté sur mât
 ReferenceSonarBoth=sonar actif et passif
 ReferenceSonarActive=sonar actif
@@ -207,7 +204,6 @@ ReferenceRadar=Radar
 ReferenceActive=Actif
 ReferencePassive=Passif
 ReferenceTowed=Remorqué
-// a finir
 ReferenceHullMounted=monté sur coque
 ReferenceTowedArray=sonar remorqué
 ReferenceDipping=immergé
@@ -365,7 +361,6 @@ Blow Ballast=Chasse rapide au Ballast
 Emergency Deep=Plongée d'urgence
 Sonar Mode=Sonar actif
 Silent Running=Situation silence 
-// a confirmer
 Noisemaker=Leurre acoustique
 
 ESM Mast=Mât MSE

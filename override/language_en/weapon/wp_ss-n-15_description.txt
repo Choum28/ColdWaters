@@ -1,4 +1,4 @@
 [Weapon Reference]
 WeaponName=SS-N-15
 WeaponDescriptiveName=Missile ASM SS-N-15
-WeaponDescription=Missile ASM à distance de sécurité lancée par sous-marin. Il est similaire au SS-N-14 et laisse tomber la même torpille à tête chercheuse UGMT.
+WeaponDescription=Missile ASM à distance de sécurité lancée par sous-marin. Il est similaire au SS-N-14 et largue la même torpille à tête chercheuse UGMT.

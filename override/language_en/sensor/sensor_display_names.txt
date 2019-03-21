@@ -15,11 +15,11 @@ usn_tb_16=TB-16=Le TB-16 remorqué augmente considérablement la portée du sona
 
 usn_tb_23=TB-23=Le TB-23 Thin-Line remorqué augmente considérablement la portée du sonar passif. Il est plus efficace à des vitesses lentes et souffre d'une saturation de bruit au dessus de 10 Kts.\n \nLe sonar remorqué annule également le cone de silence arrière causé par les bruits de son propre navire.
 
-usn_tb_29=TB-29=The TB-29 Thin-Line remorqué augmente considérablement la portée du sonar passif. Il est plus efficace à des vitesses lentes et souffre d'une saturation de bruit au dessus de 10 Kts.\n \nLe sonar remorqué annule également le cone de silence arrière causé par les bruits de son propre navire.
+usn_tb_29=TB-29=Le TB-29 Thin-Line remorqué augmente considérablement la portée du sonar passif. Il est plus efficace à des vitesses lentes et souffre d'une saturation de bruit au dessus de 10 Kts.\n \nLe sonar remorqué annule également le cone de silence arrière causé par les bruits de son propre navire.
 
-usn_sqs_26=SQS-26=Il s’agit d’un sonar très puissant basse fréquence introduit par la marine américaine dans les années 1960, prévu pour les opérations en zone de convergence.
+usn_sqs_26=SQS-26=Il s’agit d'un très puissant sonar basse fréquence introduit par l’US Navy dans les années 60 et destiné aux opérations en zone de convergence.
 
-usn_sqr_18=SQR-18=Le SQR-18 TACTASS augmente considérablement la portée du sonar passif. Il est plus efficace à des vitesses lentes et souffre d'une saturation de bruit au dessus de 10 Kts.\n \nLe sonar remorqué annule également le cone de silence arrière causé par les bruits de son propre navire.
+usn_sqr_18=SQR-18=Le SQR-18 TACTASS augmente considérablement la portée du sonar passif. Il est plus efficace à des vitesses lentes mais souffre d'une saturation de bruit au dessus de 10 Kts.\n \nLe sonar remorqué annule également le cone de silence arrière causé par les bruits de son propre navire.
 
 usn_ssq_62=SSQ-62 DICASS=Bouée sonar active.
 
@@ -104,13 +104,13 @@ wp_stork_tail=Stork Tail=Il s'agit d'un sonar trempé de dernière génération 
 wp_lamb_tail=Lamb Tail=Il s'agit du sonar trempé avancé Ros-V VGS-3 utilisé sur les hélicoptères Ka-27PL de lutte ASM.
 
 [RADAR]
-usn_bps_12=BPS-12=Radar de veille surface monté sur mât qui permet aux sous-marins de détecter des contacts en surface autrement undétectables, au risque d'être détecté par les ennemies équipés de MSE.
+usn_bps_12=BPS-12=Radar de veille surface monté sur mât qui permet aux sous-marins de détecter des contacts en surface autrement indétectables, au risque d'être détecté par les ennemies équipés de MSE.
 
-usn_bps_15=BPS-15=Radar de veille surface monté sur mât qui permet aux sous-marins de détecter des contacts en surface autrement undétectables, au risque d'être détecté par les ennemies équipés de MSE.
+usn_bps_15=BPS-15=Radar de veille surface monté sur mât qui permet aux sous-marins de détecter des contacts en surface autrement indétectables, au risque d'être détecté par les ennemies équipés de MSE.
 
-usn_bps_14_15=BPS-14/15=Radar de veille surface monté sur mât qui permet aux sous-marins de détecter des contacts en surface autrement undétectables, au risque d'être détecté par les ennemies équipés de MSE.
+usn_bps_14_15=BPS-14/15=Radar de veille surface monté sur mât qui permet aux sous-marins de détecter des contacts en surface autrement indétectables, au risque d'être détecté par les ennemies équipés de MSE.
 
-usn_bps_15A=BPS-15A=Radar de veille surface monté sur mât qui permet aux sous-marins de détecter des contacts en surface autrement undétectables, au risque d'être détecté par les ennemies équipés de MSE.
+usn_bps_15A=BPS-15A=Radar de veille surface monté sur mât qui permet aux sous-marins de détecter des contacts en surface autrement indétectables, au risque d'être détecté par les ennemies équipés de MSE.
 
 usn_sps_67=SPS-67=Radar de veille surface typique utilisé par les navires pour détecter d'autres navires et les dangers liés à la navigation. Bien qu'ils ne soient pas optimisés pour cela, Ils sont capables de détecter un périscope surélevé si les conditions sont bonnes.
 
@@ -122,15 +122,15 @@ wp_don_kay=Don Kay=Radar de surface typique utilisé par les navires pour détec
 
 wp_spin_through=Spin Trough=Radar de veille surface typique utilisé par les navires pour détecter d'autres navires et les dangers liés à la navigation. Bien qu'ils ne soient pas optimisés pour cela, Ils sont capables de détecter un périscope surélevé si les conditions sont bonnes.
 
-wp_snoop_head=Snoop Head=Radar de veille surface monté sur mât qui permet aux sous-marins de détecter des contacts en surface autrement undétectables, au risque d'être détecté par les ennemies équipés de MSE.
+wp_snoop_head=Snoop Head=Radar de veille surface monté sur mât qui permet aux sous-marins de détecter des contacts en surface autrement indétectables, au risque d'être détecté par les ennemies équipés de MSE.
 
-wp_snoop_tray=Snoop Tray=Radar de veille surface monté sur mât qui permet aux sous-marins de détecter des contacts en surface autrement undétectables, au risque d'être détecté par les ennemies équipés de MSE.
+wp_snoop_tray=Snoop Tray=Radar de veille surface monté sur mât qui permet aux sous-marins de détecter des contacts en surface autrement indétectables, au risque d'être détecté par les ennemies équipés de MSE.
 
-wp_snoop_plate=Snoop Plate=Radar de veille surface monté sur mât qui permet aux sous-marins de détecter des contacts en surface autrement undétectables, au risque d'être détecté par les ennemies équipés de MSE.
+wp_snoop_plate=Snoop Plate=Radar de veille surface monté sur mât qui permet aux sous-marins de détecter des contacts en surface autrement indétectables, au risque d'être détecté par les ennemies équipés de MSE.
 
-wp_snoop_slab=Snoop Slab=Radar de veille surface monté sur mât qui permet aux sous-marins de détecter des contacts en surface autrement undétectables, au risque d'être détecté par les ennemies équipés de MSE.
+wp_snoop_slab=Snoop Slab=Radar de veille surface monté sur mât qui permet aux sous-marins de détecter des contacts en surface autrement indétectables, au risque d'être détecté par les ennemies équipés de MSE.
 
-wp_snoop_pair=Snoop Pair=Radar de veille surface monté sur mât qui permet aux sous-marins de détecter des contacts en surface autrement undétectables, au risque d'être détecté par les ennemies équipés de MSE.
+wp_snoop_pair=Snoop Pair=Radar de veille surface monté sur mât qui permet aux sous-marins de détecter des contacts en surface autrement indétectables, au risque d'être détecté par les ennemies équipés de MSE.
 
 wp_mushroom=Short Horn=Radar de surveillance pour hélicoptères Ka-25BSh, optimisé pour la lutte ASM.
 

@@ -7,6 +7,8 @@ plan_type81_mortar=Type 81=C'est un lanceur de type hérisson qui utilise des ro
 plan_type87_mortar=Type 87=C'est un lanceur de type hérisson qui utilise des roquettes pour lancer des grenades anti-sous-marines dans un pattern prédéfini sur de grandes distances. La portée maximale est de 5500 yards.
 
 [GUNS]
+usn_mark_42_shell=5"/54 Mark 42=5"/54 Mark 42
+
 wp_6x3_b-38_shell=Canons 152mm/57=152mm/57 B-38
 
 wp_ak-130_shell=Canons AK-130=130mm/70 AK-130

@@ -1,4 +1,4 @@
-Image=campaign/images/pact warship tender 1
+Image=campaign/images/nato submarine
 MissionLocation=Est de l'Islande, dans la mer de Norvège
 Briefing=15 DÉC 1984
 Briefing=Apres plusieurs jours calme, le sonar signale un contact solitaire.

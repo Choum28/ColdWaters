@@ -1,4 +1,4 @@
 [Weapon Reference]
 WeaponName=MK16
 WeaponDescriptiveName=Torpille Mark 16 (Mk16)
-WeaponDescription=Ces torpilles de la Seconde Guerre mondiale ont été utilisées comme armes anti-navires jusqu'en 1972, date à laquelle elles ont été remplacées (avec la torpille Mk37 ASM) par le Mk48 à double usage. Le guidage est limité à un angle gyroscopique et la probabilité d'impact est faible à bout portant.
+WeaponDescription=Ces torpilles de la Seconde Guerre mondiale ont été utilisées comme armes antinavires jusqu'en 1972, date à laquelle elles ont été remplacées (avec la torpille Mk37 ASM) par le Mk48 à double usage. Le guidage est limité à un angle gyroscopique et la probabilité d'impact est faible à bout portant.

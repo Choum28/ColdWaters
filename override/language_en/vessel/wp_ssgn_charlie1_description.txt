@@ -1,4 +1,10 @@
 [Unit Reference]
 ShipClass=Charlie I
-Description=Sous-marins nucléaire lanceur de missiles de croisière de Charlie I
+Description=Sous-marins nucléaire lanceur de missiles de croisière de classe Charlie I
 History=Le Charlie était le premier sous-marin lanceur de missiles de croisière du monde capable de tirer submergé, rendant ces sous-marins beaucoup plus menaçants que les premiers Echo et Juliets qui devaient faire surface pour lancer leurs missiles. Contrairement à la génération précédente, ces sous-marins disposaient d'un meilleur silence, de sonars avancés et une automatisation améliorée, ce qui les rendait similaires à la classe Victor 1. L'utilisation d'un seul réacteur les rend cependant beaucoup plus lents, ce qui reste leur principal inconvénient.
+
+
+[Player Ship Instances]
+
+PlayerClassNames=Skat,Skat,Skat,Skat,Skat,Skat,Skat,Skat,Skat,Skat
+PlayerClassHullNumbers=K-43,K-87,K-25,K-121,K-313,K-308,K-320,K-302,K-325,K-429

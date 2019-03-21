@@ -5,6 +5,3 @@ Briefing=Traquer et tuer un boomer soviétique de classe Typhoon et échapper à
 Briefing=
 Briefing=Objectif Principal :
 Briefing=Couler le Typhoon
-Briefing=
-Briefing=Objectif Secondaire :
-Briefing=Aucun

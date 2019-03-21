@@ -4,4 +4,4 @@ Description=Frégate de classe Knox
 DefensiveWeapons=Aucun
 OffensiveWeapons=Roquettes ASM RBU-1200
 Aircraft=1 SH-2F Seasprite
-History=Cette classe était conçue à l'origine conçue comme une escorte anti-sous-marine de seconde génération, associant le très puissant sonar SQS-26 à l'hélicoptère drone DASH. En raison de son manque de fiabilité, le DASH a été remplacé plus tard par l'hélicoptère SH-2F Seasprite LAMPS, offrant au navire une capacité ASM à longue portée en complément de sa batterie ASROC. Ces navires ont été rééquipés du sonar remorqué TACTASS.
+History=Cette classe était conçue à l'origine conçue comme une escorte anti-sous-marine de seconde génération, associant le très puissant sonar SQS-26 à l'hélicoptère drone DASH. En raison de son manque de fiabilité, le DASH a été remplacé plus tard par l'hélicoptère SH-2F Seasprite LAMPS, offrant au navire une capacité ASM longue portée en complément de sa batterie ASROC. Ces navires ont été rééquipés avec le sonar remorqué TACTASS.
