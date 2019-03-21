@@ -1,4 +1,4 @@
-﻿[Unit Reference]
-ShipClass=Plateforme
-Description=Plateforme pétrolière Spar
-History=Les plates-formes Spar ont été développées comme une alternative aux plates-formes semi-submersibles conventionnelles pour une utilisation dans des eaux très profondes. Par rapport aux plates-formes traditionnelles, elles ont une plus grande stabilité inhérente grâce à leur grand tirant d'eau et à leur grand contrepoids. Comme d'autres appareils de forage, elles produisent un bruit considérable à large bande et leurs lignes d'amarrage présentent des obstacles sous-marins.
+[Unit Reference]
+ShipClass=Plate-forme pétrolière
+Description=Plate-forme de forage maritime
+History=Les plates-formes Spar ont été développées comme une alternative aux plates-formes semi-submersibles conventionnelles pour une utilisation dans des eaux très profondes. Par rapport aux plates-formes traditionnelles, elles ont une plus grande stabilité grâce à leur grand tirant d'eau et à leur grand contrepoids. Comme d'autres appareils de forage, ils produisent un bruit considérable à large bande et leurs lignes d'amarrage sont des obstacles sous-marins.

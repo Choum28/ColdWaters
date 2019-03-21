@@ -1,29 +1,29 @@
 ImageBackground=campaign/images/nato submarine 2
-ImagePosition=15,-368
+ImagePosition=15,-338
 ImageHeight=260
 Image=help_images/tacmap_icons.png
-ImagePosition=15,-2700
+ImagePosition=15,-2665
 ImageHeight=260
 Image=help_images/signature.png
-ImagePosition=15,-3540
+ImagePosition=15,-3482
 ImageHeight=260
 Image=help_images/recognition_manual.png
 [/Image]
 <size=24><color=maroon><b>CARTE TACTIQUE</b></color></size>
-La carte tactique et la mini-carte associée fournissent une vue d'ensemble de la bataille basée sur les données des capteurs de votre sous-marin. Ces données sont cruciales pour maintenir la conscience de la situation et garder le contrôle d'une bataille à mesure qu'elle se déroule. En outre, la carte tactique est liée aux systèmes d'armes de votre sous-marin pour fournir des informations de ciblage.
+La carte tactique et la mini-carte associée fournissent une vue d'ensemble de la bataille basée sur les données des capteurs de votre sous-marin. Ces données sont cruciales pour être au courant de la situation et garder le contrôle d'une bataille à mesure qu'elle se déroule. En outre, la carte tactique est liée aux systèmes d'armes de votre sous-marin pour fournir des informations de ciblage.
 
-<b>UTILISER LA CARTE</b>
-Notez que lorsque vous utilisez la mini-carte, le pointeur de la souris doit être au-dessus pour utiliser le panoramique et le zoom.
-<b>Déplace la carte:</b> <LEFTCLICK> et glissez la souris.
-<b>Zoom:</b> <MOUSEWHEEL> ou <KEY:Zoom In> et <KEY:Zoom Out>.
-<b>Centrer la carte:</b> <KEY:Centre Map> place votre sous-marin au centre de la carte.
-<b>Auto-Centrer la Map:</b> <KEY:Auto Centre Map> verrouille la carte sur votre sous-marin.
-<b>Agrandir la carte:</b> <KEY:Tactical Map> bascule entre mini-carte et carte plein écran. Cache automatiquement la mini-carte lors du passage en plein écran.
-<b>Cacher la Mini-carte:</b> <LEFTCLICK> dans la partie supérieure de la mini-carte pour la cacher / la restaurer. Si vous perdez votre sous-marin à partir d'une mini-carte, agrandissez la carte, faites glisser votre sous-marin au centre, puis réduisez la carte.
+<b>UTILISATION DE LA CARTE</b>
+Notez que lorsque vous utilisez la mini-carte, le pointeur de la souris doit être au-dessus de celle-ci pour la déplacer ou zoomer.
+<b>Déplacer la carte :</b> <LEFTCLICK> et faites glisser la souris.
+<b>Zoom sur la carte :</b> <MOUSEWHEEL> ou <KEY:Zoom In> et<KEY:Zoom Out>.
+<b>Centrer la carte :</b> <KEY:Centre Map> placera votre sous-marin au centre de la carte.
+<b>Centre-auto Carte :</b> <KEY:Auto Centre Map> verrouille la carte sur votre sous-marin.
+<b>Agrandir la carte:</b> <KEY:Tactical Map> bascule entre la mini-carte et la carte plein écran. Masque la mini-carte lors du passage en plein écran.
+<b>Masquer la Mini-carte :</b> <LEFTCLICK> dans la partie supérieure de la mini-carte la masque ou la restaure. Si vous perdez votre sous-marin sur la mini-carte, agrandissez la carte, faites glisser votre sous-marin au centre, puis réduisez la carte.
 
 L'échelle de la carte tactique est affichée en haut à droite en mode plein écran.
 
-Les icônes affichées sur la carte sont les suivantes et sont décrites plus en détail ci-dessous:
+Les icônes affichées sur la carte sont les suivantes et sont décrites plus en détail ci-dessous :
 
 
 
@@ -40,87 +40,87 @@ Les icônes affichées sur la carte sont les suivantes et sont décrites plus en
 
 
 
-<b>POSITION DES NAVIRES</b>
-La carte affiche la position de votre sous-marin et la trace qui est toujours précise à 100%. <LEFTCLICK> sur votre sous-marin déplacera la caméra.
+<b>POSITIONS DU NAVIRE</b>
+La carte affiche la position de votre sous-marin et son parcours qui sont toujours précis à 100%. <LEFTCLICK> sur votre sous-marin déplacera la caméra sur lui.
 
-Les contacts sont affichés en fonction de leur solution cible actuelle, à savoir la précision de leur vitesse, de leur cap et de leur portée. Meilleure est la solution (plus proche de 100%), plus la position affichée de ce contact sera précise. Une fois que le parcours est connu, l'icône changera pour afficher ce parcours et une fois que la solution aura atteint un niveau de confiance suffisamment élevé, ce contact sera mis à jour plus fréquemment sur la carte et indiquera où il a voyagé. Le processus de création d'informations sur un contact est appelé analyse de mouvement cible et est expliqué plus en détail ci-dessous.
+Les contacts sont affichés en fonction de la solution de tir actuelle, à savoir la précision déterminé de leur vitesse, de leur cap et de leur distance. Meilleure est la solution (plus proche de 100%), plus la position affichée de ce contact sera précise. Une fois que le cap est connu, l'icône changera pour afficher ce parcours et une fois que la solution aura atteint un niveau de confiance suffisamment élevé, ce contact sera mis à jour plus fréquemment sur la carte et indiquera par où il a voyagé. Le processus de création d'informations sur un contact est appelé analyse de mouvement cible (TMA) et est expliqué plus en détail ci-dessous.
 
-<LEFTCLICK> sur un contact:
-1) sélectionne ce contact ou
-2) si vous l'avez déjà sélectionné, déplace la caméra vers ce contact.
+<LEFTCLICK> sur un contact fera soit;
+1) sélectionner ce contact.
+2) Si vous l'avez déjà sélectionné, déplacer la caméra vers ce contact.
 
 <b>TORPILLES</b>
-Si vos capteurs peuvent détecter une torpille, elle sera affichée sur la carte avec sa trace. Les torpilles lancées par le joueur sur un fil ou les torpilles droites sont toujours affichées car leur position ne nécessite pas de détection par vos capteurs.
+Si vos capteurs peuvent détecter une torpille, elle sera affichée sur la carte avec sa trace. Les torpilles lancées par le joueur filoguidé ou tirées droites sont toujours affichées car leur position ne nécessite pas de détection par vos capteurs.
 
-<LEFTCLICK> sur une torpille:
-1) sélectionne cette torpille pour le guidage de l'arme (si amicale et filoguidée) ou
-2) déplace la caméra vers cette torpille.
+<LEFTCLICK> sur une torpille fera soit;
+1) sélectionnez cette torpille pour le guidage de l'arme (si ami et filoguidé).
+2) déplacer la caméra vers cette torpille.
 
-<b>POINTS DE CHEMINEMENT DE L'ARME</b>
-Lorsque vous tirez une arme, un waypoint doit être défini. Faites simplement <RIGHTCLICK> pour placer le waypoint à la position actuelle de la souris sur la carte. Pour éditer un waypoint, <LEFTCLICK> pour le ramasser et <RIGHTCLICK> pour le placer à la position actuelle de la souris. Seules les armes sur un fil actif peuvent avoir leur waypoint modifié si elles n'ont pas encore atteint leur point de cheminement et sont activées.
+<b>POINTS DE PASSAGE D'ARME</b>
+Lorsque vous tirez une arme, un point de passage doit être défini. Faites simplement <RIGHTCLICK> pour placer le point de passage à la position actuelle de la souris sur la carte. Pour éditer un point de passage, <LEFTCLICK> pour le sélectionner et <RIGHTCLICK> pour le placer à la position actuelle de la souris. Seules les armes avec un filoguidage actif peuvent avoir leur point de passage modifié si elles n'ont pas encore atteint leur point de passage et sont devenus actives.
 
-<b>INDICATEUR D'INTERSECTION DE L'ARME</b>
-Lorsque vous tirez des torpilles, un indicateur apparaît devant la cible pour montrer le point d'interception de cette arme. Cela peut être utilisé pour vous aider à définir votre waypoint. L'indicateur principal est uniquement affiché si la solution cible est au maximum.
+<b>INDICATEUR D'ARME</b>
+Lorsque vous tirez des torpilles, un indicateur apparaît devant la cible pour montrer le point d'interception de cette arme. Cela peut être utilisé pour vous aider à définir votre point de passage. L'indicateur principal est uniquement affiché si la solution de tir est au maximum.
 
-<b>LEURRES PHONIQUES ET TURBULENCES</b>
-Les contre-mesures larguées par les navires ou les perturbations dans l'eau provoquées par le fait de tourner le gouvernail à une vitesse élevée sont également indiquées sur la carte tactique. Ceux-ci interfèrent avec le guidage de la torpille.
+<b>LEURRES ACOUSTIQUES ET KNUCKLES</b> 
+Les contre-mesures larguées par les navires ou les perturbations dans l'eau provoquées par le fait de mettre le gouvernail à une vitesse élevée (un Knuckle) sont également indiquées sur la carte tactique. Ceux-ci interfèrent avec le guidage des torpilles.
 
 <b>INDICATEURS DIRECTIONNELS</b>
-Les pings sonar actifs que votre sous-marin peut entendre sont affichés comme une ligne depuis votre sous-marin dans la direction où le ping a été entendu. Ces pings provenant d'autres vaisseaux ou de bouées acoustiques actives sont largués par avion et sont affichés en jaune. Les pings provenant du système de guidage des torpilles actives (amies ou ennemies) sont affichés en rouge. Chaque fois que votre mât ESM est hissé, les émissions radar des navires ou des avions sont affichées de la même manière pour indiquer la direction de la source émettrice. Ces indicateurs sont indiqués en violet.
+Les pings sonar actifs que votre sous-marin peut entendre sont affichés comme une ligne depuis votre sous-marin vers la direction où le ping a été entendu. Ces pings provenant d'autres navires ou de bouées acoustiques actives largués par des aéronefs sont affichés en jaune. Les pings provenant des terminaux de système de guidage de torpilles actives (ami ou ennemi) sont affichés en rouge. Chaque fois que votre mât MSE est étendu, les émissions radar des navires ou des avions sont affichées de la même manière pour indiquer la direction de la source émettrice. Ces indicateurs sont indiqués en violet.
 
 <b>AÉRONEFS ET MISSILES</b>
 Les objets aéroportés n'apparaissent pas sur la carte tactique.
 
-<b>GLACE ET MINES</b>
-À mesure que la glace et les mines sont détectées par votre sonar de navigation haute fréquence, elles sont cartographiées sur la carte tactique. La glace peut également être cartographiée en la marquant avec le périscope. Voir Capteurs, section Périscope, pour plus d'informations.
+<b>GLACE et MINES</b>
+Comme la glace et les mines sont détectées par votre sonar de navigation haute fréquence, elles sont représentées sur la carte tactique. La glace peut également être représentées en la marquant avec le périscope, voir Capteurs, section Périscope pour plus d'informations.
 
 <b>PORT</b>
-Indique l'emplacement des ports.
+Affiche l'emplacement des ports.
 
 <b>ZONE DE DÉPLOIEMENT</b>
-Zone circulaire utilisée pour les missions d'infiltration pour déployer des forces spéciales ou dans des missions de frappe terrestre pour tirer des missiles d'attaque terrestre.
+Zone circulaire utilisée pour les missions d'insertion de forces spéciales ou dans les missions de frappe terrestre pour tirer des missiles d'attaque terrestre.
 
-<b>LIMITE DE CARTE</b>
-Près de l'extérieur de la carte se trouve une limite rouge ombrée qui délimite la limite de la zone de combat. Bien qu'il soit possible que d'autres vaisseaux, aéronefs ou armes se déplacent dans cette région, le déplacement de votre sous-marin dans cette bordure met immédiatement fin au combat. Terminer un combat de cette manière ne nécessite pas de rompre le contact avec l'ennemi.
+<b>LIMITE DE LA CARTE</b>
+Près de l'extérieur de la carte se trouve une limite rouge ombrée qui délimite la limite de la zone de combat. Bien qu'il soit possible que d'autres navires, aéronefs ou armes se déplacent dans cette région, la navigation de votre sous-marin dans cette zone met immédiatement fin au combat. Terminer un combat de cette manière ne nécessite pas de rompre le contact avec l'ennemi.
 
 
 <size=24><color=maroon><b>CONTACTS</b></color></size>
-Les contacts sont des sources sonores, généralement des vaisseaux, détectés par vos capteurs. La deuxième colonne de données au-dessus de la mini-carte affiche des informations sur le contact actuel.
-<b>CONTACT</b> Le nom ou la désignation du contact
-<b>REL</b> Relèvement - direction de votre sous-marin au contact (azimut)
-<b>CAP</b> Cap suivi par le contact
+Les contacts sont des sources sonores, généralement des navires détectés par vos capteurs. La deuxième colonne de données au-dessus de la mini-carte affiche des informations sur le contact actuel.
+<b>NOM DU CONTACT</b> Le nom ou la désignation du contact
+<b>AZI</b> Azimut - direction depuis votre sous-marin jusqu'au contact
+<b>CSE</b> Cap du contact
 <b>VIT</b> Vitesse du contact
 <b>DIS</b> Distance du contact
-<b>SOL</b> Qualité de la solution au but, dépendant de la précision des informations sur le contact
+<b>SOL</b> La qualité de la solution de tir, à savoir la précision des informations sur le contact
 
-Pour un contact donné, la position et la quantité de détails tracés sur la carte tactique sont basées sur la fiabilité de la solution.
+Pour un contact donné, la position et la quantité de détails tracés sur la carte tactique sont basées sur la fiabilité de la solution de tir.
 
 
-<size=24><color=maroon><b>ANALYSE DU MOUVEMENT DE LA CIBLE (TMA)</b></color></size>
-La TMA (Target Motion Analysis) consiste en l'observation et l'analyse d'un contact au fil du temps pour accumuler des informations sur son parcours, sa vitesse et sa distance. Ces données accumulées sont appelées la solution cible et comme mentionné ci-dessus, le calcul d'une solution cible précise trace la position et le mouvement d'un contact sur la carte tactique. Avec une solution cible précise, vous avez une meilleure chance de frapper avec des armes et de savoir quand vous pourriez risquer d'être détecté en vous approchant de l'ennemi jusqu'à sa portée de détection.
+<size=24><color=maroon><b>ANALYSE DE MOUVEMENT CIBLE (TMA)</b></color></size>
+Le TMA est l'observation d'un contact au fil du temps pour accumuler des informations sur son parcours, sa vitesse et sa distance. Ces données accumulées sont appelées la solution de tir et comme mentionné ci-dessus, le calcul d'une solution de tir précise trace la position et le mouvement d'un contact sur la carte tactique. Avec une solution de tir précise, vous avez une meilleure chance de frapper avec des armes et de savoir quand vous pourriez risquer la détection en vous égarant dans la portée du capteur ennemi.
 
-Le taux de précision de la solution cible augmente avec:
-- la sélection d'un contact en tant que but actuel.
-- un signal plus fort provenant du contact.
-- la connaissance du type de contact que vous suivez (voir Analyse des signatures).
-- un changement fréquent de cap de votre sous-marin par rapport au contact.
-- de multiples sources d'information en provenance du sonar actif, du laser (marquage de la cible avec le périscope) ou du radar.
+Le taux de précision de la solution de tir augmente avec :
+- Sélection d'un contact en tant que contact actuel
+- Signal plus fort détecté depuis le contact.
+- En connaissant le type de contact que vous suivez, voir Analyse des signatures.
+- Un taux élevé de changement d'azimut au fil du temps vers le contact.
+- Étendre précisément le contact en utilisant le sonar actif, le laser (marquage de la cible avec le périscope) ou le radar.
 
-Le taux de précision de la solution cible diminue avec:
-- un signal plus faible provenant du contact.
-- un contact non classifié ou incorrectement classifié.
-- des changements de cap du contact ou de sa vitesse.
-- une perte momentanée du contact.
-- un faible taux de changement de cap de votre sous-marin par rapport au contact.
-- le tir d'une torpille leurre par le contact.
+Le taux de précision de la solution de tir diminue avec :
+- Signal plus faible provenant du contact.
+- Un contact non identifié ou mal indentifié.
+- Changements de cap ou de vitesse du contact.
+- Perdre le contact avec la cible.
+- Un faible taux de changement d'azimut au fil du temps vers le contact.
+- Tir d'une torpille leurre par le contact.
 
-La TMA est automatiquement effectuée par votre équipage tant que le contact est maintenu. La perte d'un contact entraîne le déclin de la solution cible au fil du temps, car les données deviennent moins pertinentes quant à l'endroit où ce contact pourrait se trouver en ce moment.
+Le TMA est automatiquement effectuée par votre équipage tant que le contact est maintenu. La perte d'un contact entraîne le déclin de la solution de tir au fil du temps, car les données deviennent moins pertinentes quant à l'endroit où ce contact pourrait se trouver en ce moment.
 
 La détection et l'analyse d'un contact sont basées sur les capteurs de votre sous-marin qui sont décrits en détail dans la section Capteurs.
 
 
-<size=24><color=maroon><b>ANALYSE DE LA SIGNATURE</b></color></size>
-Les signaux sonar passifs d'un contact peuvent être comparés aux profils sonores connus de divers navires afin d'identifier la classe de navire que vous suivez, un processus appelé analyse de signature. Au fil du temps, votre équipage effectuera automatiquement cette tâche, mais un commandant compétent peut accélérer le processus. Plus tôt un contact a été correctement classé, moins de temps prendra la TMA et plus vite vous pourrez identifier les menaces et hiérarchiser les cibles. Notez qu'un contact peut également être classifié en hissant le périscope, en établissant un contact visuel et en marquant cette cible (voir Capteurs, section Périscope pour plus d'informations).
+<size=24><color=maroon><b>ANALYSE SIGNATURE</b></color></size>
+Les signaux du sonar passifs d'un contact peuvent être comparés aux profils sonores connus de divers navires afin d'identifier la classe de navire que vous suivez, un processus appelé analyse de signature. Au fil du temps, votre équipage effectuera automatiquement cette tâche, mais un commandant compétent peut accélérer le processus. Plus tôt un contact a été correctement identifié, moins de temps prendra le TMA et plus vite vous pouvez identifier les menaces et hiérarchiser les cibles. Notez qu'un contact peut également être classé en hissant le périscope, en établissant un contact visuel et en marquant cette cible (voir Capteurs, section Périscope pour plus d'informations).
 
 
 
@@ -137,20 +137,20 @@ Les signaux sonar passifs d'un contact peuvent être comparés aux profils sonor
 
 
 
-Utilisez <KEY:Signature> ou cliquez sur l'onglet Signature en bas à droite pour ouvrir le panneau Signature et afficher le profil sonore du contact actuel (panneau inférieur). Le panneau supérieur contient une base de données de profils de navires connus à des fins de comparaison. Après le nom du navire se trouve la désignation pour ce type de navire. Voir la section Référence pour la liste des désignations de navires.
+Appuyer sur <KEY:Signature> ou cliquez sur l'onglet Signature en bas à droite pour ouvrir le panneau Signature et afficher le profil sonore du contact actuel (panneau inférieur). Le panneau supérieur contient une base de données de profils de navires connus à des fins de comparaison. Après le nom du navire est indiqué la désignation pour ce type de navire, voir la section Référence pour la liste des désignations de navires.
 
-Utilisez <KEY:Context Menu Next> et <KEY:Context Menu Previous> pour faire défiler les différentes signatures de profil jusqu'à ce que les lignes (pics de fréquence sonore) entre les deux profils correspondent. Enfin, utilisez <KEY:Context Menu Set> pour classifier le contact en tant que classe identifiée lorsque les profils correspondent. Alternativement, vous pouvez faire <LEFTCLICK> les flèches ou la case à cocher.
+Appuyer sur <KEY:Context Menu Next> et <KEY:Context Menu Previous> pour faire défiler les différentes signatures de profil jusqu'à ce que les lignes (pics de fréquence sonore) entre les deux profils correspondent. Enfin, utilisez <KEY:Context Menu Set> pour catégorisé le contact en tant que classe que vous avez identifiée lorsque les profils correspondent. Alternativement, vous pouvez <LEFTCLICK> sur les flèches ou la case à cocher.
 
-Si l'identification est correcte, le taux de TMA augmentera, mais si elle s'avère incorrecte, il diminuera. Votre équipage finira par remédier à un contact mal classé, mais un temps précieux aura été perdu ou vous risquez d'attaquer la mauvaise cible.
+Si la classification est correcte, le taux de TMA augmentera, mais s'il est incorrect, il subira une pénalité. Votre équipage finira par remédier à un contact mal classé, mais un temps précieux aura été perdu ou vous pourriez risquer d'attaquer la mauvaise cible.
 
-Le profil sonore du contact est sensible au bruit du milieu aquatique en mouvement, de sorte qu'une vitesse croissante augmente le bruit de fond, ce qui rend plus difficile la résolution des détails plus fins du profil et la détermination d'une correspondance correcte.
+Le profil sonore du contact est sensible aux bruits rayonnés, ainsi une vitesse croissante augmente le bruit de fond, ce qui rend plus difficile la visualisation des détails plus fins du profil et la détermination d'une correspondance sonore correcte.
 
-Le panneau Signatures contient également des informations supplémentaires sur vos propres capteurs et capteurs de contact.
-"FORCE SIGNAL" est la force du signal des différents capteurs de votre propre sous-marin. Il indique l'intensité des sons détectés en décibels par vos sonars actif, passif et remorqué (le cas échéant).
+Le panneau Analyse des signatures contient également des informations supplémentaires sur vos propres capteurs et les capteurs du contact.
+"PUIS SIG OWNSHIP" est la force du signal des différents capteurs de votre sous-marin. Il indique l'intensité du son détecté en décibels pour votre sonar actif, passif et remorqué (le cas échéant).
 
-De même "CAPTEURS ENNEMIS" est la comparaison des différents capteurs du contact. Là encore, le panneau énumère l'intensité des sonars actif, passif et remorqué (le cas échéant). Cette information peut être cruciale pour déterminer à quel point vous êtes proche d'être détecté par l'ennemi. Cependant, si le contact n'a pas encore été classé, cette information n'est pas disponible. Pire encore, si le contact est classifié de manière incorrecte, il se peut que vous examiniez les données du capteur d'un autre type de navire.
+Également "COMP CAP" (comparaison de capteurs) est la comparaison des différents capteurs du contact. Là encore, il énumère l'intensité des réseaux actifs, passifs et remorqués (le cas échéant). Cette information peut être cruciale pour déterminer à quel point vous êtes proche d'être détecté par l'ennemi. Cependant, si le contact n'a pas encore été classé, cette information n'est pas disponible. Pire encore, si le contact est identifié de manière incorrecte, il se peut que vous examiniez les données capteurs d'un mauvais navires.
 
-Les valeurs négatives sont le résultat de calculs théoriques basés sur les niveaux de bruit actuels et la distance du contact en tenant compte des conditions océaniques.
+Les valeurs négatives sont des calculs théoriques basés sur les niveaux et les distance de bruit des conditions océaniques actuelles.
 
 
 <size=24><color=maroon><b>MANUEL D'IDENTIFICATION</b></color></size>
@@ -170,4 +170,4 @@ Les valeurs négatives sont le résultat de calculs théoriques basés sur les n
 
 
 
-Lorsque vous tentez de classifier un contact ou de le repérer visuellement avec le périscope, le manuel de reconnaissance offre des informations détaillées sur les capacités des différentes unités du jeu. Vous l'ouvrez en utilisant M ou en cliquant sur l'icône du vaisseau dans la partie supérieure droite de l'écran. Il est interconnecté avec la fenêtre d'analyse des signatures, de sorte que parcourir les profils dans l'un met également à jour l'autre. En cliquant sur les armes et les capteurs en rouge vous ouvrez une fenêtre de texte avec des informations plus détaillées à leur sujet. Utilisez cette information pour déterminer si le contact sélectionné constitue une menace pour vous.
+Lorsque vous tentez d'identifier ou de repérer visuellement un contact avec le périscope, le manuel d'identification offre des informations détaillées sur les capacités des différentes unités du jeu. Vous l'ouvrez en utilisant M ou en cliquant sur l'icône de navire dans la partie supérieure droite de l'écran. Il est interconnecté avec le panneau d'analyse des signatures, de sorte que parcourir les profils dans l'un met également à jour l'autre. Cliquer sur les armes et les capteurs en rouge ouvre une fenêtre de texte avec des informations plus détaillées à leur sujet. Utilisez ces informations pour déterminer si le contact sélectionné constitue une menace pour vous.

@@ -1,4 +1,4 @@
-﻿[Weapon Reference]
+[Weapon Reference]
 WeaponName=SET-65
 WeaponDescriptiveName=Torpille SET-65
-WeaponDescription=La SET-65 est une torpille électrique à double usage avec un guidage acoustique actif. La portée du système de guidage est d'environ 880 mètres.
+WeaponDescription=Le SET-65 est une torpille électrique à double usage avec un guidage acoustique actif. La portée du système de guidage est d'environ 880 yards.

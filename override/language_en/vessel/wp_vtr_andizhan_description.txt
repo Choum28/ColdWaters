@@ -1,4 +1,4 @@
-﻿[Unit Reference]
+[Unit Reference]
 ShipClass=Andizhan
-Description=Transport de troupes classe Andizhan
-History=Une quarantaine de cargos généraux de cette catégorie ont été construits en 1958-60 pour être utilisés dans la marine marchande soviétique. Tout au long de la guerre froide, ils ont été largement utilisés pour transporter des fournitures militaires aux alliés soviétiques.
+Description=Transport militaire de classe Andizhan
+History=Une quarantaine cargo de marchandises générales de cette catégorie ont été construits en 1958-60 pour être utilisés dans la marine marchande soviétique. Tout au long de la guerre froide, ils ont été largement utilisés pour transporter des fournitures militaires aux alliés soviétiques.

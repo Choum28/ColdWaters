@@ -1,4 +1,4 @@
 [Unit Reference]
 AircraftName=Ka-27PL Helix
 AircraftDescriptiveName=Kamov Ka-27PL Helix A
-History=Le Ka-27 est une conception complémentaire à l'Hormone Ka-25, et comparé à son prédécesseur, il est plus rapide, transporte une charge utile plus importante sur une plus grande portée et possède de meilleurs capteurs. Ces hélicoptères devraient être considérés comme une menace majeure, quelle que soit leur origine. 
+History=Le Ka-27 est le successeur direct du Ka-25 Hormone, et comparé à son prédécesseur, il est plus rapide, transporte une plus grande charge utile sur une plus grande distance, et dispose de meilleurs capteurs. Ces hélicopères doivent être considérés comme des menaces majeures en cas de rencontre.

@@ -1,7 +1,7 @@
-﻿[Unit Reference]
+[Unit Reference]
 ShipClass=Chengdu
-Description=Frégate classe Chengdu
-DefensiveWeapons=37mm AA Guns
-OffensiveWeapons=RBU-1200 anti-SM Rockets
+Description=Frégate de classe Chengdu
+DefensiveWeapons=Canons AA 37mm
+OffensiveWeapons=Roquettes ASM RBU-1200
 Aircraft=Aucun
-History=Cette classe a été construite dans les années 1950 comme une petite escorte des destroyers de la classe Kotlin et fourni en kit aux Chinois, qui les ont rapidement modifiés en remplaçant les lance-torpilles par un lanceur bitube pour le missile anti-navire SY-1. Les canons de 37 mm sont tous contrôlés localement et d'une utilité discutable contre les avions rapides, sans parler des missiles anti-navires. Leur capacité anti-SM est encore pire que les Rigas d'origine, avec seulement une batterie de mortier de la moitié de la portée par rapport à la RBU-2500.
+History=Cette classe a été construite dans les années 1950 comme un plus petit accompagnateur des destroyers de la classe Kotlin et fourni en kits aux Chinois, qui les ont rapidement modifiés en remplaçant les lance-torpilles par un lanceur bitube pour le missile antinavire SY-1. Les canons de 37 mm sont tous contrôlés localement et d'une utilité discutable contre les avions rapides, sans parler des missiles antinavires. Leur capacité ASM est encore pire que les Rigas d'origine, avec seulement une batterie de mortier disposant de la moitié moins de portée comparé au RBU-2500.

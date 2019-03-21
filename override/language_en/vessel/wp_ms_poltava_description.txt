@@ -1,4 +1,4 @@
-﻿[Unit Reference]
+[Unit Reference]
 ShipClass=Poltava
-Description=Grand cargo classe Poltava
-History=Navires généraux de grande capacité, 21 navires de cette classe ont été achevés entre 1962-74 pour la marine marchande soviétique. Conçus à l'origine pour le commerce du bois d'œuvre, ces navires ont été utilisés comme coursiers bloqueurs pendant la crise des missiles, et ils sont bien équipés pour transporter des cargaisons militaires telles que des munitions et des véhicules. Il est donc naturel de supposer qu'ils verront l'utilisation en temps de guerre comme transport de ravitaillement pendant un conflit dans la mer de Norvège.
+Description=Grand cargo de classe Poltava
+History=Navires cargo typique avec grand panneau de cale, 21 navires de cette classe ont été construits entre 1962-74 pour la marine marchande soviétique. Conçus à l'origine pour le commerce du bois d'œuvre, ces navires ont été utilisés comme briseur de blocus pendant la crise des missiles, et ils sont bien équipés pour transporter des cargaisons militaires telles que des munitions et des véhicules. Il est donc naturel de supposer qu'ils seraient utiliser en temps de guerre comme transport de ravitaillement durant un conflit dans la mer de Norvège.

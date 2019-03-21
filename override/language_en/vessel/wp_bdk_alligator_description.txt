@@ -1,7 +1,7 @@
-﻿[Unit Reference]
+[Unit Reference]
 ShipClass=Alligator
-Description=Navire de débarquement classe Alligator
-DefensiveWeapons=57mm AA Guns\nShoulder-launched SA-7 SAM
-OffensiveWeapons=122mm artillery rocket launcher
+Description=Navire de débarquement de classe Alligator
+DefensiveWeapons=Canons AA 57mm\nSAM SA-7 portatif
+OffensiveWeapons=Lanceur pour roquettes d'artillerie 122mm
 Sensors=Radar de navigation seulement
-History=14 de ces navires ont été achevés entre 1966 et 1975. Chaque navire peut transporter 20 chars ou 40 véhicules de transport de troupes blindés ou 300-425 troupes ou 1000 tonnes de marchandises générales. Ils sont construits sur des lignes LST traditionnelles avec un pont de chars continu desservi par des rampes arrière et d'étrave pour les opérations de roulage et de remorquage et un tirant d'eau peu profond qui permet l'échouage afin de débarquer des troupes.
+History=14 de ces navires ont été achevés entre 1966 et 1975. Chaque navire peut transporter 20 chars ou 40 véhicules de transport de troupes blindés ou 300-425 hommes ou 1000 tonnes de marchandises générales. Ils sont construits sur des lignes LST traditionnelles avec un pont continu desservi par des rampes inclinable et d'étrave pour les opérations de roulage et de remorquage et un faible tirant d'eau qui permet l'échouage afin de débarquer des troupes.

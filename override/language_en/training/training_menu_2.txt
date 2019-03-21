@@ -1,27 +1,27 @@
-﻿[TRAINING_MENU 1]
+[TRAINING_MENU 1]
 [/TRAINING_MENU 1]
 
 [TRAINING_MENU 2]
 [/TRAINING_MENU 2]
 
 [TRAINING_MENU 3]
-<b>Affectation des navires</b>
+<b>Affectation du navire</b>
 Vous avez automatiquement reçu un sous-marin de classe Sturgeon pour cette mission.
 
-<LEFTCLICK> <DICTIONARY:Accept>
+<LEFTCLICK> sur <DICTIONARY:Accept>
 [/TRAINING_MENU 3]
 
 [TRAINING_MENU 4]
-<b>Briefing de mission</b>
-Au début de chaque mission, cet écran vous indique l'état actuel et les conditions locales de votre navire.
+<b>Mission Briefing</b>
+Au début de chaque mission, cet écran vous indique l'état actuel de votre navire et les conditions locales.
 
-<DICTIONARY:AttemptClosure> (désactivé pour la formation)
-En combat réel, peut être utilisé pour se rapprocher et commencer le combat à peu près à la portée indiquée. <LEFTCLICK> sur la valeur de plage pour le changer.
-Cependant, ce n'est pas toujours le cas et votre distance de départ peut déjà être inférieure à la portée minimale ou vous pouvez être détecté par l'ennemi lors de la fermeture.
-Il est conseillé de commencer le combat à longue portée pour les attaques de missiles et à plus courte pour les attaques de torpilles.
+<DICTIONARY:AttemptClosure> (désactivé pour l'entrainement)
+En combat réel, peut être utilisé pour se rapprocher et commencer le combat à environ la portée indiquée <LEFTCLICK> sur la valeur pour la changer.
+Cependant, ce n'est pas toujours un succès et votre distance de départ peut déjà être inférieure à la portée minimale ou vous pouvez être détecté par l'ennemi lors de l'approche.
+Le mieux est de commencer le combat à longue portée pour les attaques de missiles ou plus courte pour les attaques de torpilles.
 
-<DICTIONARY:VesselStatus> affiche le chargement des armes de votre vaisseau, les magasins d'armes et le contrôle des dégâts. Ici vous pouvez changer votre chargement pour la mission, ce qui sera discuté plus tard dans la mission de formation # 4.
+<DICTIONARY:VesselStatus> affiche le chargement d'armes de votre navire, l'arsenal et le contrôle des avaries. Ici vous pouvez changer votre armement pour la mission, qui sera abordé plus tard dans la mission de formation #4.
 
 <DICTIONARY:Battlestations> commence la mission.
-Lorsque vous êtes prêt <LEFTCLICK> <DICTIONARY:Battlestations> pour entrer dans la mission.
+Quand vous êtes prêt <LEFTCLICK> sur <DICTIONARY:Battlestations> pour entrer dans la mission.
 [/TRAINING_MENU 4]

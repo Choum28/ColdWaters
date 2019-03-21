@@ -1,9 +1,4 @@
-﻿[Unit Reference]
+[Unit Reference]
 ShipClass=November
-Description=SNA classe November
-History=Conçus dans les années 1950, mal armés, bruyants et dotés de sonars inférieurs, ils étaient les premiers sous-marins nucléaires de l'Union soviétique. Au fil des années, ils ont reçu peu de mises à jour, ce qui les rend au mieux des adversaires de second ordre.
-
-
-[Player Ship Instances]
-PlayerClassNames=Kit,Kit,Kit,Kit,Kit,Kit,Kit,Kit,Kit,Kit,Kit,Kit,Kit
-PlayerClassHullNumbers=K-3,K-5,K-8,K-11,K-14,K-21,K-27,K-42,K-50,K-52,K-115,K-159,K-181
+Description=Sous-marin nucléaire d'attaque de classe November
+History=Conçus dans les années 1950, mal armés, bruyants et dotés de sonars inférieurs, ils étaient les premiers sous-marins nucléaires de l'Union soviétique. Au fil des années, ils ont reçu peu de mises à jour, ce qui les rend au mieux comme des adversaires de second plan.

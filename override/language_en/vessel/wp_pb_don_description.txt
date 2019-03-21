@@ -1,7 +1,7 @@
-﻿[Unit Reference]
+[Unit Reference]
 ShipClass=Don
-Description=Ravitailleur de sous-marins classe Don
-DefensiveWeapons=57mm AA Guns
-OffensiveWeapons=100mm Guns
+Description=Ravaitailleur de sous-marin de classe Don
+DefensiveWeapons=Canons AA 57mm
+OffensiveWeapons=Canons 100mm
 Sensors=Radar de navigation seulement
-History=Sept de ces navires ont été construits entre 1958 et 1961. Ils ont été conçus pour soutenir les sous-marins soviétiques dans des opérations lointaines et, à ce titre, ont bénéficié d'importantes capacités d'armement et de guerre électronique. Le navire a plusieurs grues pour le transfert des armes et des magasins, et au-dessous des ponts sont des ateliers pour effectuer des réparations et des couchettes pour les équipes de secours. En plus de leur rôle de soutien, ils sont également destinés à servir de porte-étendard pour un détachement de sous-marins.
+History=Sept de ces navires ont été construits entre 1958 et 1961. Ils ont été conçus pour soutenir les sous-marins soviétiques dans des opérations lointaines et, à ce titre, ont bénéficié d'importantes capacités d'armement et de guerre électronique. Le navire a plusieurs grues pour le transfert des armes et des provisions, et sous les ponts se trouvent des ateliers pour effectuer des réparations et des couchettes pour les équipes de relève. En plus de leur rôle de soutien, ils sont également destinés à servir de vaisseau amiral pour un détachement de sous-marins.

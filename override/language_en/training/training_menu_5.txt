@@ -1,17 +1,17 @@
-﻿[TRAINING_MENU 1]
+[TRAINING_MENU 1]
 [/TRAINING_MENU 1]
 
 [TRAINING_MENU 2]
 [/TRAINING_MENU 2]
 
 [TRAINING_MENU 3]
-<b>Affectation des navires</b>
+<b>Affectation du navire</b>
 Vous avez automatiquement reçu un sous-marin de classe Sturgeon pour cette mission.
 
-<LEFTCLICK> <DICTIONARY:Accept>
+<LEFTCLICK> sur <DICTIONARY:Accept>
 [/TRAINING_MENU 3]
 
 [TRAINING_MENU 4]
-<b>Sortie du Briefing</b>
-<LEFTCLICK> <DICTIONARY:Battlestations> pour commencer la mission.
+<b>Quitter le briefing</b>
+<LEFTCLICK> sur <DICTIONARY:Battlestations> pour commencer la mission.
 [/TRAINING_MENU 4]

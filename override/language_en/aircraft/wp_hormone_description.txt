@@ -1,4 +1,4 @@
 [Unit Reference]
 AircraftName=Ka-25BSh Hormone
 AircraftDescriptiveName=Kamov Ka-25BSh Hormone A
-History=Les hélicoptères navals Ka-25 sont de petits hélicoptères anti-sous-marins (Hormone A) et anti-missiles au-dessus de l'horizon (Hormone B) lancés au milieu des années 1960. Ils portent soit des torpilles à tête chercheuse ou des charges de profondeur, et un sonar plongeant ainsi qu'un assortiment de sonobouys. Ils sont cachés et peuvent fournir des données de ciblage aux navires de surface, ce qui en fait des ennemis très dangereux.
+History=Les hélicoptères navals Ka-25 sont des hélicoptères de lutte anti-sous marine (Hormone A) et de guidage de missile au-delà de l'horizon (Hormone B) introduit au milieu des années 1960. Ils transportent des torpilles à tête chercheuse ou des grenades sous-marines, un sonar trempé ainsi qu'un assortiment de bouées sonar. Ils sont discrêt, et peuvent founir aux navires de surface des informations de ciblage, ce qui en fait des menaces très dangereuses.

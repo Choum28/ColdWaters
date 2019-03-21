@@ -1,8 +1,8 @@
 Image=campaign/images/pact naval 1
-MissionLocation=Exercice de formation
-Briefing=Localisez, identifiez et suivez un contact inconnu.
+MissionLocation=Exercice d'entraînement
+Briefing=Localiser, identifier et traquer un contact inconnu.
 Briefing=
-Briefing=Points couverts:
-Briefing=- Detection et identification des contacts.
+Briefing=Points à pratiquer :
+Briefing=- Détection et identification des contacts.
 Briefing=- Analyse du mouvement de la cible (TMA).
-Briefing=- Obtenir une solution de tir satisfaisante.
+Briefing=- Définir une solution de tir.

@@ -1,4 +1,4 @@
-﻿[Weapon Reference]
+[Weapon Reference]
 WeaponName=MK45
-WeaponDescriptiveName=Torpille Mark 45 Mod 1
-WeaponDescription=La Mk45 était la seule torpille nucléaire en service avec l'USN, destinée à être utilisée contre les sous-marins ennemis à grande vitesse et à plongée profonde. Westinghouse a également commercialisé une version conventionnelle sous le nom de «Freedom Torpedo». Le Modèle 1 est une arme d'essai supposant que des torpilles nucléaires seraient «modifiées sur le terrain» dans une guerre conventionnelle.
+WeaponDescriptiveName=Torpille Mark 45 Mod 1(Mk45)
+WeaponDescription=Le Mk45 était la seule torpille nucléaire en service avec l'US Navy, destinée à être utilisée contre les sous-marins ennemis à grande vitesse et à plongée profonde. Westinghouse a également commercialisé une version conventionnelle sous le nom de «Freedom Torpedo». Le Mod 1 est une arme conjecturale supposant que des torpilles nucléaires seraient «modifiées sur le terrain» dans une guerre conventionnelle.

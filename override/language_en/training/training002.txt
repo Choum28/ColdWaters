@@ -1,8 +1,8 @@
 Image=campaign/images/pact surface raiders 3
-MissionLocation=Exercice de formation
-Briefing=Apprenez a regler et controler les torpille filoguidees.
+MissionLocation=Exercice d'entraînement
+Briefing=Apprenez à paramétrer et contrôler les torpilles filoguidées.
 Briefing=
-Briefing=Points couverts:
-Briefing=- Modification des parametres de torpille.
-Briefing=- Diriger la torpille vers la cible.
-Briefing=- Connaitre les limites du filoguidage.
+Briefing=Points à pratiquer :
+Briefing=- Modifier les paramètres de l'arme.
+Briefing=- Conduite des armes sur les cibles.
+Briefing=- Connaitre les limites des fils.

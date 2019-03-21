@@ -1,35 +1,36 @@
-﻿[TRAINING_MENU 1]
+[TRAINING_MENU 1]
 [/TRAINING_MENU 1]
 
 [TRAINING_MENU 2]
 [/TRAINING_MENU 2]
 
 [TRAINING_MENU 3]
-<b>Affectation des navires</b>
+<b>Affectation du navire</b>
 Vous avez automatiquement reçu un sous-marin de classe Sturgeon pour cette mission.
 
-<LEFTCLICK> <DICTIONARY:Accept>
+<LEFTCLICK> sur <DICTIONARY:Accept>
 [/TRAINING_MENU 3]
 
 [TRAINING_MENU 4]
-<b>Chargement des armes</b>
-Pour cette mission nous modfierons le chargement de votre arme et les armes qui seront prêtes dans les tubes pour le combat.
+<b>Armement</b>
+Pour cette mission vous allez modifier l'armement et quelles armes seront chargés dans les tubes pour le combat.
 
-<LEFTCLICK> <DICTIONARY:VesselStatus> ou <KEY:Stores> pour afficher les magasins d'armes de votre navire.
+<LEFTCLICK> sur <DICTIONARY:VesselStatus> or <KEY:Stores> pour voir le chargement d'armes de votre navire.
 
-<b>Modifier le chargement </b>
-<LEFTCLICK> <DICTIONARY:UnloadWeapon> 4 fois pour retirer 4 torpilles MK48 de vos magasins. Vous devriez maintenant avoir 4 MK48 dans vos magasins plus un (4) supplémentaire dans les tubes de torpille pour un total de 19/23 armes à bord.
+<b>Modidier l'armement</b>
+<LEFTCLICK> sur <DICTIONARY:UnloadWeapon> 4 fois pour retirer 4 torpilles MK48 de votre chargement. Vous devriez maintenant avoir 4 MK48 dans votre chargement plus un (4) supplémentaire dans les tubes lance-torpilles pour un total de 19/23 armes à bord.
 
 <LEFTCLICK> sur l'icône de missile TASM ou son nom pour le sélectionner.
-<LEFTCLICK> <DICTIONARY:LoadWeapon> 4 fois pour ajouter 4 missiles TASM à vos magasins. Vous devriez maintenant avoir 4 TASM dans vos magasins avec (0) dans les tubes de torpille pour un total de 23/23 armes à bord.
+<LEFTCLICK> sur <DICTIONARY:LoadWeapon> 4 fois pour ajouter 4 missiles TASM à votre chargement d'armes. Vous devriez maintenant avoir 4 TASM dans votre chargement avec (0) dans les tubes de torpille pour un total de 23/23 armes à bord.
 
-<b>Tubes de chargement</b>
-Actuellement, il y a 4 MK48 dans les tubes comme indiqué par les icônes dans les tubes et les (4) répertoriés à côté de l'icône MK48.
-Appuyez sur <KEY:Load Tube> en continu pour faire défiler l'arme dans le tube n° 1. Arrêtez quand un UGM-84 est chargé, UGM-84 devrait indiquer 7 (1) pour indiquer l'UGM-84 7v à bord, 1 est dans les tubes et l'icône dans le tube # 1 devrait être un UGM-84.
+<b>Chargement des tubes</b>
+Actuellement, il y a 4 MK48 dans les tubes comme indiqué par les icônes dans les tubes et le (4) affiché à côté de l'icône MK48.
+Appuyez <KEY:Load Tube> 
+continuellement pour faire défiler les armes dans le tube #1. Arrêtez quand un UGM-84 est chargé, UGM-84 devrait afficher 7 (1) pour indiquer 7 UGM-84 à bord, 1 dans les tubes et l'icône dans le tube #1 devrait être un UGM-84.
 
-<LEFTCLICK> l'arme dans le tube n° 2 (ou utilisez <KEY:Next Tube>) et utilisez <KEY:Load Tube> pour placer un UGM-84 dans le tube n° 2.
-Répétez l'opération pour les tubes 3 et 4, mais dans ceux-ci, chargez un TASM dans chacun d'eux.
-Une fois terminé, vous devriez avoir UGM-84 6 (2) et TASM 2 (2) avec 2 icônes UGM-84 dans les tubes et 2 icônes TASM dans les tubes.
+<LEFTCLICK> sur l'arme dans le tube #2 (ou utiliser <KEY:Next Tube>) et utiliser <KEY:Load Tube> pour placer un UGM-84 dans le tube #2.
+Répétez l'opération pour les tubes #3 et #4, mais chargez un TASM dans chacun d'eux.
+Une fois terminé, vous devriez avoir UGM-84 6 (2) et TASM 2 (2) avec 2 icônes UGM-84 et 2 icônes TASM dans les tubes.
 
-Une fois que vous avez ce chargement <LEFTCLICK> <DICTIONARY:Battlestations> pour commencer la mission.
+Une fois que vous avez ce chargement <LEFTCLICK> sur <DICTIONARY:Battlestations> pour commencer la mission.
 [/TRAINING_MENU 4]

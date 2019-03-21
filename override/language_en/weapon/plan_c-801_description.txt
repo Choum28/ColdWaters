@@ -1,4 +1,4 @@
-﻿[Weapon Reference]
+[Weapon Reference]
 WeaponName=C-801
 WeaponDescriptiveName=Missile anti-navire C-801
-WeaponDescription=Ce missile est très similaire aux missiles français Exocet et US Harpoon. À partir de sous-marins, il est lancé en utilisant une cartouche similaire à Sub-Harpoon, et présente des performances similaires à ses homologues occidentaux.
+WeaponDescription=Ce missile ressemble beaucoup aux missiles français Exocet et américain Harpoon. Il est lancé depuis les sous-marins grâce à une capsule étanche similaire au Harpoon sous marin, et présente des performances similaires à celles de ses équivalents occidentaux.

@@ -1,4 +1,4 @@
-﻿[Unit Reference]
+[Unit Reference]
 ShipClass=Romeo
-Description=SM diesel-électrique classe Romeo
-History=Le Romeo est une évolution du Whisky, étant presque identique en taille et en rôle, mais s'inspirant fortement de la conception allemande de guerre de Type XXI, ce qui est évident dans ses caractéristiques plus aérodynamiques. Comme son prédécesseur, il est relativement lent et bruyant, mais dispose d'une tenue de capteur améliorée et d'un armement de torpille plus lourd. Cette classe a été exportée vers plusieurs états clients, dont la Chine où ils se sont avérés être des bateaux populaires.
+Description=Sous-marin diesel-électrique d'attaque de classe Romeo
+History=Le Romeo est une évolution du Whiskey précédent, étant presque identique en taille et en rôle, mais s'inspirant fortement de la conception allemande du Type XXI de la seconde guerre mondiale, ce qui est évident dans ses caractéristiques plus aérodynamiques. Comme son prédécesseur, il est relativement lent et bruyant, mais dispose d'une suite de capteur améliorée et d'un arsenal de torpille plus lourd. Cette classe a été exportée vers plusieurs pays clients, dont la Chine où ils se sont avérés être des sous-marins populaires.

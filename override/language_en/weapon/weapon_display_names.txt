@@ -1,11 +1,11 @@
 [Depth Charges, Mortars and Shells]
 wp_rbu6000_mortar=RBU 6000
 wp_rbu2500_mortar=RBU 2500
-wp_depth_bomb=Grenade sous-marine 25kg
-wp_depth_bomb_50=Grenade sous-marine PLAB-50
-wp_depth_bomb_120=Grenade sous-marinePLAB-120
-wp_depth_bomb_250=Grenade sous-marinePLAB-250
-wp_depth_bomb_500=Grenade sous-marineKAB-500
+wp_depth_bomb=Bombe ASM 25kg
+wp_depth_bomb_50=Bombe ASM PLAB-50
+wp_depth_bomb_120=Bombe ASM PLAB-120
+wp_depth_bomb_250=Bombe ASM PLAB-250
+wp_depth_bomb_500=Bombe ASM KAB-500
 wp_6x3_b-38_shell=Canons 6x3 B-38 152mm
 wp_ak-130_shell=Canons AK-130 130mm
 wp_ak-100_shell=Canons AK-100 100mm

@@ -1,10 +1,10 @@
-Image=campaign/images/pact specops
-MissionLocation=Dans le detroit de Luzon
+Image=campaign/images/plan wolfpack 2
+MissionLocation=Dans le détroit de Luçon
 Briefing=21 SEP 2000
-Briefing=Il y a quelques heures, les forces navales chinoises (PLAN) ont lancé une série de missiles de croisière et des forces spéciales contre nos bases navales de Sasebo, Okinawa et Subic Bay. L'amirauté redoute une nouvelle attaque au moyen de sous-marins contre l'île de Guam, notre dernière base opérationnelle dans la region.
+Briefing=Il y a quelques heures, le PLAN a lancé une série d'attaques de missiles de croisière et de forces spéciales sur nos bases navales à Sasebo, Okinawa et de la Baie de Subic. Nav Ops suspecte qu'une frappe similaire utilisant des sous-marins est prévue sur Guam, notre dernière base dans la région.
 Briefing=
-Briefing=Objectif principal:
+Briefing=Objectif pricinpal :
 Briefing=Couler les sous-marins ennemis
 Briefing=
-Briefing=Objectif secondaire:
-Briefing=Eviter les dommages collatéraux
+Briefing=Objectif secondaire :
+Briefing=Éviter les dommages collatéraux

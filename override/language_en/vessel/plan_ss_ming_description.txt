@@ -1,4 +1,4 @@
-﻿[Unit Reference]
+[Unit Reference]
 ShipClass=Ming
-Description=SM diesel-électrique classe Ming
-History=Le Ming est un sous-marin de classe Romeo fortement redessiné et qui, comparé à son prédécesseur, est plus rapide et plus silencieux. Depuis la fin des années 80, ces bateaux ont été équipés de sonars numériques haute performance français et d'équipements de contrôle des armes sophistiqués qui leur permettent de tirer la torpille à tête chercheuse YU-3.
+Description=Sous-marin diesel-électrique d'attaque de classe Ming
+History=Le Ming est un sous-marin de classe Romeo fortement redessiné, plus rapide et plus silencieux que son prédécesseur. Depuis la fin des années 80, ces sous-marins ont été équipés de sonars français numériques haute performance et d'équipements de contrôle de tir sophistiqués qui leur permettent de tirer la torpille à tête chercheuse YU-3.

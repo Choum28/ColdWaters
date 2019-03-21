@@ -1,15 +1,15 @@
 [TRAINING 1]=1
 <b>Sous-marin perdu</b>
-Votre sous-marin a ete detruit.
-Heureusement ce n'etait qu'une simulation...
+Votre sous-marin a été détruit.
+Heureusement, ce n'était qu'une simulation d'entrainement.
 
-Dans le cas d'une destruction, l'interface (HUD) est desactivee.
-Utilisez <KEY:Cancel or Quit> pour revenir au menu et abandonner la mission.
+En cas de destruction, l'ATH est désactivé.
+Appuyer sur <KEY:Cancel or Quit> pour entrer dans le menu de la mission et terminer la mission.
 
-Dans le menu de mission vous pouvez:
-1) <LEFTCLICK> <DICTIONARY:AbandonShip>. Si votre SM est intact et au-dessus de la profondeur limite de sauvetage, vous et votre equipage pouvez encore vous en sortir, sinon aucune action ne peut etre tentee.
-2) <LEFTCLICK> <DICTIONARY:Quit> pour terminer la mission.
+Dans le menu de la mission, vous pouvez:
+1) <LEFTCLICK> sur <DICTIONARY:AbandonShip>. Si votre sous-marin est intact et au dessus de la profondeur maximale d'évacuation vous et votre équipage pouvez encore survivre, sinon rien ne se passe.
+2) <LEFTCLICK> sur <DICTIONARY:Quit> pour terminer la mission.
 
-Chacune de ces actions vous amenera a la page de rapport d'operation.
-Apres avoir lu ce rapport, <LEFTCLICK> <DICTIONARY:Continue> or <KEY:Continue>.
+Chacune de ces options vous amenera au compte rendu après action.
+Lorsque vous avez fini d'afficher le compte rendu après action, <LEFTCLICK> sur <DICTIONARY:Continue> ou <KEY:Continue>.
 [/TRAINING 1]

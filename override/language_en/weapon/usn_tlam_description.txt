@@ -1,4 +1,4 @@
-﻿[Weapon Reference]
+[Weapon Reference]
 WeaponName=TLAM
-WeaponDescriptiveName=Missile terrestre Tomahawk (TLAM)
-WeaponDescription=Version d'attaque terrestre du missile Tomahawk UGM-109. Il transporte soit une ogive conventionnelle explosive ou des munitions à fragmentation. Le radar avancé d'alignement de contours et de suivi de terrain permet à sa puissance destructrice d'être délivrée avec une précision maximale.
+WeaponDescriptiveName=Missile d'attaque au sol Tomahawk (TLAM)
+WeaponDescription=Version d'attaque terrestre du missile Tomahawk UGM-109. Il transporte soit une ogive conventionnelle explosive ou des munitions à fragmentation. Le radar avancé de guidage et de suivi de terrain permet à sa puissance destructrice d'être délivrée avec une précision maximale.

@@ -1,4 +1,4 @@
 [Unit Reference]
 AircraftName=Ka-28 Helix
 AircraftDescriptiveName=Kamov Ka-28 Helix
-History=Le Ka-28 est la version d'exportation de la Ka-27 à l'Hormone Ka-25, et comparé à son prédécesseur, il est plus rapide, transporte une plus grande charge utile sur une plus grande portée et possède de meilleurs capteurs. Ces hélicoptères devraient être considérés comme une menace majeure, quelle que soit leur origine.
+History=Le Ka-28 est la version export du Ka-27 suivant le design du Ka-25 Hormone, et comparé à ces prédécesseur, il est plus rapide, transporte de plus lourde charge sur une plus grande distance, et dispose de meilleurs capteur. Ces hélicopères doivent être considérés comme des menaces majeures en cas de rencontre.

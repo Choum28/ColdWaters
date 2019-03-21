@@ -1,8 +1,7 @@
-﻿[Unit Reference]
+[Unit Reference]
 ShipClass=Permit
-Description=SNA de classe Permit (premier modèle)
-History=La Classe Thresher/Permit, est une classe de quatorze sous-marins nucléaires d'attaque de l'US Navy construits entre 1958 et 1968 et actifs entre 1961 et 1996. Construits pour remplacer la classe Skipjack. Ils sont principalement utilisés dans les années 1960 et 1970, jusqu'à leur remplacement progressif par les sous-marins de classe Sturgeon et Los Angeles. La classe Thresher/Permit représente le résultat d'une étude commandée, en 1956, par le chef des opérations navales (CNO), l'amiral Arleigh Burke. Avec le Project Nobska (en), le comité sur la guerre sous-marine de l'Académie nationale des sciences a su tirer les enseignements des divers prototypes et plates-formes expérimentales
-
+Description=Sous-marin nucléaire d'attaque de classe Permit (ancien)
+History=En service depuis 1961, cette classe a introduit le sonar à basse fréquence et le montage sur châssis, ce qui les rend plus performants que les sous-marins nucléaires précédents. Initialement appelé Thresher, ils ont été renommés après que le nauvrage du sous-marin USS Thresher avec tout son équipage pendant les essais en 1963. C'était le pire désastre sous-marin de l'histoire. Bien que silencieux par rapport aux normes soviétiques, ils sont inférieurs aux classes plus avancées Sturgeon et Los Angeles.
 
 [Player Ship Instances]
 PlayerClassNames=Permit,Plunger,Barb,Pollack,Haddo,Jack,Tinosa,Dace,Guardfish,Flasher,Greenling,Gato,Haddock

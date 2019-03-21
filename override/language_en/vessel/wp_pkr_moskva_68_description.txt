@@ -1,7 +1,7 @@
-﻿[Unit Reference]
-ShipClass=Moskva (Early)
-Description=Croiseur anti-sous-marins classe Moskva (premier modèle)
-DefensiveWeapons=SA-N-3 SAM\nAK570 57mm AA Guns
-OffensiveWeapons=SUW-N-1 Launcher\nRBU-6000 anti-SM Rockets
-Aircraft=12 Ka-25 Hormone (Early) anti-SM helicopter
-History=Les deux navires de la classe Moskva ont été conçus pour chasser les sous-marins américains de missiles Polaris en haute mer, en utilisant leur large éventail d'hélicoptères et de charges de profondeur nucléaires pour cette tâche. Bien que ce concept ait échoué, principalement en raison de l'introduction du missile Poséidon à longue portée dans le service américain, leurs hélicoptères les rendent encore utiles en tant que multiplicateur de force pour les opérations anti-SM. Cependant, ils ne disposent pas d'une arme anti-SM non nucléaire et ne peuvent utiliser que leurs propres RBU contre des sous-marins, ce qui les rend dépendants d'autres unités telles que Kresta ou Kara BPK pour réaliser leur potentiel. Ce sont de pauvres bateaux de mer et ils opèrent généralement en Méditerranée, mais dans un conflit dans le théâtre norvégien, il n'est pas improbable qu'ils soient transférés pour rejoindre la Flotte du Nord.
+[Unit Reference]
+ShipClass=Moskva (ancien)
+Description=Croiseur anti-sous-marin de classe Moskva (ancien)
+DefensiveWeapons=SAM SA-N-3\nCanons AA AK570 57mm
+OffensiveWeapons=Lanceur SUW-N-1\nRoquettes ASM RBU-6000
+Aircraft=12 hélicoptères Ka-25 Hormone (ancien) de lutte ASM 
+History=Les deux navires de la classe Moskva ont été conçus pour chasser les sous-marins américains de missiles Polaris en haute mer, en utilisant leur large éventail d'hélicoptères et de charges de profondeur nucléaires pour cette tâche. Bien que ce concept ait échoué, principalement en raison de l'introduction du missile longue portée Poséidon dans le service US, leurs hélicoptères les rendent encore utiles en tant que multiplicateur de force pour les opérations ASM. Cependant, ils ne disposent pas d'une arme ASM non nucléaire et ne peuvent utiliser que leurs propres RBU contre des sous-marins, ce qui les rend dépendants d'autres unités telles que les BPK Kresta ou Kara pour libérer leur potentiel. Ce sont de pauvres navires et ils opèrent généralement en Méditerranée, mais dans un conflit dans le théâtre norvégien, il n'est pas improbable qu'ils soient transférés pour rejoindre la Flotte du Nord.

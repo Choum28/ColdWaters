@@ -1,4 +1,4 @@
-﻿[Weapon Reference]
+[Weapon Reference]
 WeaponName=Yu-1
 WeaponDescriptiveName=Torpille Yu-1
-WeaponDescription=La Yu-1 est une torpille à double usage à vapeur avec un guidage acoustique passif. La portée du système de guidage est d'environ 880 mètres.
+WeaponDescription=Le Yu-1 est une torpille à propulsion vapeur double usage avec un guidage acoustique passif. La portée du système de guidage est d'environ 880 yards.

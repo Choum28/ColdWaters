@@ -1,14 +1,14 @@
-﻿[Subsystem Display Names]
-Sonar d'étrave
-Antenne linéaire
+[Subsystem Display Names]
+Sonar de proue
+Sonar remorq.
 Périscope
-Mât ESM
+Mât MSE
 Mât Radar
 Tubes
-Central
+Contrôle de tir
 Pompes
 Propulsion
-Barres direction
-Barres plongée
+Gouvernail
+Barr. plongée
 Ballast
 Réacteur

@@ -1,7 +1,7 @@
-﻿[Unit Reference]
+[Unit Reference]
 ShipClass=Yuting
-Description=Navire de débarquement classe Yuting
-DefensiveWeapons=57mm AA Guns, 25mm AA Guns
+Description=Bâtiment de débarquement de chars de classe Yuting
+DefensiveWeapons=Canons AA 57mm, Canons AA 25mm
 OffensiveWeapons=
-Aircraft=Aucun
-History=Ces unités sont des navires de débarquement de classe Yukan améliorés équipés d'un meilleur armement anti-aérien et d'un héliport, ce qui leur permet d'utiliser l'hélicoptère de transport Z-8 Super Frelon.
+Aircraft=None
+History=Ces navires sont des navires de débarquement de classe Yukan améliorés équipés d'un meilleur armement AA et d'un héliport, ce qui permet d'utiliser l'hélicoptère de transport Z-8 Super Frelon.

@@ -1,4 +1,4 @@
-﻿[Unit Reference]
+[Unit Reference]
 ShipClass=Kilo
-Description=Sous-marin diesel-électrique classe Kilo
-History=C'est le sous-marin diesel-électrique le plus récent et le plus avancé construit par les Soviétiques. Comparé aux modèles précédents, le Kilo a adopté la forme de la coque de germon, ce qui le rend beaucoup plus rapide sous l'eau. Il est également beaucoup plus silencieux, et porte des armes et des capteurs à égalité avec les sous-marins nucléaires d'attaque de troisième génération comme le Victor III.
+Description=Sous-marin diesel-électrique de classe Kilo
+History=C'est le sous-marin diesel-électrique le plus récent et le plus avancé construit par les Soviétiques. Comparé aux modèles précédents, le Kilo a adopté une coque en forme d'albacore, ce qui le rend beaucoup plus rapide sous l'eau. Il est également beaucoup plus silencieux, et transporte des armes et des capteurs équivalent aux sous-marins nucléaires d'attaque de troisième génération comme le Victor III.

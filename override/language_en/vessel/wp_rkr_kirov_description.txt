@@ -1,7 +1,7 @@
-﻿[Unit Reference]
+[Unit Reference]
 ShipClass=Kirov
-Description=Croiseur lance-missiles nucléaire classe Kirov
-DefensiveWeapons=SA-N-6 SAM\nSA-N-4 SAM
-OffensiveWeapons=SA-N-19 Anti-Ship Missiles\nSS-N-14 anti-SM Missiles\nAK100 100mm DP Guns\n533mm anti-SM Torpedoes\RBU-6000 anti-SM Rockets\nRBU-1000 anti-SM Rockets
-Aircraft=1 Ka-25 Hormone B Missile Targeting helicopter\n2 Ka-25 Hormone A anti-SM helicopter
-History=Le Kirov est l'incarnation ultime du concept de lance-missile soviétique. Avec des dimensions similaires à celles d'un cuirassé de la Seconde Guerre mondiale, ce sont parmi les plus puissants combattants de surface jamais construits, avec deux de ces navires construits depuis 1980, et deux autres en construction. Leur grande taille est rendue nécessaire par la nécessité de loger une grande batterie de missiles antinavires ainsi qu'un système de missile sol-air de défense de zone avec plusieurs défenses rapprochées en guise de secours. \n \nCompatible avec un sonar avancé et les armes anti-SM stand-off, ces navires fonctionnent généralement comme des vaisseaux amiraux de groupes de guerre de surface protégés par des navires anti-SM dédiés.
+Description=croiseur à propulsion nucléaire lance-missiles de classe Kirov
+DefensiveWeapons=SAM SA-N-6\nSAM SA-N-4
+OffensiveWeapons=Missiles antinavires SA-N-19\nMissiles ASM SS-N-14\nACanon multirôle K100 100mm\nTorpilles ASM 533mm\nRoquettes ASM RBU-6000\nRoquettes ASM RBU-1000
+Aircraft=1 hélicoptère Ka-25 Hormone B de guidage missile\n2 hélicoptères Ka-25 Hormone A de lutte ASM
+History=Le Kirov est l'incarnation ultime du concept de croiseur lance-missiles soviétique. Avec des dimensions similaires à celles d'un cuirassé de la Seconde Guerre mondiale, ce sont parmi les plus puissants combattants de surface jamais construits, avec deux de ces navires construits depuis 1980, et deux autres en construction. Leur grande taille est rendue nécessaire par la nécessité de loger une grande batterie de missiles antinavires ainsi qu'un système de missile sol-air de défense de zone avec plusieurs défenses rapprochées en guise de secours. \ N \ nCompatible avec un sonar avancé et les armes ASM stand-off, ces navires fonctionnent généralement comme vaisseaux amiraux de groupes de guerre de surface protégés par des navires ASM dédiés.

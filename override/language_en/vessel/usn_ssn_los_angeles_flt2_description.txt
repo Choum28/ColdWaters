@@ -1,7 +1,7 @@
-﻿[Unit Reference]
-ShipClass=Flt-2 Los Angeles
-Description=SNA classe Los-Angeles Flt-2
-History=Cette sous-classe améliore la conception originale du 688 avec des tuiles anéchoïques et un stockage accru d'armes sous la forme de 12 tubes de lancement vertical (VLS) dans le ballast avant pouvant emporter des missiles anti-navires TASM ou terrestres TLAM.
+[Unit Reference]
+ShipClass=Los Angeles
+Description=Sous-marin nucléaire d'attaque de classe Los Angeles Flt-2
+History=Cette sous-classe améliore la conception 688 originale avec des tuiles anéchoïques et un stockage accru des armes sous la forme de 12 tubes de lancement vertical (VLS) dans le ballast avant pouvant transporter des missiles antinavires TASM ou des missiles de croisière TLAM.
 
 [Player Ship Instances]
 PlayerClassNames=Providence,Pittsburgh,Chicago,Key West,Oklahoma City,Louisville,Helena,Newport News

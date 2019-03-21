@@ -1,114 +1,114 @@
-﻿[HELM]
-NavigationWaypointInfo=Nouveau cap: <BRG>   distance: <RANGE> <KILOYARD>
-NavigationSetCourse=Central, la barre à <DIRECTION> au <BRG>
-NavigationAtCourse=Central, la barre à zéro
+[HELM]
+NavigationWaypointInfo=Définir course AZIMUT : <BRG>   PORTÉE : <RANGE> <KILOYARD>
+NavigationSetCourse=Central, barre à <DIRECTION> au <BRG>, bien capitaine
+NavigationAtCourse=Central, maintien du cap
 
 [DIVE OFFICER]
-BlowBallast=Chasse rapide, purgez les ballasts!
-PassingDepth=Profondeur <DEPTH> <FEET>
+BlowBallast=Surface en urgence, compris capitaine
+PassingDepth=Passons <DEPTH> <FEET>
 TooShallowUnderKeel=Central, moins de <DEPTH> <FEET> sous la quille
-IceHazard=Central, le sondeur détecte de la glace devant
-MineHazard=Central, le sondeur détecte un champ de mines devant
-KnuckleFormed=Central, formation de turbulences
-BallastRecharged=Central, réservoirs d'air comprimé chargés, paré à plonger
-BallastRecharging=Central, chargement en cours des réservoirs d'air comprimé, impossible de plonger
-NavigationSetDepth=Immersion <WANTEDDEPTH> <FEET>
-NavigationAtDepth=Central, immersion <WANTEDDEPTH> <FEET>
+IceHazard=Central, sonar signale de la glace devant
+MineHazard=Central, sonar signale champ de mine devant
+KnuckleFormed=Central, knuckle formé
+BallastRecharged=Central, chargement des réservoirs d'air comprimé terminé, parer à plonger
+BallastRecharging=Central, chargement en cours des réservoirs d'air comprimé après chasse d'urgence, plongée impossible
+NavigationSetDepth=Nouvelle profondeur <WANTEDDEPTH> <FEET>, bien capitaine
+NavigationAtDepth=Central, plonger à <WANTEDDEPTH> <FEET>
 
 [MANEUVERING]
-SetSpeed=Les machines en avant à <SPEED> noeuds
-AtSpeed=Central, notre vitesse: <SPEED> noeuds
-BackSpeed=Les machines en arrière
+SetSpeed=Nouvelle vitesse <SPEED> nœuds, bien compris
+AtSpeed=Central, vitesse à <SPEED> nœuds
+BackSpeed=Machine arrière d'urgence, bien compris
 
 [SONAR]
-NewSonarContact=Central, sonar: nouveau contact relèvement <BRG>, code <CONTACT>
-LostSonarContact=Central, sonar: contact perdu <CONTACT> dernier relèvement <BRG>, plus de bruiteur
-LostSonarContactBaffles=Central, sonar: contact perdu <CONTACT> dernier relèvement <BRG>, le bruiteur est dans notre cône de silence
-ReEstablishSonarContact=Central, sonar: contact <CONTACT> relèvement <BRG>, contact réétabli
-ContactSinking=Central, sonar: contact perdu <CONTACT> dernier relèvement <BRG>, bruit interrompu
-ContactIdentified=Central, sonar: contact <CONTACT> identifié comme <CONTACTTYPE>
-ContactClassified=Central, sonar: contact <CONTACT> classifié comme <CONTACTCLASSIFIED>
-TransientKnown=Central, sonar: torpille lancée depuis <CONTACT>
-TransientUnknown=Central, sonar: bruit de torpille, relèvement <BRG>
-SonobuoyPing=Central, sonar: impulsion sonar au relèvement <BRG>
-ActivePing=Central, sonar: sonar actif au relèvement <BRG>
-NoisemakerDropped=Central, sonar: bruiteur au relèvement <BRG>
-PlayerCavitating=Central, sonar: nous cavitons
-PlayerStopCavitating=Central, sonar: nous ne cavitons plus
-EnemyCavitating=Central, sonar: le contact <CONTACT> cavite
-SwitchToActive=Central, sonar: passage au sonar actif
-SwitchToPassive=Central, sonar: passage au sonar passif
-TorpedoInTheWater=Central, sonar: torpille en approche! Torpille en approche! Relèvement <BRG>
+NewSonarContact=Central, sonar : nouveau contact azimut <BRG>, désigné <CONTACT>
+LostSonarContact=Central, sonar : contact <CONTACT> perdu dernier azimut <BRG>, contact disparu
+LostSonarContactBaffles=Central, sonar: contact <CONTACT> perdu dernier azimut <BRG>, contact dans le baffle
+ReEstablishSonarContact=Central, sonar: contact <CONTACT> azimut <BRG>, contact rétabli
+ContactSinking=Central, sonar: contact <CONTACT> perdu dernier azimut <BRG>, contact se disloque
+ContactIdentified=Central, sonar : contact <CONTACT> est identifié comme <CONTACTTYPE>
+ContactClassified=Central, sonar : contact <CONTACT> est répertorié comme <CONTACTCLASSIFIED>
+TransientKnown=Central, sonar : lancement transient depuis <CONTACT>
+TransientUnknown=Central, sonar: lancement transient azimut <BRG>
+SonobuoyPing=Central, sonar: ping bouée sonar, azimut <BRG>
+ActivePing=Central, sonar: sonar actif, azimut <BRG>
+NoisemakerDropped=Central, sonar :leurre acoustique, azimut <BRG>
+PlayerCavitating=Central, sonar : nous sommes en cavitation
+PlayerStopCavitating=Central, sonar: fin de la cavitation
+EnemyCavitating=Central, sonar : contact <CONTACT> est en cavitation
+SwitchToActive=Central, sonar : bascule au sonar actif
+SwitchToPassive=Central, sonar : bascule au sonar passif
+TorpedoInTheWater=Central, sonar : alerte torpille ! alerte torpille ! Azimut <BRG>
 
 [WLR-9]
-Torpille en approche! Torpille en approche! Relèvement <BRG>
-Torille active! Relèvement <BRG>
-Torpille distance <RANGE> mètres, en approche
+Alerte torpille ! Alerte torpille ! Azimut <BRG>
+Torpille active ! Azimut <BRG>
+Torpille a <RANGE> yards et en approche
 
 [TORPEDO ROOM]
-LoadWeapon=Central, salle des torpilles: chargement <WEAPON> tube <TUBE>
-TubeDestroyed=Central, salle des torpilles: tube <TUBE> inopérable
-TubeJamDestroyed=Central, salle des torpilles: tube <TUBE> endommagé au lancement
-WeaponLoaded=Central, salle des torpilles: tube <TUBE> prêt à tirer
-TooDeep=Central, salle des torpilles: impossible de tirer l'arme <WEAPON> sous <DEPTH> <FEET>
-VLSTooFast=Central, salle des torpilles: impossible de tirer l'arme <VLS> au-dessus de <SPEED> <KNOT>
-VLSTooDeep=Central, salle des torpilles: utilisation impossible <VLS> au-dessous de <DEPTH> <FEET>
-//CannotLoadWireInTube=Central, salle des torpilles: chargement impossible <TUBE>, fil actif en tube <TUBE>
-NoReloadsAvailable=Aucune arme disponible
-NoVLSReloadsAvailable=Aucune arme restant dans <VLS>
-BelowMinRange=Central, salle des torpilles: impossible de tirer <WEAPON> à moins de <RANGE> <KILOYARD>
+LoadWeapon=Central, tranche torpille : Chargment <WEAPON> tube <TUBE>. tranche torpille compris
+TubeDestroyed=Central, tranche torpille : tube <TUBE> inutilisable
+TubeJamDestroyed=Central, tranche torpille : tube <TUBE> coincé au lancement
+WeaponLoaded=Central,tranche torpille : tube <TUBE> prêt
+TooDeep=Central, tranche torpille: tir impossible <WEAPON> en dessous de <DEPTH> <FEET>
+VLSTooFast=Central, tranche torpille : tir impossible armement <VLS> au dessus de <SPEED> <KNOT>
+VLSTooDeep=Central, tranche torpille : tir impossible armement <VLS> en dessous de <DEPTH> <FEET>
+//CannotLoadWireInTube=Central, tranche torpille : Rechargement impossible <TUBE>, filoguidage du <TUBE>
+NoReloadsAvailable=Pas de rechargement disponible
+NoVLSReloadsAvailable=Aucune arme restance dans <VLS>
+BelowMinRange=Central, tranche torpille : tir impossible <WEAPON> en dessous de <RANGE> <KILOYARD>
 
 [FIRE CONTROL]
-WeaponAcquire=Central, contrôle des armes, acquisition du but
-WeaponDecoy=Central, contrôle des armes, déclenchement de contre-mesures
-WeaponReattack=Central, contrôle des armes, arme de nouveau en attaque sur
-WireBreak=Central, contrôle des armes, fil cassé, arme <WEAPON>
-WaypointSet=RELEVEMENT: <BRG>   DISTANCE: <RANGE> <KILOYARD>
-WaypointInfo=RELEVEMENT: <BRG>   DISTANCE: <RANGE> <KILOYARD>
-NotReady=Central, contrôle des armes, <TUBE> n'est pas prêt à tirer
-FireTube=Tube <TUBE>, Feu!
+WeaponAcquire=Central, contrôle tir, arme en acquisition
+WeaponDecoy=Central, contrôle tir, arme en acquisition sur contre mesure
+WeaponReattack=Central, contrôle tir, arme en réacquisition
+WireBreak=Central, contrôle tir, rupture câble, arme <WEAPON>
+WaypointSet=AZIMUT : <BRG>   PORTÉE : <RANGE> <KILOYARD>
+WaypointInfo=AZIMUT : <BRG>   PORTÉE : <RANGE> <KILOYARD>
+NotReady=Central, contrôle tir, tube <TUBE> pas prêt à tirer
+FireTube=Mise à feu tube <TUBE>, compris capitaine
 
 [XO]
-InDeploymentZone=Stoppez les machines au-dessus de 100 <FEET> pour débarquer les commandos
-CompartmentStatus=<CONDITION> en zone <COMPARTMENT>! Equipe de maintenance en zone <COMPARTMENT>!
-MasterContact=Contact <ORIGINAL> réévalué en <CONTACT>
-CommandoDeployed=L'équipe de commandos est en route
-LandStrikeHoming=Central, l'arme <LANDTARGETSTATUS> attaque la cible au sol
-LandStrikeComplete=Central, toutes les armes d'attaque sont parties, fin de l'attaque terrestre
+InDeploymentZone=Dans la zone de déploiement des forces spéciales, stopper au dessus de 100 <FEET> pour déployer
+CompartmentStatus=<CONDITION> dans le <COMPARTMENT>! Equipe de sécurité, demandée au <COMPARTMENT>!
+MasterContact=Contact <ORIGINAL> mis à jour en <CONTACT>
+CommandoDeployed=Forces spéciales déployés
+LandStrikeHoming=Central, arme <LANDTARGETSTATUS> attaquant cible terrestre
+LandStrikeComplete=Central, toutes les armes d'attaque terrestre partie, frappe au sol terminée
 
-SubsystemDamaged=Central, <SUBSYSTEM> endommagé, temps de réparation <TIMETOREPAIR> minutes
-SubsystemDestroyed=Central, <SUBSYSTEM> hors service, nécessite une réparation au port
+SubsystemDamaged=Central, <SUBSYSTEM> endommagé, temps avant réparation <TIMETOREPAIR> minutes
+SubsystemDestroyed=Central, <SUBSYSTEM> hors-ligne, nécessite une réparation au port
 SubsystemRepaired=Central, <SUBSYSTEM> réparé
 
-FloodingInCompartment=Voie d'eau en zone <COMPARTMENT>!
-DCPartyToCompartment=Equipes de maintenance, rendez-vous en zone <COMPARTMENT>!
+FloodingInCompartment=Voie d'eau dans le <COMPARTMENT>!
+DCPartyToCompartment=Équipe de sécurité, demandée au <COMPARTMENT>!
 
 [WATCH OFFICER]
-RunSilentOn=Situation "super silence"!
+RunSilentOn=Navire en situation silence
 RunSilentOff=Fin de la situation silence
 
-NewVisualContact=Nouveau contact visuel, relèvement <BRG>, designé <CONTACT>
-NewRADARContact=Nouveau contact RADAR, relèvement <BRG>, designé <CONTACT>
-NewESMContact=Nouveau contact ESM, relèvement <BRG>, designé <CONTACT>
-LostVisualContact=Contact <CONTACT> contact visuel perdu, relèvement <BRG>
-LostRADARContact=Contact <CONTACT> contact RADAR perdu, relèvement <BRG>
-LostESMContact=Contact <CONTACT> contact ESM perdu, relèvement <BRG>
-ReEstablishVisualContact=Contact visuel <CONTACT>, relèvement <BRG>, contact ré-établi
-ReEstablishRADARContact=Contact RADAR <CONTACT>, relèvement <BRG>, contact ré-établi
-ReEstablishESMContact=Contact ESM <CONTACT>, relèvement <BRG>, contact ré-établi
+NewVisualContact=Nouveau contact visuel azimut <BRG>, désigné <CONTACT>
+NewRADARContact=Nouveau contact RADAR azimut <BRG>, désigné <CONTACT>
+NewESMContact=Nouveau contact MSE azimut <BRG>, désigné <CONTACT>
+LostVisualContact=Contact <CONTACT> contact visuel perdu, azimut <BRG>
+LostRADARContact=Contact <CONTACT> contact RADAR perdu, azimut <BRG>
+LostESMContact=Contact <CONTACT> contact MSE perdu, azimut <BRG>
+ReEstablishVisualContact=Contact <CONTACT>, azimut <BRG>, contact rétabli
+ReEstablishRADARContact=Contact <CONTACT>, azimut <BRG>, contact rétabli
+ReEstablishESMContact=Contact <CONTACT>, azimut <BRG>, contact rétabli
 
-CannotUseMasts=Les aériens ne peuvent être hissés en-dessous de <THRESHOLD> <FEET>
-RaiseMast0=Hissez le périscope
-LowerMast0=Affalez le périscope
-StowMast0=Central, le periscope est baissé et sécurisé pour l'immersion
+CannotUseMasts=Impossible d'hisser les mâts à moins de <THRESHOLD> <FEET>
+RaiseMast0=Hisser périscope
+LowerMast0=Affaler périscope
+StowMast0=Central, le périscope est rétracté et prêt pour la plongée
 
-RaiseMast1=Hissez le mât ESM
-LowerMast1=Affalez le mât ESM
-StowMast1=Central, radio, le mât ESM est baissé et sécurisé pour l'immersion 
+RaiseMast1=Hisser le mât MSE
+LowerMast1=Affaler le mât MSE
+StowMast1=Central, radio, le mât MSE est rétracté et prêt pour la plongée
 
-RaiseMast2=Hissez le mât RADAR
-LowerMast2=Affalez le mât RADAR
-StowMast2=Central, radio, le mât RADAR est baissé et sécurisé pour l'immersion
+RaiseMast2=Hisser le mât RADAR
+LowerMast2=Affaler le mât RADAR
+StowMast2=Central, radio, le mât RADAR est rétracté et prêt pour la plongée
 
 [AUDIO]
 RaiseMast1=audio/messagelog/mast
@@ -351,10 +351,10 @@ BelowMinRange=audio/voices/torpedo room/Cannot_fire_inside_minrange2.wav|8|FALSE
 NoReloadsAvailable=audio/voices/torpedo room/No_reloads_available.wav|8|FALSE
 NoVLSReloadsAvailable=audio/voices/torpedo room/VLS_empty.wav|8|FALSE
 
-//TooDeep=Conn, torpedo room: cannot fire <WEAPON> below <DEPTH> <FEET>
-//VLSTooFast=Conn, torpedo room: cannot fire <VLS> weapon above <SPEED> <KNOT>
-//VLSTooDeep=Conn, torpedo room: cannot <VLS> weapon below <DEPTH> <FEET>
-//CannotLoadWireInTube=Conn, torpedo room: cannot reload <TUBE>, active wire in <TUBE>
+//TooDeep=Central, tranche torpille : impossible de tirer <WEAPON> en dessous de <DEPTH> <FEET>
+//VLSTooFast=Central, tranche torpille : impossible de tirer arme <VLS> au dessus de <SPEED> <KNOT>
+//VLSTooDeep=Central, tranche torpille : tir impossible armement <VLS> en dessous de <DEPTH> <FEET>
+//CannotLoadWireInTube=Central, tranche torpille : impossible de recharger <TUBE>, filoguidage actif <TUBE>
 
 //Watch Officer
 RaiseMast0=audio/voices/watch officer/Up_scope.wav|5|FALSE

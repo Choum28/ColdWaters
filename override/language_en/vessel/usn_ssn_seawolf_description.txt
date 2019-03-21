@@ -1,7 +1,7 @@
-﻿[Unit Reference]
+[Unit Reference]
 ShipClass=Seawolf
-Description=SNA classe Seawolf
-History=Le Seawolf a été conçu pour être un super sous-marin chasseur-tueur qui pouvait pénétrer dans les bastions des "boomers" (SNLE) soviétiques fortement escortés et non seulement y survivre, mais encore s'y trouver à l'aise. Le Seawolf dispose de deux fois plus de tubes lance-torpilles et de deux fois plus d'armes que les précédentes classes de sous-marins d'attaque nucléaire, avec de meilleurs capteurs et une bien meilleure furtivité. Toute cette performance superlative a coûté très cher, et seulement trois exemplaires de cette classe ont été construits, le SSN-23 devenant le navire des "projets spéciaux" de l'US Navy.
+Description=Sous-marin nucléaire d'attaque de classe Seawolf
+History=Le Seawolf a été conçu pour être un super-sous-marin chasseur-tueur qui pourrait pénétrer dans les bastions fortement gardés des boomers soviétiques, non seulement y survivre, mais aussi s'y épanouir. Le Seawolf dispose de deux fois plus de tubes lance-torpilles et deux fois plus d'armes que les précédentes classes de sous-marins nucléaire d'attaque, avec de meilleurs capteurs et une meilleure furtivité que les autres sous-marins. Toute cette performance a coûté très cher, et seulement trois navires de la classe ont été construits, incluant le SSN-23 devenu un navire destiné aux opérations spéciales.
 
 [Player Ship Instances]
 PlayerClassNames=Seawolf

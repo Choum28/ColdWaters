@@ -19,7 +19,7 @@ ImageHeight=260
 Image=help_images/damage_status.png
 [/Image]
 <size=24><color=maroon><b>CONTRÔLES</b></color></size>
-Tous les contrôles peuvent être redéfinis dans <DICTIONARY:Options>.
+Toutes les commandes peuvent être redéfinis dans les <DICTIONARY:Options>.
 
 <b>Général</b>||<b>Navigation</b>|
 <DICTIONARY:Help>|<KEY:Help>|<DICTIONARY:Increase Power>|<KEY:Increase Power>
@@ -28,16 +28,16 @@ Tous les contrôles peuvent être redéfinis dans <DICTIONARY:Options>.
 <DICTIONARY:Time Compression>|<KEY:Time Compression>|<DICTIONARY:Rudder Right>|<KEY:Rudder Right>
 <DICTIONARY:Hide HUD>|<KEY:Hide HUD>|<DICTIONARY:Planes Up>|<KEY:Planes Up>
 ||<DICTIONARY:Planes Down>|<KEY:Planes Down>
-<b>Référence et sélection des unités</b>||<DICTIONARY:Ballast Up>|<KEY:Ballast Up>
+<b>Sélection réf. unités et navires</b>||<DICTIONARY:Ballast Up>|<KEY:Ballast Up>
 <DICTIONARY:Museum Next>|<KEY:Museum Next>|<DICTIONARY:Ballast Down>|<KEY:Ballast Down>
 <DICTIONARY:Museum Previous>|<KEY:Museum Previous>|<DICTIONARY:Blow Ballast>|<KEY:Blow Ballast>
 ||<DICTIONARY:Level Submarine>|<KEY:Level Submarine>
-<b>Panneau de contrôle</b>||<DICTIONARY:Set Course>|<KEY:Set Course>
+<b>Fenêtre Contrôle</b>||<DICTIONARY:Set Course>|<KEY:Set Course>
 <DICTIONARY:Helm Controls>|<KEY:Helm Controls>|<DICTIONARY:Periscope Depth>|<KEY:Periscope Depth>
 <DICTIONARY:Dive Controls>|<KEY:Dive Controls>|<DICTIONARY:Emergency Deep>|<KEY:Emergency Deep>
 <DICTIONARY:Sensor Controls>|<KEY:Sensor Controls>||
 
-<b>Contrôles de la caméra</b>||<b>Capteurs, carte et mâts</b>|
+<b>Contrôles Caméra</b>||<b>Capteurs, carte et Mât</b>|
 <DICTIONARY:Camera Left>|<KEY:Camera Left>|<DICTIONARY:Tactical Map>|<KEY:Tactical Map>
 <DICTIONARY:Camera Right>|<KEY:Camera Right>|<DICTIONARY:Centre Map>|<KEY:Centre Map>
 <DICTIONARY:Camera Up>|<KEY:Camera Up>|<DICTIONARY:Auto Centre Map>|<KEY:Auto Centre Map>
@@ -51,7 +51,7 @@ Tous les contrôles peuvent être redéfinis dans <DICTIONARY:Options>.
 <DICTIONARY:Camera To Weapon>|<KEY:Camera To Weapon>|<DICTIONARY:RADAR Mast>|<KEY:RADAR Mast>
 <DICTIONARY:Camera To Aircraft>|<KEY:Camera To Aircraft>|
 <DICTIONARY:Camera To Scenery>|<KEY:Camera To Scenery>||
-<DICTIONARY:Event Camera>|<KEY:Event Camera>|<b>Onglets des panneaux</b>|
+<DICTIONARY:Event Camera>|<KEY:Event Camera>|<b>Bascule fenêtres</b>|
 ||<DICTIONARY:Conditions>|<KEY:Conditions>
 <b>Armes</b>||<DICTIONARY:Signature>|<KEY:Signature>
 <DICTIONARY:Fire Tube>|<KEY:Fire Tube>|<DICTIONARY:Stores>|<KEY:Stores>
@@ -70,7 +70,7 @@ Tous les contrôles peuvent être redéfinis dans <DICTIONARY:Options>.
 <DICTIONARY:Steer Torpedo Deep>|<KEY:Steer Torpedo Deep>|<DICTIONARY:Briefing>|<KEY:Briefing>
 
 
-<size=24><color=maroon><b>RÉGLAGE TUBES</b></color></size>
+<size=24><color=maroon><b>PARAMÈTRES TUBES</b></color></size>
 
 
 
@@ -87,7 +87,7 @@ Tous les contrôles peuvent être redéfinis dans <DICTIONARY:Options>.
 
 
 
-<size=24><color=maroon><b>ICÔNES DE CARTE</b></color></size>
+<size=24><color=maroon><b>ICONES DE LA CARTE</b></color></size>
 
 
 
@@ -104,7 +104,7 @@ Tous les contrôles peuvent être redéfinis dans <DICTIONARY:Options>.
 
 
 
-<size=24><color=maroon><b>ICÔNES DE CARTE STRATÉGIQUE</b></color></size>
+<size=24><color=maroon><b>ICONES DE LA CARTE STRATÉGIQUE</b></color></size>
 
 
 
@@ -122,7 +122,7 @@ Tous les contrôles peuvent être redéfinis dans <DICTIONARY:Options>.
 
 
 
-<size=24><color=maroon><b>ICÔNES DE STATUTS</b></color></size>
+<size=24><color=maroon><b>ICONES DE STATUS</b></color></size>
 <b>NAVIGATION</b>
 
 
@@ -157,7 +157,7 @@ Tous les contrôles peuvent être redéfinis dans <DICTIONARY:Options>.
 
 
 
-<b>DOMMAGES ET ALERTES</b>
+<b>AVARIE & DANGERS</b>
 
 
 
@@ -175,26 +175,26 @@ Tous les contrôles peuvent être redéfinis dans <DICTIONARY:Options>.
 
 
 
-<size=24><color=maroon><b>IDENTIFICATION VAISSEAU</b></color></size>
-LST			Landing ship Tank
-AS			Submarine Tender
-AOR		Replenishment Oiler
-AE			Ammunition Ship
+<size=24><color=maroon><b>DÉSIGNATIONS DES NAVIRES</b></color></size>
+LST			Bâtiment de débarquement de chars
+AS			Ravitailleur de sous-marin
+AOR		Pétrolier-ravitailleur
+AE			Cargos de munitions
 AP			Transport
-FF			Frigate
-FFG			Guided Missile Frigate
+FF			Frégate
+FFG			Frégate lance-missiles
 DD			Destroyer
-DDG		Guided Missile Destroyer
-CL			Light Cruiser
-CG			Guided Missile Cruiser
-CGN		Nuclear-powered Guided Missile Cruiser
-CGH		Guided Missile Helicopter Carrier
-CVGH		Guided Missile Helicopter Fixed-wing Carrier
-SS			Submarine
-SSK			Hunter Killer Submarine
-SSG			Cruise Missile Submarine
-SSN			Nuclear Submarine
-SSGN		Nuclear Cruise Missile Submarine
-SSBN		Nuclear Ballistic Missile Submarine
+DDG		Destroyer lance-missiles
+CL			Croiseur léger
+CG			Croiseur lance-missiles
+CGN		Croiseur à propulsion nucléaire lance-missiles
+CGH		Porte-hélicoptères lance-missiles
+CVGH		Porte-aéronefs lance-missiles
+SS			Sous-marin
+SSK			Sous-marin chasseur-tueur
+SSG			Sous-marin lanceur de missiles de croisière 
+SSN			Sous-marin nucléaire
+SSGN		Sous-marin nucléaire lanceur de missiles de croisière
+SSBN		Sous-marin nucléaire lanceur de missiles balistiques
 
-BIO			Biologic
+BIO			Biologique

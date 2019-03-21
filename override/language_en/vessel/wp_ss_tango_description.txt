@@ -1,4 +1,4 @@
-﻿[Unit Reference]
+[Unit Reference]
 ShipClass=Tango
-Description=Sous-marin diesel-électrique classe Tango
-History=Ce sont de grands sous-marins d'attaque diesel-électriques conçus pour les opérations à longue distance et pour la défense des bastions SSBN de l'Arctique. Ils sont comparables aux sous-marins d'attaque nucléaires de classe Victor II en termes de capteurs et d'armes, mais sont nettement plus silencieux lorsqu'ils fonctionnent avec des batteries. Cela les rend adaptés aux opérations Spetsnaz en plus de fonctionner contre les navires de l'OTAN.
+Description=Sous-marin diesel-électrique d'attaque de classe Tango
+History=Ce sont de grands sous-marins d'attaque diesel-électriques conçus pour les opérations longue distance et pour la défense des bastions SSBN de l'Arctique. Ils sont comparables aux sous-marins d'attaque nucléaires de classe Victor II en termes de capteurs et d'armemement, mais sont nettement plus silencieux lorsqu'ils fonctionnent avec des batteries. Cela les rend adaptés aux opérations Spetsnaz en plus d'opérer contre les navires de l'OTAN.

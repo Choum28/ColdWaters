@@ -1,7 +1,7 @@
-Image=campaign/images/pact wolfpack 5
-MissionLocation=Près des îles Féroé
+Image=campaign/images/nato submarine
+MissionLocation=Près des Îles Féroé
 Briefing=15 MAR 1984
-Briefing=Lors d'une patrouille de routine, vous détectez une meute de SM diesel-électriques essayant de s'infiltrer dans les zones d'approche ouest.
+Briefing=Lors d'une patrouille de routine, vous entez en contact avec une meute de sous-marin diesel-électriques essayant de pénétrer dans les atterrages occidentaux
 Briefing=
-Briefing=Objectif principal:
-Briefing=Combattez les sous-marins ennemis et assurez-vous qu'ils ne s'échappent pas.
+Briefing=Objectif Principal :
+Briefing=Opposez-vous aux sous-marins ennemis et assurez-vous qu'ils ne s'échappent pas

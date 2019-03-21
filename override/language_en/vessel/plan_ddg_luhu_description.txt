@@ -1,7 +1,7 @@
-﻿[Unit Reference]
+[Unit Reference]
 ShipClass=Luhu
-Description=Frégate lance-missiles classe Luhu
-DefensiveWeapons=37mm AA Guns, HQ-7 SAM
-OffensiveWeapons=EDS-25 anti-SM Rockets
-Aircraft=2 Ka-28 Helix anti-SM helicopters
-History=Les Luhus ont été les premiers destroyers modernes conçus et construits en Chine. Destinés principalement à la lutte anti-SM, ils sont plus performants que les anciens Ludas, étant équipés des tout derniers systèmes de sonars numériques et de contrôle de combat. Leurs lanceurs de missiles au milieu du navire sont capables de tirer le missile de croisière C-802 ou la lance-missile anti-sous-marine CY-1. Les défenses anti-aériennes sont maniées par des canons de 37 mm et un lanceur Crotale à courte portée, tandis que l'arrière est une grande hélisurface et des hangars pour deux hélicoptères AS-9 Z-9 ou Ka-28.
+Description=destroyer lance-missiles de classe Luhu
+DefensiveWeapons=Canons AA 37mm Guns, SAM HQ-7
+OffensiveWeapons=Roquettes ASM EDS-25
+Aircraft=2 Hélicoptères Ka-28 Helix de lutte ASM
+History=Les Luhus ont été les premiers destroyers modernes conçus et construits en Chine. Destinés principalement à la lutte ASM, ils sont plus performants que les anciens Ludas, étant équipés des tout derniers de sonars numériques et systèmes de combat et de contrôle Européen. Les lanceurs de missiles au milieu du navire sont capables de tirer le missile de croisière C-802 ou la roquette anti-sous-marine CY-1. Les défenses anti-aériennes sont composé par des canons de 37 mm et un lanceur Crotale à courte portée, tandis que la poupe est un grand héliport et hangars pour deux hélicoptères AS-9 Z-9 ou Ka-28 de lutte ASM.

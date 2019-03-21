@@ -1,7 +1,7 @@
-﻿[Unit Reference]
+[Unit Reference]
 ShipClass=Kiev
-Description=Porte-avion tactique classe Kiev
-DefensiveWeapons=SA-N-3 SAM\nSA-N-4 SAM
-OffensiveWeapons=SS-N-12 Anti-Ship Missiles\nFRAS-1 anti-SM Missiles\nAK762 72mm DP Guns\n\533mm anti-SM Torpedoes\nRBU-6000 anti-SM Rockets
-Aircraft=14-17 Ka-25 Hormone anti-SM or Helix helicopters\n12-13 Yak-38MP Forger V/STOL jet fighter-bombers
-History=En service depuis 1975, ces porte-avions V / STOL sont la conception de suivi des hélicoptères-croiseurs Moskva. Destinés à la mission pro-sous-marine, ces navires transportent une gamme impressionnante de missiles anti-navires et anti-aériens en plus des capacités anti-SM étendues. Contrairement aux porte-avions de l'US Navy, leur principale force offensive réside dans leur batterie de missiles de croisière, les avions de bord étant principalement utilisés pour la couverture aérienne. Ces navires servent souvent de porte-étendard dans les groupes de chasseurs.
+Description=Porte-aéronefs de classe Kiev
+DefensiveWeapons=SAM SA-N-3\nSAM SA-N-4
+OffensiveWeapons=Missiles antinavires SS-N-12\nMissiles ASM FRAS-1\nCanon multirôle AK762 72mm\n\Torpilles ASM 533mm\n Roquettes ASM RBU-6000
+Aircraft=14-17 Ka-25 Hormone de lutte ASM ou Hélicoptères Helix\n12-13 aéronef Yak-38MP Forger V/STOL
+History=En service depuis 1975, ces porte-avions V/STOL sont l'évolution des croiseurs porte-hélicoptères Moskva. Destinés à des mission pro-sous-marine, ces navires transportent une gamme impressionnante de missiles antinavires et anti-aériens en plus des capacités ASM étendues. Contrairement aux porte-avions de l'US Navy, leur principale force offensive réside dans leur batterie de missiles de croisière, les avions embaqués étant principalement utilisés pour la couverture aérienne.\n \nCes navires servent souvent de navire amiral pour les frappes ou les groupes d'attaques.

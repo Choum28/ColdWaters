@@ -1,4 +1,4 @@
-﻿[Weapon Reference]
+[Weapon Reference]
 WeaponName=RUR-5
-WeaponDescriptiveName=Roquette anti-SM RUR-5 ASROC
-WeaponDescription=Roqette anti-SM à distance de lancement de navire qui suit une trajectoire balistique non guidée et laisse tomber une torpille légère Mk-46 à tête chercheuse.
+WeaponDescriptiveName=Roquette ASMRUR-5 ASROC
+WeaponDescription=Roquette ASM, lancée par un navire de surface, qui suit une trajectoire balistique non guidée puis largue une torpille légère à tête chercheuse Mk-46.

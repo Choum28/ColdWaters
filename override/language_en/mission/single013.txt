@@ -1,10 +1,10 @@
 Image=campaign/images/pact wolfpack 1
-MissionLocation=Atlantique nord
+MissionLocation=Dans l'Atlantique Nord
 Briefing=18 OCT 1984
-Briefing=Après avoir pénétré avec succès dans l'Atlantique nord, vous commencez la chasse aux convois de l'OTAN.
+Briefing=Après une sortie réussie dans l'Atlantique Nord, votre chasse aux convois de l'OTAN commence.
 Briefing=
-Briefing=Objectif principal:
+Briefing=Objectif principal :
 Briefing=Couler les navires de transport ennemis
 Briefing=
-Briefing=Objectif secondaire:
-Briefing=Couler les navires d'escorte
+Briefing=Objectif secondaire :
+Briefing=Couler les escorteurs ennemies

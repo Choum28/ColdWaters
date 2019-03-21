@@ -1,4 +1,4 @@
-﻿[Weapon Reference]
+[Weapon Reference]
 WeaponName=SS-N-14
-WeaponDescriptiveName=Missile anti-SM SS-N-14 Silex
-WeaponDescription=Missile subsonique anti-SM équipant la plupart des grands navires anti-sous-marins soviétiques ainsi que les frégates de la classe Krivak. Il peut être lancé vers la première zone de convergence, et laisse tomber une torpille à tête chercheuse UGMT. Parce qu'il a une portée plus grande que la portée effective du navire de surface, il peut utiliser les données de ciblage transmises par n'importe quelle unité maritime ou aérienne amie via la liaison de données.
+WeaponDescriptiveName=Missile ASM SS-N-14 Silex
+WeaponDescription=Missile subsonique ASM équipant la plupart des grands navires anti-sous-marins soviétiques ainsi que les frégates de la classe Krivak. Il peut être lancé vers une première zone, et laisse tomber une torpille à tête chercheuse UGMT. Parce qu'il a une portée plus grande que la portée effective du navire de surface, il peut utiliser les données de ciblage transmises par n'importe quelle unité maritime ou aérienne amie via sa liaison de données.

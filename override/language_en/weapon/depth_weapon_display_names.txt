@@ -1,40 +1,38 @@
 [MORTARS]
-wp_rbu6000_mortar=RBU 6000=Il s'agit d'un lanceur de type Hedgehog qui utilise des roquettes pour lancer des grenades sous-marines dans un rayon prédéfini sur de grandes distances. Le nom inclut la plage maximale en mètres.
-wp_rbu2500_mortar=RBU 2500=Il s'agit d'un lanceur de type Hedgehog qui utilise des roquettes pour lancer des grenades sous-marines dans un rayon prédéfini sur de grandes distances. Le nom inclut la plage maximale en mètres.
-wp_rbu1000_mortar=RBU 1000=Il s'agit d'un lanceur de type Hedgehog qui utilise des fusées pour lancer des grenades sous-marines dans un rayon prédéfini sur de grandes distances. Le nom inclut la plage maximale en mètres.
-plan_fqf2500_mortar=FQF 2500=C'est un lanceur de type Hedgehog qui utilise des fusées pour lancer des grenades sous-marines dans un rayon prédéfini sur de grandes distances. Le nom inclut la plage maximale en mètres.
-plan_type81_mortar=Type 81=C'est un lanceur de type Hedgehog qui utilise des roquettes pour lancer des grenades sous-marines dans un motif préréglé sur de grandes distances. La portée maximale est d'environ 3000 mètres.
-plan_type87_mortar=Type 87=C'est un lanceur de type Hedgehog qui utilise des fusées pour lancer des grenades sous-marines dans un rayon prédéfini sur de grandes étendues. La portée maximale est d'environ 5500 mètres.
+wp_rbu6000_mortar=RBU 6000=C'est un lanceur de type hérisson qui utilise des roquettes pour lancer des grenades anti-sous-marines dans un pattern prédéfini sur de grandes distances. La désignation désigne la plage maximale en mètres.
+wp_rbu2500_mortar=RBU 2500=C'est un lanceur de type hérisson qui utilise des roquettes pour lancer des grenades anti-sous-marines dans un pattern prédéfini sur de grandes distances. La désignation désigne la plage maximale en mètres.
+wp_rbu1000_mortar=RBU 1000=C'est un lanceur de type hérisson qui utilise des roquettes pour lancer des grenades anti-sous-marines dans un pattern prédéfini sur de grandes distances. La désignation désigne la plage maximale en mètres.
+plan_fqf2500_mortar=FQF 2500=C'est un lanceur de type hérisson qui utilise des roquettes pour lancer des grenades anti-sous-marines dans un pattern prédéfini sur de grandes distances. La désignation désigne la plage maximale en mètres.
+plan_type81_mortar=Type 81=C'est un lanceur de type hérisson qui utilise des roquettes pour lancer des grenades anti-sous-marines dans un pattern prédéfini sur de grandes distances. La portée maximale est de 3000 yards.
+plan_type87_mortar=Type 87=C'est un lanceur de type hérisson qui utilise des roquettes pour lancer des grenades anti-sous-marines dans un pattern prédéfini sur de grandes distances. La portée maximale est de 5500 yards.
 
 [GUNS]
-usn_mark_42_shell=5 "/ 54 Mark 42=5" / 54 Mark 42
+wp_6x3_b-38_shell=Canons 152mm/57=152mm/57 B-38
 
-wp_6x3_b-38_shell=152mm / 57 Canons=152mm / 57 B-38
+wp_ak-130_shell=Canons AK-130=130mm/70 AK-130
 
-wp_ak-130_shell=Pistolets AK-130=130mm / 70 AK-130
+wp_sm2_shell=Canons 130mm/58=130mm/58 SM-2-1
 
-wp_sm2_shell=130mm / 58 Canons=130mm / 58 SM-2-1
+wp_ak-100_shell=Canons AK-100=100mm/70 AK-100
 
-wp_ak-100_shell=Pistolets AK-100=100mm / 70 AK-100
+wp_sm2_shell=Canons 130mm/58=130mm/58 SM-2-1
 
-wp_sm2_shell=130mm / 58 Canons=130mm / 58 SM-2-1
-
-wp_b-34_shell=B-34 Canons=100mm / 56 B-34
+wp_b-34_shell=Canons B-34=100mm/56 B-34
 
 wp_ak-726_shell=Canons AK-726=AK-726
 
 wp_ak-725_shell=Canons AK-725=AK-725
 
-plan_type_79a_shell=Type 79A Canons=100mm / 56 Type 79A
+plan_type_79a_shell=Canons Type 79A=100mm/56 Type 79A
 
-wp_depth_bomb=Grenade sosu-marine 25=Grenade sosu-marine larguée très légère
+wp_depth_bomb=Depth Bomb 25=Bombe aérienne ASM très légère
 
-wp_depth_bomb_50=Grenade sosu-marine PLAB-50=PLAB-50 Grenade sosu-marine larguée par avion
+wp_depth_bomb_50=Bombe ASM PLAB-50=Bombe aérienne ASM légère PLAB-50
 
-wp_depth_bomb_120=Grenade sosu-marine PLAB-120=PLAB-120 Grenade sosu-marine larguée par avion moyen
+wp_depth_bomb_120=Bombe ASM PLAB-120=Bombe aérienne ASM moyenne PLAB-120
 
-wp_depth_bomb_250=Grenade sosu-marine PLAB-250=Grenade sosu-marine larguée par avion PLAB-250
+wp_depth_bomb_250=Bombe ASM PLAB-250=Bombe aérienne ASMLourde PLAB-250
 
-wp_depth_bomb_500=Grenade sosu-marine KAB-500=KAB-500PL Grenade sosu-marine larguée par avion guidée à distance
+wp_depth_bomb_500=Bombe ASM KAB-500=Bombe guidée aérienne ASM Lourde KAB-500PL
 
 wp_proximity_mine=Mine de Proximité=Mine de Proximité

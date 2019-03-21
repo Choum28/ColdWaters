@@ -1,4 +1,4 @@
-﻿[Unit Reference]
+[Unit Reference]
 ShipClass=Dajiang
-Description=Navire de soutien classe Dajiang
-History=Ces navires sont de véritables navires multirôles, capables d'effectuer des opérations de sauvetage en mer, de sauvetage sous-marin ou comme ravitailleurs pour les sous-marins et les navires de surface. Ils sont équipés d'une énorme grue sur le pont avant, tandis que l'arrière est équippé d'un grand hangar et d'un héliport pour 2 hélicoptères Super Frelon Z-8 anti-sous-marins.
+Description=Navire de soutien de sous-marin de classe Dajiang
+History=Ces navires sont de véritables navires multirôles, capables d'effectuer des opérations de sauvetage en mer, de sauvetage de sous-marin ou de ravitailler les sous-marins et les navires de surface. Ils sont équipés d'une énorme grue sur le pont avant, tandis que l'arrière est un grand hangar et héliport pour 2 hélicoptères Z-8 Super Frelon de lutte ASM.

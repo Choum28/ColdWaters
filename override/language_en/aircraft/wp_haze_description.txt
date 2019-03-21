@@ -1,4 +1,4 @@
 [Unit Reference]
 AircraftName=Mi-14PL Haze A
 AircraftDescriptiveName=Mil Mi-14PL Haze A
-History=Le Mi-14 est une version navale de l'hélicoptère utilitaire Mi-8 Hip très réussi. Bien qu'il soit capable d'atterrir d'urgence sur l'eau, il ne peut pas être utilisé par un transporteur et doit opérer à partir de bases terrestres. L'équipement, l'armement et le fonctionnement de la variante Haze A ASW sont par ailleurs très similaires à l'Hormone Ka-25.
+History=Le Mi-14 est la version navale du très populaire hélicoptère utilitaire Mi-8. Bien que capable de se poser en cas d'urgence sur l'eau, il n'est pas capable d'opérer depuis un porte avion mais depuis une base terrestre. Les équipements, armements et fonctionnement de la variante ASM Haze A sont très similaire au Ka-25 Hormone.

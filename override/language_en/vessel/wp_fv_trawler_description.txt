@@ -1,4 +1,4 @@
-﻿[Unit Reference]
+[Unit Reference]
 ShipClass=Chalutier
-Description=Chalutier classe Barentsevo
-History=L'Union soviétique exploite la plus grande flotte de pêche du monde. Le Barentsevo More est typique des navires de pêche soviétiques de taille moyenne et se trouve généralement dans les eaux côtières et autour des ports soviétiques. 
+Description=Chalutier arrière de classe Barentsevo More
+History=L'Union soviétique exploite la plus grande flotte de pêche du monde. Le Barentsevo More est typique des navires de pêche soviétiques de taille moyenne et se trouve généralement dans les eaux côtières et autour des ports soviétiques.

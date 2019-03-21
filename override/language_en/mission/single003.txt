@@ -1,10 +1,10 @@
 Image=campaign/images/pact warship tender 1
-MissionLocation=Ouest de l'Islande
-Briefing=25 MAY 1968
-Briefing=Vos ordres sont d'intercepter une force de ravitaillement soupçonnée d'opérer quelque part en Atlantique Nord, à l'Ouest de l'Islande, en soutien d'opérations soviétiques hostiles contre des convois civils. Après plusieurs jours sans rencontre, le sonar signale un contact.
+MissionLocation=A l'Ouest de l'Islande
+Briefing=25 MAI 1968
+Briefing=Vos ordres sont d'intercepter une force de ravitaillement soupçonnée d'opérer quelque part à l'ouest de l'Islande, dans l'Atlantique Nord où ils soutiennent des opérations soviétiques anti-convoi agressives. Après plusieurs jours de recherche sans histoire, le sonar signale un contact
 Briefing=
-Briefing=Objectif principal:
-Briefing=Localisez et coulez les navires de ravitaillement
+Briefing=Objectif Principal :
+Briefing=Localiser et couler les navires ravitailleurs
 Briefing=
-Briefing=Objectif secondaire:
-Briefing=Localisez et coulez si possible les navires d'escorte
+Briefing=Objectif Secondaire :
+Briefing=Localiser et couler les navires de guerre d'escorte si possible.

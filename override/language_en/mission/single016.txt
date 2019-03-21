@@ -1,7 +1,7 @@
 Image=campaign/images/plan wolfpack 1
-MissionLocation=Mer de Chine orientale
+MissionLocation=Dans la mer de Chine orientale
 Briefing=2 JUL 2000
-Briefing=Un sous-marin d'attaque US a été détecté en mer de Chine orientale. Après plusieurs jours de recherche, un contact non identifié pourrait bien être ce que vous cherchez...
+Briefing=Un sous-marin d’attaque américain a été localisé en mer de Chine orientale. Après plusieurs jours de recherche, un contact inconnu pourrait être ce que vous chassé.
 Briefing=
-Briefing=Objectif principal:
-Briefing=Engagez un duel avec un SSN ennemi
+Briefing=Objectif principal :
+Briefing=Combattez en duel face à face avec un SNA ennemi

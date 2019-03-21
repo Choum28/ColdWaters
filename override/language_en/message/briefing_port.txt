@@ -1,10 +1,10 @@
-﻿
-Commandant,
-L'officier en second au rapport:
 
-L'équipage est heureux de profiter de quelques moments de détente pendant les préparatifs du départ.
+Capitaine,
+Rapport XO :
 
-		Magasins et tubes:		<STORESSTATUS>
-		Rapport d'avaries:      <SYSTEMSSTATUS>
+L'équipage profite de la plage pendant que nous préparons le départ.
 
-Quels sont vos ordres?
+		Magasin et tubes :		<STORESSTATUS>
+		Rapport d'avaries :			<SYSTEMSSTATUS>
+
+Vos ordres Capitaine ?

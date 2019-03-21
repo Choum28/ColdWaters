@@ -1,4 +1,4 @@
-﻿[Unit Reference]
+[Unit Reference]
 ShipClass=Kazbek
-Description=Pétrolier classe Kazbek
-History=Une cinquantaine de ces navires ont été construits comme navires-citernes pendant les années 1950, certains étant affectés à la marine depuis 1960. La classe ressemble fortement aux pétroliers T-2 américains de guerre, mais réaménagé pour le réapprovisionnement en cours avec un grand mât à deux pattes. et des grues plus petites pour le réapprovisionnement des entrepôts secs, tandis que le ravitaillement est limité à un seul navire utilisant la méthode inefficace de ravitaillement en poupe.
+Description=Pétrolier-ravitailleur de classe Kazbek
+History=Une cinquantaine de ces navires ont été construits comme navires-citernes pendant les années 1950, certains étant affectés à la navy depuis 1960. La classe ressemble fortement aux pétroliers américains T-2 de la WW2, mais réaménagé pour le réapprovisionnement avec un grand mât à deux bras et des petites grues pour le réapprovisionnement des entrepôts, tandis que le ravitaillement est limité à un seul navire en utilisant la méthode inefficace du ravitaillement en poupe.

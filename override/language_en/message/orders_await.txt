@@ -1,14 +1,14 @@
-﻿Attendez d'autres ordres sur ce canal.
-Attendez d'autres ordres.
-Attendez les ordres suivants sur ce même canal.
-Attendez les ordres suivants.
+Attendez des ordres complémentaires sur cette liaison.
+Attendez des ordres complémentaires.
+Attendez des ordres supplémentaires sur cette liaison.
+Attendez des ordres supplémentaires.
 Attendez de nouveaux ordres.
-D'autres ordres suivront sur ce canal.
-Nouveaux ordres à venir prochainement sur ce canal.
-Nouveaux ordres à venir rapidement sur ce canal.
-Attendez les ordres suivants sur ce même canal.
-Attendez les ordres suivants.
-Attendez de nouveaux ordres.
-D'autres ordres suivront sur ce canal.
-Nouveaux ordres à venir prochainement sur ce canal.
-Nouveaux ordres à venir rapidement sur ce canal.
+Des ordres supplémentaires seront transmis sur cette liaison.
+De nouveaux ordres à venir rapidement sur cette liaison.
+De nouveaux ordres seront émis sous peu sur cette liaison. 
+De nouveraux ordres seront envoyé bientôt sur cette liaison.
+De nouveaux ordres seront transmis bientôt sur cette liaison.
+Attendez les ordres complémentaires.
+Attendez les ordres supplémentaires.
+Attendez les nouveaux ordres sur cette liaison.
+Attendez les nouveaux ordres.

@@ -1,4 +1,4 @@
-﻿[Weapon Reference]
+[Weapon Reference]
 WeaponName=Yu-5
-WeaponDescriptiveName=Torpille Yu-5
-WeaponDescription=C'est la première torpille chinoise guidée par fil, qui incorpore beaucoup de technologie de l'US Mk-46 sous forme de propulsion Otto-fuel. Le guidage final se fait par un système de guidage passif / actif avec une portée estimée à 1600 mètres. 
+WeaponDescriptiveName=Torpille ASM Yu-5
+WeaponDescription=C'est la première torpille chinoise filoguidé, qui incorpore beaucoup de technologie de la Mk-46 US telle qu'une propulsion fuel Otto. La gestion du guidage se fait par un système de guidage passif / actif avec une portée estimée à 1600 yards

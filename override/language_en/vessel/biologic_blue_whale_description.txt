@@ -1,4 +1,4 @@
-﻿[Unit Reference]
+[Unit Reference]
 ShipClass=Baleine bleue
 Description=Baleine bleue (Balaenoptera musculus)
-History=Jusqu'à 30 mètres de longueur et avec un poids maximum enregistré de 171 tonnes, le rorqual bleu est le plus gros animal connu pour avoir jamais existé. Autrefois abondantes dans les océans du monde, les baleines bleues ont été chassées jusqu'à leur extinction par les baleiniers jusqu'à leur protection en 1966. Elles communiquent à des fréquences très basses et leur chant peut parcourir des milliers de kilomètres sous l'eau à travers les eaux profondes.
+History=Jusqu'à 30 mètres de longueur et avec un poid maximal enregistré de 171 tonnes, la baleine bleue est le plus gros animal connu qui ait jamais existé. Autrefois abondant dans les océans, ils ont été chassé jusqu'à la quasi extinction par les baleiniers jusqu'à leur protection en 1966. Ils communiquent par des fréquences très basses, et leur chant est connu pour parcourir des milliers de miles sous l'eau à travers le canal sonore profond.

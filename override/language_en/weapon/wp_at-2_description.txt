@@ -1,4 +1,4 @@
-﻿[Weapon Reference]
+[Weapon Reference]
 WeaponName=AT-2
 WeaponDescriptiveName=Torpille AT-2
-WeaponDescription=L'AT-2 est une torpille électrique à chute d'air avec un guidage acoustique actif / passif. La portée du système de guidage est d'environ 1100 mètres.
+WeaponDescription=L'AT-2 est une torpille électrique largée depuis les airs avec un guidage acoustique actif / passif. La portée du système de guidage est d'environ 1100 yards.

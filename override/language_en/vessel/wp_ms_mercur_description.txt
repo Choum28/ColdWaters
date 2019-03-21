@@ -1,4 +1,4 @@
 [Unit Reference]
 ShipClass=Marchand
-Description=Grand porte-container
-History=Ce sont des porte-conteneurs de première génération, avec une capacité de chargement d'environ 1900 EVP. Par rapport aux navires de fret traditionnels, la conteneurisation a permis à ces navires d'être chargés d'un chargement complet en une fraction de temps, en utilisant des équipes de dock beaucoup plus petites. Ils finiront par remplacer complètement le cargo traditionnel pour devenir le type prédominant de navire de fret.
+Description=Grand porte-conteneurs
+History=Ce sont des porte-conteneurs de premiÃ¨re gÃ©nÃ©ration, avec une capacitÃ© de chargement d'environ 1900 EVP. Par rapport aux navires cargo traditionnels, la conteneurisation a permis Ã  ces navires d'Ãªtre chargÃ©s complÃ¨tements en un temps record, en utilisant des Ã©quipes de dock beaucoup plus petites. Il finira par remplacer complÃ¨tement le navire Ã  cargaison sÃ¨che pour devenir le type prÃ©dominant de cargo.

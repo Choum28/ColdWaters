@@ -1,10 +1,10 @@
 Image=campaign/images/nato convoy
-MissionLocation=Près de Taïwan
+MissionLocation=Près de Taiwan
 Briefing=24 DEC 2000
-Briefing=Un convoi US est en route pour Taïwan pour livrer des équipements et ravitaillements militaires. Vos ordres sont d'empêcher les navires de transport d'atteindre leur destination.
+Briefing=Un convoi américain est en route vers Taïwan pour y livrer des fournitures et du matériel militaires. Vos ordres sont d'empêcher les transporteurs d'atteindre leur destination.
 Briefing=
-Briefing=Objectif principal:
-Briefing=Coulez les navires de transport
+Briefing=Objectif principal :
+Briefing=Couler les transporteurs ennemis
 Briefing=
-Briefing=Objectif secondaire:
-Briefing=Coulez les navires d'escorte
+Briefing=Objectif secondaire :
+Briefing=Couler les escortes ennemies

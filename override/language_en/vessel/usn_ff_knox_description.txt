@@ -1,7 +1,7 @@
-﻿[Unit Reference]
+[Unit Reference]
 ShipClass=Knox
 Description=Frégate de classe Knox
 DefensiveWeapons=Aucun
-OffensiveWeapons=RBU-1200 anti-SM Rockets
+OffensiveWeapons=Roquettes ASM RBU-1200
 Aircraft=1 SH-2F Seasprite
-History=La classe Knox est une classe de frégates de la Marine des États-Unis initialement prévues comme escorteurs, ce qui a changé leur désignation de coque de DE à FF. Une sous-classe de la classe Knox a été construit, communément appelé la classe Hewes.
+History=Cette classe était conçue à l'origine conçue comme une escorte anti-sous-marine de seconde génération, associant le très puissant sonar SQS-26 à l'hélicoptère drone DASH. En raison de son manque de fiabilité, le DASH a été remplacé plus tard par l'hélicoptère SH-2F Seasprite LAMPS, offrant au navire une capacité ASM à longue portée en complément de sa batterie ASROC. Ces navires ont été rééquipés du sonar remorqué TACTASS.

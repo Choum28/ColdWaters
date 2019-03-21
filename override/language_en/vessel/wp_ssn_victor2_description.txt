@@ -1,4 +1,4 @@
 [Unit Reference]
 ShipClass=Victor II
-Description=SNA classe Victor II
-History=Les sept bateaux de cette catégorie étaient le résultat d'un effort visant à redéfinir la classe Victor pour la nouvelle mission pro-sous-marine des années 1970. Bien qu'ils manquent des réseaux remorqués et ne sont qu'un peu plus silencieux que Victor I et un peu plus lent, la mise à niveau principale est la capacité de tirer le missile anti-SM SS-N-15, ce qui rend ces adversaires beaucoup plus dangereux, s'ils peuvent vous détecter.
+Description=Sous-marin nucléaire d'attaque de classe Victor II
+History=Les sept sous-marins de cette classe étaient le résultat d'un effort visant à redéfinir la classe Victor pour les nouvelles missions pro-sous-marine des années 1970. Bien qu'ils ne disposent pas d'un sonar remorqués, ne sont q'un peu plus silencieux et un peu plus lent que la classe Victor I, la mise à niveau principale est la capacité de tirer le missile ASM SS-N-15, ce qui rend ces adversaires beaucoup plus dangereux, s'ils peuvent vous détecter.

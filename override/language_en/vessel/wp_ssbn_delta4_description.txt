@@ -1,4 +1,4 @@
-﻿[Unit Reference]
+[Unit Reference]
 ShipClass=Delta IV
-Description=SNLE classe Delta IV
-History=Bien qu'extérieurement semblable aux bateaux plus tôt de la classe Delta, ceci est en grande partie une conception de sous-marin de la troisième génération entièrement nouvelle. Ces sous-marins sont plus grands, portent un missile plus grand et ont des caractéristiques de furtivité améliorées par rapport aux classes précédentes. En outre, ils sont également conçus pour fonctionner sous la glace et en surface, ce qui les rend difficiles à trouver s'ils sont autorisés à transiter vers leurs zones d'exploitation.
+Description=Sous-marin nucléaire lanceur d'engins de classe Delta IV
+History=Bien qu'extérieurement semblable aux navires précédents la classe Delta, Il s'agit en grande partie d'une nouvelle conception de sous-marin de troisième génération. Ces sous-marins sont plus grands, portent de plus large missile et ont des caractéristiques de silence améliorées par rapport aux classes précédentes. En outre, ils sont également conçus pour opérer sous et faire surface à travers la glace, ce qui les rend difficiles à repérer s'ils sont autorisés à transiter vers leurs zones d'opération.

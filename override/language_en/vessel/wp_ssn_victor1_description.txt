@@ -1,4 +1,4 @@
-﻿[Unit Reference]
+[Unit Reference]
 ShipClass=Victor I
-Description=SNA classe Victor I
-History=Cette classe de seize bateaux a été achevée en 1968 jusqu'en 1975. Ils ne sont pas aussi silencieux ou aussi capables que les bateaux américains contemporains, mais ils constituaient une amélioration majeure par rapport aux bateaux de la classe de novembre précédente. Ils sont conçus pour la haute vitesse avec peu d'effort au silencing, mais sont équipés de moteurs électriques de fluage pour le lecteur silencieux.
+Description=Sous-marin nucléaire d'attaque de classe Victor I
+History=Cette classe de seize bateaux a été achevé entre 1968 et 1975. Ils ne sont pas aussi silencieux ou aussi performant que les sous-marins US contemporains, mais ils constituaient une amélioration majeure par rapport aux sous-marins de la classe November précédente. Ils sont conçus pour la haute vitesse avec peu d'effort concernant le silence, mais ils sont équipés de moteurs de fluage électriques pour la navigation silencieuse.

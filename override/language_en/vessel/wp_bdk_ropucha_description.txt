@@ -1,7 +1,7 @@
-﻿[Unit Reference]
+[Unit Reference]
 ShipClass=Ropucha
-Description=Navire de débarquement classe Ropucha
-DefensiveWeapons=57mm AA Guns\nShoulder-launched SA-7 SAM
+Description=Navire de débarquement de classe Ropucha
+DefensiveWeapons=Canons AA 57mm\nSAM SA-7 portatif
 OffensiveWeapons=122mm artillery rocket launcher
 Sensors=Radar de navigation seulement
-History=Dix-neuf de ces navires ont été achevés entre 1975 et 1985. Chaque navire peut transporter 10 chars de combat principaux ou 25 véhicules blindés de transport de troupes avec 340 soldats, représentant tous les véhicules et 25% des hommes d'un bataillon d'infanterie (le reste être embarqué sur des transports conventionnels tels que l'Amguema). Tout comme le plus gros Alligator, les Ropuchas sont conçus pour rouler et rouler avec des rampes d'étrave et de poupe alimentant un pont continu de véhicules, le fond de la coque étant incliné de sorte que le navire puisse monter sur une plage pour livrer des véhicules directement. Les navires sont également équipés de lance-roquettes pour soutenir les opérations amphibies avec des tirs d'artillerie.
+History=Dix-neuf de ces navires ont été achevés entre 1975 et 1985. Chaque navire peut transporter 10 chars de combat ou 25 véhicules blindés de transport de troupes avec 340 soldats, représentant tous les véhicules et 25% des hommes d'un bataillon d'infanterie (le reste être embarqué sur des transports conventionnels tels que l'Amguema). Tout comme l'Alligator plus gros, les Ropuchas sont conçus pour embarquer débarquer avec des rampes d'étrave et de poupe remplissant un pont continu de véhicules, le fond de la coque étant incliné de sorte que le navire puisse monter sur une plage pour débarquer directement les véhicules.\nLes navires sont également équipés de lance-roquettes pour soutenir les opérations amphibies avec des tirs d'artillerie.

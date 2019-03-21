@@ -1,127 +1,128 @@
-﻿[TRAINING 1] = 8
+[TRAINING 1]=8
 <b>Furtivité</b>
-Grâce à la furtivité vous pouvez frapper l'ennemi et disparaître avant qu'il ait une chance de réagir. Votre meilleure défense est de ne pas être attaqué du tout!
+Avec furtivité vous pouvez frapper l'ennemi et disparaître avant qu'ils aient une chance de réagir. Votre meilleure défense est de ne pas être attaqué& du tout !
 
-<b>Marche silencieuse</b>
-<KEY:Silent Running> peut être utilisé pour basculer en mode de fonctionnement silencieux, ce qui réduit le bruit de votre bateau, mais aussi:
+<b>Situation silence</b>
+<KEY:Silent Running> peut être utilisé pour basculer en mode situation silence qui réduit le bruit de votre navire, mais aussi :
 1) arrête toutes les réparations
 2) arrête tout pompage de l'eau des compartiments inondés
 3) arrête le rechargement des armes
-4) limite la vitesse à l'avant 1/3
+4) limite la vitesse à En avant 1/3
 
-Assurez-vous que le mode silencieux est désactivé avant de continuer.
+Assurez-vous que le mode situation silence est désactivé avant de continuer.
 
-Utilisez <KEY:Help> maintenant pour en savoir plus sur le maintien de la furtivité et éviter la contre-attaque.
+Utiliser <KEY:Help> maintenant pour apprendre plus sur le maintien de la furtivité et éviter une contre-attaque.
 [/TRAINING 1]
 
 [TRAINING 2]
-<b>Leurres</b>
-Un leurre est une petite torpille qui au lieu de posséder une ogive explosive, génère un bruit très similaire à votre sous-marin.
+<b>Leurres sous-marin</b>
+Une petite torpille qui au lieu d'avoir une ogive explosive, génère un bruit très similaire à votre sous-marin.
 
-Les leurres sont tirés de la même manière que les autres torpilles, mais ils n'ont pas de réglage de tube et avancent simplement dans la direction spécifiée.
+Les leurres sont tirés de la même manière que les autres torpilles, mais ils n'ont pas de réglage de tube et se dirige simplement dans la direction spécifiée.
 
 Les leurres fonctionnent mieux lorsqu'ils sont placés entre votre sous-marin et l'ennemi qui tente de vous détecter.
 [/TRAINING 2]
 
 [TRAINING 3]
-<b>Générateurs de bruit</b>
-Cet appareil génère un bruit fort (d'où le nom) qui aveugle ou bloque le guidage sonar d'une torpille à tête chercheuse.
+<b>Leurre acoustique</b>
+Cet appareil génère un bruit fort qui aveugle ou bloque le guidage sonar d'une torpille à tête chercheuse.
 
-Comme avec les leurres, les générateurs de bruit sont plus efficaces lorsqu'ils sont entre votre sous-marin et la torpille en attaque.
+Comme avec les leurres sous-marin, les leurres acoustiques sont plus efficaces lorsqu'ils sont entre votre sous-marin et la torpille entrante.
 
-Utilisez <KEY:Noisemaker> pour déployer un bruiteur. Il y a peu de bruiteurs à bord (voir magasins) et le lanceur prend du temps pour recharger.
-Le bruiteur apparaîtra sur votre carte.
+Utiliser <KEY:Noisemaker> pour déployer un leurre acoustique. Il y a un nombre limité de leurres acoustiques à bord (voir le chargement d'armes) et le lanceur met du temps à recharger.
+Le leurre acoustique apparaîtra sur votre carte.
 [/TRAINING 3]
 
 [TRAINING 4]
-<b>Turbulences</b>
-Il s'agit d'une masse d'eau turbulente qui peut être générée en mettant le gouvernail à fond à gauche et à droite à grande vitesse (25 noeuds).
-La turbulence distord et disperse les ondes sonores qui peuvent perturber le guidage sonar d'une torpille à tête chercheuse.
+<b>Knuckle</b>
+Un knuckle est une masse d'eau turbulente qui peut être générée en bloquant le gouvernail d'un coté puis de l'autre à haute vitesse (25 noeuds).
+La Knuckle distord et disperse les ondes sonores qui peuvent désorienté le guidage sonar d'une torpille à tête chercheuse.
 
-<b>Génération d'une turbulence</b>
-1) Utilisez <KEY:Increase Power> pour régler votre vitesse sur Avant toute.
-2) Lorsque votre sous-marin atteint 25 noeuds, placez le gouvernail à fond à gauche ou à droite.
-3) Une fois que le gouvernail s'est déplacé complètement, placez immédiatement le gouvernail dans la direction opposée.
+<b>Générer un knuckle</b>
+1) Utiliser <KEY:Increase Power> pour régler votre vitesse sur vitesse maximale.
+2) Quand votre sous-marin atteint 25 noeuds, tourner le gouvernail entièrement à gauche ou à droite.
+3) Une fois que le gouvernail est bloqué d'un coté, tourner immédiatement le gouvernail dans la direction opposé (entièrement).
 
-Si cette manoeuvre est effectuée correctement, une turbulence se forme qui apparaît brièvement sur votre carte et est confirmée par le journal des messages.
+Si elle est effectuée correctement, un knuckle est formée qui apparaît brièvement sur votre carte et est confirmée par le journal des messages.
 
-Contrairement aux bruiteurs, une turbulence n'est pas garantie de se former et dure significativement moins longtemps. Les turbulences ne sont efficaces que si elles sont formées entre votre sous-marin et la torpille en attaque.
+Contrairement au leurre acoustique, un knuckle ne se forme pas systématiquement et dure beaucoup moins longtemps. Ils ne sont efficaces que s'ils sont formés entre votre sous-marin et la torpille entrante.
 
-<color=maroon>Réduisez la vitesse, avancez tout droit et à l'horizontale et assurez-vous que votre profondeur est proche de 150 pieds avant la prochaine étape. </color>
+<color=maroon>Reduiser la vitesse, aller tout droit et assurez-vous que votre profondeur est proche de 150 pieds avant la prochaine étape.</color>
 [/TRAINING 4]
 
 [TRAINING 5]
-<b>Contrôle des avaries</b>
-Les tubes et le sonar de proue viennent d'être endommagés!
+<b>Contrôles des avaries</b>
+Les Tubes lance-torpilles et le sonar de proue viennent d'être endommagés !
 
-Utilisez <KEY:Damage Report> ou <LEFTCLICK> l'onglet Contrôle Avaries en bas à droite pour ouvrir le panneau Contrôle Avaries.
+Utiliser <KEY:Damage Report> ou <LEFTCLICK> l'onglet Contrôle Avarie en bas à droite pour ouvrir le panneau des avaries.
 
 Les tubes sont noirs: un ou plusieurs tubes sont gravement endommagés pour le reste de la mission. Dans une campagne, une réparation au port est requise.
 Le sonar de proue est hors ligne et en cours de réparation comme indiqué par le texte rouge et la barre rouge.
 
-<LEFTCLICK> l'étiquette Bow Sonar pour l'affecter en priorité à la réparation. Le groupe de contrôle des dégâts se déplace dans le compartiment avant (icône clé anglaise) et répare le sonar en deux fois moins de temps. Après environ 30 secondes, votre sonar sera de nouveau en ligne, tel que vérifié par le journal des messages.
+<LEFTCLICK> sur sonar de proue l'assigner en priorité à la réparation. L'équipe de sécurité se déplace dans le compartiment avant (icône clé / clé) et répare le sonar en deux fois moins de temps. Après environ 30 secondes, votre sonar sera de nouveau en ligne, comme indiqué par le journal des messages.
 
-Utilisez <KEY:Help> maintenant pour en savoir plus sur le contrôle des avaries et les effets des sous-systèmes hors ligne ou détruits.
+Utiliser <KEY:Help> maintenant pour en savoir plus sur la gestion des avaries et les conséquences de sous-systèmes hors ligne ou détruits.
 
-<color=maroon>Réduisez la vitesse, avancez tout droit et à l'horizontale et assurez-vous que votre profondeur est proche de 150 pieds avant la prochaine étape. </color>
+<color=maroon>Réduire la vitesse, aller en ligne droite, à profondeur stable et assurez-vous que votre profondeur est proche de 150 pieds avant la prochaine étape.</color>
 [/TRAINING 5]
 
 [TRAINING 6]
-<b>Voie d'eau</b>
-La salle des machines prend l'eau!
+<b>Inondation</b>
+La Salle des machines prend l'eau !
 
-Regardez comme l'eau bleue remplit la salle des machines, entraînant lentement votre sous-marin vers le fond.
-(S'il ne s'est pas inondé, vous étiez trop peu profond et / ou le groupe de contrôle des avaries était dans le compartiment qui a immédiatement arrêté l'inondation)
+Regardez comme l'eau en bleue remplit la salle des machines, coulant lentement votre sous-marin.
+(Si elle ne s'est pas inondé, vous étiez trop peu profond et / ou l'équipe de sécurité était dans le compartiment ce qui a immédiatement arrêté l'inondation)
 
-Lorsque vous atteignez 200 pieds de profondeur, <LEFTCLICK> propulsion permet d'assigner le contrôle des avaries à ce compartiment. La propulsion n'est pas endommagée, mais l'équipe de maintenance réduit également le taux d'inondation dans le compartiment où elle se trouve et pompera l'eau si vous êtes assez peu profond.
+Lorsque vous atteignez 200 pi de profondeur, <LEFTCLICK> surpropulsion permet d'assigner l'équipe de sécurité à ce compartiment. La propulsion n'est pas endommagée, mais l'équipe de sécurité partie réduit également le taux d'inondation dans leur compartiment et pompera l'eau si vous êtes assez peu profond.
 
-Utilisez <KEY:Help> maintenant pour en savoir plus sur les voies d'eau, en particulier ce qui détermine le taux d'inondation et comment le réduire.
-Rappelez-vous, les pompes actives, l'équipe de contrôle des avaries, la profondeur actuelle, la quantité de dommages et le nombre de compartiments endommagés sont tous des facteurs cruciaux pour contrôler les voies d'eau.
+Use <KEY:Help>  maintenant pour en savoir plus sur les inondations, en particulier ce qui détermine la vitesse d'inondation et comment le réduire.
+Rappelez-vous, des pompes en état de marche, l'équipe de sécurité, la profondeur actuelle, la quantité de dommages et le nombre de compartiments endommagés sont tous des facteurs cruciaux pour contrôler les inondations.
 [/TRAINING 6]
 
 [TRAINING 7]
-<b>Voie d'eau incontrôlée</b>
-L'espace des machines prend l'eau!
-Regardez ce qui se passe lorsqu'un autre compartiment est inondé:
+<b>Inondations incontrôlées</b>
+La salle des machines prend l'eau !
+Regardez ce qui se passe lorsqu'un autre compartiment est inondé :
 Votre sous-marin s'enfonce lentement et à mesure qu'il s'enfonce, la pression de l'eau augmente le taux d'inondation.
 
-Au fur et à mesure que vous vous enfoncez, l'équipe de maintenance ne peut plus suivre, et l'inondation de la salle des machines reprend également.
+Au fur et à mesure que vous vous enfoncez, l'équipe de sécurité ne peut plus suivre et l'inondation de la salle des machines reprend également.
 
-La voie d'eau est maintenant incontrôlable, il faut faire surface immédiatement!
-Utilisez <KEY:Ballast Up> pour régler le ballast à 30.
-Utilisez <KEY:Planes Up> pour régler les barres de plongée sur 30 et utilisez <KEY:Increase Power> pour augmenter la vitesse.
+'inondation est maintenant incontrôlable, faite surface immédiatement !
+Utiliser <KEY:Ballast Up> pour régler le ballast à 30.
+Use <KEY:Planes Up> pour régler les barres de plongée à 30 et utiliser <KEY:Increase Power> augmenter la vitesse.
 
-<b>Rappel: surface d'urgence</b>
-Si le sous-marin ne répond pas, utilisez <KEY:Blow Ballast>. Réglez votre vitesse à En avant à flanc (5) et les barres de plongée à 30 en conjonction avec la purge des ballasts pour augmenter considérablement le taux de remontée.
-Une fois en surface, remettez les barres de plongée à l'horizontale.
+<b>Rappel: surface en urgence</b>
+Si le sous-marin ne répond pas, utiliser <KEY:Blow Ballast>. 
+Réglez votre vitesse sur vitesse maximale, les barres de plongée à 30 et utiliser la chasse rapide au ballast pour augmenter considérablement les chance de refaire surface.
+Une fois en surface, remettez à zéro les barres de plongée.
 
-<b>Réparer les voies d'eau</b>
-Une fois en surface (ou très près de la surface), la voie d'eau devient plus facile à gérer et vous pouvez commencer à réduire l'inondation en assignant l'équipe de contrôle des avaries à tous les compartiments inondés. Cependant, si vous plongez à nouveau, les voies d'eau peuvent reprendre.
+<b>Réparer les inondations</b>
+Une fois en surface (ou très près de la surface), l'inondation devient plus facile à gérer et vous pouvez commencer à la réduire en assignant l'équipe de sécurité à tous les compartiments inondés. Cependant, si vous plongez à nouveau, les inondations peuvent reprendre.
 
-RAPPEL: en dehors de l'entraînement, vous ne pouvez quitter la zone de combat que si la voie d'eau a été maîtrisée.
+REMINDER: RAPPEL: en dehors de l'entraînement, vous ne pouvez quitter la zone de combat que si les inondations ont été maîtrisée.
 
-<b>Faire faire surface à un sous-marin inondé</b>
-La voie d'eau peut rendre difficile la remontée à la surface.
-Réglez le ballast au maximum et / ou purgez le ballast d'urgence.
-Si vous ne pouvez toujours pas faire surface, il pourrait être temps d'abandonner le navire...
+<b>Faire surface avec un sous-marin inondé</b>
+Les inondations peuvent rendre difficile la possibilité de faire surface.
+Régler le ballast au maximum et / ou faite une chasse rapide du ballast.
+Si vous ne pouvez toujours pas faire surface, il pourrait être temps d'abandonner le navire.
 [/TRAINING 7]
 
 [TRAINING 8]
-<b>Perte du sous-marin</b>
-Votre sous-marin sera détruit si l'intégrité de la coque est réduite à 0% ou s'il dépasse la profondeur d'écrasement et implose.
-Quand l'intégrité de la coque diminue, la profondeur d'écrasement devient plus faible, ce qui entraîne une réduction de 50% de la profondeur d'écrasement.
+<b>Perte de votre sous-marin</b>
+Votre sous-marin sera détruit si l'intégrité de la coque est réduite à 0% ou si elle dépasse la profondeur d'écrasement et imploseAs
+Comme l'intégrité de la coque diminue, la profondeur d'écrasement devient plus faible, ce qui entraîne une réduction de 50% de la profondeur d'écrasement.
 
 Si votre sous-marin est détruit, l'interface de combat est désactivée.
-Utilisez <KEY:Cancel or Quit> pour entrer dans le menu de mission et terminer la mission.
+Utiliser <KEY:Cancel or Quit> pour entrer dans le menu de mission et terminer la mission.
 
-Dans le menu de la mission, vous pouvez:
-1) <LEFTCLICK> <DICTIONARY:AbandonShip>. Si votre sous-marin est toujours intact et au-dessus de la profondeur de fuite, vous et votre équipage pouvez survivre en abandonnant le vaisseau.
-2) <LEFTCLICK> <DICTIONARY:ExitMission> pour terminer cette mission.
+Dans le menu de la mission, vous pouvez :
+1) <LEFTCLICK> sur <DICTIONARY:AbandonShip>. Si votre sous-marin est toujours intact et au-dessus de la profondeur d'évacuation, votre équipage et vous pouvez survivre en abandonnant le navire.
+2) <LEFTCLICK> sur <DICTIONARY:ExitMission> pour terminer cette mission.
 
-Chacune de ces options vous amènera au rapport après action.
-Lorsque vous avez fini d'afficher le rapport après action, <LEFTCLICK> <DICTIONARY:Continue> ou <KEY:Continue>.
+Chacune de ces options vous amènera au compte rendu après action.
+Lorsque vous avez fini d'afficher le compte rendu après action, <LEFTCLICK> sur <DICTIONARY:Continue> ou <KEY:Continue>.
 
-Commandant, votre formation est à présent terminée. Utilisez <KEY:Help> pour lire la section Aide sur les tactiques car elle contient de nombreux conseils pour attaquer des ennemis et échapper aux armes.
+Commandant, votre entraînement est terminé. Utiliser <KEY:Help> pour lire la section d'aide sur les tactiques car elle contient de nombreux conseils pour attaquer des ennemis et échapper aux armes.
 
-Utilisez <KEY:Cancel or Quit> pour quitter lorsque vous êtes prêt. Bonne chance!
+Utiliser <KEY:Cancel or Quit> pour partir quand vous êtes prêt et bonne chance.
 [/TRAINING 8]

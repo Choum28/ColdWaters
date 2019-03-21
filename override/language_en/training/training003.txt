@@ -1,8 +1,8 @@
 Image=campaign/images/pact missile attack
-MissionLocation=Exercice de formation
-Briefing=Attaquez et detruisez une cible fixe en utilisant vos missiles.
+MissionLocation=Exercice d'entraînement
+Briefing=Attaquer et détruide une cible stationnaire avec des missiles.
 Briefing=
-Briefing=Points couverts:
-Briefing=- Configurer le chargement des magasins et des tubes.
-Briefing=- Recharger les tubes pendant le combat.
-Briefing=- Tirer les missiles.
+Briefing=Points à pratiquer :
+Briefing=- Utiliser l'arsenal et le chargement des tubes.
+Briefing=- Recharger les tubes en combat.
+Briefing=- Tirer des missiles.

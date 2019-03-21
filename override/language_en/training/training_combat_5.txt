@@ -1,76 +1,76 @@
 ﻿[TRAINING 1]=6
 <b>Établir un contact</b>
-<i>Entre le briefing et le début de mission il est possible de perdre le contact initial. Si vous n'avez aucun contact, augmentez la vitesse à 5 noeuds et avancez (utilisez la compression du temps si nécessaire) jusqu'à ce que le contact soit rétabli. L'opérateur Sonar vous avertit via le journal des messages lorsque cela se produit. </i>
+<i>Entre le briefing et le début de la mission, il est possible de perdre le contact initial. Si vous n'avez aucun contact, augmentez la vitesse à 5 noeuds et avancez (utiliser la compression temporelle si nécessaire) jusqu'à ce que le contact soit rétabli. L'opérateur Sonar vous avertit via le journal des messages lorsque cela se produit.</i>
 
-Une fois le contact établi, utilisez <KEY:Tactical Map> pour ouvrir la carte en plein écran et utilisez <MOUSEWHEEL> ou <KEY:Zoom Out> jusqu'à ce que la carte soit agrandie complètement.
+Une fois le contact établi, utiliser <KEY:Tactical Map> pour ouvrir la carte en plein écran et utiliser <MOUSEWHEEL> ou <KEY:Zoom Out> jusqu'à ce que la carte soit agrandie complètement.
 [/TRAINING 1]
 
 [TRAINING 2]
 <b>Panneau de données - Contact</b>
 Le panneau de données en bas à gauche contient 3 colonnes de données (de gauche à droite).
-1) Données de notre sous-marin
-2) Données du contact
-3) Données de l'arme (pour une torpille filoguidée)
+1) Les données de votre navire
+2) Les données du contact
+3) Les données d'une arme (pour une torpille filoguidé)
 
 Pour cette mission, nous allons nous concentrer sur la deuxième colonne qui affiche votre contact actuel;
-<b>CONTACT</b> nom ou désignation du contact
-<b>REL</b> Relèvement - direction de votre sous-marin au contact
-<b>CAP</b> Cap suivi par le contact
+<b>NOM DU CONTACT</b> nom ou désignation du contact
+<b>AZI</b> Azimut - direction de votre sous-marin au contact
+<b>CAP</b> Cap ou route du contact
 <b>VIT</b> Vitesse du contact
-<b>DIS</b> Distance au contact
-<b>SOL</b> Fiabilité de la solution, dépendant de la précision des informations sur le contact
+<b>DIS</b> Distance du contact
+<b>SOL</b> La qualité de la solution de tir, à savoir la précision de l'information sur le contact
 
 Les valeurs inconnues sont affichées en tant que "---".
 
-Toutes les quelques secondes, ces chiffres sont mis à jour en fonction des observations sur la manière dont le contact se déplace, un processus appelé analyse de mouvement cible (TMA, ou <i>Target Motion Analysis</i>).
+Toutes les quelques secondes, ces chiffres sont mis à jour en fonction des observations sur la manière dont le contact se déplace, un processus appelé analyse de mouvement cible (TMA).
 
-Au fil du temps, la TMA calcule la solution de tir, rendant la position de la cible sur la carte plus précise et vous permettant éventuellement de lancer des armes vers cette cible en toute confiance.
+Au fil du temps, TMA construit la solution de tir, rendant sa position sur la carte plus précise et vous permettant éventuellement de placer vos armes sur cette cible en toute confiance.
 [/TRAINING 2]
 
 [TRAINING 3]
-<b>Analyse du mouvement de la cible</b>
-Utilisez <KEY:Help> maintenant pour en savoir plus sur Target Motion Analysis et sur ce qui influence le niveau de la solution.
+<b>Analyse de mouvement cible</b>
+Utiliser <KEY:Help> Maintenant, pour en savoir plus sur l'analyse de mouvement cible (TMA) et sur ce qui influence le taux.
 
-Ensuite, utilisez <KEY:Tactical Map> pour revenir à la carte en plein écran.
+Ensuite utiliser <KEY:Tactical Map> pour revenir à la carte en plein écran.
 
-Au cours des dernières minutes, vous avez probablement remarqué que la solution n'a pas été beaucoup plus élevée que 30-50%.
+Au cours des dernières minutes, vous avez probablement remarqué que la solution de tir n'a pas été beaucoup plus élevée que 30-50%.
 
-Pour aider la TMA, il faut identifier le contact en utilisant l'analyse de signature.
+Pour aider avec le TMA, identifier le contact en utilisant l'analyse de signature.
 [/TRAINING 3]
 
 [TRAINING 4]
 <b>Analyse de signature</b>
-Utilisez <KEY:Signature> ou <LEFTCLICK> dans l'onglet Signature en bas à droite pour ouvrir le panneau Signature.
-Utilisez <KEY:Help> maintenant pour en savoir plus sur l'analyse des signatures et pour comprendre les données présentées dans le panneau Signature.
+Utiliser <KEY:Signature> ou <LEFTCLICK> dans l'onglet Signature en bas à droite pour ouvrir le panneau Signature.
+Appuyer sur <KEY:Help> maintenant pour en apprendre plus sur l'analyse de signature et les données présentées sur le panneau de signature.
 
-Utilisez maintenant <KEY:Context Menu Next> et <KEY:Context Menu Previous> pour parcourir les différentes signatures de profil jusqu'à ce que "KOMSOMOL" soit affiché (ou <LEFTCLICK> partie gauche et droite de l'image de profil.
+Utilisez maintenant <KEY:Context Menu Next> et <KEY:Context Menu Previous> pour faire défiler les différentes signatures de profil jusqu'à ce que "KOMSOMOL" soti affiché (ou <LEFTCLICK> sur les parties gauche et droite de l'image de profil).
 
-Toutes les lignes (pics de fréquence sonore) s'alignent, donc utilisez <KEY:Context Menu Set> (ou <LEFTCLICK> au centre de l'image de profil) pour classer S1 en tant que marchand de classe KOMSOMOL. Votre opérateur de sonar vérifie votre classification et le contact S1 est renommé Komsomol et affiché comme hostile sur la carte.
+Toutes les lignes (pics de fréquence sonore) s'alignent, donc utiliser <KEY:Context Menu Set> (ou <LEFTCLICK> au centre de l'image de profil) pour identifier S1 en tant que KOMSOMOL de classe marchand. Votre opérateur sonar vérifie votre classification et le contact S1 a été renommé Komsomol et affiché comme hostile sur la carte.
 [/TRAINING 4]
 
 [TRAINING 5]
-<b>Augmentation du taux de TMA</b>
-La classification correcte du contact améliore l'efficacité de la TMA, mais cela peut ne pas suffire.
+<b>Augmenter le taux TMA</b>
+La classification correcte du contact améliore le taux de TMA, mais cela peut ne pas suffire.
 
-Utilisez <KEY:Increase Power> pour régler votre vitesse sur En Avant 2/3 (une vitesse plus élevée peut noyer le bruit du contact et risque de le perdre à nouveau).
-Utilisez <KEY:Time Compression> pour accélérer le jeu.
+Utiliser <KEY:Increase Power> pour régler votre vitesse à En avant 2/3 (plus rapide peut noyer le bruit du contact et risquer de le perdre à nouveau).
+Utiliser <KEY:Time Compression> pour accélérer le jeu.
 
-Finalement, en étant plus près, vous rendez le signal de contact plus fort et augmentez la fiabilité de la solution.
-Une fois que la solution atteint 95%, le contact est tracé avec une précision de 100% sur la carte, le tracé est affiché et un point d'interception de l'arme est calculé.
+Finalement, vous serez plus près, rendant le signal de contact plus fort et augmentant le taux de changement d'azimut.
+Une fois que la solution de tir atteint 95%, le contact est tracé avec une précision de 100% sur la carte, son tracé est affiché et un point d'interception d'arme est calculé.
 
-Cependant, le KOMSOMOL tourne continuellement, provoquant la dégradation de la solution, et son augmentation au fur et à mesure de votre approche. La position du KOMSOMOL peut ainsi sauter sur la carte lorsque de nouvelles solutions sont calculées.
+Cependant, le KOMSOMOL tourne continuellement, provoquant l'affaiblissement et la remontée de votre solution de tir à mesure que vous vous rapprochez. La position du KOMSOMOL peut ainsi sauter sur la carte lorsque de nouvelles solutions de tir sont calculées.
 
-Comprendre comment identifier les contacts et maximiser le taux de TMA est crucial pour savoir où se trouve votre ennemi et comment le frapper avec vos armes.
+Comprendre comment classer les contacts et maximiser le taux de TMA est crucial pour savoir où se trouve votre ennemi et comment le frapper avec des armes.
 [/TRAINING 5]
 
 
 [TRAINING 6]
-<b>Fin du combat</b>
-<i>Coulez le marchand avec des torpilles ou des missiles pour vous etraîner.</i>
+<b>Fin de combat</b>
+<i>Couler le navire marchand avec des torpilles ou des missiles pour l'entrainement.</i>
 
-Pour quitter le combat, utilisez <KEY:Cancel or Quit> pour entrer dans le menu de mission et terminer la mission (le panneau est automatiquement masqué).
+Pour quitter le combat, utiliset <KEY:Cancel or Quit> pour entrer dans le menu de mission et terminer la mission (ce panneau sera automatiquement masqué).
 
-Une fois dans le menu de mission <LEFTCLICK> <DICTIONARY:ExitMission> pour terminer cette mission et afficher le rapport après action.
+Une fois dans le menu de mission <LEFTCLICK> sur <DICTIONARY:ExitMission> pour terminer cette mission et afficher le compte rendu après action
 
-Lorsque vous avez fini d'afficher le rapport après action, <LEFTCLICK> <DICTIONARY:Continue> ou <KEY:Continue>.
+Lorsque vous avez fini d'afficher le compte rendu après action, <LEFTCLICK> sur <DICTIONARY:Continue> ou <KEY:Continue>.
 [/TRAINING 6]

@@ -1,7 +1,9 @@
-﻿[Unit Reference]
+[Unit Reference]
 ShipClass=Narwhal
-Description=SNA de classe Narwhal
-History=Ce SM est issu d'un concept unique destiné à tirer parti de la pompe-hélice à circulation naturelle très silencieuse S5G. Cela en a fait l'un des bateaux les plus silencieux jusqu'à l'apparition du SSL-21 Seawolf au milieu des années 90. L'équipement sonar et le contrôle de tir sont les mêmes que ceux de la classe Sturgeon.
+Description=Sous-marin nucléaire d'attaque de classe Narwhal
+History=C'est une conception unique destinée à tirer parti du principe de la circulation naturelle du réacteur S5G. Cela en a fait l'un des sous-marin les plus silencieux jusqu'à l'apparition du SSL-21 Seawolf au milieu des années 90. L'équipement sonar et de contrôle de des armes est le même que celui de la classe Sturgeon.
+
+This is a one-off design intended to take advantage of the very quiet natural circulation S5G plant. This made it into one of the quietest boats until the emergence of the SSN-21 Seawolf in the mid-90's. The sonar and firecontrol equipment is the same as on the Sturgeon class.
 
 [Player Ship Instances]
 PlayerClassNames=Narwhal

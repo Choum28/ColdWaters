@@ -1,7 +1,7 @@
-﻿Utilisation des torpilles
+Torpilles basiques
 Torpilles filoguidées
 Missiles
 Navigation
-Analyse du mouvement de la cible (TMA)
-Capteurs et mâts de détection
-Tactique et dommages
+Analyse de mouvement des cibles (TMA)
+Capteurs et Mâts
+Tactiques et Dommages

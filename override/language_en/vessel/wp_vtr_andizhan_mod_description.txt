@@ -1,4 +1,4 @@
-﻿[Unit Reference]
-ShipClass=Andizhan M.
-Description=Transport de troupes classe Andizhan modifié
-History=Cette classe de cinq navires a commencé en tant que navires de cargaison sèche d'Andizhan / Kovel-classe pour la marine marchande soviétique, mais a été prise dans le service naval et convertie en navires de réapprovisionnement de missile. Les mâts d'origine en A ont été remplacés par une seule grue de levage lourd en avant et un mât avec deux petites grues de 5 tonnes à l'arrière. Leurs prises avant peuvent transporter 10 missiles SS-N-9 et 20 missiles SA-N-1 ou SA-N-3. La capacité de chargement est de 3 950 tonnes.
+[Unit Reference]
+ShipClass=Andizhan Mod.
+Description=Transport militaire de classe Andizhan modifiée
+History=Cette classe de cinq navires a servi au départ en tant que navires à cargaison sèche comme les classes d'Andizhan/Kovel pour la marine marchande soviétique. Mais ils ont été pris dans le service naval et convertie en navires de réapprovisionnement de missiles. Les mâts d'origine en A ont été remplacés par une seule grue de levage lourd à l'avant et un mât avec deux petites grues de 5 tonnes à l'arrière. Leurs cales avant peuvent transporter 10 missiles SS-N-9 et 20 missiles SA-N-1 ou SA-N-3. La capacité de chargement est de 3 950 tonnes.

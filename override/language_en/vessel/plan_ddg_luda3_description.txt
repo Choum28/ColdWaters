@@ -1,7 +1,7 @@
-﻿[Unit Reference]
+[Unit Reference]
 ShipClass=Luda3
-Description=Frégate classe Luda III
-DefensiveWeapons=37mm AA Guns
-OffensiveWeapons=EDS-25 anti-SM Rockets
+Description=Destroyer de classe Luda III
+DefensiveWeapons=Canons AA 37mm AA
+OffensiveWeapons=Roquettes ASM EDS-25
 Aircraft=Aucun
-History=Le Luda III est une version améliorée du destroyer de guerre de surface de classe Luda, avec des sonars modernes améliorés, des défenses améliorées et l'utilisation de l'arme anti-sous-marine CY-1.
+History=La Luda III est une version améliorée du destroyer de classe Luda, avec des sonars modernes améliorés, des défenses améliorées et l'utilisation de l'arme anti-sous-marine CY-1.

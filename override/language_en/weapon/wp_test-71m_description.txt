@@ -1,4 +1,4 @@
-﻿[Weapon Reference]
+[Weapon Reference]
 WeaponName=TEST-71M
-WeaponDescriptiveName=Torpille anti-SM TEST-71M
-WeaponDescription=Cette torpille électrique est une version améliorée de la torpille guidée par fil TEST-71. La vitesse et la portée sont les mêmes mais la gamme de capteurs a été doublée à environ 1650 mètres.
+WeaponDescriptiveName=Torpille ASM TEST-71M
+WeaponDescription=Cette torpille électrique est une version améliorée de la torpille filoguidée TEST-71. La vitesse et la portée restent identiques mais la portée du capteurs a été doublée à environ 1650 yards.

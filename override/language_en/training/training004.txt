@@ -1,9 +1,9 @@
 Image=campaign/images/nato submarine
-MissionLocation=Exercice de formation
-Briefing=Apprenez a vous deplacer et a manoeuvrer votre sous-marin.
+MissionLocation=Exercice d'entraînement
+Briefing=Apprendre à manoeuvrer votre sous-marin.
 Briefing=
-Briefing=Points couverts:
-Briefing=- Ajuster la vitesse.
-Briefing=- Manier les barres de direction.
-Briefing=- Ajuster la profondeur avec les barres de plongee et les ballasts.
-Briefing=- Effectuer une remontee d'urgence.
+Briefing=Points à pratiquer :
+Briefing=- Réglage de la vitesse.
+Briefing=- Direction avec les commandes de gouvernail.
+Briefing=- Réglage de la profondeur avec les barres de plongée et le ballast.
+Briefing=- Chasse rapide au ballast en cas d'urgence.

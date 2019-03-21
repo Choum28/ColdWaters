@@ -1,4 +1,4 @@
-﻿[Unit Reference]
+[Unit Reference]
 ShipClass=Fuqing
-Description=Pétrolier classe Fuqing
-History=Les trois navires composant cette classe représentent les pétrolier de ravitaillement de première génération construits par la PLAN. Conformément à la pratique occidentale, ils sont dotés de trois grands canalisations qui abritent quatre stations de transfert de pétrole soutenues par deux stations de transfert de cargaison sèche. Le Fuqing est capable de fournir du carburant et des fournitures à trois destroyers simultanément en utilisant un réapprovisionnement en ligne. Ils disposent d'une grande hélisurface mais pas de hangar, dimensionnée pour accueillir l'hélicoptère de transport Super Frelon.
+Description=pétroliers-ravitailleurs de classe Fuqing
+History=Les trois navires composant cette classe représentent la première génération de pétroliers-ravitailleurs construits par le MALP. Conformément à la pratique occidentale, ils sont dotés de trois grands support au milieu du navire abritant quatre stations de transfert de liquide soutenues par deux stations de transfert solide. Le Fuqing est capable de fournir du carburant et des fournitures à trois destroyers simultanément avec son réapprovisionnement. Ils disposent d'une grand héliport mais pas de hangar, dimensionnés pour accueillir l'hélicoptère de transport Super Frelon.

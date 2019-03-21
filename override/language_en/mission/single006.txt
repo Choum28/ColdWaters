@@ -1,7 +1,7 @@
-Image=campaign/images/68 pact naval 1
-MissionLocation=Détroit du Danemark, au large de l'Islande
+Image=campaign/images/pact surface raiders 2
+MissionLocation=Détroit du Danemark, près de l'Islande
 Briefing=04 FEB 1968
-Briefing=Vous avez etabli un contact avec un groupe anti sous-marins soviétique incluant un porte-helicoptères qui tente de s'infiltrer dans le passage de l'Atlantique nord avec l'intention d'y poursuivre nos sous-marins Polaris. 
+Briefing=Vous avez détecté un groupe de combat ASM soviétique, comprenant un porte-hélicoptères, qui tente de pénétrer dans l'Atlantique Nord avec l'intention d'y chasser nos sous-marins Polaris.
 Briefing=
-Briefing=Objectif principal:
+Briefing=Objectif Principal :
 Briefing=Couler le Moskva

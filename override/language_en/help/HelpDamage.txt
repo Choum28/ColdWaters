@@ -2,7 +2,7 @@ ImageBackground=campaign/images/sea rescue 1
 ImagePosition=0,-30
 ImageHeight=260
 Image=help_images/damage_control.png
-ImagePosition=15,-2680
+ImagePosition=15,-2662
 ImageHeight=256
 Image=help_images/damage_status.png
 [/Image]
@@ -24,19 +24,18 @@ Image=help_images/damage_status.png
 
 
 
-Cliquez sur l'onglet Contrôle Avaries ou utilisez <KEY:Damage Report> pour ouvrir le panneau Contrôle Avaries.
-Ce panneau est également accessible à partir de l'écran de briefing avant toute mission ou au port (campagne uniquement) en sélectionnant <DICTIONARY:VesselStatus> ou en utilisant <KEY:Damage Report>.
+Cliquez sur l'onglet Contrôle Avaries ou utilisez <KEY:Damage Report> pour l'ouvrir.
+Cet panneau peut également être consulté à partir de l'écran de briefing avant toute mission ou au port (campagne uniquement) en sélectionnant <DICTIONARY:VesselStatus> ou en utilisant <KEY:Damage Report>.
 
-Le panneau de contrôle des avaries montre une vue en coupe de votre bateau qui est divisé en 5 grands compartiments étanches. Divers sous-systèmes sont également présentés, dont beaucoup sont associés à un compartiment donné, bien que certains comme Periscope et Mâts ne sont pas liés à un compartiment comme ils sont dans la voile. Le sous-système actuellement sélectionné est en gras.
+Le panneau Contrôle Avaries montre une vue en coupe de votre navire qui est divisé en 5 grands compartiments étanches. Divers sous-systèmes sont également présentés, dont beaucoup sont associés à un compartiment donné, bien que certains comme le Périscope et les Mâts ne sont pas liés à un compartiment comme ils sont dans le massif. Le sous-système actuellement sélectionné est en gras.
 
 De plus, l'intégrité globale de la coque de votre sous-marin est affichée au centre en bas. Si l'intégrité de la coque est réduite à 0%, votre sous-marin sera détruit et coulé.
 
 
+<size=24><color=maroon><b>ÉQUIPE DE SÉCURITÉ</b></color></size>
+Le sous-système en surbrillance actuel est le point de focalisation de l'équipe de sécurité et le compartiment dans lequel elle se trouve est indiqué par l'icône de clé. Ce sous-système (et seulement ce sous-système) sera réparé au double du débit normal. De plus, le compartiment ayant l'équipe de sécurité reçoit un bonus pour pomper l'eau pendant qu'elles travaillent à consolider les cloisons, mais ce bonus de pompage exige que le sous-système Pompes soit opérationnel.
 
-<size=24><color=maroon><b>ÉQUIPE DE MAINTENANCE</b></color></size>
-Le sous-système en surbrillance actuel est l'objectif de votre équipe de maintenance et le compartiment dans lequel ils se trouvent est indiqué par l'icône "clé anglaise". Ce compartiment (et seulement lui) sera réparé au double de la vitesse normale. De plus, le compartiment contenant l'équipe de maintenance reçoit un bonus pour pomper de l'eau pendant qu'ils travaillent à consolider les cloisons, mais ce bonus de pompage exige que le sous-système Pompes soit opérationnel.
-
-Il est possible d'assigner votre équipe de maintenance à un sous-système non endommagé afin d'aider à contrôler l'inondation dans ce compartiment.
+Il est possible d'assigner votre équipe de sécurité à un sous-système non endommagé afin d'aider à contrôler l'inondation dans ce compartiment.
 
 
 <size=24><color=maroon><b>SOUS-SYSTÈMES</b></color></size>
@@ -47,75 +46,72 @@ Les sous-systèmes ont 3 conditions:
 2) Endommagé (rouge)
 3) Critique (Noir)
 
-Un sous-système opérationnel fonctionne normalement pendant qu'un sous-système endommagé ou critique n'est plus fonctionnel et ne peut plus être utilisé ou subit une pénalité à la performance. Les systèmes endommagés sont remplis d'une barre rouge qui représente environ 5 minutes de temps de réparation total.
+An operational subsystem works normally while a damaged or critical subsystem is no longer functional and either cannot be used or incurs a penalty to performance. Damaged systems are filled with a red bar which represents about 5 minutes total repair time.
 
-Les sous-systèmes endommagés seront automatiquement réparés par votre équipage au fil du temps et peuvent être remis en état de fonctionnement pendant le combat. De plus, une équipe de contrôle des dommages peut réduire de moitié le temps de réparation d'un sous-système. Cependant, les sous-systèmes critiques sont définitivement hors d'état de fonctionner en mer et ne peuvent pas être réparés ou restaurés.
+Les sous-systèmes endommagés seront automatiquement réparés par votre équipage au fil du temps et peuvent être remis en état de fonctionnement pendant le combat. De plus, l'équipe de sécurité peut réduire de moitié le temps de réparation d'un sous-système. Cependant, les sous-systèmes critiques sont définitivement hors d'état de fonctionner en mer et ne peuvent pas être réparés ou restaurés.
 
 <b>CAMPAGNE: RÉPARATIONS AU PORT</b>
-Lors de la lecture d'une campagne, les sous-systèmes critiques nécessitent un retour au port pour réparation. Une fois de retour au port, cliquez sur le nom ou utilisez <KEY:Context Menu Previous> et <KEY:Context Menu Next> pour sélectionner un sous-système critique. Le temps requis pour le réparer s'affiche dans le coin supérieur droit du panneau de contrôle des dommages. Pour le réparer soit;
+Lorsque vous jouez à une campagne, les sous-systèmes critiques nécessitent un retour au port pour réparation. Une fois au port, cliquez sur le nom ou utilisez <KEY:Context Menu Previous> et <KEY:Context Menu Next> pour sélectionner un sous-système critique. Le temps requis pour le réparer s'affiche dans le coin supérieur droit du panneau de contrôle des avaries. Pour le réparer soit;
 Cliquez sur le nom d'un sous-système critique déjà mis en surbrillance.
-Cliquez sur l'heure pour réparer.
+Cliquez sur le temps pour réparer.
 Utilisez <KEY:Context Menu Set>.
 
-Tout dommage à l'intégrité de la coque est automatiquement réparé au port, mais encourt une pénalité en fonction de la gravité des dommages à réparer.
+Tout dommage à l'intégrité de la coque est automatiquement réparé au port, mais encourt une pénalité de temps en fonction de la gravité des dommages à réparer.
 
 
-<size=24><color=maroon><b>EFFETS DES SYSTÈMES NON OPÉRATIONNELS</b></color></size>
+<size=24><color=maroon><b>EFFETS DES SOUS-SYSTÈMES NON OPÉRATIONNELS</b></color></size>
 <b>CAPTEURS</b>
-<b>Sonar de proue</b> - Votre sensibilité passive et active du sonar est grandement diminuée, vous rendant pratiquement aveugle sous l'eau.
-<b>Réseau remorqué</b> - Ne fonctionne plus.
-<b>Périscope</b> - Le mât de périscope ne peut plus être hissé et ne peut plus être utilisé.
-<b>Mât ESM</b> - Ce mât ne peut plus être hissé et ne peut plus fournir aucune information de radiodétection.
-<b>Mât Radar</b> - Ce mât ne peut plus être hissé et ne peut plus fournir aucune information radar.
+<b>Sonar de proue</b> - Votre sensibilité passive et active du sonar est grandement diminuée, vous rendant pratiquement aveugle sous l'eau
+<b>Sonar remorqué</b> - Ne fonctionne plus.
+<b>Périscope</b> - Le périscope ne peut plus être hissé et ne peut plus être utilisé.
+<b>Mât MSE</b> - Ce mât ne peut plus être hissé et ne fournit plus de données MSE.
+<b>Mât Radar</b> - Ce mât ne peut plus être hissé et ne fournit plus de données radar.
 
-<b>ARMES</b>
-<b>Tubes</b> - Les tubes de torpilles individuels peuvent être rendus inutilisables et ne peuvent pas être réparés en mer. Un tube de torpille aura le fil coupé (s'il en existe un) ou l'arme à l'intérieur de celui-ci sera perdue (si elle est chargée) après avoir été bloquée. Certains sous-marins ont des tubes inclinés sur leurs côtés derrière la proue. Tenter de tirer à partir de tels tubes inclinés à des vitesses élevées (plus de 20 noeuds) risque de bloquer la torpille, rendant le tube inactif ainsi que la perte de l'arme coincée dans le tube.
+<b>ARMEMENTS</b>
+<b>Tubes</b> - Chaque tubes lance-torpilles peuvent être rendus inutilisables et ne peuvent pas être réparés en mer. Un tube de torpille aura son câble coupé (s'il en existe un) ou l'arme à l'intérieur de celui-ci sera perdue (si elle est chargée) après avoir été mis hors d'usage. Certains sous-marins ont des tubes inclinés sur leurs côtés derrière la proue. Tenter de tirer depuis un tube incliné à des vitesses élevées (plus de 20 noeuds) risque de bloquer la torpille, rendant le tube hors d'usage et la perte de l'arme coincée dans le tube.
 <b>Contrôle de tir</b> - La perte de votre ordinateur de contrôle de tir interrompt immédiatement toutes les TMA (analyse de mouvement cible) des contacts et efface tous les contacts que vous étiez en train de suivre.
 
 <b>MACHINERIE</b>
-<b>Pompes</b> - Les pompes diminuent automatiquement le taux d'inondation dans tous les compartiments. Une fois hors service, l'inondation des compartiments n'est plus compensée par le pompage de l'eau. De plus, le bonus de pompage dans le compartiment contenant la partie contrôle des avaries est perdu.
-<b>Propulsion</b> - La propulsion consiste en des moteurs, des arbres d'hélices et les hélices elles-mêmes. Les dommages à la propulsion diminuent la vitesse maximale de votre bateau, limitant le réglage maximal du télégraphe à Avant 2/3.
-<b>Barre de direction</b> - Lorsque vous tournez, réduit de moitié le taux de virage de votre bateau.
-<b>Barres de plongée</b> - Lorsque vous utilisez les barres pour changer la profondeur, réduit la surface et le taux de plongée de votre bateau de moitié.
-<b>Ballast</b> - Lors de l'utilisation des ballasts pour changer la profondeur, réduit la surface et le taux de plongée de votre bateau de moitié. Le ballast d'urgence ne peut pas être utilisé.
-<b>Réacteur</b> - Si il est endommagé ou si l'équipage est obligé d'éteindre le réacteur, la puissance est perdue pour les moteurs. Ceci limite le réglage maximum du télégraphe à 0 (arrêt des machines), rendant ainsi votre vaisseau immobile dans l'eau.
+<b>Pompes</b> - Les pompes diminuent automatiquement le taux d'inondation dans tous les compartiments. Une fois hors d'usage, l'inondation des compartiments n'est plus compensée par le pompage de l'eau. De plus, le bonus de pompage dans le compartiment comprenant les équipes de sécurité est perdu.
+<b>Propulsion</b> - La propulsion inclut les moteurs, les arbres d'hélices et les hélices elles-mêmes. Les dommages à la propulsion diminuent la vitesse maximale de votre navire, limitant le réglage maximal du transmetteur d'ordres à 2/3.
+<b>Gouvernail</b> - Lors du pilotage, réduit de moitié le taux de virage de votre navire.
+<b>Barres de plongée</b> - Lorsque vous utilisez les barres de plongée pour modifier la profondeur, le taux de remonté et de plongé votre navire sont réduits de moitié.
+<b>Ballast</b> - Lors de l'utilisation de ballast pour changer la profondeur, le taux de remonté et de plongé votre navire sont réduits de moitié. La chasse rapide du ballast en cas d'urgence ne peut pas être utilisé.
+<b>Réacteur</b> - S'il est endommagée ou si votre équipage est obligée de STOPPER le réacteur, la puissance est perdue pour les moteurs. Ceci limite le réglage maximum du transmetteur d'ordres à Machine Stop, rendant ainsi votre navire immmobile dans l'eau.
 
 
-<size=24><color=maroon><b>VOIE D'EAU</b></color></size>
-Il y a 5 grands compartiments étanches dans votre sous-marin. Les dommages causés peuvent provoquer une voie d'eau, ce qui est indiqué par un indicateur de niveau d'eau bleu. Plus le niveau de bleu est élevé, plus l'inondation est importante. Si l'inondation est excessive ou devient incontrôlée, votre bateau perdra sa flottabilité et finira par couler.
+<size=24><color=maroon><b>INONDATION</b></color></size>
+Il y a 5 grands compartiments étanches dans votre sous-marin. Les dommages causés peuvent provoquer une inondation, ce qui est indiqué par un indicateur de niveau d'eau bleu. Plus le niveau de bleu est élevé, plus l'inondation est importante. Si l'inondation est trop excessive ou devient incontrôlée, votre navire perdra sa flottabilité et finira par couler.
 
-Le taux d'inondation est d'autant plus important que:
-- la profondeur est importante, du fait de l'augmentation de la pression de l'eau
-- les dommages du compartiment sont importants
-- les sous-système de pompage sont endommagés
-- des compartiments supplémentaires prennent l'eau
+Le taux d'inondation est augmenté par :
+- une grande profondeur, à cause de la pression de l'eau
+- l'augmentation des dommages du compartiment
+- la perte du sous-système de pompes
+- des compartiments supplémentaires prenant l'eau
 
-Le taux d'inondation est diminué du fait:
-- d'une faible profondeur ou d'une navigation en surface
-- d'un sous-système de pompage opérationnel, qui pompe l'eau dans tous les compartiments
-- d'une intervention de l'équipe de contrôle des avaries, qui double l'effet du pompage dans le compartiment qu'elle occupe.
+Le taux d'inondation est diminué par :
+- une faible profondeur ou être en surface
+- le sous-système de pompes opérationnel, qui pompe l'eau dans tous les compartiments
+- l'équipe de sécurité, qui double l'effet des pompes dans le compartiment qu'elle occupe
 
-Si vous avez des difficultés à contrôler les voies d'eau:
-- utilisez le ballast pour compenser toute flottabilité négative
-- Assurez-vous que votre sous-système de pompes est opérationnel, ou la priorité pour les réparations
-- assignez une équipe de maintenance au compartiment inondé (uniquement efficace si les pompes sont opérationnelles)
-- Diminuez votre profondeur ou faites surface aussi rapidement que possible
-- Purger le ballast d'urgence
+Si vous avez des difficultés à contrôler les inondations :
+- utiliser vos ballasts pour compenser toute flottabilité négative
+- assurez-vous que votre sous-système de pompes est opérationnel, ou prioritaire pour les réparations
+- assigner votre équipe de sécurité au compartiment inondé (uniquement efficace si les pompes sont opérationnelles)
+- Diminuez votre profondeur ou faire surface aussi rapidement que possible
+- faire une chasse rapide au ballast en urgence.
 
-<b>VOIE D'EAU INCONTRÔLÉE</b>
-Une fois que plusieurs compartiments commencent à prendre de l'eau, votre sous-marin est dans une situation désespérée. Vous devriez prendre des mesures immédiates pour arriver à une profondeur peu élevée rapidement. Gardez à l'esprit que le réacteur / la propulsion ou le ballast sont assommés pendant que votre sous-marin est profond et qu'il prend de l'eau, ce qui pourrait empêcher le surfaçage et être fatal.
+<b>INONDATION INCONTRÔLABLE</b>
+Une fois que plusieurs compartiments commencent à prendre de l'eau, votre sous-marin est dans une situation désespérée. Vous devriez prendre des mesures immédiates pour arriver à une profondeur peu élevée rapidement. Gardez à l'esprit que si le réacteur / la propulsion ou le ballast sont hors-service pendant que votre sous-marin est profond et qu'il prend de l'eau, cela pourrait empêcher de refaire surface et être fatal.
 
-<b>RÉPARER UNE VOIE D'EAU</b>
-Se rendre à faible profondeur ou faire surface aidera grandement vos pompes et les dommages de la partie de contrôle en limitant les voies d'eau. Une fois en surface, l'équipe de contrôle des dommages devrait être capable de pomper toute l'eau en la déplaçant entre les compartiments inondés. Cependant, si vous êtes incapable de faire surface, même après avoir purgé les ballasts en urgence, il est peut-être temps de prévenir votre équipage et d'abandonner le navire.
+<b>RÉPARATION DES INONDATIONS</b>
+Se rendre à faible profondeur ou en surface aidera grandement vos pompes et l'équipe de sécurité à maîtriser les inondations. Une fois en surface, l'équipe de sécurité devrait être capable de pomper toute l'eau en la déplaçant entre les compartiments inondés. Cependant, si vous êtes incapable de faire surface, même après fait une chasse rapide au ballast, il est peut-être temps de penser à votre équipage et d'abandonner le navire.
 
-Alors que la surface permettra à tous les compartiments inondés d'être débarassés de leur eau, les dommages à la coque sont toujours présents. Une nouvelle plongée mettra à nouveau la coque sous tension et entraînera probablement la reprise des inondations, en particulier dans les compartiments les plus endommagés.
-
-
-<size=24><color=maroon><b>ICÔNES DE CONTRÔLE DES AVARIES</b></color></size>
-Les icônes d'état sont affichées dans le coin supérieur droit pour vous informer des dommages nécessitant une réparation, une voie d'eau ou la détection d'une attaque imminente.
+Être en surface permettra à tous les compartiments inondés d'être débarrassés de l'eau, les dommages à la coque reste. La plongée mettra à nouveau la coque sous tension et entraînera probablement la reprise des inondations, en particulier dans les compartiments les plus endommagés.
 
 
-
+<size=24><color=maroon><b>ICONES AVARIES</b></color></size>
+Les icônes d'état sont affichées dans le coin supérieur droit pour vous informer des dommages nécessitant une réparation, une inondation ou la détection d'une attaque imminente.
 
 
 
@@ -129,31 +125,34 @@ Les icônes d'état sont affichées dans le coin supérieur droit pour vous info
 
 
 
-<b>ICÔNES DU CONTRÔLE DES AVARIES</b>
-<b>Arrêt du réacteur:</b> Le réacteur de votre sous-marin est hors ligne.
 
-<b>Avaries:</b> Un sous-système à bord de votre sous-marin est endommagé et doit être réparé.
 
-<b>Voie d'eau:</b> Un compartiment de votre sous-marin est inondé à plus de 10%, ou l'inondation totale est supérieure à 5%.
 
-<b>Torpille en approche:</b> Un sonar a détecté une torpille active en approche ou l'opérateur du sonar a détecté une torpille passive en approche sur votre sous-marin.
+<b>DESCRIPTIONS DES ICÔNES D'AVARIES</b>
+<b>Réacteur STOPPÉ:</b> Le réacteur de votre sous-marin est hors ligne
 
-<b>Sonar acitf:</b> Un vaisseau ennemi fait un ping avec son sonar de contrôle de tir dans le but de déterminer votre position exacte. Une attaque est probablement imminente.
+<b>Dommage:</b> Un sous-système à bord de votre sous-marin est endommagé et doit être réparé.
+
+<b>Innondation :</b> Un compartiment de votre sous-marin est inondé à plus de 10%, ou l'inondation totale est supérieure à 5%.
+
+<b>Torpille en approche :</b> Une interception active a détecté une torpille active ou l'opérateur du sonar a détecté une torpille passive en approche vers votre sous-marin.
+
+<b>Sonar de télémétrie :</b> Un navire ennemi fait un ping avec son sonar de contrôle de tir dans le but de déterminer votre position exacte. Une attaque est probablement imminente.
 
 
 <size=24><color=maroon><b>PERTE DE VOTRE SOUS-MARIN</b></color></size>
 Votre sous-marin sera détruit si:
-- la profondeur d'implosion est dépassée, entraînant une destruction de la coque épaisse
+- la profondeur d'écrasement est dépassée, entraînant une implosion
 - l'intégrité de la coque est réduite à 0%
 
-Il est important de se rappeler que lorsque l'intégrité de la coque diminue, la coque est plus fragile et peut entraîner une réduction de 50% de la profondeur d'implosion. Des profondeurs qui seraient d'ordinaire sûres détruiront maintenant votre sous-marin.
+Il est important de se rappeler que lorsque l'intégrité de la coque diminue, la profondeur d'écrasement devient plus faible et peut entraîner une réduction de 50% de la profondeur d'écrasement. Les profondeurs qui seraient autrement sûres détruiront maintenant votre sous-marin.
 
-Une fois détruit, le HUD est désactivé.
-Utilisez <KEY:Cancel or Quit> pour entrer dans le menu de mission et terminer la mission.
+Une fois détruit, l'ATH est désactivé.
+Appuyez sur <KEY:Cancel or Quit> pour entrer dans le menu de la mission et terminer la mission.
 
-Dans le menu de la mission, vous pouvez:
-1) <DICTIONARY:AbandonShip>. Si votre sous-marin est toujours intact (n'a pas implosé) et au-dessus de la profondeur d'évasion, vous et votre équipage pouvez survivre en abandonnant le vaisseau, sinon rien ne se passe lorsque vous sélectionnez cette option.
+Dans le menu de la mission, vous pouvez :
+1) <DICTIONARY:AbandonShip>. Si votre sous-marin est toujours intact (n'a pas implosé) et au-dessus de la profondeur d'évacuation, vous et votre équipage pouvez survivre en abandonnant le navire, sinon rien ne se passe lorsque vous sélectionnez cette option.
 2) <DICTIONARY:Quit> pour terminer cette mission.
 
-Chacune de ces options vous amènera au rapport après action.
-Lorsque vous avez terminé d'afficher le rapport après action, cliquez sur <DICTIONARY:Continue> ou utilisez <KEY:Continue>.
+Chacune de ces options vous amènera au compte rendu après action.
+Lorsque vous avez fini d'afficher le compte rendu après action, cliquez sur <DICTIONARY:Continue> ou utilisez <KEY:Continue>.

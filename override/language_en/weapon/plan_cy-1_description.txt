@@ -1,4 +1,4 @@
-﻿[Weapon Reference]
+[Weapon Reference]
 WeaponName=CY-1
-WeaponDescriptiveName=Roquette Anti-SMCY-1
-WeaponDescription=Roqette de lutte anti sous-marine et de surface lancée par un navire. Elle suit une trajectoire balistique non guidée et laisse tomber une torpille légère de type Yu-7.
+WeaponDescriptiveName=Roquette ASM CY-1
+WeaponDescription=Roquette ASM lancé depuis un sous-marin ou un navire de surface qui vole sur une trajectoire balistique non guidée et libère une torpille guidée légère de type Yu-7.

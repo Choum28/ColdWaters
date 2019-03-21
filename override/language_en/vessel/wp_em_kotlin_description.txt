@@ -1,7 +1,7 @@
-﻿[Unit Reference]
+[Unit Reference]
 ShipClass=Kotlin
-Description=Frégate classe Kotlin
-DefensiveWeapons=SM-20 Quad 45mm AA Guns
-OffensiveWeapons=130mm/58 130mm DP Guns\n533mm anti-SM Torpedoes\nRBU-2500 anti-SM Rockets
+Description=Destroyer de classe Kotlin-class Destroyer
+DefensiveWeapons=Canons AA quadruple SM-20 45mm
+OffensiveWeapons=Canons multrôle 130mm/58 130mm\nTorpilles ASM 533mm\nRoquettes ASM RBU-2500W
 Aircraft=Aucun
-History=Ces navires ont été conçus comme des escortes pour les plus grands croiseurs de classe Sverdlov, mais se sont révélés obsolètes même lorsque les premières unités ont été achevées. Sur les 28 initialement construits, 4 ont été convertis pendant la construction pour devenir des missiles de classe Kildin, 9 autres ont été convertis à la fin des années 1960 pour transporter des missiles sol-air, et 11 autres ont été modifiés au début des années 1960 pour renforcer leurs capacités anti-SM. , en installant des fusées ASB RBU-2500. Cette classe représente le dernier type de destructeur conventionnel dans le monde. 
+History=Ces navires ont été conçus comme des escortes pour les grands croiseurs Sverdlov, mais se sont révélés obsolètes même lorsque les premières unités ont été achevées. Sur les 28 initialement construits, 4 ont été convertis pendant la construction pour devenir des lance-missiles de classe Kildin, 9 autres ont été convertis à la fin des années 1960 pour transporter des missiles sol-air, et 11 autres ont été modifiés au début des années 1960 pour renforcer leurs capacités ASM, en installant des roquettes ASM RBU-2500. Cette classe représente le dernier type de destroyer conventionnel dans le monde.

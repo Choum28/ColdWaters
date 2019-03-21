@@ -1,4 +1,4 @@
 [Unit Reference]
 AircraftName=Harbin Z-9
 AircraftDescriptiveName=Harbin Z-9
-History=Le Harbin Z-9 est une variante chinoise de l'Eurocopter français AS365 Dauphin, fabriqué sous licence. Il sert de nombreux rôles dans le PLA, mais cette version est spécialisée pour le service ASW, avec un radar de recherche, un sonar à immersion moderne et des torpilles légères. Il ne porte cependant pas de sonobuys, ce qui limite sa mobilité tactique.
+History=Le Harbin Z-9 est la variante Chinoise de l'Eurocopter Français AS365 Dauphin, fabriqué sous licence. Il remplit plusieurs rôle pour l'APL, mais cette version est spécialisé dans les tâches ASM, avec son radar de recherche, son sonar trempé moderne et des torpilles légères. Il ne transporte cependant pas de boués acoustiques, ce qui limite sa mobilité tactique.

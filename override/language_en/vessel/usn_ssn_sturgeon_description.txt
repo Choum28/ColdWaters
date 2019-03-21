@@ -1,7 +1,7 @@
-﻿[Unit Reference]
+[Unit Reference]
 ShipClass=Sturgeon
-Description=SNA de classe Sturgeon
-History=La classe Sturgeon était une classe de SNA (SSN) en service dans la Marine des États-Unis depuis les années 1960 jusqu'en 2004. Ces sous-marins ont été éliminées dans les années 1990 et au début du xxie siècle, tandis que leurs successeurs, la classe Los Angeles, suivie par Seawolf et Virginia, entraient en service. Les sous-marins de classe Sturgeon, programmés dans les années 1950, furent essentiellement des variantes allongés et améliorées de la Classe Thresher/Permit qui les a directement précédés. La principale différence fut un plus grand massif, permettant un retour des mâts de collecte de renseignement aux sous-marins nucléaires américains.
+Description=Sous-marin nucléaire d'attaque de classe Sturgeon
+History=En service depuis 1967, cette classe a formé l'épine dorsale des sous-marins d'attaque américains pendant la guerre froide jusqu'au milieu des années 80. Furtifs, manœuvrables et avec un excellent ensemble de sonar, ces bateaux peuvent rivaliser avec les tout derniers navires soviétiques. Leur seul inconvénient est leur vitesse relativement faible.
 
 [Player Ship Instances]
 PlayerClassNames=Sturgeon,Whale,Tautog,Grayling,Pogy,Aspro,Sunfish,Pargo,Queenfish,Puffer,Ray,Sand Lance,Lapon,Gurnard,Hammerhead,Sea Devil,Guitarro,Hawkbill,Bergall,Spadefish,Seahorse,Finback,Pintado,Flying Fish,Trepang,Bluefish,Billfish,Drum,Archerfish,Silversides,William H. Bates,Batfish,Tunny,Parche,Cavalla,L. Mendel Rivers,Richard B. Russell

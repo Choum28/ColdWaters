@@ -1,4 +1,4 @@
-﻿[Unit Reference]
+[Unit Reference]
 ShipClass=Chalutier
-Description=Chalutier
-History=Il s'agit d'un bateau de pêche de taille moyenne généralement présent dans les eaux côtières et autour des ports, bien qu'il se rende périodiquement dans des zones de pêche éloignées. 
+Description=Chalutier arrière
+History=Il s'agit généralement d'un navire pêche de taille moyenne généralement présent dans les eaux côtières et autour des ports, bien qu'il se rende périodiquement dans des zones de pêche éloignées.

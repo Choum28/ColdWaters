@@ -1,4 +1,4 @@
-﻿[Unit Reference]
+[Unit Reference]
 ShipClass=Golf
-Description=Sous-marin diesel-électrique classe Golf
-History=Cette classe de 24 bateaux est un dérivé de la conception de Foxtrot équipé d'une voile agrandie pour loger trois missiles nucléaires de SS-N-4 Sark. Ces missiles sont à courte distance, obligeant ces bateaux à patrouiller relativement près du continent américain.
+Description=Sous-marin diesel-électrique lanceur d'engins de classe Golf
+History=Cette classe de 24 navires est un dérivé de la conception Foxtrot équipé d'un massif agrandie pour héberger trois missiles nucléaires de SS-N-4 Sark. Ces missiles sont à courte portée, obligeant ces navires à patrouiller relativement près du continent américain.

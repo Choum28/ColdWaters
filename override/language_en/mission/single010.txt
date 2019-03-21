@@ -1,7 +1,10 @@
 Image=campaign/images/under ice
 MissionLocation=Quelque part au nord du Spitzberg
-Briefing=5 APR 1984
-Briefing=Chassez et interceptez un sous-marin soviétique de classe Typhoon en évitant ses bâtiments d'escorte de haute technologie.
+Briefing=5 AVR 1984
+Briefing=Traquer et tuer un boomer soviétique de classe Typhoon et échapper à ses escortes high-techs.
 Briefing=
-Briefing=Objectif principal:
-Briefing=Coulez le Typhoon
+Briefing=Objectif Principal :
+Briefing=Couler le Typhoon
+Briefing=
+Briefing=Objectif Secondaire :
+Briefing=Aucun

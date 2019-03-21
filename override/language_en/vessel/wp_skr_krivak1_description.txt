@@ -1,7 +1,7 @@
-﻿[Unit Reference]
+[Unit Reference]
 ShipClass=Krivak I
-Description=Patrouilleur classe Krivak I
-DefensiveWeapons=SA-N-4 SAM
-OffensiveWeapons=RBU-6000 anti-SM Rockets
+Description=Navire de patrouille de classe Krivak I
+DefensiveWeapons=SAM SA-N-4
+OffensiveWeapons=Roquettes ASM RBU-6000
 Aircraft=Aucun
-History=En service depuis le début des années 1970, cette classe devait être construite sur des chantiers plus petits qui n'avaient aucune expérience dans la construction de gros combattants. Ce sont des navires anti-SM «légers», mais qui sont néanmoins capables de donner des difficultés considérables aux sous-marins de l'OTAN. Ce sont des navires élégants avec une excellente tenue de mer et équipés d'un sonar à profondeur variable, mais ils n'ont que des armes limitées, ne transportent pas d'hélicoptères et ne disposent que de moyens de commandement rudimentaires. En tant que tels, ils seront généralement sous le commandement de plus grands BPK dans des situations tactiques. Ils n'ont pas les canons de défense de 30 mm trouvés sur la plupart des autres navires de guerre soviétiques, ce qui les rend vulnérables aux missiles anti-navires.
+History=En service depuis le début des années 1970, cette classe devait être construite sur des chantiers plus petits qui n'avaient aucune expérience dans la construction de gros combattants. Ce sont des navires ASM «légers», mais qui sont néanmoins capables de donner des difficultés considérables aux sous-marins de l'OTAN. Ce sont des navires élégants avec une excellente tenue de mer et équipés d'un sonar à immersion variable, mais ils n'ont que des armes limitées, ne transportent pas d'hélicoptères et ne disposent que de moyens de commandement rudimentaires. En tant que tels, ils seront généralement sous le commandement de plus grands BPK dans des situations tactiques. Ils n'ont pas les canons de défense de 30 mm trouvés sur la plupart des autres navires de guerre soviétiques, ce qui les rend vulnérables aux missiles antinavires.

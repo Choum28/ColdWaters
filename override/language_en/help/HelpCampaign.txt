@@ -1,78 +1,79 @@
 ImageBackground=campaign/images/sea rescue 2
-ImagePosition=190,-676
+ImagePosition=160,-676
 ImageHeight=450
 Image=help_images/port.png
-ImagePosition=15,-1440
+ImagePosition=15,-1425
 ImageHeight=260
 Image=help_images/stratmap.png
 [/Image]
-<size=24><color=maroon><b>CAMPAGNE</b></color></size>
-Il est recommandé de vous familiariser avec la commande d'un sous-marin en complétant les missions d'entraînement et en pratiquant plusieurs missions uniques avant d'entreprendre une campagne.
+<size=24><color=maroon><b>CAMPAIGN</b></color></size>
+Il est recommandé de vous familiariser avec le commandement d'un sous-marin en finissant les missions d'entraînement et en pratiquant plusieurs missions uniques avant d'entreprendre une campagne.
 
-Les campagnes vous permettent de vivre un conflit armé en tant que commandant d'un sous-marin. Dans une campagne, vous allez;
-- recevoir des commandes pour entreprendre diverses missions
+Les campagnes permettent d'expérimenter un conflit armé en tant que commandant d'un sous-marin. Vous allez ainsi;
+- recevoir des ordres pour entreprendre diverses missions
 - naviguer dans la carte stratégique pour identifier et intercepter vos cibles
-- éviter la détection par des avions de reconnaissance ennemis et des satellites
+- éviter la détection par des avions de reconnaissance et satellites ennemis
 - engager l'ennemi au combat
-- retourner au port de temps en temps pour réarmer et réparer les dommages de combat
+- retourner au port occasionnellement pour réarmer et réparer les dommages reçu au combat
 - recevoir des médailles et des récompenses en fonction de votre performance
 - aider à gagner la guerre en coulant des navires ennemis
 - aider à gagner la guerre en accomplissant avec succès des missions
-- Perdre en avancement en échouant à couler des cibles hautement prioritaires
-- perdre en avancement avec les missions qui échouent
+- Perdre des avantages en échouant à couler des cibles hautement prioritaires
+- perdre des avantages pour les missions qui échouent
 
-Votre succès ou votre échec tout au long d'une campagne aura un impact direct sur l'issue du conflit.
+Vos succès ou vos échecs tout au long d'une campagne auront un impact direct sur l'issue du conflit.
+
 
 <size=24><color=maroon><b>ÉVÉNEMENTS</b></color></size>
-Toutes les campagnes commencent par une série d'événements soulignant les antécédents et les enjeux géopolitiques derrière le conflit actuel. Les événements se produisent également lorsque vous complétez ou échouez des missions et que vous êtes basé sur des critères spécifiques, tels que le retour au port, la perte de votre sous-marin ou pour vous attribuer des médailles. Enfin, les événements concluent la campagne, décrivant l'issue du conflit et votre destin ultime. Vos actions en tant que commandant influenceront directement de nombreux événements.
+Toutes les campagnes commencent par une série d'événements soulignant le contecte et les enjeux géopolitiques derrière le confli. Des événements se produisent aussi lorsque vous réussisez ou échouez des missions selon des critères spécifiques, le retour au port, la perte de votre sous-marin ou l'attribution de médaille. Enfin, des événements concluent la campagne, décrivant l'issue du conflit et votre destin. Vos actions en tant que commandant influenceront directement de nombreux événements.
 
 <b>GUERRE TERRESTRE</b>
-Certaines campagnes sont accompagnées d'une guerre terrestre. Dans ces cas, d'autres événements surviennent régulièrement, fournissant une mise à jour décrivant la perte ou le gain de territoires ainsi que l'équilibre global de la guerre. La carte stratégique sera marquée par des icônes indiquant la domination des territoires.
+Certaines campagnes sont accompagnées d'une guerre terrestre. Dans ces cas, des événements additionnels surviennent régulièrement décrivant la perte ou le gain de territoires ainsi que l'équilibre global de la guerre. La carte stratégique sera marquée par des icônes indiquant la propriété des territoires.
 
-<b>CLORE UN ÉVÉNEMENT</b>
-Utilisez <KEY:Continue> ou cliquez sur <DICTIONARY:Continue> pour fermer un événement et revenir à la campagne.
+<b>FERMETURE DES ÉVÉNEMENTS</b>
+Appuyez sur <KEY:Continue> ou cliquer sur <DICTIONARY:Continue> pour fermer un événement et continuer la campagne.
 
-<b>SAUTER UN ÉVÉNEMENT</b>
-Utilisez <KEY:Continue> pour sauter immédiatement un événement.
+<b>PASSER DES ÉVÉNEMENTS</b>
+Appuyez sur <KEY:Continue> pour immédiatement passer un évènement.
 
 
-<size=24><color=maroon><b>AU PORT</b></color></size>
-Votre sous-marin sera amarré au port au début de
-une campagne. Ici, vous avez un bref aperçu
-quant à savoir si votre sous-marin a de la place pour d'autres
-armes ou nécessite des réparations.
+<size=24><color=maroon><b>PORT</b></color></size>
+Votre sous-marin sera amarré au port au début
+d'une campagne. Ici, vous avez un bref aperçu
+afin de savoir si votre sous-marin a de la place 
+pour d'autres armes ou nécessite des réparations.
 
 <DICTIONARY:LeavePort>
-Quitte le port, vous emmenant à la carte stratégique pour
-la navigation.
+Quitter le port, vous emmenant à la carte stratégique
+pour la navigation.
 
 <DICTIONARY:RearmRepair>
-Ouvre les panneaux de contrôle des magasins d'armes et des 
-avaries pour recharger les armes et effectuer des réparations.
-<KEY:Stores> et <KEY:Damage Report> peuvent également être utilisés.
+Ouvre le panneau de gestion de l'arsenal et des avaries
+pour le rechargement des armes ou effectuer des réparations.
+<KEY:Stores> et <KEY:Damage Report> peuvent aussi être utilisés.
 
 <DICTIONARY:ReviewOrders>
-Examinez vos chargements d'armes. Certaines missions nécessitent
-des armes spécifiques ou commandos à bord, de sorte qu'il peut
-être nécessaire de vérifier vos magasins lors du réarmement.
+Examinez vos ordres actuels. Certaines missions nécessitent
+des armes spécifiques ou des commandos à bord, ainsi 
+il peut valoir la peine de vérifier vos ordres lors du réarmement.
 
-<b>TEMPS AU PORT</b>
-Le retour au port prend plusieurs heures pour la navigation,
-accoster et amener l'équipage à terre. En outre,
-plus de temps est requis pour:
+<b>TEMPS DANS UN PORT</b>
+L'entrée dans un port prend plusieurs heures pour la navigation,
+accoster et débarquer l'équipage à terre. En outre,
+du temps supplémentaires est requis pour:
 - charger et décharger des armes
-- prendre ou enlever des commandos
+- embarquer ou débarquer des commandos
 - réparer les sous-systèmes
-- réparation de la coque (automatique et en fonction de la pression)
+- réparer la coque (automatique et basé sur la gravité)
 
-À l'exception des réparations de la coque, le temps requis pour ces actions est indiqué dans les panneaux de contrôle des dommages et de stockage. Le temps total que vous avez passé au port est indiqué par l'affichage <b> <DICTIONARY:HoursInPort> </b>.
+Excepté pour la réparation de la coque, le temps requis pour ces actions est affiché dans le panneau Avarie et Arsenal. Le temps total passé dans un port est indiqué par l'affichage <b><DICTIONARY:HoursInPort></b>.
 
-<b>ENTRER DANS LE PORT</b>
-L'ouverture du Briefing dans le voisinage d'un port ami entrera dans ce port. Une icône de port apparaît dans la barre d'outils pour indiquer la proximité d'un port (voir ci-dessous).
+<b>ENTRER DANS UN PORT</b>
+Ouvrir le Briefing à proximité d'un port ami vous fera entrer dans ce port. Une icône de port apparaît dans la barre d'outils pour indiquer la proximité d'un port (voir ci-dessous).
 
 
-<size=24><color=maroon><b>CARTE STRATÉGIQUE</b></color></size>
-La carte stratégique est utilisée pour naviguer dans les océans et donne un aperçu du théâtre des opérations. La carte stratégique se compose d'une barre d'outils en haut à gauche, d'une carte marine du théâtre des opérations ainsi que de diverses icônes. À l'exception du port et des barrières SOSUS, les icônes sont colorées en fonction du côté pour lequel elles se battent.
+<size=24><color=maroon><b>STRATEGIC MAP</b></color></size>
+La carte stratégique est utilisée pour naviguer dans les océans et donner un aperçu du théâtre de guerre. La carte stratégique se compose d'une barre d'outils en haut à gauche, d'une carte marine du théâtre des opérations ainsi que de diverses icônes. À l'exception du port et des barrières SOSUS, les icônes sont colorées en fonction du camp pour lequel elles se battent.
 
 
 
@@ -90,76 +91,75 @@ La carte stratégique est utilisée pour naviguer dans les océans et donne un a
 
 
 <b>BARRE D'OUTILS</b>
-En haut à gauche se trouve la barre d'outils. De gauche à droite, la barre d'outils affiche:
-1) Heure de la journée en heures
-2) Date
-3) Bouton Étiquettes pour activer / désactiver le texte et les emplacements de la carte
-4) Bouton Menu pour entrer dans le menu Campagne ou utiliser <TOUCHE: Annuler ou Quitter>
-5) Icône de port indiquant si le joueur se trouve à proximité d'un port ami
+En haut à gauche se trouve la barre d'outils. De gauche à droite, elle affiche :
+1) Le moment de la journée en heures
+2) La date
+3) les boutons pour activer/désactiver le texte et les emplacements sur la carte
+4) le bouton Menu pour entrer dans le menu Campagne ou utiliser <TOUCHE: Annuler ou Quitter>
+5) L'icône de port indiquant si le joueur se trouve à proximité d'un port ami
 
 <b>NAVIGATION</b>
 Il y a trois vitesses de mouvement pour votre sous-marin sur la carte stratégique
 1) Stationnaire: Votre sous-marin écoute. Le combat commence à environ 5 nœuds et à faible profondeur.
-2) Vitesse de patrouille: Le combat commence à ~ 15 noeuds et à une profondeur modérée. <RIGHTCLICK> pour se déplacer à la vitesse de la patrouille vers le pointeur de la souris.
-3) Pleine vitesse: Le combat commence à ~ 25 noeuds et à une profondeur profonde. <LEFTCLICK> pour se déplacer à toute vitesse vers le pointeur de la souris.
-Lorsque vous rencontrez une force ennemie, la vitesse à laquelle vous vous déplacez influe sur les distances de départ, car le sonar est moins efficace en raison du bruit de flux à des vitesses plus rapides. La profondeur de départ peut être modifiée par le terrain dans les eaux peu profondes.
+2) Vitesse de patrouille: Le combat commence à ~ 15 noeuds et à une profondeur modérée. <LEFTCLICK> pour se déplacer à la vitesse de patrouille vers le pointeur de la souris.
+3) Pleine vitesse: Le combat commence à ~ 25 noeuds et à une profondeur profonde. <RIGHTCLICK> pour se déplacer à pleine vitesse vers le pointeur de la souris.
+Lorsque vous rencontrez une force ennemie, la vitesse à laquelle vous vous déplacez influe sur les distances de départ, car le sonar est moins efficace en raison du bruit à des vitesses rapides. La profondeur de départ peut être modifiée par le terrain dans les eaux peu profondes.
 
-La vitesse de votre sous-marin détermine également la distance à laquelle vous révélez les unités ennemies proches. Des vitesses plus rapides diminuent la plage de détection.
+La vitesse de votre sous-marin détermine également la distance à laquelle vous révélez les unités ennemies proches. Des vitesses plus rapides diminuent la portée de détection.
 
 <b>RECONNAISSANCE</b>
-À l'époque de la guerre froide, la reconnaissance est assurée par des satellites, des aéronefs, des forces opérationnelles et des barrières SOSUS. Une fois que vous vous trouvez en reconnaissance ou directement à proximité de votre sous-marin, un vaisseau ou un groupe de travail ennemi a été détecté et sera révélé sur la carte stratégique sous forme d'icône. Le type d'icône, le vaisseau de surface ou le sous-marin, représente le type d'unité ou d'unités ennemies rencontrées. Les groupes mixtes, contenant des sous-marins et des unités de surface, apparaissent par défaut sur l'icône de l'unité de surface.
+À l'époque de la guerre froide, la reconnaissance est assurée par des satellites, des aéronefs, des forces opérationnelles et des barrières SOSUS. Une fois rencontré par la reconnaissance ou directement à proximité de votre sous-marin, un navire ou un groupe ennemi sera détecté et révélé sur la carte stratégique sous forme d'icône. Le type d'icône, navire de surface ou sous-marin, représente le type d'unité ou d'unités ennemies rencontrées. Les groupes mixtes, contenant des sous-marins et des unités de surface, apparaissent par défaut sur l'icône de l'unité de surface.
 
-Lorsque le contact vieillit, il s'assombrit lentement et sa position cesse d'être mise à jour. Ces icônes plus sombres montrent maintenant le dernier endroit connu, devenant moins précis au fil du temps lorsque l'ennemi avance, jusqu'à ce que l'icône finisse par disparaître.
+Lorsque le contact vieillit, il s'assombrit lentement et sa position cesse d'être mise à jour. Ces icônes plus sombres montrent la dernière localisation connu, devenant moins précise au fil du temps comme l'ennemi se déplace, jusqu'à ce que l'icône finisse éventuellement par disparaître.
 
-<b>Satellites:</b> les satellites amis et ennemis traversent la carte stratégique à intervalles réguliers. Les satellites ont une très longue portée de détection, mais leur passage est à intervalles réguliers permettant de chronométrer votre positionnement lors d'un survol d'un satellite ennemi.
+<b>Satellites :</b> les satellites amis et ennemis traversent la carte stratégique à intervalles réguliers. Les satellites ont une très longue portée de détection, mais leur passage se fait à intervalles réguliers permettant de prévoir votre positionnement lors d'un survol d'un satellite ennemi.
 
-<b>Avions:</b> lancés à partir d'emplacements contenant une base aérienne, les avions effectuent une patrouille à partir de, puis retournent à leur base. Les aéronefs ont besoin de temps d'arrêt pour se ravitailler entre chaque patrouille.
+<b>Aéronef :</b> lancés à partir de lieux contenant une base aérienne, les aéronefs patrouillent à partir de, puis retournent à leur base. Les aéronefs ont besoin de temps d'arrêt pour se ravitailler entre chaque patrouille.
 
-<b>Barrières SOSUS:</b> les barrières SOSUS (SOund SUrveillance System) sont des chaînes de dispositifs d'écoute sonar conçus pour révéler le passage des sous-marins et des navires. Principalement utilisées par l'OTAN, ces barrières sont stratégiquement placées pour protéger les points de passage de la mer de Norvège dans l'Atlantique par les forces soviétiques. Les unités ennemies traversant une barrière SOSUS sont révélées sur la carte stratégique.
+<b>Barrières SOSUS :</b> (SOund SUrveillance System) sont des chaînes de dispositifs d'écoute sonar conçus pour révéler le passage des sous-marins et navires. Principalement utilisées par l'OTAN, ces barrières sont stratégiquement placées pour protéger les points de passage entre la mer de Norvège et l'Atlantique des forces soviétiques. Les unités ennemies traversant une barrière SOSUS sont révélées sur la carte stratégique.
 
-<b>Navires:</b> votre propre sous-marin (et les forces ennemies) peut détecter et révéler les unités proches sur la carte stratégique.
+<b>Navires :</b> votre propre sous-marin (et les forces ennemies) peuvent détecter et révéler les unités proches sur la carte stratégique.
 
-Si votre sous-marin est détecté par une reconnaissance ennemie, les groupes de tueurs de chasseurs anti-sous-marins à proximité seront guidés vers votre position afin de vous intercepter. Il n'y a pas de notification de cette détection, alors gardez un œil sur les transits satellites ennemis ou les avions à proximité lorsqu'ils sont dans les eaux ennemies.
+Si votre sous-marin est détecté par une reconnaissance ennemie, les groupes de chasseurs-tueurs anti-sous-marins à proximité seront guidés vers votre position afin de vous intercepter. Il n'y a pas de notification de cette détection, alors gardez un œil sur les satellites ou les aéronefs ennemis à proximité lorsque vous êtes dans des eaux ennemies.
 
-<b>LIEUX</b>
-À travers la carte stratégique sont de nombreux lieux géographiques. Ils peuvent être des ports navals, des bases aériennes, des stations SOSUS ou une combinaison de ceux-ci ainsi que d'autres grandes villes stratégiques. Beaucoup de ces endroits peuvent être directement impliqués dans les missions qui vous sont assignées et, si une campagne contient une guerre terrestre, ces endroits peuvent être attaqués par des forces spéciales (commandos) ou même envahis et libérés par les camps adverses.
+<b>EMPLACEMENTS</b>
+À travers la carte stratégique il y a de nombreux lieux. Des ports navals, des bases aériennes, des stations SOSUS ou une combinaison de ces derniers ainsi que d'autres grandes villes stratégiques. Beaucoup de ces endroits peuvent être directement impliqués dans les missions qui vous sont assignées et, si une campagne contient une guerre terrestre, ces endroits peuvent être attaqués par des forces spéciales (commandos) ou même envahis et libérés par les camps adverses.
 
-<b>Ports maritimes:</b> ces centres d'activité navale sont généralement la source des forces ennemies et peuvent être infiltrés et attaqués par les commandos de chaque camp. Votre port d'attache ne peut pas être attaqué ou envahi par l'ennemi.
+<b>Ports navals :</b> ces ports d'activité navale sont généralement la source des forces ennemies et peuvent être infiltrés et attaqués par les commandos de chaque camp. Votre port d'attache ne peut pas être attaqué ou envahi par l'ennemi.
 
-<b>Bases aériennes:</b> comme mentionné ci-dessus, ceux-ci sont la source d'avions de reconnaissance. Si un commando ennemi attaque une base aérienne, cela perturbe l'activité de reconnaissance aérienne pendant plusieurs jours. Si un atterrissage amphibie ou une invasion terrestre prennent le contrôle d'une région contenant une base aérienne, cela perturbe également l'activité de reconnaissance aérienne, mais la restaure finalement pour le camp d'occupation.
+<b>Bases aériennes :</b> comme mentionné ci-dessus, ce sont la source des aéronefs de reconnaissance. Si un commando ennemi attaque une base aérienne, cela perturbe l'activité de reconnaissance aérienne pendant plusieurs jours. Si un débarquement amphibie ou une invasion terrestre prennent le contrôle d'une région contenant une base aérienne, cela perturbe l'activité de reconnaissance aérienne, mais la restaure éventuellement pour le camp d'occupation.
 
-<b>Bases SOSUS:</b> Si un groupe commando ennemi attaque, ou si la région est envahie, toute barrière SOSUS associée à l'emplacement est définitivement perdue pour le reste de cette campagne.
+<b>Bases SOSUS :</b> Si un groupe commando ennemi attaque, ou si la région est envahie, toute barrière SOSUS associée à l'emplacement est définitivement perdue pour le reste de cette campagne.
 
-Les régions peuvent être envahies dans le cadre de la guerre terrestre en cours, mais peuvent également être envahies par les forces d'atterrissage amphibies que vous avez été chargé d'arrêter! Dans ce dernier cas, vous avez un contrôle direct sur la sauvegarde de ces précieuses ressources de reconnaissance, tout en empêchant l'ennemi d'ouvrir de nouveaux fronts.
+Les régions peuvent être envahies dans le cadre de la guerre terrestre en cours, mais peuvent également être envahies par les forces de débarquements amphibies que vous avez été chargé d'arrêter! Dans ce dernier cas, vous avez un contrôle direct sur la préservation de ces précieuses ressources de reconnaissance, tout en empêchant l'ennemi d'ouvrir de nouveaux fronts.
 
 
 <size=24><color=maroon><b>BRIEFING</b></color></size>
-Utilisez <KEY:Briefing> pour ouvrir la page de briefing lorsque vous naviguez sur la carte stratégique.
+Appuyez sur <KEY:Briefing> pour ouvrir la fenêtre d'information chaque fois que vous naviguez sur la carte stratégique.
 
-Sélectionnez <DICTIONARY:ContinueCourse> pour retourner à la carte stratégique.
+Sélectionner <DICTIONARY:ContinueCourse> vous renvoie à la carte stratégique.
 
-Vous pouvez examiner l'état actuel de vos stocks d'armes et de vos dégâts ainsi que passer en revue les commandes de la mission en cours en sélectionnant <DICTIONARY:VesselStatus> ou en utilisant <KEY:Stores> et <KEY:Damage Report>. Conformément aux missions uniques habituelles, les armes préchargées dans les tubes et les tubes peuvent être réglées et celles-ci seront prêtes à être tirées lors du prochain engagement. Cependant, les magasins ne peuvent pas être modifiés car ils nécessitent un retour au port afin de pouvoir embarquer de nouvelles armes.
+Vous pouvez examiner l'état actuel de votre arsenal et de vos avaries que passer en revue les ordres de la mission en cours en sélectionnant <DICTIONARY:VesselStatus> ou en appuyant sur <KEY:Stores> et <KEY:Damage Report>. Comme pour les missions uniques  missions uniques habituelles, les armes préchargées dans les tubes et les tubes peuvent être réglées et celles-ci seront prêtes à être tirées lors du prochain engagement. Cependant, l'arsenal ne peut pas être modifiés car ils nécessitent un retour au port afin de pouvoir embarquer de nouvelles armes.
 
-<DICTIONARY:ReviewOrders> peut être utilisé pour examiner vos paramètres de mission actuels afin de déterminer où naviguer et quelles forces ennemies vous pourriez avoir besoin d'intercepter sur la carte stratégique.
-
+<DICTIONARY:ReviewOrders> peut être utilisé pour examiner vos paramètres de mission actuels pour déterminer où naviguer et quelles forces ennemies vous pourriez avoir besoin d'intercepter sur la carte stratégique.
 
 <size=24><color=maroon><b>MENU CAMPAGNE</b></color></size>
-Dans le menu Campagne, vous pouvez sélectionner l'un des éléments suivants.
-1) <DICTIONARY:Statistics> - affiche vos statistiques pour la campagne en cours
-2) <DICTIONARY:Save> - enregistre la campagne en utilisant le nom de fichier spécifié lors de la création de la campagne
-3) <DICTIONARY:Quit> - quitte la campagne pour revenir au menu principal
+Dans le menu Campagne, vous pouvez sélectionner l'un des éléments suivants;
+1) <DICTIONARY:Statistics> - afficher vos statistiques pour la campagne en cours
+2) <DICTIONARY:Save> - sauvegarder la campagne en utilisant le nom de fichier spécifié lors de la création de la campagne
+3) <DICTIONARY:Quit> - quitter la campagne pour revenir au menu principal
 4) <DICTIONARY:Back> - retourner à la carte stratégique et jouer à la campagne
 
 
-<size=24><color=maroon><b>INCURSIONS ET FRAPPES TERRESTRES</b></color></size>
+<size=24><color=maroon><b>INSERTION ET MISSIONS DE FRAPPE</b></color></size>
 Ces deux missions nécessitent des actions spécifiques à mener.
 
-<b>INCURSION:</b> vous devez retourner à votre base d'origine et embarquer un groupe d'opérations spéciales (commando). Puis naviguez vers la destination où vous devez infiltrer l'emplacement désigné. Sur la carte tactique sera affichée une zone de déploiement dans laquelle vous devez naviguer (en restant si possible non détecté), puis vous arrêter à moins de 100 pieds de profondeur pour que l'équipe de commando puisse débarquer. Une fois partis, ils tenteront d'entreprendre leur mission. Si votre sous-marin est engagé par l'ennemi ou détecté en cours de route, les défenses terrestres seront en état d'alerte maximum et pourront capturer votre équipe commando avant qu'elle ait pu effectuer sa mission, rendant votre furtivité un élément essentiel de la mission.
+<b>INSERTION:</b> vous devez retourner à votre base d'attache et embarquer des forces spéciales. Puis naviguez vers la destination où vous devrez infiltrer un emplacement ennemi. Sur la carte tactique sera affichée une zone de déploiement dans laquelle vous devez naviguer (de préférence non détectée), puis vous arrêter à moins de 100 pied de profondeur pour que les forces spéciales puisse partir. Une fois parti, ils tenteront d'entreprendre leur mission. Si votre sous-marin est engagé par l'ennemi ou détecté en cours de route, les défenses terrestres seront en état d'alerte maximales et pourront capturer vos forces spéciales avant qu'elles puissent effectuer leur mission, rendant la furtivité de la plus haute importance.
 
-<b>FRAPPE TERRESTRE:</b> vous devez retourner à votre base pour acquérir le nombre d'armes de frappe terrestre spécifié par vos ordres. Puis naviguez vers la destination où vous avez besoin de tirer ces armes dans une zone de déploiement (marquée sur votre carte). Les missiles atteignant la zone de déploiement seront automatiquement guidés vers leur cible. Notez que les navires ennemis peuvent être en position d'abattre des missiles en route. Ce type de mission ne sera donné que si votre sous-marin actuel est capable d'être équipé de missiles d'attaque terrestre.
+<b>LAND STRIKE:</b> vous devez retourner à votre base d'attache pour acquérir les armes de frappe terrestre spécifiées par vos ordres. Puis naviguez vers la destination de vos frappes dans une zone de déploiement (marquée sur votre carte). Les missiles atteignant la zone de déploiement seront automatiquement guidés vers leur cible. Notez que les navires ennemis peuvent être en position avec la capacité d'abattre les missiles en route. Ce type de mission ne sera donné que si votre sous-marin actuel est capable d'équiper des missiles d'attaque terrestre.
 
 
 <size=24><color=maroon><b>PERTE DE VOTRE SOUS-MARIN</b></color></size>
-Etre coulé ou abandonner un navire dans une mission simple n'a pas de conséquences durables, après tout, c'était une mission unique, mais dans une campagne, les enjeux sont beaucoup plus élevés pour vous et votre équipage.
+Être coulé ou abandonner votre navire dans une mission unique n'a pas de conséquences durables, après tout, c'était une mission unique, mais dans une campagne, les enjeux sont beaucoup plus élevés pour vous et votre équipage.
 
-Si vous survivez à la perte de votre sous-marin, vous serez finalement renvoyé à votre port d'attache. Ici, vous serez en mesure de sélectionner un nouveau sous-marin pour commander et revenir dans le combat. Toutefois, être sauvé et renvoyé en toute sécurité prend de nombreuses heures et peut entraîner l'échec des missions sensibles au temps.
+Si vous survivez à la perte de votre sous-marin, vous serez finalement renvoyé à votre port d'attache. Ici, vous serez en mesure de sélectionner un nouveau sous-marin à commander et revenir au combat. Toutefois, être sauvé et renvoyé en toute sécurité prend de nombreuses heures et peut entraîner l'échec des missions à temps limité.

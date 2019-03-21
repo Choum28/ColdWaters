@@ -1,4 +1,4 @@
-﻿[Unit Reference]
+[Unit Reference]
 ShipClass=Komsomol
 Description=Grand cargo de classe Leniniskiy Komsomol
-History=Cette classe faisait partie de la grande flotte marchande soviétique au début des années 1960. Leur conception à double pont est particulièrement adaptées au transport de matériel et de troupes militaires et leur vitesse élevée en fait d'excellents briseurs de blocus.
+History=Cette classe s'inscrivait dans la grande augmentation de la capacité marchande soviétique durant le début des années 1960. Leur conception à entrepont sont particulièrement adaptée au transport de matériel et de troupes militaires et leur vitesse élevée en fait d'excellent brisseur de blocus.

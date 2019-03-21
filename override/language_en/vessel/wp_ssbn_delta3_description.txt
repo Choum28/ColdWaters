@@ -1,4 +1,4 @@
-﻿[Unit Reference]
+[Unit Reference]
 ShipClass=Delta III
-Description=SNLE classe Delta III
-History=Les différentes itérations de la classe des Delta à dos de tortue ont formé la majeure partie de la force de dissuasion des sous-marins des missiles balistiques soviétiques depuis le début des années 1970. Ce sous-groupe de 14 bateaux a été agrandi afin de tirer le plus gros missile MIRVed SS-N-18, et a été repensé pour plus de furtivité, bien que toutes les classes Delta se soient avérées être des SNLE relativement forts. Ce sont les premiers sous-marins capables de tirer n'importe quel nombre de missiles en une seule salve.
+Description=Sous-marin nucléaire lanceur d'engins de classe Delta III
+History=Les différentes itérations de la classe des Delta ont formé la majeure partie de la force de dissuasion sous-marine soviétiques depuis le début des années 1970. Ce sous-groupe de 14 navires a été agrandi afin de tirer le plus gros missile à têtes multiples SS-N-18, et a été repensé pour un plus grand silence, bien que toutes les classes Delta se soient avérées être des SNLE relativement bruyants. Ce sont les premiers sous-marins capables de tirer n'importe quel nombre de missiles en une seule salve.

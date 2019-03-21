@@ -1,137 +1,147 @@
-﻿[SONAR]
-usn_an_bqr_2=AN/BQR-2=Dérivé de la suite allemande de sonars GG de guerre équipant l'électroboot Type XXI, le BQR-2 est un sonar à moyenne fréquence équipant la plupart des sous-marins USN jusqu'à la classe Thresher/Permit. Bien que suffisant pour son époque, dans les années 1980 ce système est terriblement obsolète et presque aveugle contre tous les bateaux soviétiques sauf les plus anciens.
+[SONAR]
+usn_an_bqr_2=AN/BQR-2=Dérivé du sonar de guerre allemand GHG comme celui équipé sur les U-boot type XXI. Le BQR-2 est un sonar moyenne fréquence équippant la plupart des sous-marin USN jusqu'à la classe Thresher/Permit. Bien que suffisant à son époque, dans les années 1980 ce système est particulièrement obsolète et presque aveugle contre tous les bâtiments soviétiques sauf les plus anciens.
 
-usn_an_bqr_21=AN/BQR-21=Ceci est une version mise à jour du BQR-2 bénéficiant d'un nouveau traitement numérique des données pour de meilleures performances.
+usn_an_bqr_21=AN/BQR-21=C'est une version améliorée du BQR-2  bénéficiant d'un traitement numérique des données pour de meilleures performances.
 
-usn_an_bqs_4=AN/BQS-4=Ce système constituait le composant actif de la suite de sonars des sous-marins USN des années 1950. Cependant, contrairement au BQR-2, il est encore assez puissant pour détecter des ennemis autrement silencieux.
+usn_an_bqs_4=AN/BQS-4=Ce système a formé la composante active de la gamme de sonar des sous-marins USN durant les années 1950. Contrairement au BQR-2, il est encore assez puissant pour détecter des ennemis autrement silencieux.
 
-usn_an_bqq_2=AN/BQQ-2=Le premier ensemble de sonar intégré sphérique, monté dans les sous-marins de classe Permit et Sturgeon.
+usn_an_bqq_2=AN/BQQ-2=Le premier ensemble de sonar intégré sphérique, monté dans les sous-marins de classe Permit et Sturgeon
 
-usn_an_bqq_5=AN/BQQ-5=Cette suite sonar avancée utilise une matrice sphérique avec les dernières techniques de traitement du signal numérique et a été introduite pour la première fois dans les sous-marins d'attaque rapide de Los Angeles, puis dans les classes Permit et Sturgeon. BQQ-2 tableau sphérique.
+usn_an_bqq_5=AN/BQQ-5=Ce sonar avancée utilise un ensemble sphérique avec les dernières techniques de traitement de signal numérique et a été introduite dans les sous-marins d'attaque rapide de Los Angeles, puis dans les classes Permit et Sturgeon où elle remplace le BQQ-2 analogique.
 
-usn_bqr_25=BQR-25=La baie remorquée BQR-25 augmente considérablement la portée du sonar passif. Il est plus efficace à des vitesses plus lentes mais souffre d'une saturation de bruit supérieure à 10 Kts. \n \nLe tableau remorqué annule également l'arc aveugle de poupe causé par le bruit de propriété.
+usn_bqr_25=BQR-25=Le BQR-25 remorqué augmente considérablement la portée du sonar passif. Il est plus efficace à des vitesses lentes et souffre d'une saturation de bruit au dessus de 10 Kts.\n \nLe sonar remorqué annule également le cone de silence arrière causé par les bruits de son propre navire.
 
-usn_tb_16=TB-16=Le TB-16 Tara Array augmente considérablement la portée du sonar passif. Il est plus efficace à des vitesses plus lentes mais souffre d'une saturation de bruit supérieure à 10 Kts. \n \nLe tableau remorqué annule également l'arc aveugle de poupe causé par le bruit de propriété.
+usn_tb_16=TB-16=Le TB-16 remorqué augmente considérablement la portée du sonar passif. Il est plus efficace à des vitesses lentes et souffre d'une saturation de bruit au dessus de 10 Kts.\n \nLe sonar remorqué annule également le cone de silence arrière causé par les bruits de son propre navire.
 
-usn_tb_23=TB-23=Le TB-23 Thin-Line Tara Array augmente considérablement la portée du sonar passif. Il est plus efficace à des vitesses plus lentes mais souffre d'une saturation de bruit supérieure à 10 Kts. \n \nLe tableau remorqué annule également l'arc aveugle de poupe causé par le bruit de propriété.
+usn_tb_23=TB-23=Le TB-23 Thin-Line remorqué augmente considérablement la portée du sonar passif. Il est plus efficace à des vitesses lentes et souffre d'une saturation de bruit au dessus de 10 Kts.\n \nLe sonar remorqué annule également le cone de silence arrière causé par les bruits de son propre navire.
 
-usn_tb_29=TB-29=Le TB-29 Thin-Line Tara Array augmente considérablement la portée du sonar passif. Il est plus efficace à des vitesses plus lentes mais souffre d'une saturation de bruit supérieure à 10 Kts. \n \nLe tableau remorqué annule également l'arc aveugle de poupe causé par le bruit de propriété.
+usn_tb_29=TB-29=The TB-29 Thin-Line remorqué augmente considérablement la portée du sonar passif. Il est plus efficace à des vitesses lentes et souffre d'une saturation de bruit au dessus de 10 Kts.\n \nLe sonar remorqué annule également le cone de silence arrière causé par les bruits de son propre navire.
 
-usn_sqs_26=SQS-26=Il s'agit d'un tableau basse fréquence très puissant introduit par l'US Navy dans les années 1960, destiné au fonctionnement de la zone de convergence.
+usn_sqs_26=SQS-26=Il s’agit d’un sonar très puissant basse fréquence introduit par la marine américaine dans les années 1960, prévu pour les opérations en zone de convergence.
 
-usn_sqr_18=SQR-18=Le SACT-18 TACTASS augmente considérablement la portée du sonar passif. Il est plus efficace à des vitesses plus lentes mais souffre d'une saturation de bruit supérieure à 10 Kts. \n \nLe tableau remorqué annule également l'arc aveugle de poupe causé par le bruit de propriété.
+usn_sqr_18=SQR-18=Le SQR-18 TACTASS augmente considérablement la portée du sonar passif. Il est plus efficace à des vitesses lentes et souffre d'une saturation de bruit au dessus de 10 Kts.\n \nLe sonar remorqué annule également le cone de silence arrière causé par les bruits de son propre navire.
 
-usn_ssq_62=SSQ-62 DICASS=Bouée acoustique active.
+usn_ssq_62=SSQ-62 DICASS=Bouée sonar active.
 
-usn_aqs_13=AQS-13=Sonar à immersion actif principalement utilisé par l'hélicoptère SH-2F ASW.
+usn_aqs_13=AQS-13=Sonar trempé actif principalement utilisé par l'hélicoptère SH-2F ASM.
 
-plan_sjd_3=SJD-3=Il s'agit d'un sonar à balayage haute fréquence chinois basé sur une conception améliorée de sabot de cerf qui équipe plusieurs frégates.
+plan_sjd_3=SJD-3=Il s'agit d'un sonar de coque Chinois à balayage haute fréquence basé sur une conception amélioré du Stag Hoof qui équipe plusieurs frégates.
 
-plan_eh_5=EH-5=Réseau de balayage à haute fréquence monté sur la quille qui équipe les frégates du début de la classe Jianghu.
+plan_eh_5=EH-5=Sonar de coque à balayage haute fréquence qui équipe les premières frégates de classe Jianghu.
 
-plan_sjd_5=​​SJD-5=Il s'agit d'un sonar chinois à balayage haute fréquence monté sur l'étrave, basé sur un design Buck Toe amélioré qui équipe plusieurs frégates.
+plan_sjd_5=SJD-5=Il s'agit d'un sonar chinois à balayage haute fréquence monté sur l'étrave, basé sur un design Buck Toe amélioré qui équipe plusieurs frégates.
 
-plan_sjd_7=SJD-7=Cet ensemble de fréquences moyennes actives/passives montées sur la coque est une copie chinoise du SQS-56, monté sur des frégates et des destroyers plus récents.
+plan_sjd_7=SJD-7=Ce sonar de coque moyenne fréquence actif/passif est une copie Chinoise du SQS-56, équipant les derniers destroyers et frégates. 
 
-plan_sjd_8=SJD-8/9=Une version chinoise construite sous licence du sonar à moyenne fréquence DUBV-23 français. C'est un tableau de balayage multimode sophistiqué comparable à Bull Nose.
+plan_sjd_8=SJD-8/9=Une version Chinoise sous-licence du sonar Français moyenne fréquence DUBV-23. C'est un sonar à balayage multimode sophistiqué comparable au Bull Nose.
 
-plan_ess_1=ESS-1=Une version chinoise construite sous licence du sonar à profondeur variable DUBV-43. C'est un ensemble VDS de fréquence moyenne comparable en performance à Mare Tail.
+plan_ess_1=ESS-1=Une version Chinoise sous-licence du sonar Français à immersion variable DUBV-43. C'est un ensemble VDS de fréquence moyenne comparable en performance au Mare Tail.
 
-plan_ss_12=SS-12=Sonar français à moyenne fréquence et à profondeur variable importé par la Chine pour utilisation sur hélicoptères et petites patrouilleurs.
+plan_ss_12=SS-12=Sonar Français à immersion variable moyenne fréquence importé par la Chine et utilisé sur des hélicoptère et des petits patrouilleurs.
 
-plan_sqc_1=SQC-1=Il s'agit d'une version chinoise du sonar numérique basse fréquence français Eledone, similaire à BQQ-5 et monté sur les sous-marins de classe Han et Xia.
+plan_sqc_1=SQC-1=Il s'agit d'une version chinoise du sonar numérique basse fréquence français Eledone, similaire au BQQ-5 et monté sur les sous-marins de classe Han et Xia.
 
-plan_tsm_2233=TSM-2233=Il s'agit du sonar numérique basse fréquence français Eledone, similaire à BQQ-5 et monté sur les sous-marins de la classe Song.
+plan_tsm_2233=TSM-2233=Il s'agit du sonar numérique basse fréquence Français Eledone similaire en performance au BQQ-5 et monté sur les sous-marin de classe Song.
 
-wp_bull_horn=Bull Horn=Cet ensemble de fréquences moyennes actives/passives montées sur la coque est monté sur des vaisseaux soviétiques plus récents où il remplace le précédent tableau de fréquences moyennes Bull Nose.
+wp_bull_horn=Bull Horn=Ce sonar de coque actif/passif moyenne fréquence est monté sur les récents navires soviétique ou il remplace les ancienne versions du Bull Nose moyenne fréquence. 
 
-wp_bull_nose=Bull Nose=Il s'agit d'une matrice passive/active de fréquence moyenne datant de la fin des années 1960. Bien qu'incapable de détecter les sous-marins américains à un niveau supérieur à la moyenne, cette conception a été clairement considérée comme un succès par les Soviétiques qui l'ont équipée sur presque toutes les classes majeures.
+wp_bull_nose=Bull Nose=Il s'agit d'un sonar actif/passif moyenne fréquence datant des années 1960. Bien qu'incapable de détecter des sous-marin US à un niveau supérieur à la moyenne, cette conception fut clairement considérée comme un succès par les Soviétiques qui l'équipèrent sur presque toutes les grandes classes de navires anti-sous-marins dans les années 1970.
 
-wp_amfora=MGK-600=On sait peu de choses sur cette suite sonar sphérique intégrée qui équipe les bateaux russes de prochaine génération tels que la classe Yasen.
+wp_wolf_paw=Wolf Paw=Il s'agit d'un ancien sonar moyenne fréquence qui équippait beaucoup de navire de surface avant l'introduction du Bull Nose.
 
-wp_buck_toe=Buck Toe=Définitivement archaïque par rapport aux standards des années 1980, il s'agit d'un réseau actif à haute fréquence de style projecteur, un peu meilleur que les sonars actifs WW2.
+wp_trout_cheek=Trout Cheek=Ce système est dérivé du sonar de guerre allemand Balkongerat présent dans le u-boot de Type XXI. Il est comparable aux BQR-2 / BQS-4 équipant le Skipjack.
 
-wp_shark_fin=Aileron de requin=Cet ensemble de fréquences moyennes équipe certains bateaux soviétiques de la fin des années 1960, où il constitue le composant actif de la suite passive Shark Teeth.
+wp_squid_arm=Squid Arm=Il s'agit d'un système de sonar basse fréquence avancé propre au sous-marin à attaque rapide de classe Alfa où il alimente un système de commande et de contrôle hautement automatisé dont les détails sont peu connus.
 
-wp_pike_jaw=Pike Jaw=Cet ensemble de hautes fréquences est commun à la génération de la fin des années 1950 où il équipe les bateaux de classe Foxtrot et November, généralement en conjonction avec Trout Cheek. On peut donc supposer que Pike Jaw est également un dérivé des conceptions allemandes du temps de guerre.
+wp_shark_teeth=Shark Teeth=Il s'agit d'un sonar basse fréquence cylindrique équippant les sous-marin de classe Victor, Juliet, Tango et Charlie. Il est comparable en performance au BQQ-2 US et double la portée de détection comparé à l'ancien Trout Cheek MF.
 
-wp_stag_ear=Stag Ear=Ceci est un très ancien jeu à haute fréquence qui équipe les sous-marins diesel de la classe Whisky.
+wp_shark_gill=Shark Gill=La dernière génération de systèmes de sonar soviétique, Cet ensemble cylindrique  et basse fréquence est utilisé sur les sous-marins dont il équipe les classes Victor III, Charlie II, Delta III et IV, Typhoon et Oscar. Comparé au précédent Shark Teeth, cet ensemble est meilleur que le BQQ-2 des anciennes classes Permit et Sturgeon, et presque comparable au BBQ-5 qui équipe les derniers sous-marins US.\n \nIl est dit qu'une version avancée de celui-ci équipe le sous-marin de classe Sierra, mais on en sait peu à l'heure actuelle.
 
-wp_foal_tail=Foal Tail=Ce sonar à haute résolution et à profondeur variable (VDS) est un dérivé du sonar à immersion monté sur les hélicoptères anti-sous-marins Ka-25 Hormone A. Généralement monté sur de plus petits navires de patrouille, la capacité de rechercher sous la couche en fait un système dangereux à rencontrer dans les eaux peu profondes.
+wp_amfora=MGK-600=On en sait peu sur ce sonar intégré shérique qui équipe les navire de nouvelle génération russes comme ceux de la classe Yasen.
 
-wp_mare_tail=Mare Tail=Ce grand sonar à profondeur variable (VDS) a d'abord été observé sur les croiseurs d'hélicoptères de la classe Moskva, puis sur les classes de Kiev, Kara et Krivak où il offre la possibilité de scanner sous la couche thermique. tactiques de dérive.
+wp_buck_toe=Buck Toe=Définitivement archaïque par rapport aux années 1980, il s'agit d'un sonar actif haute fréquence de type projecteur, un peu meilleur que les sonars actifs de la seconde guerre mondiale.
 
-wp_horse_tail=Horse Tail=Plus grand et beaucoup plus performant que Mare Tail, Horse Tail est un sonar à basse fréquence variable (VDS) remorqué qui équipe les classes Kirov et Udaloy où il donne la possibilité de chercher sous la couche sur des distances considérables.
+wp_shark_fin=Shark Fin=Ce sonar à fréquence moyenne équipe certains navire soviétiques à la fin des années 1960, ou il constitue la composante active de la gamme passive Shark Teeth.
 
-wp_shark_tail=Requin Tail=Il s'agit d'un réseau remorqué passif basse fréquence qui équipe tous les sous-marins soviétiques de la construction récente à partir du Victor III. Bien qu'il ne soit pas comparable aux systèmes américains de réseaux remorqués, il fournit néanmoins aux Soviétiques une meilleure capacité de sonar qui manquait aux générations précédentes, donnant à ces nouveaux bateaux quelque chose d'un saut quantique dans les capacités et la menace qu'ils fournissent.
+wp_pike_jaw=Pike Jaw=Ce sonar à haute fréquence est commun à la génération de la fin des années 1950 où il équipe les navires de classe Foxtrot et November, généralement utilisé en conjonction avec le Trout Cheek. On peut donc supposer que le Pike Jaw est également un dérivé des conceptions allemandes de la seconde guerre mondiale.
 
-wp_amfora_ta=MGK-600=C'est le composant RAID remorqué passif de la suite sonar avancée qui équipe le Yasen. Il est probablement similaire à la TB-23 américaine.
+wp_stag_ear=Stag Ear=Ce sonar haute fréquence très ancien équipe les sous-marin diesel de classe Whiskey
 
-wp_horse_jaw=Horse Jaw=Ceci est une suite à Moose Jaw qui équipe les classes de Kirov et Udaloy, et donne à ces vaisseaux une capacité énorme contre les sous-marins américains, même silencieux.
+wp_foal_tail=Foal Tail=Ce sonar haute fréquence à prodondeur variable (VDS en anglais) est un dérivé du sonar trempé embarqué sur les hélicopères anti sous-marin Ka-25 Hormone. Généralement monté sur les petits navires de patrouille, sa capacité de recherche sous la couche en fait un système dangereux en cas de rencontre dans les eaux peu profondes.
 
-wp_moose_jaw=Moose Jaw=Il s'agit d'un très large réseau à basse fréquence observé pour la première fois sur la Moskva, mais qui équipe aussi la classe de Kiev.
+wp_mare_tail=Mare Tail=Ce grand sonar à immersion variable (VDS) a d'abord été observé sur les croiseurs d'hélicoptères de classe Moskva, puis sur les classes de Kiev, Kara et Krivak où il offre à ces navires la possibilité de scanner sous la couche thermique lors de l'application de tactique de sprint et de dérive .
 
-// WP SONOBUOYS
-wp_rgb_56=Oeuf de corbeau=bouée de sauvetage de première génération introduite en 1956. 8 dans un récipient.
+wp_horse_tail=Horse Tail=Plus grand et beaucoup plus performant que Mare Tail, le Horse Tail est un sonar remorqué à basse fréquence à immersion variable (VDS) qui équipe les classes de Kirov et Udaloy où il donne la possibilité à ces navires de chercher sous la couche sur des distances considérables.
 
-wp_rgb_64=Oeuf de roche 1=Bouée de sauvetage de deuxième génération avec une portée de détection de 1 à 5 km introduite en 1964. 18 dans un récipient.
+wp_shark_tail=Shark Tail=Il s'agit d'un sonar remorqué passif à basse fréquence qui équipe tous les sous-marins soviétiques de construction récente à partir du Victor III. Bien qu'il ne soit pas comparable aux sonars américains remorqués, il fournit néanmoins aux Soviétiques une meilleure capacité de sonar qui manquait aux générations précédentes, donnant à ces nouveaux navires une sorte de bond en avant en terme de capacité et de menace.
 
-wp_rgb_73=Oeuf de roche 2=Bouée de sauvetage de troisième génération avec une portée de détection de 3 à 8 km introduite en 1973. Présumé 18 dans un récipient.
+wp_amfora_ta=MGK-600=Il s'agit d'un sonar passif remorqué composant de la capacité sonar avancée qui équipe la classe Yasen. Il est similaire en terme de performance au TB-23 US.
 
-// Complexe Berkut-95 - bouées acoustiques ASW à ailes fixes - type RGB-1 (Snipe Egg 1), RGB-2 (Snipe Egg 2) et RGB-3 (Snipe Egg 3).
+wp_horse_jaw=Horse Jaw=Il s'agit du remplaçant du Moose Jaw qui équipe les classes Kirov et Udaloy, et donne à ces navires une capacité énorme contre les sous-marins US, même silencieux.
 
-wp_bm_1=Snipe Egg 1=Bouée acoustique passive non directionnelle.
+wp_moose_jaw=Moose Jaw=il s'agit d'un très grand sonar basse fréquence, observé pour la première fois sur la classe Moskva, mais équipant aussi la classe Kiev.
 
-wp_bm_2=Snipe Egg 2=bouée acoustique directionnelle passive.
+//WP SONOBUOYS
+wp_rgb_56=Crow Egg=Première génération de bouée sonar introduite en 1956. 8 par conteneur.
 
-wp_bm_3=Snipe Egg 3=bouée acoustique active/passive.
+wp_rgb_64=Rook Egg 1=Seconde génération de bouée sonar avec une portée de détection de 1 à 5 km introduite en 1964. 18 par conteneur.
 
-// WP HELO DIPPING SONARS
-wp_elk_tail=Elk Tail=C'est le sonar à immersion Oka VGS-2 de génération antérieure utilisé par l'hélicoptère Ka-25Bsh ASW dans les années 1960
+wp_rgb_73=Rook Egg 2=Troisième génération de bouée sonar avec une portée de détection de 3 à 8 km introduite en 1973. Supposé 18 par conteneur.
 
-wp_stork_tail=Stork Tail=C'est le sonar de trempage de queue de Stork VGS-2 Oka-2 de dernière génération utilisé par l'hélicoptère Ka-25Bsh ASW dans les années 1980.
+//Berkut-95 complex - fixed wing ASW sonobuoys - type RGB-1 (Snipe Egg 1), RGB-2 (Snipe Egg 2) and RGB-3 (Snipe Egg 3).
 
-wp_lamb_tail=Lamb Tail=C'est le sonar trempé avancé Ros-V VGS-3 utilisé par l'hélicoptère Ka-27PL ASW.
+wp_bm_1=Snipe Egg 1=Bouée sonar passive non directionnelle.
+
+wp_bm_2=Snipe Egg 2=Bouée sonar passive directionnelle.
+
+wp_bm_3=Snipe Egg 3=Bouée sonar active/passive.
+
+//WP HELO DIPPING SONARS
+wp_elk_tail=Elk Tail=Il s'agit d'un sonar trempé de génération précédente VGS-2 Oka utilisé sur les hélicoptère ka-25Bsh de lutte ASM dans les années 1960.
+
+wp_stork_tail=Stork Tail=Il s'agit d'un sonar trempé de dernière génération VGS-2 Oka-2 Stork Tail utilisé sur les hélicoptère ka-25Bsh de lutte ASM dans les années 1980.
+
+wp_lamb_tail=Lamb Tail=Il s'agit du sonar trempé avancé Ros-V VGS-3 utilisé sur les hélicoptères Ka-27PL de lutte ASM.
 
 [RADAR]
-usn_bps_12=BPS-12=Le radar de recherche de surface monté sur mât permet aux sous-marins de détecter des contacts de surface autrement indétectables, au risque de contre-détecter par les ennemis équipés d'ESM.
+usn_bps_12=BPS-12=Radar de veille surface monté sur mât qui permet aux sous-marins de détecter des contacts en surface autrement undétectables, au risque d'être détecté par les ennemies équipés de MSE.
 
-usn_bps_15=BPS-15=Le radar de recherche de surface monté sur mât permet aux sous-marins de détecter des contacts de surface autrement indétectables, au risque de contre-détecter par les ennemis équipés d'ESM.
+usn_bps_15=BPS-15=Radar de veille surface monté sur mât qui permet aux sous-marins de détecter des contacts en surface autrement undétectables, au risque d'être détecté par les ennemies équipés de MSE.
 
-usn_bps_14_15=BPS-14/15=Le radar de recherche de surface monté sur mât permet aux sous-marins de détecter des contacts de surface autrement indétectables, au risque de contre-détecter par les ennemis équipés d'ESM.
+usn_bps_14_15=BPS-14/15=Radar de veille surface monté sur mât qui permet aux sous-marins de détecter des contacts en surface autrement undétectables, au risque d'être détecté par les ennemies équipés de MSE.
 
-usn_bps_15A=BPS-15A=Le radar de recherche de surface monté sur mât permet aux sous-marins de détecter des contacts de surface autrement indétectables, au risque de contre-détecter par les ennemis équipés d'ESM.
+usn_bps_15A=BPS-15A=Radar de veille surface monté sur mât qui permet aux sous-marins de détecter des contacts en surface autrement undétectables, au risque d'être détecté par les ennemies équipés de MSE.
 
-usn_sps_67=SPS-67=Radar de recherche de surface typique utilisé par les navires pour détecter d'autres navires et dangers liés à la navigation. Bien qu'ils ne soient pas optimisés pour ce faire, ces ensembles sont capables de détecter un périscope surélevé si les conditions sont bonnes.
+usn_sps_67=SPS-67=Radar de veille surface typique utilisé par les navires pour détecter d'autres navires et les dangers liés à la navigation. Bien qu'ils ne soient pas optimisés pour cela, Ils sont capables de détecter un périscope surélevé si les conditions sont bonnes.
 
-usn_ln_66=LN-66=Ensemble de recherche de surface monté en hélicoptère pour l'hélicoptère SH-2F Seasprite, optimisé pour le ciblage au-dessus de l'horizon.
+usn_ln_66=LN-66=Radar de veille surface monté sur les hélicoptères SH-2F Seasprite, optimisé pour le ciblage au-delà de l'horizon.
 
-plan_klc_1=KLC-1=Ensemble de recherche de surface monté sur hélicoptère pour le Z-9C Dauphin, optimisé pour le ciblage par-dessus l'horizon.
+plan_klc_1=KLC-1=Radar de veille surface monté sur les hélicoptères Z-9C Dauphin, optimisé pour le ciblage au-delà de l'horizon.
 
-wp_don_kay=Don Kay=radar de recherche de surface typique utilisé par les navires pour détecter d'autres navires et les dangers liés à la navigation. Bien qu'ils ne soient pas optimisés pour ce faire, ces ensembles sont capables de détecter un périscope surélevé si les conditions sont bonnes.
+wp_don_kay=Don Kay=Radar de surface typique utilisé par les navires pour détecter d'autres navires et les dangers liés à la navigation. Bien qu'ils ne soient pas optimisés pour cela, Ils sont capables de détecter un périscope surélevé si les conditions sont bonnes.
 
-wp_spin_through=Spin Trough=radar de recherche de surface typique utilisé par les navires pour détecter d'autres navires et les risques de navigation. Bien qu'ils ne soient pas optimisés pour ce faire, ces ensembles sont capables de détecter un périscope surélevé si les conditions sont bonnes.
+wp_spin_through=Spin Trough=Radar de veille surface typique utilisé par les navires pour détecter d'autres navires et les dangers liés à la navigation. Bien qu'ils ne soient pas optimisés pour cela, Ils sont capables de détecter un périscope surélevé si les conditions sont bonnes.
 
-wp_snoop_head=Snoop Head=Le radar de recherche de surface monté sur mât permet aux sous-marins de détecter des contacts de surface autrement indétectables, au risque de contre-détecter par les ennemis équipés d'ESM.
+wp_snoop_head=Snoop Head=Radar de veille surface monté sur mât qui permet aux sous-marins de détecter des contacts en surface autrement undétectables, au risque d'être détecté par les ennemies équipés de MSE.
 
-wp_snoop_tray=Snoop Tray=Le radar de recherche de surface monté sur mât permet aux sous-marins de détecter des contacts de surface autrement indétectables, au risque de contre-détecter par les ennemis équipés d'ESM.
+wp_snoop_tray=Snoop Tray=Radar de veille surface monté sur mât qui permet aux sous-marins de détecter des contacts en surface autrement undétectables, au risque d'être détecté par les ennemies équipés de MSE.
 
-wp_snoop_plate=Snoop Plate=Le radar de recherche de surface monté sur mât permet aux sous-marins de détecter des contacts de surface autrement indétectables, au risque de contre-détecter par les ennemis équipés d'ESM.
+wp_snoop_plate=Snoop Plate=Radar de veille surface monté sur mât qui permet aux sous-marins de détecter des contacts en surface autrement undétectables, au risque d'être détecté par les ennemies équipés de MSE.
 
-wp_snoop_slab=Snoop Slab=Le radar de recherche de surface monté sur un mât permet aux sous-marins de détecter des contacts de surface autrement indétectables, au risque de contre-détecter par les ennemis équipés d'ESM.
+wp_snoop_slab=Snoop Slab=Radar de veille surface monté sur mât qui permet aux sous-marins de détecter des contacts en surface autrement undétectables, au risque d'être détecté par les ennemies équipés de MSE.
 
-wp_snoop_pair=Paire Snoop=Le radar de recherche de surface monté sur un mât permet aux sous-marins de détecter des contacts de surface autrement indétectables, au risque de contre-détecter par les ennemis équipés d'ESM.
+wp_snoop_pair=Snoop Pair=Radar de veille surface monté sur mât qui permet aux sous-marins de détecter des contacts en surface autrement undétectables, au risque d'être détecté par les ennemies équipés de MSE.
 
-wp_mushroom=Corne courte=ensemble de recherche de surface monté en hélicoptère pour Ka-25BSh, optimisé pour ASW.
+wp_mushroom=Short Horn=Radar de surveillance pour hélicoptères Ka-25BSh, optimisé pour la lutte ASM.
 
-wp_octopus=Splash Drop=Ensemble de recherche de surfaces monté en hélicoptère pour Ka-27PL, optimisé pour ASW.
+wp_octopus=Splash Drop=Radar de surveillance pour hélicoptères Ka-27PL, optimisé pour la lutte ASM.
 
-wp_wet_eye=Wet Eye=Jeu de recherche de surface panoramique Doppler pulsé aéroporté optimisé pour ASW. Suite intégrée ASW pour Il-38 et début Tu-142 (Mod 1).
+wp_wet_eye=Wet Eye=Radar doppler pulsé panoramique de recherche optimisé pour la lutte ASM. Intégrant les équipement ASM des Il-38 et des premiers Tu-142 (Mod 1).
 
-// Radar Korshun de Tu-142M Mod2
-wp_korshun=Wet Eye II=radar de recherche de surface panoramique Doppler pulsé aéroporté radar intégré ASW pour les années 1970 plus tard Tu-142M (Mod 2).
+// Korshun radar of Tu-142M Mod2
+wp_korshun=Wet Eye II=Radar doppler pulsé panoramique de recherche et de lutte ASM pour les Tu-142 (Mod 2)de la fin des années 1970.
 
-// Radar Korshun-K de Tu-142M Mod3
-wp_korshun_k=Wet Eye 2=Recherche de surfaces panoramiques Doppler à impulsions aéroportées Suite radar intégrée à ASW et suite d'avionique à attaque numérique pour Tu-142M des années 1980 (Mod 3).
+// Korshun-K radar of Tu-142M Mod3
+wp_korshun_k=Wet Eye 2=Radar doppler pulsé panoramique de recherche et de lutte ASM intégré à l'avionique d'attaque numérique des Tu-142M (Mod 3) des années 1980.
 
-plan_aps_504=Litton APSO-504 (V3)=Recherche par surface panoramique Doppler pulsé aéroporté Radar intégré ASW pour l'avion de patrouille maritime Y-8X.
+plan_aps_504=Litton APSO-504(V3)=Radar Doppler pulsé paranomique de recherche et de lutte ASM pour les aéronefs de patrouille maritime Y-8X

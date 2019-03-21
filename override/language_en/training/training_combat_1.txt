@@ -1,105 +1,103 @@
-﻿[TRAINING 1]=6
-<b>Bienvenue commandant</b>
-Il est temps de commencer l'entraînement au combat.
+[TRAINING 1]=6
+<b>Bienvenue Commandant</b>
+Il est temps de commencer l'entrainement au combat.
 
-<i>Souvenez-vous d'utiliser <KEY:Help> pour rouvrir ce panneau de formation, ou si ce panneau est déjà ouvert, <KEY:Help> ouvrira l'aide. L'ouverture d'aide pendant le combat marque une pause (et cache ce panneau). 
+<i>Rappelez-vous appuyez sur <KEY:Help> pour ouvrir le panneau d'entrainement, ou si celui-ci est déja ouvert,, <KEY:Help> ouvrira l'aide. Ouvrir l'aide durant un combat met le combat en pause (et masque ce panneau).</i>
 
-<color=red><b>Note du traducteur:</b></color> les libellés des touches attribuées aux différentes commandes peuvent prêter à confusion. Pour être sûr de l'attribution des touches aux commandes, vous pouvez à tout moment appuyer sur la touche Echap (escape), puis choisir Options, et Contrôles. Profitez-en pour effectuer vos propres assignations de touches...</i>
+Utiliser <color=grey><b>>>></b></color>  et   <color=grey><b><<<</b></color>  dans la barre de titre ci-dessus pour avancer ou revenir en arrière dans le tutoriel.
+<i>Les Instructions en italiques sont optionnelles.</i>
 
-Utilisez <color=grey><b>>>></b></color> et <color=grey><b><<<</b></color> dans la barre de titre ci-dessus pour naviguer dans le tutoriel en avant ou en arrière.
-<i>Les instructions en italique sont facultatives.</i>
-
-Cliquez sur <color=gray> <b>>>> </b> </color> dans la barre de titre ci-dessus pour continuer.
+Cliquer sur  <color=grey><b>>>></b></color>  dans la barre de titre ci-dessus pour continuer.
 [/TRAINING 1]
 
 [TRAINING 2]
-<b>Contrôle de la caméra</b>
-<b>Rotation de la caméra:</b> utilisez <KEY:Drag Camera> ou <KEY:Camera Left>, <KEY:Camera Right>, <KEY:Camera Up> et <KEY:Camera Down>. La caméra peut se déplacer au-dessus et au-dessous de l'eau.
+<b>Contrôles caméra</b>
+<b>Déplacement Caméra:</b> Utiliser <KEY:Drag Camera> ou <KEY:Camera Left>, <KEY:Camera Right>, <KEY:Camera Up> et <KEY:Camera Down>. La caméra peut se déplacer au dessus ou dans l'eau.
 
-<b>Indicateur de relèvement de la caméra</b> Dans le milieu supérieur de l'écran, la direction actuelle de la caméra est indiquée en degrés d'azimut.
-0=nord, 90=est, 180=sud et 270=ouest.
+<b>Indicateur Azimut Caméra</b> en haut au milieu de l'écran indique l'azimut (direction) où la caméra fait face.
+0=nord, 90=est, 180=sud and 270=ouest.
 
-<b> Zoom: </b> utilisez <MOUSEWHEEL> ou <KEY:Zoom In> et <KEY:Zoom Out>.
+<b>Zoom:</b> Utiliser <MOUSEWHEEL> ou <KEY:Zoom In> et <KEY:Zoom Out>.
 
-Les commandes suivantes permettent de pointer la caméra sur différents objets:
+Les commandes suivantes permettent de déplacer la caméra sur différents objets:
 <KEY:Camera To Player> - sous-marin du joueur
 <KEY:Camera To Selected Contact> - contact actuel
 <KEY:Camera To Weapon> - torpilles et missiles
-<KEY:Camera To Aircraft> - avion
+<KEY:Camera To Aircraft> - aéronefs
 
-Essayez d'utiliser <KEY:Camera To Player>, <KEY:Camera To Selected Contact> et <KEY:Camera To Aircraft> maintenant (aucune arme n'a encore été déclenchée). Notez que le vaisseau cible n'est pas visible! Si la position exacte d'un contact n'est pas connue, elle n'est pas affichée en vue réelle. Nous allons découvrir le navire avec le périscope au cours de la prochaine étape.
+Essayez d'utiliser <KEY:Camera To Player>, <KEY:Camera To Selected Contact> et <KEY:Camera To Aircraft> maintenant (aucune arme n'a encore été tirée). Notez que le vaisseau cible n'est pas visible! Si la position exacte d'un contact est inconnue, elle n'est pas affichée dans le monde. Nous allons révéler le navire avec le périscope durant la prochaine étape.
 
-Ensuite, utilisez <KEY:Camera To Aircraft>. Figez la caméra avec <KEY:Still Camera>, puis utilisez à nouveau <KEY:Still Camera> pour revenir au suivant.
+Ensuite utiliser <KEY:Camera To Aircraft>. Figer la caméra avec <KEY:Still Camera>, puis réutiliser <KEY:Still Camera> pour retourner en mode suivi.
 
-<KEY:Event Camera> active / désactive la caméra d'événements, comme indiqué par l'icône en haut à droite. L'appareil photo de l'événement se concentre automatiquement sur les événements d'intérêt tels que les tirs d'armes et les impacts.
+<KEY:Event Camera> active/désactive la caméra d'événement comme indiqué par l'icône en haut à droite. La caméra événement mettra l'accent automatiquement sur les événements d'intérêt impactant tels que les tirs.
 
 Lorsque vous êtes prêt, renvoyez la caméra vers votre sous-marin avec <KEY:Camera To Player>.
 [/TRAINING 2]
 
 [TRAINING 3]
 <b>Périscope</b>
-Appuyez sur <KEY:Periscope> pour hisser votre périscope. Une fois hissé et prêt à utiliser, une icône apparaît en haut à droite. Utilisez <KEY:Periscope View> pour entrer dans la vue périscope. La vue de périscope peut être affichée avec <RIGHTCLICK> et en faisant glisser ou en utilisant <KEY:Camera Left> et <KEY:Camera Right>.
+Utiliser <KEY:Periscope> pour hisser le périscope. Une fois hissé et prêt à l'utilisation, une icône apparait en haut à droite. Utiliser <KEY:Periscope View> pour entrer en vue périscope. La vue périscope peut être déplacé avec <RIGHTCLICK> et en faisant glisser ou avec <KEY:Camera Left> et <KEY:Camera Right>.
 
-Faites un panoramique sur le périscope jusqu'à ce qu'il soit orienté vers le nord (0 sur l'indicateur de position de la caméra) et que le navire cible se trouve sur le réticule.
-Appuyez sur <KEY:Help> maintenant pour en savoir plus sur l'utilisation du périscope.
+Déplacer le périscope jusqu'à ce qu'il soit orienté vers le nord (0 sur l'indicateur d'azimut de la caméra) et que le navire cible se trouve dans le réticule.
+Utiliser <KEY:Help> maintenant pour en savoir plus sur l'utilisation du périscope.
 
-Utilisez <KEY:Mark Target> pour marquer la cible avec la télémétrie laser. La cible sera immédiatement classée et les données mises à jour sur la cible seront affichées dans la colonne du milieu au-dessus de la mini-carte (en bas à gauche). La cible est également tracée avec précision sur la mini-carte.
+Utiliser <KEY:Mark Target> pour marquer la cible avec le télémétre laser. La cible sera immédiatement classée et les données mises à jour sur la cible seront affichées dans la colonne du milieu au-dessus de la mini-carte (en bas à gauche). La cible est également affiché avec précision sur la minicarte.
 
-La mini-carte affiche votre sous-marin, vos contacts, vos torpilles et sera utilisée pour définir les waypoints des armes.
+La mini-carte affiche votre sous-marin, vos contacts, vos torpilles et sera utilisée pour définir les points de passage des armes.
 [/TRAINING 3]
 
 [TRAINING 4]
-<b>Carte tactique / mini-carte </b>
-Commandes de carte:
-<b>Décaler la carte:</b> <LEFTCLICK> sur la mini-carte et faites glisser la souris.
-<b>Zoomer sur la carte:</b> Positionnez la souris sur la carte et <MOUSEWHEEL> ou <KEY:Zoom In> et <KEY:Zoom Out>.
-<b>Centrer la carte:</b> <KEY:Centre Map> positionnera votre sous-marin au centre de la carte, <KEY:Auto Centre Map> le verrouille à cet endroit.
-<b>Agrandir la carte:</b> <KEY:Tactical Map> permet de basculer en mode plein écran (masquage automatique de la mini-carte).
-<b>Masquer la carte: </b> <LEFTCLICK> dans le coin supérieur droit de la mini-carte cache / restaure.
+<b>Carte tactique / mini-carte</b>
+Contrôles carte :
+<b>Déplacement carte :</b> <LEFTCLICK> sur la mini carte et faites glisser la souris.
+<b>Zoom carte :</b> Positionnez la souris sur la carte et <MOUSEWHEEL> ou <KEY:Zoom In> et <KEY:Zoom Out>.
+<b>Centrer carte :</b> <KEY:Centre Map> positionnera votre sous-marin au centre de la carte, <KEY:Auto Centre Map> pour verrouiller.
+<b>Aggrandir carte :</b> <KEY:Tactical Map> bascule la carte plein écran (et masque la mini-map).
+<b>Masquer carte :</b> <LEFTCLICK> dans la partie supérieure de la mini-carte pour l'afficher/masquer.
 
-<LEFTCLICK> sur l'icône de votre sous-marin, déplace la caméra vers votre sous-marin.
-<LEFTCLICK> sur une icône de contact, sélectionne ce contact ou, s'il est déjà sélectionné, déplace l'appareil photo sur celui-ci.
-<LEFTCLICK> sur une icône de torpille, déplace la caméra vers elle.
+<LEFTCLICK> sur votre icône de sous-marin déplace la caméra vers celui-ci.
+<LEFTCLICK> sur une icône de contact sélectionne ce contact ou, s'il est déjà sélectionné, déplace la caméra sur celui-ci.
+<LEFTCLICK> sur une icône de torpille déplace la caméra vers elle.
 
-Utilisez <KEY:Help> maintenant pour en savoir plus sur la carte tactique, puis appuyez sur <KEY:Periscope View> pour quitter la vue périscope si vous ne l'avez pas déjà fait.
+utiliser <KEY:Help> maintenant, pour en savoir plus sur la carte tactique, appuyez sur <KEY:Periscope View> pour quitter la vue périscope si vous ne l'avez pas déjà fait.
 [/TRAINING 4]
 
 [TRAINING 5]
 <b>Tirer une torpille</b>
-Utilisez <KEY:Event Camera> pour activer la caméra d'événement pour votre prochaine attaque de torpille.
+Utiliser <KEY:Event Camera> pour activer la caméra d'événement pour votre prochaine attaque de torpille.
 
-Nous allons tirer une bonne vieille torpille Mark16 (sans guidage).
-Votre cible ne bouge pas et se trouve à quelques milliers de mètres directement au nord de votre sous-marin stationnaire.
- 
+Nous allons tirer une torpille Mark16 sans guidage à tête chercheuse.
+Votre cible ne bouge pas et à plusieurs milliers de yards directement au nord de votre sous-marin stationnaire.
+ 
 Pour tirer une torpille;
-<b> 1) Sélectionnez Tube </b>
-Les torpilles en bas à gauche indiquent que les 4 tubes sont chargés et prêts à tirer. Utilisez <KEY:Next Tube> ou <LEFTCLICK> sur une icône de torpille pour sélectionner le tube à activer (surligné en rouge).
+<b>1) Selectionner un tube</b>
+Les tubes lance-torpilles en bas à gauche indiquent que les 4 tubes sont chargés et prêts à tirer. Utiliser <KEY:Next Tube> ou <LEFTCLICK> une icône de torpille pour sélectionner le tube à tirer (surligné en rouge).
 
-<b> 2) Placez le waypoint </b>
-Assurez-vous que votre sous-marin est visible sur la mini-carte et utilisez <KEY:Fire Tube> pour définir le waypoint. Le relèvement et la distance jusqu'au waypoint sont affichés et une ligne bleue apparaît maintenant sur la mini-carte qui suit le pointeur de la souris.
+<b>2) Placer un point de passage</b>
+Assurez-vous que votre sous-marin est visible sur la mini-carte et utiliser <KEY:Fire Tube> pour définir le point de passage. L'azimut et la distance jusqu'au point de passage sont affichés et une ligne bleue qui apparaît maintenant sur la mini-carte suivant le pointeur de la souris.
 
-Il suffit de déplacer le pointeur de la souris autour de la mini-carte, en le plaçant directement sur la cible, le relèvement de la lecture devant afficher environ 0.
+Déplacer simplement le pointeur de la souris autour de la mini-carte, en le plaçant directement sur la cible, l'azimut visible devrait afficher environ 0.
 
-<RIGHTCLICK> pour définir le waypoint et faire feu. La carte peut être panoramique, zoomée et centrée tout en faisant glisser un waypoint et si nécessaire, utilisez <KEY:Cancel or Quit> pour annuler la définition d'un waypoint.
+<RIGHTCLICK> pour définir le point de passage et tirer. La carte peut être déplace, zoomé et centré tout en faisant glisser un point de passage et si nécéssaire, utiliser <KEY:Cancel or Quit> pour annuler le placement d'un point de passage.
 
-Si tout s'est bien passé, votre torpille devrait se diriger vers le nord et atteindre la cible.
-Si elle manque sa cible ou si le vaisseau ne s'enfonce pas, déclenchez un autre tir en choisissant un tube chargé et réglez le relèvement du waypoint sur 0.
+Si tout s'est bien passé, votre torpille devrait partir vers le nord et toucher la cible.
+Si elle manque ou si le navire ne coule pas, effectuer un autre tir en choisissant un tube chargé et réglez l'azimut du point de passage sur 0.
 [/TRAINING 5]
 
 [TRAINING 6]
-<b>Fin du combat</b>
-Lorsque vous êtes prêt, quittez le combat en utilisant <KEY:Cancel or Quit> pour entrer dans le menu de mission et terminer la mission (cette option est automatiquement masquée).
-Les options suivantes sont disponibles:
+<b>Fin de combat</b>
+Lorsque vous êtes prêt, quitter le combat en utilisant <KEY:Cancel or Quit> pour entrer dans le menu de mission et terminer la mission (cette option est automatiquement masquée).
+Les options suivantes sont disponibles :
 
-1) <DICTIONARY:AbandonShip> - peut être tenté si votre sous-marin est toujours intact et est actuellement au-dessus de la profondeur d'évacuation. Si elle est inférieure à la profondeur d'évacuation, cette option n'est pas disponible.
+1) <DICTIONARY:AbandonShip> - peut être tenté si votre sous-marin est toujours intact et est actuellement au-dessus de la profondeur d'évacuation. Si elle est inférieure à la profondeur d'évasion, cette option n'est pas disponible.
 
-2) <DICTIONARY:OptionsHeader> - ouvre les options de jeu pour modifier les paramètres du jeu selon le menu principal.
+2) <DICTIONARY:OptionsHeader> - ouvre les options de jeu pour modifier les paramètres du jeu comme dans le menu principal.
 
-3) <DICTIONARY:ExitMission> - fin du combat et aller au rapport après action. Cette option est disponible si vous avez rompu le contact avec toutes les forces ennemies, qu'il n'y a pas de torpilles ou de missiles à proximité et que toute inondation subie par votre sous-marin est sous contrôle. Si votre sous-marin atteint la limite de la carte, cette option est également disponible.
+3) <DICTIONARY:ExitMission> - terminer le combat et aller au compte rendu après action. Cette option est disponible si vous avez rompu le contact avec toutes les forces ennemies, s'il n'y a pas de torpilles ou de missiles à proximité et que toute inondation subie par votre sous-marin est sous contrôle. Si votre sous-marin atteint la limite de la carte, cette option est toujours disponible.
 
-4) <DICTIONARY:Back> - retour au combat
+4) <DICTIONARY:Back> - retourner au combat
 
-Une fois dans le menu de mission <LEFTCLICK> <DICTIONARY:ExitMission> pour terminer cette mission et afficher le rapport après action.
+Une fois dans le menu de la mission <LEFTCLICK> sur <DICTIONARY:ExitMission> pour terminer cette mission et voir le compte rendu après action.
 
-Lorsque vous avez fini d'afficher le rapport après action, <LEFTCLICK> <DICTIONARY:Continue> ou <KEY:Continue>.
+Lorsque vous avez fini d'afficher le compte rendu après action, <LEFTCLICK> sur <DICTIONARY:Continue> ou <KEY:Continue>.
 [/TRAINING 6]

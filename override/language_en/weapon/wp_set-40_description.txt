@@ -1,4 +1,4 @@
-﻿[Weapon Reference]
+[Weapon Reference]
 WeaponName=SET-40
 WeaponDescriptiveName=Torpille SET-40
-WeaponDescription=La SET-40 est une torpille électrique anti-sous-marine à guidage acoustique actif / passif. La portée du système de guidage est d'environ 880 mètres.
+WeaponDescription=Le SET-40 est une torpille électrique anti-sous-marine à guidage acoustique actif / passif. La portée du système de guidage est d'environ 880 yards.

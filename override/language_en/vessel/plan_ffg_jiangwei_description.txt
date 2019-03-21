@@ -1,7 +1,7 @@
-﻿[Unit Reference]
+[Unit Reference]
 ShipClass=Jiangwei
-Description=Frégate lance-missiles classe Jiangwei
-DefensiveWeapons=37mm AA Guns
-OffensiveWeapons=Type 83 anti-SM Rockets
-Aircraft=1 Z-9 Dauphin Helicopter
-History=Le Jiangwei est un modèle beaucoup plus puissant que la précédente frégate Jianghu, avec un lanceur SAM à 6 cellules sur le pont avant, ainsi que des canons améliorés de 37mm contrôlés par radar qui offrent une capacité anti-missile. La batterie de missiles est plus grande, avec six lance-missiles en deux groupes de trois, porteurs du missile anti-navire YJ-83 ou le missile anti-sous-marin CY-1. Les armes anti-SM supplémentaires comprennent des mortiers anti-SM à portée étendue et des lanceurs pour les torpilles anti-SM. Un hangar et une hélistation fournissent à ces navires une capacité d'hélicoptère anti-SM. Avec le destroyer Luhu, ces navires constituent le «haut de gamme» de la flotte de la PLAN.
+Description=frégate lance-missiles de classe Jiangwei
+DefensiveWeapons=Canons AA 37mm
+OffensiveWeapons=Roquettes ASM Type 83
+Aircraft=1 Hélicoptère Z-9 Dauphin
+History=Le Jiangwei est un modèle beaucoup plus performant basé sur le design de la frégate Jianghu, avec un lanceur SAM de 6 cellules sur le pont avant, ainsi que des canons améliorés de 37mm contrôlés par radar offrant une capacité anti-missile. La batterie de missiles est plus grande, avec six lanceurs répartis en deux groupes de trois, équipé du missile antinavire YJ-83 ou du missile anti-sous-marin CY-1. Les armes ASM supplémentaires comprennent des mortiers ASM à longue portée et des lanceurs pour torpilles ASM. Un hangar et un hélipad fournissent à ces navires un hélicoptère de lutte ASM. Avec le destroyer Luhu plus grand, ces navires constituent le «haut de gamme» de la MAPL.

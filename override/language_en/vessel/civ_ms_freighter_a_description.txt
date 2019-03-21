@@ -1,4 +1,4 @@
-﻿[Unit Reference]
+[Unit Reference]
 ShipClass=Marchand
 Description=Grand cargo moderne
 History=Ce sont de grands navires puissants capables de transporter des marchandises diverses et des conteneurs standard de 20 pieds. Une centrale à vapeur de 24.000 SHP donne une vitesse de service de 23 nœuds.

@@ -1,29 +1,29 @@
-﻿[TRAINING_MENU 1]
+[TRAINING_MENU 1]
 [/TRAINING_MENU 1]
 
 [TRAINING_MENU 2]
-<b>Sélectionnez votre vaisseau</b>
-Pour les missions avec plusieurs classes de sous-marins disponibles, vous devrez sélectionner votre classe de sous-marin.
-Classe recommandée: Los Angeles
+<b>Sélectionner le navire</b>
+Pour les missions avec plusieurs classes de sous-marins jouables disponibles, vous devrez sélectionner votre classe de sous-marin.
+Classe recommandée : Los Angeles
 
-<b>Contrôles de la caméra:</b>
-Diriger la caméra: utilisez <KEY:Drag Camera> ou <KEY:Camera Left>, <KEY:Camera Right>, <KEY:Camera Up> et <KEY:Camera Down>.
-Zoom: utilisez <MOUSEWHEEL> ou <KEY:Zoom In> et <KEY:Zoom Out>.
+<b>Contrôles caméra :</b>
+Déplacement Caméra : either use <KEY:Drag Camera> ou <KEY:Camera Left>, <KEY:Camera Right>, <KEY:Camera Up> et <KEY:Camera Down>.
+Zoom : Utiliser <MOUSEWHEEL> ou <KEY:Zoom In> et <KEY:Zoom Out>.
 
-<b>Changer de navire:</b>
-Utilisez les touches <KEY:Rudder Left> et <KEY:Rudder Right> pour voir les autres navires.
+<b>Changer le navire:</b>
+Utiliser les touches <KEY:Rudder Left> et <KEY:Rudder Right> pour voir les autres navires.
 
-<LEFTCLICK> <DICTIONARY:Accept> pour valider votre choix.
+<LEFTCLICK> sur <DICTIONARY:Accept> pour valider votre choix de classe.
 [/TRAINING_MENU 2]
 
 [TRAINING_MENU 3]
-<b>Affectation des navires</b>
+<b>Affectation du navire</b>
 Vous avez été affecté à un sous-marin de la classe choisie.
 
-<LEFTCLICK> <DICTIONARY:Accept>
+<LEFTCLICK> sur <DICTIONARY:Accept>
 [/TRAINING_MENU 3]
 
 [TRAINING_MENU 4]
-<b>Sortie du briefing</b>
-<LEFTCLICK> <DICTIONARY:Battlestations> pour commencer la mission.
+<b>Quitter le briefing</b>
+<LEFTCLICK> sur <DICTIONARY:Battlestations> pour commencer la mission.
 [/TRAINING_MENU 4]

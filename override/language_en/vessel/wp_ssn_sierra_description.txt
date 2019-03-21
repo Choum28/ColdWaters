@@ -1,4 +1,4 @@
-﻿[Unit Reference]
+[Unit Reference]
 ShipClass=Sierra
-Description=SNA classe Sierra
-History=C'est le sous-marin d'attaque soviétique le plus récent et le plus avancé. Ils sont plus rapides et plus profonds que les sous-marins américains et disposent des mêmes capteurs et des mêmes armes que les Victor III dans une coque beaucoup plus silencieuse, bénéficiant de la technologie occidentale achetée ou volée.
+Description=Sous-marin nucléaire d'attaque de classe Sierra
+History=C'est le sous-marin d'attaque soviétique le plus récent et le plus avancé. Ils plogent plus rapidement et plus profond que les sous-marins US, et disposent des mêmes capteurs et armes que les Victor III dans une coque beaucoup plus silencieuse, tirant parti de la technologie occidentale achetée et volée.

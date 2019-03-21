@@ -1,10 +1,10 @@
 Image=campaign/images/pact ssbn 2
 MissionLocation=Dans la région polaire
-Briefing=01 MAY 1984
-Briefing=Des données satellite ont révélé qu'un sous-marin soviétique se dissimulait profondément sous l'eau où il repose, dissimulé par plusieurs groupes de navires de surface et de sous-marins d'attaque. Vous devez pénétrer ces défenses, trouver le sous-marin, et le couler.
+Briefing=01 MAI 1984
+Briefing=Les données satellitaires ont révélé qu'un boomer soviétique se cache derrière son importante escorte, protégé par des navires de guerre et de sous-marins chasseurs-tueur. Vous devez pénétrer le dispositif de défenses, trouver ce boomer et le couler.
 Briefing=
-Briefing=Objectif principal:
-Briefing=Localiser et couler tout sous-marin SSBN (lance-missiles)
+Briefing=Objectif Principal :
+Briefing=Localiser et couler tous les SNLE
 Briefing=
-Briefing=Objectif secondaire:
+Briefing=Objectif Secondaire :
 Briefing=Localiser et couler les navires d'escorte si possible

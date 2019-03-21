@@ -1,4 +1,4 @@
-﻿[Weapon Reference]
+[Weapon Reference]
 WeaponName=USET-80
 WeaponDescriptiveName=Torpille USET-80
-WeaponDescription=Cette torpille à double usage soviétique équipe la dernière technologie et offre des performances similaires à la Mk48. Elle a un système de guidage actif / passif avec une grande portée de 3000 mètres, ce qui en fait une arme très dangereuse.
+WeaponDescription=Cette torpille soviétique à double usage est équipé des dernières technologies et offre des performances similaires à la Mk48. Il dispose d'un système de guidage actif / passif avec une grande portée de 3000 mètres, ce qui en fait une arme dangereuse à combattre.

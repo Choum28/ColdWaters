@@ -1,4 +1,4 @@
 [Unit Reference]
-AircraftName=Ka-25BSh Hormone (original)
-AircraftDescriptiveName=Kamov Ka-25BSh Hormone A (original)
-History=Les hélicoptères navals Ka-25 sont de petits hélicoptères anti-sous-marins (Hormone A) et anti-missiles au-dessus de l'horizon (Hormone B) lancés au milieu des années 1960. Ils portent soit des torpilles à tête chercheuse ou des charges de profondeur, et un sonar plongeant ainsi qu'un assortiment de sonobouys. Ils sont cachés et peuvent fournir des données de ciblage aux navires de surface, ce qui en fait des ennemis très dangereux. Cette version originale des années 1960 a le sonar trempé original 'Elk Tail' et porte l'ancienne torpille AT-1 ou plus récente AT-2. 
+AircraftName=Ka-25BSh Hormone (Ancien)
+AircraftDescriptiveName=Kamov Ka-25BSh Hormone A (Ancien)
+History=Les hélicoptères navals Ka-25 sont des hélicoptères de lutte anti-sous marine (Hormone A) et de guidage de missile au-delà de l'horizon (Hormone B) introduit au milieu des années 1960. Ils transportent des torpilles à tête chercheuse ou des grenades sous-marines, un sonar trempé ainsi qu'un assortiment de bouées sonar. Ils sont discrêt, et peuvent founir aux navires de surface des informations de ciblage, ce qui en fait des menaces très dangereuses. Cette version originale des années 1960 disposent du sonar immmergé 'Elk Tail' et transportent les anciennes torpilles AT-1 ou les plus récentes AT-2.
