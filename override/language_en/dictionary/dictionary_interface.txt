@@ -48,7 +48,6 @@ Hours=Heures
 [OTHER]
 Posthumously=à titre posthume
 NavyPrefixUSS=USS
-NavyPrefixWP=WP
 SUBMARINE=sous-marin
 WARSHIP=navire de guerre
 
@@ -100,7 +99,7 @@ Kilometer=KM
 Solution=SOL
 Percentage=%
 WeaponData=DONN ARM
-RangeToEnable=RTE
+RangeToEnable=DAA
 TimeToRun=DDF
 AmbientNoise=BRUIT AMBIENT
 Decibels=dB
@@ -186,8 +185,8 @@ ReferenceKnot=kn
 ReferenceFeet=pi
 ReferenceCrew=Équipage
 ReferenceDefensive=Armes Défensives
-Reference30mmCIWS=Canons 30mm CIWS
-ReferenceNone=Aucun
+Reference30mmCIWS=Canons anti-missiles
+ReferenceNone=Aucun(e)
 ReferenceOffensive=Armes Offensives
 ReferenceMissiles=Missiles
 ReferenceDecoys=Leurres

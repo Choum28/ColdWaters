@@ -17,7 +17,7 @@ Au début de chaque mission, cet écran vous indique l'état actuel de votre nav
 
 <DICTIONARY:AttemptClosure> (désactivé pour l'entrainement)
 En combat réel, peut être utilisé pour se rapprocher et commencer le combat à environ la portée indiquée <LEFTCLICK> sur la valeur pour la changer.
-Cependant, ce n'est pas toujours un succès et votre distance de départ peut déjà être inférieure à la portée minimale ou vous pouvez être détecté par l'ennemi lors de l'approche.
+Cependant, ce n'est pas toujours efficace, votre distance de départ peut déjà être inférieure à la portée minimale ou vous pouvez être détecté par l'ennemi lors de l'approche.
 Le mieux est de commencer le combat à longue portée pour les attaques de missiles ou plus courte pour les attaques de torpilles.
 
 <DICTIONARY:VesselStatus> affiche le chargement d'armes de votre navire, l'arsenal et le contrôle des avaries. Ici vous pouvez changer votre armement pour la mission, qui sera abordé plus tard dans la mission de formation #4.

@@ -1,0 +1,45 @@
+﻿[MAP NAMES]
+MapName=Atlantique nord 1984 OTAN vs Soviet
+MapName=Atlantique nord 1984 Soviet vs OTAN
+MapName=Atlantique nord 1968 OTAN vs Soviet
+MapName=Atlantique nord 1968 Soviet vs OTAN
+MapName=Mer de Chine Sud 2000 US vs MAPL
+MapName=Mer de Chine Sud 2000 MAPL vs US
+MapName=Mer de Chine Sud 2000 Soviet vs US
+
+[ERRORS & WARNINGS]
+NoGroups=ERREUR : Aucun groupe de navires défini comme actif. Cochez au moins une case dans la colonne Activer groupe de l'onglet Ennemi.
+MinZero=ERREUR : le nombre minimum de navires doit être d'au moins 1. Augmentez le nombre minimal de navires d'au moins un groupe utilisé à 1 dans l'onglet Ennemi.
+NoShips=ERREUR : Les groupes utilisés ne contiennent aucun navire. Ajoutez au moins un type de navire (cliquez sur l'icône Aff/Modif navires) à au moins un groupe actif dans l'onglet Ennemi.
+MaxHigh=ERREUR : le nombre maximum de navires actifs est supérieur à 15. Réduisez le nombre maximal de navires par groupe actif en dessous de 15 au total dans l'onglet Ennemi.
+FileExported=Fichier enregistré :
+FileExists=ERREUR : ce fichier de mission existe déjà
+
+[INTERFACE]
+Back=Retour
+Cancel=Annuler
+Start=Commencer
+Map=Carte
+Vessels=Unités
+UseTerrain=Activer terrain
+Date=Date
+Time=Heure
+PresetEnvironment=Utiliser environnement prédéfini
+Weather=Météo
+SeaState=État mer
+Duct=Canal
+Layer=Couche
+PlayerClasses=Classe S-M Joueur
+Export=Exporter vers fichier texte
+Filename=nom de fichier
+MapCoords=Coordonnées de la carte
+MapHelp= Cliquez et faites glisser pour placer la zone de combat. Assurez-vous qu'il y a suffisamment d'eau au centre de la région.
+CruiseSpeed=Vit. de croisière
+GroupTitles=Activer groupe               Nombre de navires                      Aggressif              Aff/Modif navires
+Helicopters=Hélicoptères
+Aircraft=Avions
+Cancel=Annuler
+Accept=Accepter
+GroupName=Groupe
+To=à
+ShipPreviewName=Cliquez sur le Nom du navire pour l'aperçu
