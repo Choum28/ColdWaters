@@ -1,69 +1,69 @@
 ImageBackground=campaign/images/pact wolfpack 3
-ImagePosition=15,-1070
+ImagePosition=15,-1050
 ImageHeight=256
 Image=help_images/active_sonar.png
-ImagePosition=15,-1647
+ImagePosition=15,-1627
 ImageHeight=256
 Image=help_images/baffles.png
-ImagePosition=15,-2066
+ImagePosition=15,-2050
 ImageHeight=256
 Image=help_images/sonar_listening.png
-ImagePosition=15,-3129
+ImagePosition=15,-3090
 ImageHeight=256
 Image=help_images/sound_propagation.png
-ImagePosition=15,-3826
+ImagePosition=15,-3790
 ImageHeight=256
 Image=help_images/conditions.png
-ImagePosition=15,-4450
+ImagePosition=15,-4415
 ImageHeight=256
 Image=help_images/mast_panel.png
-ImagePosition=15,-4825
+ImagePosition=15,-4790
 ImageHeight=256
 Image=help_images/esm_meter.png
-ImagePosition=15,-5543
+ImagePosition=15,-5513
 ImageHeight=256
 Image=help_images/sensor_status.png
 [/Image]
 <size=24><color=maroon><b>CAPTEURS</b></color></size>
-Les capteurs jouent un rôle clé dans la guerre navale moderne. Ils détectent l'ennemi, déterminent sa position ainsi que leur route, et enfin facilitent les tirs avec les armes. Les capteurs passifs écoutent les signes de l'ennemi sans révéler la présence du navire d'écoute. Les capteurs actifs émettent un signal, puis écoute ceux qui reviennent. Cette émission de signaux peut révéler votre présence, mais les capteurs actifs peuvent rapidement fournir des données plus précises et détaillées sur l'ennemi. Votre sous-marin et les navires ennemis possèdent les capteurs suivants:
+Les capteurs jouent un rôle clé dans la guerre navale moderne. Ils détectent l'ennemi, déterminent sa position, sa route et enfin facilitent la réussite des tirs. Les capteurs passifs écoutent les signes de l'ennemi sans révéler la présence du navire d'écoute. Les capteurs actifs émettent un signal, puis écoute ceux qui reviennent, Cela peut aussi révéler votre présence, mais les capteurs actifs fournissent rapidement des données plus précises et détaillées sur l'ennemi. Votre sous-marin et les navires ennemis possèdent les capteurs suivants:
 
 <b>SONAR PASSIF</b>
-À moins que votre sonar de proue ne soit endommagé, le sonar passif est toujours allumé et à l'écoute des sons émis par les navires ou les armes ennemis. Le sonar passif donne un azimut précis du contact qui peut être utilisé au fil du temps pour définir une solution de tir. Il peut également révéler un profil sonore émis par un contact permettant l'identification du type de navire.
+Sauf si le sonar de proue est endommagé, le sonar passif est toujours allumé et à l'écoute des sons émis par les navires ou armes ennemis. Le sonar passif donne un azimut précis du contact qui peut être utilisé au fil du temps pour définir une solution de tir. Il peut aussi révéler le profil sonore du contact permettant l'identification du bâtiment.
 
 <b>SONAR ACTIF</b>
-Le sonar actif doit être activé avec <KEY:Sonar Mode>. . Une fois activé, le sonar actif continuera à émettre des pings jusqu'à ce qu'il soit désactivé en basculant sur <KEY:Sonar Mode>. Bien que le sonar actif indique votre position et ait une portée significativement plus courte que le sonar passif, il fournit des données plus rapides et précises d'azimut et de distance.
+Le sonar actif est activé avec <KEY:Sonar Mode>. . Une fois actif, le sonar émettra des pings jusqu'à sa désactivation avec <KEY:Sonar Mode>. Bien que le sonar actif indique votre position et ait une portée plus courte que le sonar passif, il fournit plus vite des données précises d'azimut et de distance sur l'ennemi.
 
 <b>SONAR REMORQUÉ</b>
-Ce long câble traîné derrière votre sous-marin contient des dispositifs d'écoute qui améliorent grandement la sensibilité de votre sonar. Il fonctionne le plus efficacement à environ 5 noeuds, à une vitesse plus lente, le câble coule, tandis qu'à des vitesses plus rapides, le bruit rayonné commence à étouffer le signal reçu.
+Ce long câble traîné par votre sous-marin contient des dispositifs d'écoute qui améliorent la sensibilité du sonar. Il agit le plus efficacement à environ 5 noeuds, plus lent le câble coule, plus rapide le bruit rayonné commence à étouffer le signal reçu.
 
 <b>RADAR</b>
-Le radar est un capteur actif qui émet des ondes radio (ou micro-ondes) et reçoit les ondes réfléchies pour analyse. Il peut déterminer rapidement l'azimut, la distance ainsi que le mouvement relatif des objets détectés. En tant que capteur actif, il donne la position de l'unité utilisant le radar. La portée de détection radar est affectée par la pluie et la taille de l'objet détecté.
+Le radar est un capteur actif qui émet des ondes radio (ou micro-ondes) et analyse les ondes réfléchies reçues. Il détermine rapidement l'azimut, la distance et le mouvement relatif des objets détectés. Cepedant il révèle la position de l'unité utilisant le radar. La portée de détection radar est affectée par la pluie et la taille de l'objet détecté.
 
 <b>MSE (MESURES DE SOUTIEN ÉLECTRONIQUE)</b>
-Le MSE est un récepteur radar passif qui détecte les émissions radar provenant d'autres sources. Puisque les émissions sont détectées lors de la frappe du récepteur ESM, il est beaucoup plus sensible que le radar émetteur, qui doit compter sur le déplacement du signal vers et depuis le contact.
+Le MSE est un récepteur radar passif qui détecte les émissions radar. Les émissions sont détectées lorsqu'elle touche le récepteur ESM et est donc beaucoup plus sensible que le radar émetteur, qui doit compter sur le déplacement du signal vers et depuis le contact.
 
 <b>VISUEL</b>
-Le contact visuel avec l'ennemi est habituellement fait avec le périscope ou si votre sous-marin est en surface. À l'aide du périscope, le télémètre laser peut être utilisé pour déterminer précisément la distance et le mouvement relatif de l'ennemi, sans révéler votre position (contrairement à RADAR).
+Le contact visuel avec l'ennemi est fait avec le périscope ou si vous êtes en surface. À l'aide du périscope, le télémètre laser peut déterminer précisément la distance et le mouvement relatif de l'ennemi, sans révéler votre position (contrairement au RADAR).
 
-Notez que radar, MSE et visuel (périscope) nécessitent d'hisser vos mâts au-dessus de l'eau. Les mâts peuvent être détectés par le radar ennemi, révélant votre position; De plus, votre radar diffuse également votre position à l'ennemi !
+Le radar, MSE et périscope nécessitent d'hisser vos mâts au-dessus de l'eau. Les mâts peuvent être détectés par le radar ennemi, révélant votre position; De plus le radar diffuse également votre position à l'ennemi !
 
-Les aéronefs ennemis possèdent des radars, MSE et visuels ainsi que :
-<b>Sonar trempé :</b> un dispositif d'écoute sonar passif ou actif descendu depuis un hélicoptère stationnaire.
-<b>Bouée sonar :</b> Bouées sonar passives ou actives largués par des hélicoptères et des avions.
-<b>MAD:</b> Détecteur d'Anomalie Magnétique utilisant le champ magnétique terrestre pour détecter les sous-marins submergés. Cependant, il a une portée très limitée de 2 500 yards et n'est pas efficace à des profondeurs sous-marines inférieures à 500 pieds.
+Les aéronefs ennemis possèdent radars, MSE et contact visuel ainsi que :
+<b>Sonar trempé :</b> dispositif d'écoute sonar passif ou actif abaissé par un hélicoptère stationnaire.
+<b>Bouée sonar :</b> Bouées sonar passives ou actives largués par hélicoptères ou avions.
+<b>MAD:</b> Détecteur d'Anomalie Magnétique utilisant le bouclier terrestre pour détecter les S-Ms submergés. Il a une portée limitée à 2500 yards et peu efficace sous 500 pi.
 
 <b>DÉTECTION DES CONTACTS</b>
-Tout navire détecté par vos capteurs est appelé un Contact et est préfixé d'une lettre / nom basé sur le type de capteur le détectant initialement;
+Tout navire détecté par vos capteurs est nommé un Contact et est préfixé d'une lettre/nom basé sur le type de capteur l'ayany détecté;
 (S) Sierra - détecté par sonar
 (R) Romeo - détecté par RADAR
 (E) Echo - détecté par MSE
 (V) Victor - détecté par observation visuelle (périscope ou passerelle)
-(M) Maître - mise à niveau si le contact est détecté par plusieurs types de capteurs
+(M) Maître - Reclassement si contact détecté par plus d'un type de capteurs
 
-Une fois identifié, la désignation de contact est remplacée par la classe du navire.
+Une fois identifié, la désignation est remplacée par la classe du navire.
 
 <size=24><color=maroon><b>SONAR</b></color></size>
-Lorsqu'il est immergé, le sonar passif sera principalement utilisé par votre sous-marin pour détecter, identifier et suivre les contacts. Le sonar actif est également extrêmement utile et peut considérablement augmenter le TMA contre un contact, mais a plusieurs limitations.
+Immergé, le sonar passif sera principalement utilisé par votre S-M pour détecter, identifier et suivre les contacts. Le sonar actif est également très utile et pour vite augmenter le TMA contre un contact, mais a plusieurs limitations.
 
 
 
@@ -80,15 +80,15 @@ Lorsqu'il est immergé, le sonar passif sera principalement utilisé par votre s
 
 
 
-Lors de l'utilisation d'un sonar actif, le navire d'écoute (Notre SM) émet un «ping» bruyant et écoute le reflet de ce bruit provenant d'objets proches (SM ennemi A). Le son doit se déplacer vers et depuis l'objet, ce qui rend la portée active du sonar généralement inférieure à celle du sonar passif. De plus, le son atteignant le SM ennemi B est trop loin pour retourner à l'écouteur, Notre SM ne parvient pas à détecter Enemy Sub B, mais révèle sa présence à Enemy Sub B. Puisque le sonar actif repose sur la réflexion du son depuis le contact de sorte qu'un contact de flanc par rapport à l'écouteur reflète beaucoup plus de son que de face.
+Lors de l'utilisation d'un sonar actif, le navire d'écoute (Notre SM) émet un «ping» bruyant et écoute l'écho reflétés par d'objets proches (SM ennemi A). Le son doit se réfléchir depuis l'objet, ce qui rend la portée active du sonar généralement inférieure au sonar passif. Enfin, le son atteignant le SM ennemi B est trop loin pour revenir à la source, Notre SM ne détecte pas SM ennemi B, mais lui révèle notre présence. Le sonar actif repose sur la réflexion du son depuis un contact, ainsi un contact de flanc reflète beaucoup plus de son que de face.
 
-Les sonar actifs des navires ennemis sont affichés sous la forme d'indicateurs directionnels jaunes sur la carte tactique. Les sonar actifs des torpilles ennemies sont affichés sous la forme d'indicateurs directionnels rouges sur la carte tactique.
+Les pings des sonar actifs des batiments ennemis sont affichés sous forme d'indicateurs directionnels jaunes et les pings des sonars actifs des torpilles ennemis en rouge sur la carte tactique.
 
 <b>BRUIT RAYONNÉ</b>
-Au fur et à mesure que le navire se déplace, l'écoulement de l'eau autour de la coque génère un bruit rayonnét. Plus le navire se déplace rapidement, plus le bruit rayonné généré est fort. Ce bruit rend plus difficile l'écoute des signaux avec votre sonar, diminuant ainsi leur sensibilité.
+Lors d'un déplacement, l'écoulement de l'eau autour de la coque d'un bâtiment génère un bruit rayonné. Plus le navire se déplace vite, plus le bruit généré est fort. cela rend plus difficile les écoutes avec le sonar, diminuant sa sensibilité.
 
 <b>BAFFLES</b>
-Le sonar monté sur la coque est protégé par l'arrière afin que le bruit généré par le navire n'interfère pas avec leur sensibilité. De plus, la turbulence des hélices et de la coque perturbe l'écoulement du son derrière le navire. Cela se traduit par une zone aveugle directement à l'arrière, généralement d'environ 60 degrés de large.
+Le sonar monté sur la coque est protégé à l'arrière afin que le bruit généré par le navire ne nuise pas à sa sensibilité. La turbulence des hélices et de la coque perturbe le flux du son derrière le navire. Cela se traduit par une zone aveugle à l'arrière, généralement d'environ 60 degrés de large.
 
 
 
@@ -105,12 +105,12 @@ Le sonar monté sur la coque est protégé par l'arrière afin que le bruit gén
 
 
 
-Un sonar remorquée n'est pas affecté par les baffles arrières comme il est remorqué loin derrière le navire. Cependant, le sonar remorqué a une zone aveugle étroite à l'avant car le bruit du sous-marin masque le son entrant.
+Un sonar remorquée n'est pas affecté par les baffles arrières comme il est loin derrière le navire. Cependant, le sonar remorqué a une zone aveugle étroite à l'avant car le bruit du sous-marin masque le son entrant.
 
-Enfin, tous les sonars sous-marins ont une limitation verticale à la détection de telle sorte qu'ils ne peuvent pas entendre les sources sonores directement au-dessus ou au-dessous d'eux. Dans Cold Waters, ceci est représenté par un arc d'écoute de +/- 45 degrés.
+Les sonars sous-marins ont une limite verticale de détection, ainsi ils n'entendent pas les sons directement au-dessus ou au-dessous d'eux. Dans Cold Waters, cela est représenté par un arc d'écoute de +/- 45°.
 
 <b>ÉCOUTE SONAR</b>
-Lorsque vous utiliserez en immersion le sonar pour détecter les navires ennemis, ils utiliseront également un sonar pour vous détecter !
+Lorsque vous utiliserez en immersion le sonar pour détecter les navires ennemis, ils feront de même pour vous détecter !
 
 
 
@@ -127,29 +127,29 @@ Lorsque vous utiliserez en immersion le sonar pour détecter les navires ennemis
 
 
 
-Le diagramme ci-dessus illustre les capacités d'écoute générales de votre sonar. Les navires de guerre ennemis ont tendance à être bruyants, les rendant facilement détectables à plus longue distance. Les sous-marins sont généralement plus silencieux, bien que les sous-marins nucléaires du fait de leur réacteur en fonctionnement constant sont un peu plus bruyants que leurs homologues diesel-électriques. Les sous-marins diesel-électriques seront généralement les contacts les plus silencieux et difficiles à détecter. Les hélicoptères ennemis (et les avions) sont pratiquement impossibles à détecter par sonar. Le seul avertissement de leur présence sera les pings actifs de leur sonar trempé ou des bouées sonar actives larguées à proximité.
+Ce diagramme illustre les capacités d'écoute du sonar. Les navires de guerre ennemis ont tendance à être bruyants, donc facilement détectables à longue distance. Les SM sont plus silencieux, bien que les SM nucléaires via leur réacteur en constant fonctionnement sont un peu plus bruyants que les diesel-électriques. Les SM diesel-électriques sont en général les contacts les plus silencieux et difficiles à détecter. Les hélicoptères et avions ennemis sont pratiquement indétectables au sonar. Le seul avertissement de leur présence sera le ping actif des sonar trempé ou des bouées sonar actives larguées à proximité.
 
 
 <size=24><color=maroon><b>ACOUSTIQUE SOUS-MARINE</b></color></size>
-Le sonar utilise les ondes sonores voyageant dans l'eau et les facteurs environnementaux ont un impact sur sa sensibilité, la diminuant ou même l'améliorant.
+Le sonar utilise les ondes sonores voyagent dans l'eau et les facteurs environnementaux ont un impact sur sa sensibilité, positif ou négatif.
 
 <b>BRUIT AMBIANT</b>
-C'est le bruit de fond de l'océan lui-même, plus il est fort, plus il devient difficile d'entendre d'autres sources sonores avec le sonar. L'augmentation de l'état de la mer (le vent et la taille des vagues) ainsi que la pluie, la neige et la glace de mer augmentent le bruit ambiant tandis que la banquise réduit considérablement le bruit ambiant.
+Le bruit de fond de l'océan, plus il est fort, plus il est difficile d'entendre d'autres sources sonores au sonar. Le changement de l'état de la mer (vent, taille des vagues) ainsi que la pluie, la neige et la glace de mer augmentent ce bruit tandis que la banquise le réduit considérablement.
 
 <b>PROFONDEUR D'EAU</b>
-Les eaux très peu profondes peuvent entraîner la dispersion des ondes sonores lorsqu'elles touchent le fond et ont également une activité biologique plus importante, ce qui entraîne une diminution de la sensibilité du sonar. La profondeur de l'eau est également un facteur majeur impliqué dans l'augmentation de la propagation du son dans l'eau par plusieurs phénomènes indiqués ci-dessous.
+Une eau très peu profondes peut entraîner la dispersion des ondes sonores lorsqu'elles touchent le fond et a une activité biologique plus importante, entraînant une baisse de sensibilité du sonar. La profondeur joue également un rôle majeur dans l'augmentation de la propagation du son dans l'eau via plusieurs phénomènes décrit ci-dessous.
 
 <b>LE MOUVEMENT DU SON DANS L'EAU</b>
-La propagation du son dans l'eau se plie, en raison des changements de température et de pression. Lorsque l'eau se refroidit, elle fait pencher les ondes sonores vers le bas, tandis que l'eau chaude les courbent vers le haut. De plus, l'augmentation de la pression fait également fléchir les ondes sonores vers le haut. Par conséquent, les ondes sonores qui se déplacent profondément dans l'océan se courberont d'abord vers le bas en raison du gradient de température près de la surface, puis se replieront vers le haut en raison de l'augmentation du gradient de pression. Cela se traduit par le retour des ondes sonores assez profonde à la surface.
+La propagation du son dans l'eau se courbe, avec la T° et la pression. Une eau froide courbera les ondes vers le bas, tandis qu'une eau plus chaude les courbera vers le haut. l'augmentation de pression fléchie les ondes vers le haut. Ainsi, les ondes sonores se déplacant profondément dans l'océan se courberont vers le bas en raison du gradient de T° près de la surface, puis vers le haut en raison de la hausse du gradient de pression. Ainsi les ondes sonores se déplacent en un arc profond vers la surface.
 
 <b>ZONE DE CONVERGENCE</b>
-Comme mentionné ci-dessus, le son est courbé vers le haut par la pression de l'eau de sorte que si l'eau est suffisamment profonde (~ 10 000 ft dans la mer de Norvège), elle finira par revenir à la surface. La zone dans laquelle ces ondes sonores retournent à la surface s'appelle une zone de convergence et peut être éloignée de 40 000 à 50 000 yards. Un navire écoutant avec un sonar dans cette zone pourrait détecter l'émetteur, même si la portée est bien au-delà de la distance que le son pourrait parcourir le long de la surface.
+Ainsi le son est courbé vers le haut par la pression de l'eau, si l'océan est assez profond (~ 10 000 pi en mer de Norvège), le son retournera vers la surface. La zone dans laquelle ces ondes sonores reviennent à la surface est une zone de convergence et peut être éloignée de 40000 à 50000 yards. Un navire écoutant au sonar cette zone pourrait détecter l'émetteur, même si la portée est bien plus grande que la distance parcouru par le son le long de la surface.
 
 <b>REBOND INFÉRIEUR</b>
-Dans les eaux modérément profondes (~ 2000 ft), un phénomène appelé rebond inférieur peut se produire. Les ondes sonores frappent le fond de l'océan et peuvent être réfléchies jusqu'à la surface, augmentant leur propagation. Le rebond inférieur nécessite un fond océanique relativement plat et uniforme pour refléter les ondes sonores.
+Dans les eaux modérément profondes (~ 2000 pi), le phénomène de rebond inférieur peut se produire. Les ondes sonores frappent le fond et sont réfléchies jusqu'à la surface, augmentant leur propagation. Le rebond inférieur nécessite un fond océanique assez plat et uniforme.
 
 <b>COUCHES ET CHENALS</b>
-Comme mentionné précédemment, l'eau froide plie les ondes sonores vers le bas tout en l'eau tiède et l'augmentation de la pression de l'eau les plie vers le haut. En général, l'eau est la plus chaude près de la surface, se refroidissant progressivement avec la profondeur. Environ 100-300 pieds de profondeur, il y a une chute soudaine de la température de l'eau, appelée thermocline ou couche thermique. Passé la couche thermique, la température de l'eau diminue graduellement à environ 4 degrés Celsius à 3000 pieds et moins.
+L'eau froide courbe les ondes sonores vers le bas, l'eau tiède et la hausse de pression vers le haut. En général, l'eau de surface est plus chaude, et refroidit progressivement avec la profondeur. A environ 100-300 pieds de profondeur, il y a une chute soudaine de la T° de l'eau : la thermocline ou zone de transition thermique. Passé la thermocline, la t° de l'eau diminue jusqu'à environ 4 degrés Celsius à 3000 pieds ou moins.
 
 
 
@@ -166,19 +166,19 @@ Comme mentionné précédemment, l'eau froide plie les ondes sonores vers le bas
 
 
 
-<b>COUCHE THERMIQUE</b>
-Comme mentionné ci-dessus, la chute soudaine de la température de l'eau entraîne une couche thermique. Une mer forte mélange l'eau près de la surface, ce qui peut affaiblir la résistance de la couche thermique. Dans les régions où l'eau de surface est trop mélangée, l'eau est trop peu profonde ou la température est trop constante, une couche thermique ne se formera pas du tout.
+<b>ZONE DE TRANSITION THERMIQUE</b>
+La chute soudaine de la t° de l'eau entraîne une thermocline. Une mer forte mélange l'eau de surface, ce qui peut affaiblir la force de la thermocline. Dans les régions où l'eau en surface est trop mélangé, très peu profonde ou la t° est trop uniforme, la thermocline ne se formera pas.
 
 <b>CHENAL DE SURFACE</b>
-Au-dessus de la couche thermique, les ondes sonores ont tendance à se plier vers le haut. En frappant la surface de l'océan, certains sont réfléchis vers le bas où ils se replient progressivement vers le haut. Cette réflexion continue des ondes sonores entre la surface de l'océan et la couche thermique est appelée un chenal de surface et peut considérablement augmenter la propagation du son. Les mers fortes ont tendance à diminuer la force d'un chenal de surface en raison de la dispersion du son par la surface océanique perturbée.
+Au-dessus de la thermocline, les ondes sonores ont tendance à se courber vers le haut. En frappant la surface, certaines sont réfléchis vers le bas et inversement. Cette réflexion continue des ondes entre la surface de l'océan et la thermocline est un chenal de surface et peut considérablement augmenter la propagation du son. Les mers fortes ont tendance à diminuer la force du chenal de surface en raison de la dispersion du son par la surface océanique perturbée.
 
 <b>ZONE D'OMBRE</b>
-Directement au-dessous de la couche thermique, une région connue sous le nom de zone d'ombre peut se former. Les ondes sonores sont soit piégées dans le chenal de surface, soit pénètrent dans la couche thermique uniquement pour être pliées vers le bas lorsque l'eau se refroidit. La flexion des ondes sonores hors de cette zone entraîne une zone d'ombre, une zone de propagation du son considérablement réduite. Un sous-marin dans la zone d'ombre aura du mal à détecter les vaisseaux à l'extérieur de la zone et vice versa.
+Juste sous la thermocline, une zone d'ombre peut se former. Les ondes sonores sont soit piégées dans le chenal de surface, soit pénètre dans la thermocline uniquement pour être courbé vers le bas lorsque l'eau se refroidit. La flexion des ondes sonores hors de cette zone entraîne une zone d'ombre, une zone de propagation du son considérablement réduite. Un sous-marin dans la zone d'ombre aura du mal à détecter les bâtiments extérieur à la zone et vice versa.
 
-Notez que l'efficacité d'une zone d'ombre dépend de la distance entre les navires. Au fur et à mesure qu'ils se rapprochent, les ondes sonores se déplacent plus fortement entre elles, finissant par pénétrer dans la couche thermique lorsque le sous-marin quitte la zone d'ombre.
+L'efficacité d'une zone d'ombre dépend de la distance entre les bâtiments. Plus ils sont proches, plus les ondes sonores se déplacent rapidement entre eux, finissant par pénétrer la thermocline lorsque le SM quitte la zone d'ombre.
 
 <size=24><color=maroon><b>CONDITIONS</b></color></size>
-Avant le combat, les conditions océaniques locales et la présence d'une couche et / ou d'un chenal sont présentées dans le briefing. Une fois en combat, utilisez <KEY: Conditions> ou cliquez sur l'onglet Conditions pour ouvrir le panneau Conditions.
+Avant le combat, les conditions océaniques locales et la présence d'une couche et/ou d'un chenal sont présentées dans le briefing. Une fois en combat, utilisez <KEY: Conditions> ou cliquez sur l'onglet Conditions pour ouvrir le panneau Conditions.
 
 
 
@@ -195,18 +195,18 @@ Avant le combat, les conditions océaniques locales et la présence d'une couche
 
 
 
-L'écran Conditions affiche le niveau actuel de bruit ambiant de l'océan, la profondeur et la force d'une couche (s'il en existe une), la force d'un chenal de surface (s'il en existe un) ainsi que la profondeur du fond océanique. De plus, la profondeur de votre sous-marin est tracée (au dessus de 1000 pi) et si la solution de tir de votre contact actuel est suffisamment élevée, la profondeur de ce contact est également affichée.
+L'écran Conditions liste le niveau de bruit de l'océan, la profondeur et la force d'une couche (si existante), la force du chenal de surface (si existant) ainsi que la profondeur du fond océanique. La profondeur de votre SM est affichée (au dessus de 1000 pi) et si la solution de tir de votre contact actuel est assez haute, celle du contact est aussi affichée.
 
-La profondeur de la torpille filoguidée actuellement sélectionnée sera également affichée sur le panneau conditions.
+La profondeur de la torpille filoguidée sélectionnée sera aussi affichée sur le panneau conditions.
 
-La capacité d'une couche à masquer le son ou d'un chenal à propager le son dépend de sa force. Les couches et les chenals plus forts ont un effet beaucoup plus importante sur la propagation du son que les faibles.
+La capacité d'une couche à masquer le son ou d'un chenal à le propager dépend de sa force. Les couches et chenals plus forts ont un effet beaucoup plus importante sur la propagation du sons.
 
 
 <size=24><color=maroon><b>PÉRISCOPE & MÂTS</b></color></size>
-Les autres capteurs de votre sous-marin, périscope, MSE et radar sont montés sur des mâts qui doivent être hissés au-dessus de la surface pour fonctionner. Les mâts nécessitent généralement moins de 50 pi de profondeur pour être hissés et utilisés. Le journal des messages vous informera si votre sous-marin est trop profond pour hisser et utiliser des mâts.
+Les autres capteurs de votre SM, périscope, MSE et radar sont montés sur des mâts qui doivent être hissés au-dessus de la surface pour fonctionner. Les mâts peuvent être hissés et utilisés à moins de 50 pi de profondeur. Le journal des messages vous informera si votre sous-marin est trop profond pour les hisser.
 
-Les mâts sont relativement fragiles de sorte que le flux de l'eau à des vitesses rapides, ou la pression de l'eau à partir d'une profondeur excessive peuvent les endommager. Une course immergée à plus de 10 nœuds avec un mât hissé endommagera et éventuellement détruira ce mât.
-Pour accéder à vos mâts, ouvrez le panneau des mâts en cliquant sur l'onglet à gauche. Ce panneau comporte également des boutons pour le sonar actif et le lancement de leurres acoustiques.
+Les mâts sont fragiles, un flux d'eau à des vitesses rapides, ou la pression sous une profondeur excessive peuvent les endommager. Une course immergée à plus de 10 nœuds avec un mât hissé endommagera ou pourra détruire ce mât.
+Pour accéder aux mâts, ouvrez le panneau des mâts en cliquant sur l'onglet à gauche. Ce panneau comporte également les boutons du sonar actif et des leurres acoustiques.
 
 
 
@@ -242,16 +242,16 @@ Utilisez <KEY:Periscope> pour hisser votre périscope lorsque votre sous-marin e
 
 
 
-La vision de nuit peut être activée / désactivée avec <KEY:Night Vision>. Placer une cible dans le réticule et utiliser <KEY:Mark Target> utilisera la télémétrie laser pour déterminer avec précision la distance, fournissant une amélioration massive de la cible et identifiant automatiquement cette cible. C'est ce qu'on appelle "marquer" un contact. La télémétrie laser peut également être utilisée pour cartographier la glace à proximité qui sera affichée sur votre carte tactique. Vous pouvez également utiliser les boutons sous le lecteur MSE pour marquer ou utiliser la LLTV.
+La vision de nuit peut être activée ou non avec <KEY:Night Vision>. Placer une cible dans le réticule et presser <KEY:Mark Target> lance la télémétrie laser pour déterminer avec précision la distance, ainsi qu'une amélioration massive de la solution de tir et la classification auto de la cible, aussi appelé "marquer" un contact. La télémétrie laser peut aussi cartographier la glace prôche qui sera affichée sur votre carte tactique. Vous pouvez également utiliser les boutons sous le lecteur MSE pour marquer ou utiliser la LLTV.
 
-Le mât de périscope contient également un récepteur MSE qui détecte la force (mais pas la direction) des transmissions radar ennemies. Le but de ce capteur est de vous avertir des signaux radar ennemis qui pourraient détecter votre mât de périscope hissé. Si vous voyez de fortes lectures ESM lors de l'utilisation du périscope, il vaut mieux l'affaler le plus tôt possible pour éviter la détection. Utilisez <KEY: Periscope> pour abaisser votre périscope. <KEY:Periscope> Le mât de périscope contient également un récepteur MSE qui détecte la force (mais pas la direction) des transmissions radar ennemies. Le but de ce capteur est de vous avertir des signaux radar ennemis qui pourraient détecter votre mât de périscope hissé. Si vous voyez de fortes lectures ESM lors de l'utilisation du périscope, il vaut mieux l'affaler le plus tôt possible pour éviter la détection. Utilisez <KEY: Periscope> pour affaler votre périscope.
+Le périscope contient un récepteur MSE qui détecte la force (pas la direction) des transmissions radar ennemies. Le but est de vous avertir des signaux radar ennemis qui pourraient détecter votre périscope hissé. Si vous voyez de fortes lectures MSE lors de l'utilisation du périscope, affaler le vite pour éviter la détection. Utilisez <KEY: Periscope> pour l'abaisser.
 
 <b>MÂT MSE</b>
 Utilisez <KEY:ESM Mast> pour hisser votre mât MSE. Ce capteur passif détecte les signaux radar, fournissant une mesure à la fois de leur force et de leur point d'origine (représenté par des lignes violettes sur la carte). La détection d'un contact par MSE fournit un petit coup de pouce à la solution de tir. Utilisez <KEY:ESM Mast> pour affaler votre mât MSE.
 
 <b>MÂT RADAR</b>
 Utilisez <KEY:RADAR Mast> pour hisser le mât radar.
-Le radar utilise des transmissions radio pour détecter avec précision et en continu des contacts fournissant un boost massif à la solution de tir. Cependant, vos signaux radar sortants parcourent de longues distances et sont facilement détectés par les MSE ennemis. Utilisez <KEY:RADAR Mast> pour affaler votre mât radar.
+Le radar utilise des transmissions radio pour détecter avec précision et en continu les contacts à portée fournissant un boost à la solution de tir. Cependant, vos signaux radar sortants parcourent de longues distances et sont facilement détectés par les MSE ennemis. Utilisez <KEY:RADAR Mast> pour affaler votre mât radar.
 
 
 <size=24><color=maroon><b>ICONES CAPTEURS</b></color></size>
@@ -273,12 +273,12 @@ Lorsque vous utilisez les différents capteurs de votre sous-marin, des icônes 
 
 
 <b>DESCRIPTIONS DES ICÔNES CAPTEURS</b>
-<b>Sonar actif :</b> Votre sous-marin utilise actuellement le sonar actif.
+<b>Sonar actif :</b> Votre SM utilise actuellement le sonar actif.
 
-<b>Radar Mast:</b> Le mât radar de votre sous-marin est actuellement hissé.
+<b>Radar Mast:</b> Le mât radar de votre SM est actuellement hissé.
 
-<b>ESM Mast:</b> Le mât MSE de votre sous-marin est actuellement hissé.
+<b>ESM Mast:</b> Le mât MSE de votre SM est actuellement hissé.
 
-<b>Périscope:</b> Le périscope de votre sous-marin est actuellement hissé.
+<b>Périscope:</b> Le périscope de votre SM est actuellement hissé.
 
-Rappelez-vous que l'utilisation d'un sonar actif génère des pings sonores puissants et que l'élévation de votre antenne radar transmet des transmissions radio, qui peuvent rapidement révéler votre position. De plus, les mâts qui sont élevés autour de la surface de l'eau peuvent être détectés par les radars ennemis.
+Nôte : Le sonar actif génère de bruyant pings sonores, déployer l'antenne radar émet des transmissions radio, qui peuvent rapidement révéler votre position. De plus, les mâts déployé au dessus de la surface peuvent être détectés par les radars ennemis.
