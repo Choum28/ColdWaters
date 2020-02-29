@@ -40,7 +40,7 @@ Ce long câble traîné par votre sous-marin contient des dispositifs d'écoute 
 Le radar est un capteur actif qui émet des ondes radio (ou micro-ondes) et analyse les ondes réfléchies reçues. Il détermine rapidement l'azimut, la distance et le mouvement relatif des objets détectés. Cepedant il révèle la position de l'unité utilisant le radar. La portée de détection radar est affectée par la pluie et la taille de l'objet détecté.
 
 <b>MSE (MESURES DE SOUTIEN ÉLECTRONIQUE)</b>
-Le MSE est un récepteur radar passif qui détecte les émissions radar. Les émissions sont détectées lorsqu'elle touche le récepteur ESM et est donc beaucoup plus sensible que le radar émetteur, qui doit compter sur le déplacement du signal vers et depuis le contact.
+Le MSE est un récepteur radar passif qui détecte les émissions radar. Les émissions sont détectées lorsqu'elle touche le récepteur MSE et est donc beaucoup plus sensible que le radar émetteur, qui doit compter sur le déplacement du signal vers et depuis le contact.
 
 <b>VISUEL</b>
 Le contact visuel avec l'ennemi est fait avec le périscope ou si vous êtes en surface. À l'aide du périscope, le télémètre laser peut déterminer précisément la distance et le mouvement relatif de l'ennemi, sans révéler votre position (contrairement au RADAR).
@@ -50,7 +50,7 @@ Le radar, MSE et périscope nécessitent d'hisser vos mâts au-dessus de l'eau. 
 Les aéronefs ennemis possèdent radars, MSE et contact visuel ainsi que :
 <b>Sonar trempé :</b> dispositif d'écoute sonar passif ou actif abaissé par un hélicoptère stationnaire.
 <b>Bouée sonar :</b> Bouées sonar passives ou actives largués par hélicoptères ou avions.
-<b>MAD:</b> Détecteur d'Anomalie Magnétique utilisant le bouclier terrestre pour détecter les S-Ms submergés. Il a une portée limitée à 2500 yards et peu efficace sous 500 pi.
+<b>MAD:</b> Détecteur d'Anomalie Magnétique utilisant le bouclier terrestre pour détecter les sous-marins submergés. Il a une portée limitée à 2500 yards et peu efficace sous 500 pi.
 
 <b>DÉTECTION DES CONTACTS</b>
 Tout navire détecté par vos capteurs est nommé un Contact et est préfixé d'une lettre/nom basé sur le type de capteur l'ayany détecté;
@@ -63,7 +63,7 @@ Tout navire détecté par vos capteurs est nommé un Contact et est préfixé d'
 Une fois identifié, la désignation est remplacée par la classe du navire.
 
 <size=24><color=maroon><b>SONAR</b></color></size>
-Immergé, le sonar passif sera principalement utilisé par votre S-M pour détecter, identifier et suivre les contacts. Le sonar actif est également très utile et pour vite augmenter le TMA contre un contact, mais a plusieurs limitations.
+Immergé, le sonar passif sera principalement utilisé par votre sous-marin pour détecter, identifier et suivre les contacts. Le sonar actif est également très utile et pour vite augmenter le TMA contre un contact, mais a plusieurs limitations.
 
 
 
@@ -80,7 +80,7 @@ Immergé, le sonar passif sera principalement utilisé par votre S-M pour détec
 
 
 
-Lors de l'utilisation d'un sonar actif, le navire d'écoute (Notre SM) émet un «ping» bruyant et écoute l'écho reflétés par d'objets proches (SM ennemi A). Le son doit se réfléchir depuis l'objet, ce qui rend la portée active du sonar généralement inférieure au sonar passif. Enfin, le son atteignant le SM ennemi B est trop loin pour revenir à la source, Notre SM ne détecte pas SM ennemi B, mais lui révèle notre présence. Le sonar actif repose sur la réflexion du son depuis un contact, ainsi un contact de flanc reflète beaucoup plus de son que de face.
+Lors de l'utilisation d'un sonar actif, le navire d'écoute (Notre sous-marin) émet un «ping» bruyant et écoute l'écho reflétés des objets proches (SM ennemi A). Le son doit se réfléchir depuis l'objet, ce qui rend la portée active du sonar généralement inférieure au sonar passif. Enfin, le son atteignant le SM ennemi B est trop loin pour revenir à la source, Notre SM ne détecte pas SM ennemi B, mais lui révèle notre présence. Le sonar actif repose sur la réflexion du son depuis un contact, ainsi un contact de flanc reflète beaucoup plus de son que de face.
 
 Les pings des sonar actifs des batiments ennemis sont affichés sous forme d'indicateurs directionnels jaunes et les pings des sonars actifs des torpilles ennemis en rouge sur la carte tactique.
 
@@ -195,7 +195,7 @@ Avant le combat, les conditions océaniques locales et la présence d'une couche
 
 
 
-L'écran Conditions liste le niveau de bruit de l'océan, la profondeur et la force d'une couche (si existante), la force du chenal de surface (si existant) ainsi que la profondeur du fond océanique. La profondeur de votre SM est affichée (au dessus de 1000 pi) et si la solution de tir de votre contact actuel est assez haute, celle du contact est aussi affichée.
+L'écran Conditions liste le niveau de bruit de l'océan, la profondeur et la force d'une couche (si existante), la force du chenal de surface (si existant) ainsi que la profondeur du fond océanique. La profondeur de votre sous-marin est affichée (au dessus de 1000 pi) et si la solution de tir de votre contact actuel est assez haute, celle du contact est aussi affichée.
 
 La profondeur de la torpille filoguidée sélectionnée sera aussi affichée sur le panneau conditions.
 
@@ -203,7 +203,7 @@ La capacité d'une couche à masquer le son ou d'un chenal à le propager dépen
 
 
 <size=24><color=maroon><b>PÉRISCOPE & MÂTS</b></color></size>
-Les autres capteurs de votre SM, périscope, MSE et radar sont montés sur des mâts qui doivent être hissés au-dessus de la surface pour fonctionner. Les mâts peuvent être hissés et utilisés à moins de 50 pi de profondeur. Le journal des messages vous informera si votre sous-marin est trop profond pour les hisser.
+Les autres capteurs de votre sous-marin, périscope, MSE et radar sont montés sur des mâts qui doivent être hissés au-dessus de la surface pour fonctionner. Les mâts peuvent être hissés et utilisés à moins de 50 pi de profondeur. Le journal des messages vous informera si votre sous-marin est trop profond pour les hisser.
 
 Les mâts sont fragiles, un flux d'eau à des vitesses rapides, ou la pression sous une profondeur excessive peuvent les endommager. Une course immergée à plus de 10 nœuds avec un mât hissé endommagera ou pourra détruire ce mât.
 Pour accéder aux mâts, ouvrez le panneau des mâts en cliquant sur l'onglet à gauche. Ce panneau comporte également les boutons du sonar actif et des leurres acoustiques.
@@ -273,12 +273,12 @@ Lorsque vous utilisez les différents capteurs de votre sous-marin, des icônes 
 
 
 <b>DESCRIPTIONS DES ICÔNES CAPTEURS</b>
-<b>Sonar actif :</b> Votre SM utilise actuellement le sonar actif.
+<b>Sonar actif :</b> Votre sous-marin utilise actuellement le sonar actif.
 
-<b>Radar Mast:</b> Le mât radar de votre SM est actuellement hissé.
+<b>Radar Mast:</b> Le mât radar de votre sous-marin est actuellement hissé.
 
-<b>ESM Mast:</b> Le mât MSE de votre SM est actuellement hissé.
+<b>ESM Mast:</b> Le mât MSE de votre sous-marin est actuellement hissé.
 
-<b>Périscope:</b> Le périscope de votre SM est actuellement hissé.
+<b>Périscope:</b> Le périscope de votre sous-marin est actuellement hissé.
 
 Nôte : Le sonar actif génère de bruyant pings sonores, déployer l'antenne radar émet des transmissions radio, qui peuvent rapidement révéler votre position. De plus, les mâts déployé au dessus de la surface peuvent être détectés par les radars ennemis.
