@@ -1,14 +1,14 @@
-Attendez des ordres complémentaires sur cette liaison.
+Attendez des ordres complémentaires sur cette liaison descendante.
 Attendez des ordres complémentaires.
-Attendez des ordres supplémentaires sur cette liaison.
+Attendez des ordres supplémentaires sur cette liaison descendante.
 Attendez des ordres supplémentaires.
 Attendez de nouveaux ordres.
-Des ordres supplémentaires seront transmis sur cette liaison.
-De nouveaux ordres à venir rapidement sur cette liaison.
-De nouveaux ordres seront émis sous peu sur cette liaison. 
-De nouveraux ordres seront envoyé bientôt sur cette liaison.
-De nouveaux ordres seront transmis bientôt sur cette liaison.
+Des ordres supplémentaires seront transmis sur cette liaison descendante.
+De nouveaux ordres à venir rapidement sur cette liaison descendante.
+De nouveaux ordres seront émis sous peu sur cette liaison descendante. 
+De nouveraux ordres seront envoyé bientôt sur cette liaison descendante.
+De nouveaux ordres seront transmis bientôt sur cette liaison descendante.
 Attendez les ordres complémentaires.
 Attendez les ordres supplémentaires.
-Attendez les nouveaux ordres sur cette liaison.
+Attendez les nouveaux ordres sur cette liaison descendante.
 Attendez les nouveaux ordres.
