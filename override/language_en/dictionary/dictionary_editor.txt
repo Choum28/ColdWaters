@@ -1,4 +1,4 @@
-﻿[MAP NAMES]
+[MAP NAMES]
 MapName=Atlantique nord 1984 OTAN vs Soviet
 MapName=Atlantique nord 1984 Soviet vs OTAN
 MapName=Atlantique nord 1968 OTAN vs Soviet
