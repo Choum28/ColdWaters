@@ -18,7 +18,7 @@ Save=Sauver
 Delete=Effacer
 No=NON
 Yes=OUI
-Labels=Couches
+Labels=Textes
 Menu=Menu
 Hours=Heures
 
@@ -260,8 +260,8 @@ ZeroStrength=Aucune
 VeryWeak=très faible
 Weak=faible
 Moderate=Modéré
-Strong=Forte
-VeryStrong=Très forte
+Strong=Fort
+VeryStrong=Très fort
 
 [ERROR]
 FatalError=ERREUR FATALE :
