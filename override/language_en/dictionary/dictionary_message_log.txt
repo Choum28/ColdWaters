@@ -80,7 +80,7 @@ SubsystemDamaged=Central, <SUBSYSTEM> endommagé, temps avant réparation <TIMET
 SubsystemDestroyed=Central, <SUBSYSTEM> hors-ligne, nécessite une réparation au port
 SubsystemRepaired=Central, <SUBSYSTEM> réparé
 
-FloodingInCompartment=Inondation dans le <COMPARTMENT>!
+FloodingInCompartment=Inondation dans le <COMPARTMENT> !
 DCPartyToCompartment=Équipe de sécurité, demandée au <COMPARTMENT>!
 
 [WATCH OFFICER]

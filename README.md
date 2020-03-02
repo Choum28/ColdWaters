@@ -1,7 +1,7 @@
 # ColdWaters France
-Ceci est une refonte quasi totale et de la traduction Française de cold water.
-Je suis parti du dépot pclaurent/ColdWaters car j'ai réutilisé pour le moment sans modifications la partie traductions des campagnes.
+Ceci est une nouvelle traduction Française de cold waters.
+La partie mission, interface, et 80% de l'aide est terminée.
 
-Certaines sections du manuel ingames ne sont pas encore traduite, ainsi que l'éditeur de missions.
-Les campagnes n'ont pas été revues (version d'origine du dépot pclaurent/ColdWaters )
+La partie campagne est en cours (avec pour base le travail le dépôt pclaurent/ColdWaters).
+Cependant cela semble être une traduction "automatique" donc elles doivent être revues manuellement.
 

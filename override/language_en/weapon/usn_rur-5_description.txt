@@ -1,4 +1,4 @@
 [Weapon Reference]
 WeaponName=RUR-5
-WeaponDescriptiveName=Roquette ASMRUR-5 ASROC
+WeaponDescriptiveName=Roquette ASM RUR-5 ASROC
 WeaponDescription=Roquette ASM à distance de sécurité, lancée par un navire de surface, vole sur une trajectoire balistique non guidée puis largue une torpille légère Mk-46 à tête chercheuse .

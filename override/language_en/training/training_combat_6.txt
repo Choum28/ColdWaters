@@ -23,7 +23,7 @@ Lorsque vous atteignez environ 65 pieds de profondeur, utiliser <KEY:Level Subma
 
 Votre profondeur finale devrait être de 40-50 pieds. Sinon, utiliser <KEY:Ballast Up> et <KEY:Ballast Down>  car vous ne pouvez pas utiliser les mâts si vous êtes trop profond.
 
-Lors de votre remontée, votre sous-marin a traversé la couche dans le chenal de surface permettant la détection de contacts supplémentaires.
+Lors de votre remontée, votre sous-marin a traversé la couche du chenal de surface permettant la détection de contacts supplémentaires.
 [/TRAINING 2]
 
 [TRAINING 3]

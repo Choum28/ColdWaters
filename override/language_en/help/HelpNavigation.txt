@@ -87,7 +87,7 @@ En cas de dommage à la propulsion de votre sous-marin, la vitesse est limitée 
 
 <size=24><color=maroon><b>PILOTAGE</b></color></size>
 Utiliser <KEY:Rudder Left> et <KEY:Rudder Right> diriger votre navire.
-La barre est réglée par incréments de 5 degrés jusqu'à un minimum de -30 degrés (gauche) et de +30 degrés (droite).
+La barre est réglée par incréments de 5 degrés jusqu'à un minimum de -30 degrés (à gauche) et de +30 degrés (à droite).
 Le réglage actuel du gouvernail est indiqué dans le panneau inférieur gauche.
 
 Vous pouvez également tracer un cap désiré sur la carte tactique en utilisant la touche <KEY:Set Course> ou en appuyant sur le bouton de tracé du tracé sur le panneau du gouvernail.

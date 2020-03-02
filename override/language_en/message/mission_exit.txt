@@ -1,6 +1,6 @@
 NoContact=Captaine,\nRapports XO :\nAucun contact, nous sommes prêt à quitter la zone.\n<LEAVESTATUS>\nVos ordres Capitaine ?
 Contact=Captaine,\nRapports XO :\nIl y a de l'activité à proximité, nous devons nous éloigner pour quitter la zone\n<LEAVESTATUS>\nVos ordres Capitaine ?
-Flooding=Captaine,\nRapports XO :\nNous avons des innodations qui doivent être contrôlées afin de quitter la zone.\n<LEAVESTATUS>Vos ordres Capitaine ?
+Flooding=Captaine,\nRapports XO :\nNous avons des inondations qui doivent être contrôlées afin de quitter la zone.\n<LEAVESTATUS>Vos ordres Capitaine ?
 Sinking=Captaine,\nRapports XO :\nBrèche dans la coque épaisse ! Nous avons des dégâts critiques et des inondations hors de contrôle, le batiment est perdu !\n<LEAVESTATUS>Vos ordres Capitaine ?
 Doomed=Captaine,\nRapports XO :\nBrèche dans la coque épaisse ! Nous avons des dégâts critiques, des inondations hors de contrôle et nous sommes au-delà de la profondeur d'évacuation. Cela a été un honneur de servir avec vous Commandant.\n<LEAVESTATUS>Vos ordres Capitaine ?
 OutOfBounds=Captaine,\nRapports XO :\n\nNous avons quitté la zone de combat.\n<LEAVESTATUS>Vos ordres Capitaine ?
