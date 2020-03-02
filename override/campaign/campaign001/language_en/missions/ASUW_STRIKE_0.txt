@@ -1,21 +1,21 @@
-﻿[ORDERS]
-1. (S) SITUATION TACTIQUE:
-DES PHOTOS SATELLITES MONTRENT QU'UNE UNITÉ DE NAVIRES LOURDS ENNEMIS SE PRÉPARE À FAIRE ROUTE À PARTIR DE <STARTLOCATION>. L'ESPIONNAGE ESTIME QU'ELLE FERA UNE PATROUILLE À PROXIMITÉ DE LA MER DE NORVÈGE, PEUT-ÊTRE VERS NARVIK, AVANT DE SE DIRIGER VERS L'ATLANTIQUE. VOUS AVEZ ORDRE D'INTERCEPTER ET DE DÉTRUIRE CE GROUPE DE COMBAT, EN PARTICULIER LE PORTE-AVIONS. UNE ESCORTE ENNEMIE DE NAVIRES DE SURFACE ET / OU DE SOUS-MARINS D'ATTAQUE DEVRAIT ACCOMPAGNER LE CONVOI.
+[ORDERS]
+1. (S) SITUATION TACTIQUE :
+DES PHOTOS SATELLITES MONTRENT QU'UNE FORCE AÉRONAVALE ENNEMIE SE PRÉPARE À PRENDRE LA MER DEPUIS <STARTLOCATION>. LE RENSEIGNEMENT ESTIME QU'ELLE FERA UNE PATROUILLE À PROXIMITÉ DE LA MER DE NORVÈGE, PEUT-ÊTRE VERS NARVIK, AVANT DE SE DIRIGER VERS L'ATLANTIQUE. VOUS AVEZ ORDRE D'INTERCEPTER ET DE DÉTRUIRE CETTE FORCE AÉRONAVALE, EN PARTICULIER LE PORTE-AVIONS. UNE ESCORTE ENNEMIE DE NAVIRES DE SURFACE ET / OU DE SOUS-MARINS D'ATTAQUE DEVRAIT ACCOMPAGNER LE CONVOI.
 
-2. (S) OBJECTIF PRINCIPAL
+2. (S) OBJECTIF PRINCIPAL :
 LOCALISER ET COULER LE PORTE-AVIONS ENNEMI
 
-3. (S) OBJECTIF SECONDAIRE:
-LOCALISER ET ENGAGER TOUT NAVIRE D'ESCORTE SI POSSIBLE
+3. (S) OBJECTIF SECONDAIRE :
+LOCALISER ET ENGAGER  SI POSSIBLE TOUT NAVIRES D'ESCORTES
 
-4. (S) ÉVITER LA DÉTECTION PAR DES PATROUILLES ENNEMIES
+4. (S) ÉVITER LA DÉTECTION PAR DES PATROUILLES ASM ENNEMIES
 
-5. (S) RE: ALERTE MAXIMALE, USE DES ARMES SUR LES CIBLES DÉSIGNÉES
+5. (S) RE : ALERTE JAUNE, UTILISATION DES ARMES AUTORISÉES SUR CIBLES DÉSIGNÉES
 
-6. (S) EMCON - MAINTENIR LE SILENCE RADIO JUSQU'A NOUVEL ORDRE
+6. (S) EMCON - MAINTENIR LE SILENCE RADIO JUSQU'À NOUVEL ORDRE
 [MISSION WIN]
-Excellent travail, commandant! Votre neutralisation de cette cible hautement prioritaire réduira considérablement la capacité de l'ennemi à gêner les convois transatlantiques. CINCLANT envoie des salutations à vous et votre équipage.
+Excellent travail, commandant! La neutralisation de cette cible hautement prioritaire réduira considérablement la capacité de l'ennemi d'entraver les convois transatlantiques. CINCLANT envoie ses salutations à vous et votre équipage.
 [MISSION FAIL]
-Déçu d'entendre que vous avez perdu cette opportunité contre une cible aussi hautement prioritaire. Vous aurez sans doute plus de chance la prochaine fois.
+Déçu d'entendre que vous avez raté cette opportunité contre une cible hautement prioritaire. Vous aurez sans doute plus de chance la prochaine fois.
 [MISSION MISSED]
-Déçu d'entendre que vous avez perdu cette opportunité contre une cible aussi hautement prioritaire. Vous aurez sans doute plus de chance la prochaine fois. La présence ennemie dans cette zone entravera probablement les convois transatlantiques. De nouveaux ordres seront envoyés après réévaluation des capacités de l'ennemi et intention supposée.
+Déçu d'entendre que vous avez raté cette opportunité contre une cible hautement prioritaire. Vous aurez sans doute plus de chance la prochaine fois. La présence ennemie dans cette zone entravera probablement les convois transatlantiques. De nouveaux ordres seront envoyés après réévaluation des capacités et intentions supposées de l'ennemi.

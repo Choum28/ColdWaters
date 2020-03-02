@@ -1,4 +1,4 @@
-﻿la mer blanche
+la mer Blanche
 la côte soviétique
 la côte soviétique
 la côte soviétique
@@ -19,8 +19,8 @@ le détroit du Danemark
 le détroit du Danemark
 l'Islande
 l'Islande
-la ligne Islande-Grande Bretage
-la ligne Islande-Grande Bretage
+la ligne Islande-Grande Bretagne
+la ligne Islande-Grande Bretagne
 L'Irlande
 l'Atlantique nord
 l'Atlantique nord

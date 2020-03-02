@@ -1,21 +1,21 @@
-﻿[ORDERS]
-1. (S) SITUATION TACTIQUE:
-NOTRE SOURCE NOUS RAPPORTE QU'UNE IMPORTANTE MEUTE DE SOUS-MARINS D'ATTAQUE DIESEL-ELECTRIQUE ENNEMIS  SE DEPLACERA AU COURS DES 7 PROCHAINS JOURS, ESSAYANT DE TRAVERSER LA ZONE GIUK. ILS DOIVENT ÊTRE INTERCEPTÉS AVANT D'ATTEINDRE LEUR OBJECTIF LE LONG DES ROUTES DE CONVOI DE L'ATLANTIQUE NORD. NOTRE SERVICE DE RENSEIGNEMENT CROIT QUE LA FORCE ENNEMIE PEUT COMPRENDRE DE 2 À 4 SOUS-MARINS DE CATÉGORIE FOXTROT ET / OU ROMEO.
+[ORDERS]
+1. (S) SITUATION TACTIQUE :
+NOTRE SOURCE NOUS RAPPORTE QU'UNE IMPORTANTE MEUTE DE SOUS-MARINS D'ATTAQUE DIESEL-ELECTRIQUE ENNEMIS APPARAILLERA AU COURS DES 7 PROCHAINS JOURS, ESSAYANT DE TRAVERSER LA ZONE GIUK. ILS DOIVENT ÊTRE INTERCEPTÉS AVANT D'ATTEINDRE LEUR OBJECTIF LE LONG DES ROUTES DE CONVOI DE L'ATLANTIQUE NORD. NOTRE SERVICE DE RENSEIGNEMENT CROIT QUE LA MEUTE ENNEMIE PEUT COMPRENDRA DE 2 À 4 SOUS-MARINS DE CLASSE FOXTROT ET / OU ROMEO.
 
-2. (S) OBJECTIF PRINCIPAL
+2. (S) OBJECTIF PRINCIPAL :
 LOCALISER ET COULER LES SOUS-MARINS D'ATTAQUE ENNEMIS
 
-3. (S) OBJECTIF SECONDAIRE:
+3. (S) OBJECTIF SECONDAIRE :
 AUCUN
 
-4. (S) ÉVITER LA DÉTECTION PAR DES PATROUILLES ENNEMIES
+4. (S) ÉVITER LA DÉTECTION PAR LES PATROUILLES ASM ENNEMIES
 
-5. (S) RE: ALERTE MAXIMALE, UTILISER TOUTES ARMES UTILES SUR LES CIBLES DÉSIGNÉES
+5. (S) RE: ALERTE JAUNE, UTILISATION DES ARMES AUTORISÉES SUR CIBLES DÉSIGNÉES
 
-6. (S) EMCON - MAINTENIR LE SILENCE RADIO JUSQU'A NOUVEL ORDRE
+6. (S) EMCON - MAINTENIR LE SILENCE RADIO JUSQU'À NOUVEL ORDRE
 [MISSION WIN]
-Beau travail avec ces bateaux, commandant! Votre contribution à l'effort de guerre rendra nos convois beaucoup plus sûrs - et soutenir les troupes à terre est ce qui fait la force de la Marine! Continuez, Commandant!
+Beau travail avec ces bâtiments, commandant! Votre contribution à l'effort de guerre rendra nos convois beaucoup plus sûrs - et aidera les troupes à terre, la raison même de la Navy ! Continuez comme cela, Commandant !
 [MISSION FAIL]
-Commandant, l'incapacité de faire face à la menace sous-marine ennemie avec détermination rendra la vie sur l'Atlantique beaucoup plus difficile pour nos collègues. Sans compter sur un ennemi encore beaucoup plus dangereux pour nous. Nous devons intensifier nos efforts.
+Commandant, l'incapacité de faire face à la menace sous-marine ennemie avec détermination rendra la vie dans l'Atlantique beaucoup plus difficile pour nos collègues, et encore plus pour les navires marchands. Nous devons intensifier nos efforts.
 [MISSION MISSED]
 Déçu d'apprendre que la mission ne pouvait pas être menée à bien. Rappelez-vous que le temps travaille pour l'ennemi, pas pour nous. Chaque navire rouge qui arrive dans l'Atlantique signifie l'épuisement de nos ressources et l'affaiblissement de nos défenses des voies d'accès maritimes. Soyez plus persévérant la prochaine fois.

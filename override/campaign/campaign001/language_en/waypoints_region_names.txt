@@ -1,4 +1,3 @@
-﻿
 Regions=Allemagne de l'Ouest,Danemark,Hollande,Belgique,Suède,Norvège,Islande
 Reykjavik and Keflavik=Islande
 Hofn=Islande
