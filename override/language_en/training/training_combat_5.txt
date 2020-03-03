@@ -1,4 +1,4 @@
-﻿[TRAINING 1]=6
+[TRAINING 1]=6
 <b>Établir un contact</b>
 <i>Entre le briefing et le début de la mission, il est possible de perdre le contact initial. Si vous n'avez aucun contact, augmentez la vitesse à 5 noeuds et avancez (utiliser la compression temporelle si nécessaire) jusqu'à ce que le contact soit rétabli. L'opérateur Sonar vous avertit via le journal des messages lorsque cela se produit.</i>
 

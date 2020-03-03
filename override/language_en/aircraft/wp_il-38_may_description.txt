@@ -1,4 +1,4 @@
-[Unit Reference]
-AircraftName=IL-38 MAY
-AircraftDescriptiveName=Ilyushin IL-38 MAY
+[Unit Reference] 
+AircraftName=IL-38 MAY 
+AircraftDescriptiveName=Ilyushin IL-38 MAY 
 History=Judicieusement décrit comme l'équivalent soviétique du Lockheed P-3 américain, l'IL-38 est un avion de lutte anti sous-marine à moyenne portée dérivé de l'avion de ligne à turbopropulseur IL-18. Il est capable de poser d'énorme barrière de bouées sonar, puis de lancer l'attaque avec ses grenades sous-marine et ses torpilles à tête chercheuse.

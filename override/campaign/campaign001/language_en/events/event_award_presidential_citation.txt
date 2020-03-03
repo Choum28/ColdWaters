@@ -1,0 +1,13 @@
+NextAction=MAP
+Image=campaign/images/reagan
+Photo=NONE
+Music=audio/music/Cold Waters Spotted
+Header=FALSE
+
+Font=0
+Outline=FALSE
+Color=57,61,73,255
+Title=En vertu des pouvoirs qui me sont conférés en tant que président des États-Unis et commandant en chef des forces armées des États-Unis, j'ai décerné aujourd'hui
+Sentence1=<b><size=22>LA PRESIDENTIAL UNIT CITATION (NAVY)<n>POUR HÉROÏSME EXTRAORDINAIRE AUX<n> OFFICIERS ET HOMMES DU<n><PLAYERVESSELNAVY> <PLAYERVESSELNAME>, <PLAYERVESSELHULL></size></b>
+Sentence2=Les officiers et hommes du <PLAYERVESSELNAVY> <PLAYERVESSELNAME> sont cités pour leur héroïsme et performance extraordinaire le <DATE> alors qu'ils étaient engagés contre les forces ennemies des États-Unis près de <PLAYERMAPREGION>. En raison de leur intrépidité, détermination et des résultats de leur missions offensives qui ont dépassé toutes les attentes. Le dévouement désintéressé et les performances exemplaires des officiers et des hommes du <PLAYERVESSELNAVY> <PLAYERVESSELNAME> font jaillir le prestige sur eux-même dans le respect des plus hautes traditions de la marine Américaine.
+Header=FALSE

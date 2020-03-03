@@ -1,0 +1,12 @@
+NextAction=END
+Image=campaign/images/event_award_background
+Photo=campaign/images/awards/purple_heart
+Music=audio/music/Cold Waters Campaign Loss
+Header=LE SECRÉTAIRE DE LA NAVY<n>WASHINGTON
+
+Font=0
+Outline=FALSE
+Color=57,61,73,255
+Title=Le président des États-Unis d'Amérique, en vertu des pouvoirs qui lui sont conférés par le Congrès, a accordé <POSTHUMOUSLY> la
+Sentence1=<b><size=22>PURPLE HEART<n>AU<n>CDT <PLAYERNAME><n>OFFICIER COMMANDANT, DU<n><PLAYERSUBMARINENAME></size></b>
+Sentence2=Pour ses blessures reçues le <DATE> ayant entrainé sa mort.<n>Le Commandant <PLAYERNAME> a servi son pays avec la plus grande fierté et n'a jamais hésité à risquer sa vie tout au long de ses fonctions. Ses nombreux accomplissements et son commandement respecté font honneur à lui-même et à la marine des États-Unis.
