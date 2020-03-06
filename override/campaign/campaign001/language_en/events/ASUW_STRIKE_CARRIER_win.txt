@@ -1,4 +1,3 @@
-﻿
 NextAction=MAP
 Image=campaign/images/nato naval air 1,campaign/images/nato naval air 2,campaign/images/68 nato naval air 1
 Photo=campaign/images/photos/air nato 3,campaign/images/photos/air nato 6,campaign/images/photos/naval nato carrier 1,campaign/images/photos/naval nato carrier 3

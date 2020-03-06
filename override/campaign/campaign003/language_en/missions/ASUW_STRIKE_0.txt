@@ -1,0 +1,21 @@
+﻿[ORDERS]
+1. (S) SITUATION TACTIQUE:
+DES PHOTOS SATELLITES MONTRENT QU'UNE UNITÉ DE NAVIRES LOURDS ENNEMIS SE PRÉPARE À FAIRE ROUTE À PARTIR DE <STARTLOCATION>. L'ESPIONNAGE ESTIME QU'ELLE FERA UNE PATROUILLE À PROXIMITÉ DE <ENDLOCATION>. VOUS AVEZ ORDRE D'INTERCEPTER ET DE DÉTRUIRE CE GROUPE DE COMBAT. LE GROUPE DEVRAIT COMPTER UN OU DEUX NAVIRES ARMÉS DE MISSILES DE CROISIÈRE. CONSIDÉREZ-LES COMME VOTRE OBJECTIF PRIORITAIRE. UNE ESCORTE ENNEMIE DE NAVIRES DE SURFACE ET / OU DE SOUS-MARINS D'ATTAQUE DEVRAIT ACCOMPAGNER LE CONVOI.
+
+2. (S) OBJECTIF PRINCIPAL
+LOCALISER ET COULER LES NAVIRES LOURDS
+
+3. (S) OBJECTIF SECONDAIRE:
+LOCALISER ET ENGAGER TOUT NAVIRE D'ESCORTE SI POSSIBLE
+
+4. (S) ÉVITER LA DÉTECTION PAR DES PATROUILLES ENNEMIES
+
+5. (S) RE: ALERTE MAXIMALE, UTILISER TOUTES ARMES UTILES SUR LES CIBLES DÉSIGNÉES
+
+6. (S) EMCON - MAINTENIR LE SILENCE RADIO JUSQU'A NOUVEL ORDRE
+[MISSION WIN]
+Excellent travail, commandant! Votre neutralisation de cette cible hautement prioritaire réduira considérablement la capacité de l'ennemi à gêner les convois transpacifiques. CINCPAC envoie des salutations à vous et votre équipage.
+[MISSION FAIL]
+Déçu d'entendre que vous avez perdu cette opportunité contre une cible aussi hautement prioritaire. Vous aurez sans doute plus de chance la prochaine fois.
+[MISSION MISSED]
+Déçu d'entendre que vous avez perdu cette opportunité contre une cible aussi hautement prioritaire. Vous aurez sans doute plus de chance la prochaine fois. La présence ennemie dans cette zone entravera probablement les convois transpacifiques. De nouveaux ordres seront envoyés après réévaluation des capacités de l'ennemi et intention supposée.

@@ -1,0 +1,14 @@
+NextAction=MAP
+Image=campaign/images/pact specops,campaign/images/pact specops 2
+Photo=campaign/images/photos/explosions 3
+Music=audio/music/Cold Waters Campaign Loss
+Header=<DATE>
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b><COUNTRY> ATTAQUÉE</b>|<b>SABOTAGE</b>|<b>TERREUR EN <COUNTRY></b>|<b>UNE BASE ALLIÉE FRAPPÉE</b>|<b>LES CHINOIS ATTAQUENT<COUNTRY></b>|<b>SABOTAGE EN <COUNTRY></b>
+Color=57,61,73,255
+Sentence1=De nombreuses grandes explosions ont éclaté dans et autour de <ENDLOCATION> (<COUNTRY>). D'abord supposé être une attaque aérienne chinoise ou un missile de croisière, des questions se posent alors que plusieurs témoins sur les lieux ont confirmé les tirs nourris. Les porte-parole des Etats-Unis ont refusé de commenter la situation.
+Color=218,218,208,255
+Sentence2=La sécurité de nombreuses installations militaires alliées des Etats-Unis a fait l'objet d'un examen à la lumière des événements récents. En particulier, bon nombre des principales bases aériennes et navales du Japon et de Corée du sud, qui constituent l'épine dorsale de la sécurité des Etats-Unis, ont été qualifiées de «vulnérables».

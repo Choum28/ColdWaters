@@ -1,0 +1,16 @@
+﻿
+NextAction=event_early_end_1
+Image=campaign/images/lost at sea
+Photo=campaign/images/photos/naval nato sub 1,campaign/images/photos/naval nato sub 2,campaign/images/photos/naval nato sub 3,campaign/images/photos/naval nato sub 4
+Music=audio/music/Cold Waters Campaign Loss
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>UN SOUS-MARIN NUCLEAIRE COULÉ!</b>
+Color=57,61,73,255
+Sentence1=Un porte-parole de l'OTAN a confirmé qu'un sous-marin d'attaque nucléaire américain avait été perdu au combat. Bien que les détails soient incomplets pour le moment, des sources proches du Pentagone affirment que le sous-marin a été perdu avec tout son équipage au cours de son service.
+Color=218,218,208,255
+Sentence2=<b>Défaite en Europe</b><n>Les forces du Pacte de Varsovie continuent à repousser l'OTAN en ouvrant une nouvelle offensive majeure ce matin. Pendant ce temps, les forces navales soviétiques ont effectivement coupé les lignes de convoi de l'Atlantique Nord, laissant les forces de l'OTAN en Europe avec peu d'espoir de renforts.

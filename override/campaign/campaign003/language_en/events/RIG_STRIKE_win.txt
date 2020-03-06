@@ -1,0 +1,14 @@
+NextAction=MAP
+Image=campaign/images/nato missile land attack
+Photo=campaign/images/photos/explosions 3
+Music=audio/music/Cold Waters Campaign Victory
+Header=<DATE>
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b><ENDLOCATION> TOUCHÉ</b>|<b>EN LIGNE DE MIRE</b>
+Color=57,61,73,255
+Sentence1=Les installations militaires autour de <ENDLOCATION> (<COUNTRY>) et dans les environs ont subi des dommages importants au cours de ce que des témoins ont appelé une frappe de missiles de croisière «massive». De nombreux feux incontrôlés restent allumés près d'un jour après l'attaque. 
+Color=218,218,208,255
+Sentence2=Des porte-parole de <COUNTRY> ont protesté, accusant les dirigeants américains et les officiers de guerre de crimes de guerre et d'autres atrocités contre les populations civiles à la suite des récentes attaques. Les responsables du Commandement du Pacifique ont rejeté ces allégations, qualifiant les accusations de «propagande chinoise».

@@ -1,0 +1,14 @@
+NextAction=MAP
+Image=campaign/images/pact missile attack,campaign/images/plan surface raiders 2,campaign/images/plan surface raiders 3,campaign/images/plan surface raiders 1,campaign/images/plan surface raiders 1
+Photo=campaign/images/photos/naval engagement 1,campaign/images/photos/naval plan 1,campaign/images/photos/naval plan 2,campaign/images/photos/naval plan 3,campaign/images/photos/naval plan 4,campaign/images/photos/naval plan 5,campaign/images/photos/naval plan carrier 1,campaign/images/photos/naval plan carrier 2
+Music=audio/music/Cold Waters Campaign Loss
+Header=<DATE>
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>ATTAQUE MASSIVE</b>|<b>FORCE DE FRAPPE TERRIFIANTE</b>|<b>TERREUR DANS LES CONVOIS</b>|<b>DÉFAITE EN MER</b>
+Color=57,61,73,255
+Sentence1=Un groupe de frappe chinois opérant sans opposition à <ENDLOCATION> a coulé un nombre indéterminé de navires marchands et  de navires d'escorte. Les porte-parole du Pentagone admettent que ce groupe de frappe constitue une menace majeure pour tous les transports maritimes dans la région et que les efforts antérieurs pour l'intercepter ont échoué.
+Color=218,218,208,255
+Sentence2=Les rapports indiquent que l'approvisionnement continu de matériaux dans la région est primordiale pour l'effort de guerre. La perte de matériaux et de navires mine sérieusement la capacité des Etats-Unis à maintenir leurs opérations de combat.

@@ -1,0 +1,13 @@
+NextAction=event_campaign_draw_2
+Image=campaign/images/pact ssbn
+Photo=campaign/images/photos/naval pact sub 1,campaign/images/photos/naval pact sub 2,campaign/images/photos/politics 3
+Music=audio/music/Cold Waters Campaign Victory
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>DES SOUS-MARINS NUCLÉAIRES TROP MENAÇANTS</b>
+Sentence1=Les sous-marins à missiles balistiques nucléaires dissimulés dans les eaux territoriales chinoises ont été utilisés comme instruments de la «politique de la canonnière» lors des récents pourparlers d'armistice pour renforcer la position affaiblie des Chinois. Finalement, les deux parties ont reconnu l'absurdité de la «destruction mutuellement assurée» que siginifierait la poursuite du conflit, et des pourparlers sont en cours pour ramener la paix et la stabilité dans la région.
+Sentence2=CESSEZ-LE-FEU<n>Le cessez-le-feu général - annoncé il y a quelques jours seulement - semble avoir été respecté sur tous les fronts. Un porte-parole anonyme du Département de la Défense des Etats-Unis a suggéré que si les pourparlers de paix aboutissaient, de nombreuses troupes pourraient rentrer chez elles en quelques semaines.

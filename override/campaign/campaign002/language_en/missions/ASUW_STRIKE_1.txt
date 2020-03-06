@@ -1,0 +1,21 @@
+﻿[ORDERS]
+1. (S) SITUATION TACTIQUE:
+NAV OPS A DES RAISONS DE CROIRE QU'UN NAVIRE DE CLASSE KRESTA QUITTERA <STARTLOCATION> DANS LES 48 HEURES ET TENTERA UNE PERCÉE DANS L'ATLANTIQUE NORD A TRAVERS <MUSTUSELOCATION0>. LE CROISEUR EST ARMÉ  DE MISSILES DE CROISIÈRE LONGUE DISTANCE ET MENACE DES CONVOIS VITAUX D'APPROVISIONNEMENT DE L'OTAN. COMME LE MAUVAIS TEMPS EMPÊCHE LES AVIONS D'OPÉRER, VOUS AVEZ ORDRE D'INTERVENIR ET DE DÉTRUIRE CE GROUPE DE COMBAT.
+
+2. (S) OBJECTIF PRINCIPAL
+LOCALISER ET COULER LE CROISEUR ENNEMI
+
+3. (S) OBJECTIF SECONDAIRE:
+LOCALISER ET ENGAGER TOUT NAVIRE D'ESCORTE SI POSSIBLE
+
+4. (S) ÉVITER LA DÉTECTION PAR DES PATROUILLES ENNEMIES
+
+5. (S) RE: ALERTE MAXIMALE, UTILISER TOUTES ARMES UTILES SUR LES CIBLES DÉSIGNÉES
+
+6. (S) EMCON - MAINTENIR LE SILENCE RADIO JUSQU'A NOUVEL ORDRE
+[MISSION WIN]
+Excellent travail, commandant! Votre neutralisation de cette cible hautement prioritaire réduira considérablement la capacité de l'ennemi à gêner les convois transatlantiques. CINCLANT envoie des salutations à vous et votre équipage.
+[MISSION FAIL]
+Déçu d'apprendre que vous avez perdu cette opportunité contre une cible aussi hautement prioritaire. Vous aurez sans doute plus de chance la prochaine fois.
+[MISSION MISSED]
+Déçu d'apprendre que vous avez perdu cette opportunité contre une cible aussi hautement prioritaire. Vous aurez sans doute plus de chance la prochaine fois. La présence ennemie dans cette zone entravera probablement les convois transatlantiques. De nouveaux ordres seront envoyés après réévaluation des capacités de l'ennemi et intention supposée.

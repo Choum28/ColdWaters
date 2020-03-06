@@ -1,0 +1,21 @@
+﻿[ORDERS]
+1. (S) SITUATION TACTIQUE:
+NOTRE SOURCE SUPPOSE QUE LES SOUS-MARINS LANCEURS DE MISSILES DE CROISIÈRE ENNEMIS AYANT EFFECTUÉ DES OPÉRATIONS ÉEUSSIES CONTRE LES CONVOIS DE L'OTAN DANS L'ATLANTIQUE NORD VONT À PRÉSENT TENTER DE FRANCHIR LA LIGNE GIUK ET DE RETOURNER À LEUR PORT POUR RÉPARATIONS ET  RÉARMEMENT.
+
+2. (S) OBJECTIF PRINCIPAL
+LOCALISER ET COULER LES SOUS-MARINS LANCE-MISSILES ENNEMIS
+
+3. (S) OBJECTIF SECONDAIRE:
+AUCUN
+
+4. (S) ÉVITER LA DÉTECTION PAR DES PATROUILLES ENNEMIES
+
+5. (S) RE: ALERTE MAXIMALE, UTILISER TOUTES ARMES UTILES SUR LES CIBLES DÉSIGNÉES
+
+6. (S) EMCON - MAINTENIR LE SILENCE RADIO JUSQU'A NOUVEL ORDRE
+[MISSION WIN]
+Très heureux de voir que vous avez traité avec ces sous-marins avec détermination et détermination, Commandant! Rappelez-vous que pour chaque navire ennemi que nous retirons, cela signifie un transit plus sûr pour nos troupes et nos transports. Bon travail.
+[MISSION FAIL]
+Commandant, l'incapacité de faire face à la menace sous-marine ennemie avec détermination rendra la vie sur l'Atlantique beaucoup plus difficile pour nos collègues. Pour ne pas mentionner un diable de beaucoup plus dangereux pour les merchies. Nous devrons l'intensifier.
+[MISSION MISSED]
+Découragé de vous entendre ne pas avoir intercepté l'ennemi. Attendez-vous à mieux chasser la prochaine fois.

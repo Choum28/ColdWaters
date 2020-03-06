@@ -1,0 +1,14 @@
+NextAction=MAP
+Image=campaign/images/pact air 1,campaign/images/pact air 2
+Photo=campaign/images/photos/explosions 1,campaign/images/photos/explosions 3
+Music=audio/music/Cold Waters Campaign Loss
+Header=<DATE>
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>SUPÉRIORITÉ AÉRIENNE</b>
+Color=57,61,73,255
+Sentence1=Ces derniers jours, de nombreuses frappes aériennes soviétiques ont eu lieu à partir de bases aériennes à l'intérieur et autour de <ENDLOCATION>, <COUNTRY>. Le changement soudain de la supériorité aérienne dans la région a surpris l'OTAN et aurait eu un impact négatif sur la plupart des opérations dans la région.
+Color=218,218,208,255
+Sentence2=Dans une étude, les experts militaires ont conclu que le contrôle de l'air et de la mer ne devrait pas être négligé. La capacité d'amener les troupes là où elles doivent être et de les défendre une fois sur place sera déterminante pour l'issue de la guerre terrestre en Europe centrale.

@@ -1,0 +1,15 @@
+NextAction=event_intro_7
+Image=campaign/images/nato air 4
+Photo=campaign/images/photos/infantry pact 1
+Music=audio/music/Cold Waters Campaign Victory
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>Les Soviétiques pensaient que l'exercice militaire nucléaire "Able Archer" était réelle</b>
+Color=57,61,73,255
+Sentence1=WASHINGTON - Lors d'une audition au Congrès, le directeur de l'Agence de renseignement de défense (DIA), le général James B. Williamson, a présenté au Sénat l'évaluation de la réponse soviétique à l'exercice OTAN "Able Archer 83", qui s'est tenu en novembre. Le général Williamson a relaté un scénario très convenu. Le DIA en a conclu que l'Union Soviétique - pour un court moment - croyait réellement que les Etats-Unis se préparaient à une attaque nucléaire de "première frappe", utilisant l'exercice comme couverture. Ainsi, les forces nucléaires stratégiques soviétiques ont été placées en état d'alerte maximale pendant au moins une semaine. 
+Color=218,218,208,255
+Sentence2=La forte réaction confirme les relations diplomatiques tendues entre les États-Unis et l'Union soviétique. Des années de rhétorique anticommuniste simpliste, le déploiement de nouvelles armes nucléaires avancées et l'amitié idéologique entre le président Reagan et le Premier ministre britannique Thatcher auraient «causé une peur considérable» parmi les dirigeants soviétiques.
