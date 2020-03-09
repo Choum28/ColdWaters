@@ -1,4 +1,4 @@
-﻿la mer blanche
+la mer Blanche
 la côte soviétique
 la côte soviétique
 la côte soviétique
@@ -11,24 +11,24 @@ la côte norvégienne
 la côte norvégienne
 la côte norvégienne
 la côte sud de la Norvège
-la côte sud de la Norvège
+la côte nord de la Norvège
 la mer de Norvège
 la mer de Norvège
-la mer du Groënland
+la mer du Groenland
 le détroit du Danemark
 le détroit du Danemark
-Islande
-Islande
-le GIUK
-le GIUK
-Irlande
+l'Islande
+l'Islande
+la ligne Islande-Grande Bretagne
+la ligne Islande-Grande Bretagne
+L'Irlande
 l'Atlantique nord
 l'Atlantique nord
 l'Atlantique nord
-la mer Baltique
-la mer Baltique
-la mer Baltique
-la mer Baltique
-la mer Baltique
-la mer Baltique
+la mer baltique
+la mer baltique
+la mer baltique
+la mer baltique
+la mer baltique
+la mer baltique
 la mer du Nord

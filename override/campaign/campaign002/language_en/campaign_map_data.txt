@@ -1,6 +1,5 @@
-﻿
 [LOCATION NAMES AND COUNTRY/REGION]
-LocationName=Holy Loch=Scotland
+LocationName=Holy Loch=Écosse
 LocationName=Torshavn=Iles Ferroé
 LocationName=Reykjavik et Keflavik=Islande
 LocationName=Hofn=Islande

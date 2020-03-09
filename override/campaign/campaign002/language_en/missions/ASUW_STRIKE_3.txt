@@ -1,21 +1,21 @@
-﻿[ORDERS]
-1. (S) SITUATION TACTIQUE:
-NOS SERVICES DE RENSEIGNEMENT RAPPORTENT QU'UN GROUPE DE COMBAT ENNEMI SE PRÉPARE À PARTIR DE <STARTLOCATION> POUR UNE PATROUILLE À PROXIMITÉ DE <COUNTRY>. DES SOUS-MARINS LANCEURS D'ENGINS ALLIÉS PATROUILLENT DANS CE SECTEUR ET NE DOIVENT PAS ÊTRE DÉTECTÉS. VOUS AVEZ DONC ORDRE D'INTERCEPTER ET DE DÉTRUIRE LE GROUPE DE COMBAT ENNEMI. AUCUNE AUTRE UNITÉ AMIE N'EST EN POSITION D'INTERCEPTER L'ENNEMI À TEMPS.
+[ORDERS]
+1. (S) SITUATION TACTIQUE :
+NOS SERVICES DE RENSEIGNEMENT RAPPORTENT QU'UN CROISEUR ASM SE PRÉPARE À APPAREILLER DE <STARTLOCATION> POUR UNE PATROUILLE À PROXIMITÉ DE <COUNTRY>. DES SOUS-MARINS BOOMERS ALLIÉS OPÈRENT DANS CE SECTEUR ET NE DOIVENT PAS ÊTRE DÉTECTÉS. VOUS AVEZ DONC ORDRE D'INTERCEPTER ET DE DÉTRUIRE CETTE FORCE NAVALE. AUCUNE AUTRE UNITÉ AMIE N'EST EN POSITION D'INTERCEPTER L'ENNEMI À TEMPS.
 
 2. (S) OBJECTIF PRINCIPAL
-LOCALISER ET COULER LE NAVIRE AMIRAL
+LOCALISER ET COULER LE CROISEUR ASM
 
-3. (S) OBJECTIF SECONDAIRE:
+3. (S) OBJECTIF SECONDAIRE :
 LOCALISER ET ENGAGER TOUT NAVIRE D'ESCORTE SI POSSIBLE
 
-4. (S) ÉVITER LA DÉTECTION PAR DES PATROUILLES ENNEMIES
+4. (S) ÉVITER LA DÉTECTION PAR DES PATROUILLES ASM ENNEMIES
 
-5. (S) RE: ALERTE MAXIMALE, UTILISER TOUTES ARMES UTILES SUR LES CIBLES DÉSIGNÉES
+5. (S) RE: ALERTE JAUNE, UTILISATION DES ARMES AUTORISÉES SUR CIBLES DÉSIGNÉES
 
-6. (S) EMCON - MAINTENIR LE SILENCE RADIO JUSQU'A NOUVEL ORDRE
+6. (S) EMCON - MAINTENIR LE SILENCE RADIO JUSQU'À NOUVEL ORDRE
 [MISSION WIN]
-Excellent travail, commandant! Votre neutralisation de cette cible hautement prioritaire réduira considérablement la capacité de l'ennemi à gêner les convois transatlantiques. CINCLANT envoie des salutations à vous et votre équipage.
+Excellent travail, commandant! Votre neutralisation de cette cible hautement prioritaire réduira considérablement la capacité de l'ennemi mener des opérations contre nos boys. CINCLANT envoie ses salutations à vous et votre équipage.
 [MISSION FAIL]
-Déçu d'apprendre que vous avez perdu cette opportunité contre une cible aussi hautement prioritaire. Vous aurez sans doute plus de chance la prochaine fois.
+Déçu d'apprendre que vous avez raté cette opportunité contre une cible hautement prioritaire. Vous aurez sans doute plus de chance la prochaine fois.
 [MISSION MISSED]
-Déçu d'apprendre que vous avez perdu cette opportunité contre une cible aussi hautement prioritaire. Soyez plus agressif la prochaine fois.
+Déçu d'apprendre que vous avez manqué cette opportunité contre une cible hautement prioritaire. Soyez plus agressif.

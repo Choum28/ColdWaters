@@ -14,7 +14,7 @@ AUCUN
 
 6. (S) EMCON - MAINTENIR LE SILENCE RADIO JUSQU'À NOUVEL ORDRE
 [MISSION WIN]
-Excellent travail sur l'interception et la destruction de cette cible hautement prioritaire.
+Excellent travail pour l'interception et la destruction de cette cible hautement prioritaire.
 [MISSION FAIL]
 Déçu d'apprendre que vous avez perdu cette opportunité contre une cible hautement prioritaire. Vous aurez sans doute plus de chance la prochaine fois.
 [MISSION MISSED]

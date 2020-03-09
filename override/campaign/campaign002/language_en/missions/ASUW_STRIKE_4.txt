@@ -1,21 +1,21 @@
-﻿[ORDERS]
-1. (S) SITUATION TACTIQUE:
-NOS SERVICES RAPPORTENT QU'UN GROUPE DE COMBAT ENNEMI SE PREPARE A FAIRE ROUTE DEPUIS <STARTLOCATION>. NOTRE SERVICE RENSEIGNEMENT ESTIME QU'IL FERA UNE PATROUILLE DANS LES ENVIRONS DE <ENDLOCATION>. LES NAVIRES ENNEMIS SONT ARMÉS DE MISSILES LONGUE PORTÉE ET MENACENT UN DE NOS PORTE-AVIONS DANS LA RÉGION. VOUS DEVEZ INTERCEPTER ET DÉTRUIRE CE GROUPE. AUCUNE AUTRE UNITÉ ALLIÉE À PROXIMITÉ POUR CETTE MISSION.
+[ORDERS]
+1. (S) SITUATION TACTIQUE :
+NOS SERVICES DE RENSEIGNEMENT RAPPORTENT QU'UNE FORCE NAVALE ENNEMIE SE PRÉPARE À PARTIR DE <STARTLOCATION> POUR EFFECTUER UNE PATROUILLE NON LOIN DE <COUNTRY>. LES NAVIRES DE GUERRE SONT ARMÉS DE MISSILES DE CROISIÈRES LONGUE DISTANCE ET CONSTITUE UNE MENACE DIRECTE POUR UNE FORCE AÉRONAVALE À PROXIMITÉ. VOUS AVEZ ORDRE D'INTERCEPTER ET DE DÉTRUIRE CETTE FORCE NAVALE. AUCUNE AUTRE UNITÉ AMIE N'EST EN POSITION D'INTERCEPTER L'ENNEMI À TEMPS.
 
-2. (S) OBJECTIF PRINCIPAL
+2. (S) OBJECTIF PRINCIPAL :
 LOCALISER ET COULER LES CROISEURS ENNEMIS
 
-3. (S) OBJECTIF SECONDAIRE:
+3. (S) OBJECTIF SECONDAIRE :
 LOCALISER ET ENGAGER TOUT NAVIRE D'ESCORTE SI POSSIBLE
 
-4. (S) ÉVITER LA DÉTECTION PAR DES PATROUILLES ENNEMIES
+4. (S) ÉVITER LA DÉTECTION PAR LES PATROUILLES ASM ENNEMIES
 
-5. (S) RE: ALERTE MAXIMALE, UTILISER TOUTES ARMES UTILES SUR LES CIBLES DÉSIGNÉES
+5. (S) RE: ALERTE JAUNE, UTILISATION DES ARMES AUTORISÉES SUR CIBLES DÉSIGNÉES
 
-6. (S) EMCON - MAINTENIR LE SILENCE RADIO JUSQU'A NOUVEL ORDRE
+6. (S) EMCON - MAINTENIR LE SILENCE RADIO JUSQU'À NOUVEL ORDRE
 [MISSION WIN]
-SACLANT SENDS // Mes félicitations personnelles au commandant <PLAYERNAME> et à son équipage pour avoir porté ce coup crucial aux forces navales ennemies. C'est un honneur de servir de commandant. Nous veillerons à ce que nous, l'équipage et tous, buvions quand <PLAYERVESSELNAME> arrivera sur la plage // SACLANT FIN
+Mes félicitations personnelles au commandant <PLAYERNAME> et à son équipage pour avoir porté ce coup crucial aux forces navales ennemies. C'est un honneur de servir en tant que votre commandant. Nous veillerons à ce que nous, l'équipage et tous les autres buvions quand <PLAYERVESSELNAME> sera rentré.
 [MISSION FAIL]
-Déçu d'apprendre que vous avez perdu cette opportunité contre une cible aussi hautement prioritaire. Le groupe de travail ennemi continuera sans aucun doute à constituer une menace majeure.
+Déçu d'apprendre que vous avez raté cette opportunité contre une cible hautement prioritaire. La présence de l'ennemi continuera sans aucun doute à constituer une menace majeure pour nos navires dans la région.
 [MISSION MISSED]
-Déçu d'entendre la cible n'a pas été intercepté. Le groupe de travail ennemi continuera sans aucun doute à constituer une menace majeure.
+Déçu d'entendre la cible n'a pas été intercepté. La force navale ennemi continuera sans aucun doute à constituer une menace majeure.

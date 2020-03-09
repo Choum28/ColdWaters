@@ -1,9 +1,0 @@
-﻿Ce n'était pas votre objectif de mission.
-Ce n'était pas votre objectif courant.
-Ce n'était pas la cible de vos ordres de mission actuels.
-Ce n'était pas l'objectif de vos ordres de mission en cours.
-Malheureusement, ce n'était pas votre objectif de mission.
-Malheureusement, ce n'était pas votre véritable objectif de mission.
-Veuillez reprendre votre objectif de mission actuel.
-Reprenez votre objectif de mission actuel immédiatement.
-Retourner à l'objectif de la mission sans délai.

@@ -14,7 +14,7 @@ LOCALISER ET ENGAGER SI POSSIBLE TOUT NAVIRE D'ESCORTE
 
 6. (S) EMCON - MAINTENIR LE SILENCE RADIO JUSQU'À NOUVEL ORDRE
 [MISSION WIN]
-SACLANT ENVOIT // Mes félicitations personnelles au commandant <PLAYERNAME> et à son équipage pour avoir porté ce coup crucial aux forces navales ennemies. C'est un honneur de servir en tant que votre commandant. Nous veillerons à ce que nous, l'équipage et tous les autres, buvions un coup quand <PLAYERVESSELNAME> eentrera // SACLANT TERMINÉ
+SACLANT ENVOIT // Mes félicitations personnelles au commandant <PLAYERNAME> et à son équipage pour avoir porté ce coup crucial aux forces navales ennemies. C'est un honneur de servir en tant que votre commandant. Nous veillerons à ce que nous, l'équipage et tous les autres, buvions un coup quand <PLAYERVESSELNAME> rentrera // SACLANT TERMINÉ
 [MISSION FAIL]
 Déçu d'apprendre que vous avez manqué cette opportunité contre une cible hautement prioritaire. Le groupe aéronavale ennemi continuera sans aucun doute à constituer une menace majeure.
 [MISSION MISSED]

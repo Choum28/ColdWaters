@@ -1,21 +1,21 @@
-﻿[ORDERS]
-1. (S) SITUATION TACTIQUE:
-UN SOUS-MARIN ENNEMI LANCE-MISSILES DE CROISIÈRE OSCAR OU CHARLIE TENTE DE FRANCHIR LE DÉTROIT DU DANEMARK AFIN D'ATTAQUER DES CONVOYS VITAUX DE L'ATLANTIQUE NORD. VOUS DEVEZ LE COULER. IL EST PROBABLE QU'IL SOIT ESCORTÉ D'UN OU PLUSIEURS SOUS-MARINS NUCLÉAIRES D'ATTAQUE.
+[ORDERS]
+1. (S) SITUATION TACTIQUE :
+UN OU PLUSIEURS SOUS-MARIN ENNEMIS LANCEUR DE MISSILES DE CROISIÈRE SERAIT EN OPÉRATION À 200 MILES À L'OUEST DE NARVIK, EN NORVÈGE. UN FORCE AÉRONAVALE SERA SUR ZONE PROCHAINEMENT, ET CES MISSILES DE CROISIÈRE REPRÉSENTE UNE MENACE MAJEURE CONTRE LE PORTE-AVIONS. VOUS DEVEZ AINSI TROUVER ET DÉTRUIRE CES SOUS-MARINS AVANT QU'ILS PUISSENT FRAPPER NOTRE GROUPE AÉRONAVALE. NAV OPS COMPTE SUR VOUS.
 
 2. (S) OBJECTIF PRINCIPAL
-LOCALISER ET COULER LE SOUS-MARIN LANCE-MISSILE
+LOCALISER ET COULER LE SOUS-MARIN LANCEUR DE MISSILES DE CROISIÈRE ENNEMI
 
-3. (S) OBJECTIF SECONDAIRE:
+3. (S) OBJECTIF SECONDAIRE :
 AUCUN
 
-4. (S) ÉVITER LA DÉTECTION PAR DES PATROUILLES ENNEMIES
+4. (S) ÉVITER LA DÉTECTION PAR LES PATROUILLES ASM ENNEMIES
 
-5. (S) RE: ALERTE MAXIMALE, UTILISER TOUTES ARMES UTILES SUR LES CIBLES DÉSIGNÉES
+5. (S) RE: ALERTE JAUNE, UTILISATION DES ARMES AUTORISÉES SUR CIBLES DÉSIGNÉES
 
-6. (S) EMCON - MAINTENIR LE SILENCE RADIO JUSQU'A NOUVEL ORDRE
+6. (S) EMCON - MAINTENIR LE SILENCE RADIO JUSQU'À NOUVEL ORDRE
 [MISSION WIN]
-COMSUBLANT était très heureux d'entendre parler de votre récent succès, Commandant. Les Soviétiques devraient être conscients que l'Atlantique est nos eaux et que toute tentative d'y opérer sera traitée avec force. L'excellent travail de vous et de votre équipe est ce qui fait passer ce message! Bien joué.
+Mes félicitations personnelles au commandant <PLAYERNAME> et à son équipage pour avoir porté ce coup crucial aux forces navales ennemies. C'est un honneur de servir en tant que votre commandant. Nous veillerons à ce que nous, l'équipage et tous les autres buvions quand <PLAYERVESSELNAME> sera rentré. // SACLANT TERMINÉE
 [MISSION FAIL]
-Commandant, l'incapacité de faire face à la menace sous-marine ennemie avec détermination rendra la vie sur l'Atlantique beaucoup plus difficile pour nos collègues. Pour ne pas mentionner un diable de beaucoup plus dangereux pour les merchies. Nous devrons l'intensifier.
+Déçu d'apprendre que vous avez raté cette opportunité contre une cible hautement prioritaire. La présence ennemie continuera sans aucun doute à constituer une menace majeure contre nos navires dans la région.
 [MISSION MISSED]
-Poursuite de la recherche de l'ennemi jugé improductif en ce moment.
+Déçu d'entendre la cible n'a pas été intercepté. Des sous-marins ennemis auraient opéré sans encombre dans la région.
