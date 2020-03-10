@@ -1,0 +1,12 @@
+NextAction=MAP
+Image=campaign/images/event_award_background
+Photo=campaign/images/awards/navy_cross
+Music=audio/music/Cold Waters Theme
+Header=LE SECRÉTAIRE DE LA NAVY<n>WASHINGTON
+
+Font=0
+Outline=FALSE
+Color=57,61,73,255
+Title=Le Secrétaire de la Navy exprime ses sincères félicitations et à le grand privilège de décerner <POSTHUMOUSLY> la
+Sentence1=<b><size=22>NAVY CROSS<n>AU<n>CDT <PLAYERNAME><n>OFFICIER COMMANDANT, DU<n><PLAYERVESSELNAVY> <PLAYERVESSELNAME>, <PLAYERVESSELHULL></size></b>
+Sentence2=CITATION :<n>Pour son commandement et héroisme exeptionnelle contre l'ennemi en tant qu'officier commandant du <PLAYERVESSELNAVY> <PLAYERVESSELNAME> à proximité de <PLAYERMAPREGION> le <DATE>. L'excellent sens marin et les tactiques du Commandant <PLAYERNAME> ont onfligé de lourde pertes aux forces ennemies, sa conduite perpetue les plus hautes traditions de la marine des États-Unis.

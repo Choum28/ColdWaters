@@ -1,0 +1,13 @@
+NextAction=END
+Image=campaign/images/port holy loch
+Photo=campaign/images/photos/politics 1,campaign/images/photos/naval sub,campaign/images/photos/cargo 1
+Music=audio/music/Cold Waters Campaign Loss
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>CRIME DE GUERRE</b>|<b>GUERRE SOUS-MARINE SANS LIMITE ?</b>
+Sentence1=Les victime et pertes des navires civils ont augmenté à un rythme alarmant au cours des dernières semaines. Pourtant, malgré les avertissements dans ces régions contestées, des navires civils peuvent encore être vus voyageant à leurs propres risques et périls.
+Sentence2=L'accroissement des pertes civiles a été qualifiée de délibérée par les analystes, soulevant des questions quant à la conduite des commandants de l'OTAN et Soviétiques dans la région. En réponse, le Congrès a promis d'enquêter sur ces nombreux incidents afin de justifier leurs déroulements ou d'identifier les faits injustifiés.

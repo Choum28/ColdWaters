@@ -1,0 +1,15 @@
+NextAction=MAP
+Image=campaign/images/pact ground 1,campaign/images/pact ground 2,campaign/images/pact ground 3,campaign/images/pact ground 4,campaign/images/pact ground 5
+Photo=campaign/images/photos/politics 1,campaign/images/photos/politics 2,campaign/images/photos/politics 3
+Music=audio/music/Cold Waters Campaign Victory
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>BREZHNEV<n></b>FRAPPE À NOUVEAU
+Color=57,61,73,255
+Sentence1=Des unités d'assaut soviétiques, soutenues par des tirs de barrage de roquettes, ont franchi la frontière allemande aujourd'hui dans une attaque surprise qui semble impliquer à la fois des unités blindées et des frappes aériennes derrière les lignes de l'OTAN. Bien que préparée pour la bataille, l'OTAN a été prise au dépourvu et est en train de battre en retraite.
+Color=218,218,208,255
+Sentence2=La Maison Blanche a annoncé qu'un état de guerre existe maintenant entre les Etats-Unis et l'URSS et a décidé de soutenir ses alliés de l'OTAN "quel qu'en soit le coût". Un porte-parole du Pentagone a déclaré que même si les convois d'approvisionnement atteignaient l'Europe dans la semaine, en attendant les unités de l'OTAN "devront tenir leurs positions".

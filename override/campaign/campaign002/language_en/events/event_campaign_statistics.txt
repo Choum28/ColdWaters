@@ -1,0 +1,7 @@
+NextAction=CHECK_MISSION
+Image=campaign/images/event_award_background
+Photo=FALSE
+Header=STATISTIQUES
+
+Title=Commandant <PLAYERNAME><n><PLAYERVESSELNAVY> <PLAYERVESSELNAME>, <PLAYERVESSELHULL>
+Sentence1=Jours à la guerre:<n><n>Missions accomplies:<n>Attaques terrestres:<n>Insertions SEAL:<n><n>Navires amiraux coulés:<n>Autres navires coulés:<n>Sous-marins coulés:<n>Cargos coulés:<n>Total navires coulés:<n><n>Tonnage nav. amiraux:<n>Tonnage autres navires:<n>Tonnage sous-marins:<n>Tonnage cargos:<n>Tonnage total:

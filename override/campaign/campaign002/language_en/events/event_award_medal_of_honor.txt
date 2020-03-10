@@ -1,0 +1,12 @@
+NextAction=MAP
+Image=campaign/images/event_award_background
+Photo=campaign/images/awards/medal_of_honor
+Music=audio/music/Cold Waters Theme
+Header=LE SECRÉTAIRE DE LA NAVY<n>WASHINGTON
+
+Font=0
+Outline=FALSE
+Color=57,61,73,255
+Title=Le Secrétaire de la Navy exprime ses sincères félicitations et à le grand privilège de décerner <POSTHUMOUSLY> la
+Sentence1=<b><size=22>MEDAL OF HONOR<n>AU<n>CDT <PLAYERNAME><n>OFFICIER COMMANDANT, DU<n><PLAYERVESSELNAVY> <PLAYERVESSELNAME>, <PLAYERVESSELHULL></size></b>
+Sentence2=CITATION :<n>Pour ses actions héroiques et son commandement couraugeux le <DATE> en tant qu'officier commandant du <PLAYERVESSELNAVY> <PLAYERVESSELNAME>. Sa poursuite sans relâche des forces ennemis dans la zone de <PLAYERMAPREGION> et son courage intrépide face aux adversités, ont entrainés des pertes matérielles massives pour l'ennemi et le maintien des plus hautes traditions de la marine des États-Unis.

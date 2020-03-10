@@ -1,0 +1,14 @@
+NextAction=MAP
+Image=campaign/images/68 pact surface raiders 1,campaign/images/pact naval 1
+Photo=campaign/images/photos/naval engagement 1,campaign/images/photos/naval pact 1,campaign/images/photos/naval pact 2,campaign/images/photos/naval pact 3,campaign/images/photos/naval pact 4,campaign/images/photos/naval pact 5,campaign/images/photos/naval pact carrier 1,campaign/images/photos/naval pact carrier 2
+Music=audio/music/Cold Waters Campaign Loss
+Header=<DATE>
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>ATTAQUE MASSIVE</b>|<b>TERREUR NAVALE</b>|<b>DÉSASTRE DANS LES CONVOIS</b>|<b>DÉFAITE EN MER</b>
+Color=57,61,73,255
+Sentence1=Des frappes massives de la force soviétique à <ENDLOCATION> ont coulé un nombre indeterminé de navires marchands et de navires de guerre d'escortes. Les porte-parole de l'OTAN reconnaissent que ce groupe de combat constitue une menace majeure pour tous les transports maritimes dans la région et que précédents efforts d'interception ont échoué.
+Color=218,218,208,255
+Sentence2=Les rapports indiquent que les approvisionnements réguliers de matériels à travers l'Atlantique vers l'Europe de l'Ouest est essentiel a l'effort de guerre. La perte de navires et de matériels compromet sérieusement la capacité de l'OTAN à maintenir les opérations de guerre.

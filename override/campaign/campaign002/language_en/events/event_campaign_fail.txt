@@ -10,4 +10,4 @@ Outline=FALSE
 Color=180,71,64,255
 Title=<b>LE RIDEAU DE FER S'ABAT SUR L'EUROPE</b>
 Sentence1=La menace immédiate d'une guerre nucléaire semble s'être évanouie alors que l'Ouest et l'Est négocient enfin les conditions de la cessation des hostilités. Malheureusement, les Soviétiques tiennent le haut du pavé dans les pourparlers de paix, en raison de leur forte position en Europe centrale.
-Sentence2=Actuellement en exil, les dirigeants politiques des territoires occupés se montrent très inquiets du risque que le rideau de fer soit transporté plus à l'ouest. La probabilité d'une occupation soviétique permanente a déclenché une crise globale et massive de réfugiés, avec des millions de personnes tentant d'échapper à l'Europe de l'Ouest tant qu'elles le peuvent encore.
+Sentence2=Actuellement en exil, les dirigeants politiques des territoires occupés se montrent très inquiets du risque que le rideau de fer soit transporté plus à l'ouest. Les peurs d'une occupation soviétique permanente a déclenché une crise de réfugiés, avec des dizaines de milliers de personnes tentant de se rendre en Europe de l'Ouest.

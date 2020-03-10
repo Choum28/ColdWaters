@@ -1,0 +1,13 @@
+NextAction=END
+Image=campaign/images/68 nato victory
+Photo=campaign/images/photos/armor pact 1,campaign/images/photos/infantry pact 2,campaign/images/photos/infantry pact 1
+Music=audio/music/Cold Waters Campaign Victory
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>LA GUERRE EST FINI, LES ÉTATS DE L'UNION SOVIÉTIQUE DÉCLARENT LEUR INDÉPENDANCE</b>
+Sentence1=Le retrait a déclenché une réaction en chaîne au sein de l'Union soviétique, plusieurs états fédérés d'Asie centrale ayant proclamé leur indépendance. Les États de L'union du Turkménie et de l'Ouzbékistan se sont respectivement annoncés "Républiques socialistes libres", le Kazakhstan devant suivre d'un jour à l'autre.
+Sentence2=En réponse aux troubles intérieurs, l'armée soviétique a cessé ses opérations hostiles à l'Ouest. Les négociations de paix vont commencer immédiatement. Quelle que soit l'issue, elle se fera avec une Union soviétique fortement réduite en alliés et en territoire national.

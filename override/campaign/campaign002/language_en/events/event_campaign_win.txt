@@ -1,0 +1,13 @@
+NextAction=event_campaign_win_2
+Image=campaign/images/pact reinforcements
+Photo=campaign/images/photos/riot 1,campaign/images/photos/riot 2,campaign/images/photos/protests 1,campaign/images/photos/protests 2
+Music=audio/music/Cold Waters Campaign Victory
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>LES ROUGES JETTENT L'ÉPONGE</b>
+Sentence1=Les gouvernements tchécoslovaque, polonais et est-allemand ont pris directement contact avec les dirigeants politiques de l'OTAN, demandant une paix séparée immédiate. L'offre de paix était accompagnée d'un plaidoyer auprès de l'OTAN pour garantir l'indépendance future de ces régions face aux pressions communistes.
+Sentence2=En termes généraux, l'acceptation de cette offre pourrait signifier que l'OTAN s'obligera à aider à forcer les troupes soviétiques à quitter ces territoires respectifs. En outre, le déplacement de centaines de milliers de civils à travers l'Europe constitue une crise humanitaire massive que l'OTAN, ainsi que d'autres nations, doivent résoudre.

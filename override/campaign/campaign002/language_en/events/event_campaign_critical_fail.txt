@@ -1,0 +1,13 @@
+NextAction=event_campaign_critical_fail_2
+Image=campaign/images/nuke launch farm
+Photo=campaign/images/photos/naval pact sub 1,campaign/images/photos/naval pact sub 2,campaign/images/photos/politics 1
+Music=audio/music/Cold Waters Campaign Loss
+Header=<DATE>
+ForwardDate=7,14
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>LA FIN EST PROCHE</b>
+Sentence1=Les sous-marins lanceurs de missiles balistiques nucléaires soviétiques, qui ont pris réussis à prendre position le long de la côte est des États-Unis, ont été utilisés comme levier lors des récents pourparlers sur l'armistice. Alors que les tensions continuent d'augmenter, l'utilisation inévitable des armes nucléaires tactiques est devenue une certitude alors que la crise continue à échapper à tout contrôle.
+Sentence2=Avec trois attaques nucléaires dévastatrices en Europe centrale et de l'est à ce jour, il est devenu effroyablement clair que le conflit actuel ne sera pas résolu par des moyens diplomatiques. Malgré les troubles civils et les émeutes qui éclatent dans de nombreuses grandes villes à travers le globe, la plupart se contentent d'être avec leurs proches, attendant que l'un ou l'autre camp lance leur arsenal nucléaire en premier.

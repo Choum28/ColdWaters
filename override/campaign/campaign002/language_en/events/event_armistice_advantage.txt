@@ -1,0 +1,14 @@
+NextAction=MAP
+Image=campaign/images/68 soviet preparations
+Photo=campaign/images/photos/politics 1,campaign/images/photos/politics 2,campaign/images/photos/politics 3
+Music=audio/music/Cold Waters Campaign Victory
+Header=<DATE>
+
+Font=0
+Outline=FALSE
+Color=180,71,64,255
+Title=<b>VICTOIRE DE L'OTAN? LE PACTE SE DISLOQUE</b>
+Color=57,61,73,255
+Sentence1=Les gouvernements de la Pologne, la Tchécoslovaquie et de la Hongrie ont exprimé le souhait de se retirer unilatéralement du Pacte de Varsovie. Les forces armées de ces pays ont reçu l'ordre de cesser les hostilités à l'encontre de l'Ouest, et de "prendre toutes les mesures pour sauvegarder l'indépendance nationale".
+Color=218,218,208,255
+Sentence2=Dans les faits, cela signifie que toutes les forces soviétiques opérant dans l'une de ces nations ou soutenues par celles-ci doivent soit se retirer, soit se retrouver dans une guerre à deux fronts. A cette heure nous ne pouvons pas savoir comment l'Union Soviétique va répondre à ce développement soudain.

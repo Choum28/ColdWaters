@@ -1,0 +1,12 @@
+NextAction=MAP
+Image=campaign/images/event_award_background
+Photo=campaign/images/awards/legion_of_merit
+Music=audio/music/Cold Waters Theme
+Header=LE SECRÉTAIRE DE LA NAVY<n>WASHINGTON
+
+Font=0
+Outline=FALSE
+Color=57,61,73,255
+Title=Le Secrétaire de la Navy a le plaisir de décerner <POSTHUMOUSLY> la
+Sentence1=<b><size=22>LEGION OF MERIT MEDAL<n>AU<n>CDT <PLAYERNAME><n>OFFICIER COMMANDANT, DU<n><PLAYERVESSELNAVY> <PLAYERVESSELNAME>, <PLAYERVESSELHULL></size></b>
+Sentence2=POUR :<n>Service exceptionnel en tant que Commandant de nombreuses patrouilles en temps de guerre. Ses compétences de leader et de tactique ont assuré le succès de ses nombreux devoirs et lui font honneur ainsi qu'à la marine des États-Unis.

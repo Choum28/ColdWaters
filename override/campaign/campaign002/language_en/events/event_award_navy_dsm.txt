@@ -1,0 +1,12 @@
+NextAction=MAP
+Image=campaign/images/event_award_background
+Photo=campaign/images/awards/navy_dsm
+Music=audio/music/Cold Waters Theme
+Header=LE SECRÉTAIRE DE LA NAVY<n>WASHINGTON
+
+Font=0
+Outline=FALSE
+Color=57,61,73,255
+Title=Le Secrétaire de la Navy a le plaisir de décerner <POSTHUMOUSLY> la
+Sentence1=<b><size=22>DISTINGUISHED SERVICE MEDAL<n>AU<n>CDT <PLAYERNAME><n>OFFICIER COMMANDANT, DU<n><PLAYERVESSELNAVY> <PLAYERVESSELNAME>, <PLAYERVESSELHULL></size></b>
+Sentence2=POUR :<n>Services méritoires en tant qu'officier commandant du <PLAYERVESSELNAVY> <PLAYERVESSELNAME>, <PLAYERVESSELHULL>. <PLAYERNAME> de part son dévouement sans faille et ses décisions tactiques ont apporté le succès à son unité durant le combat. Cette conduite est tout à son honneur, son commandement et lui même respecte les plus hautes traditions de la marine des des États-Unis.
