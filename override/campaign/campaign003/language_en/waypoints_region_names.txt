@@ -1,4 +1,4 @@
-Regions=Taïwan,Les Philippines,Chine,Mer de Chine méridionale,Iles Spratly
+Regions=Taïwan,Les Philippines,Chine,Mer de Chine méridionale,Iles Spratleys
 Taipei=Taïwan
 Kaohsiung=Taïwan
 Luzon=The Philippines
@@ -7,6 +7,6 @@ Celebes=The Philippines
 Hong Kong=Chine
 Paracel Islands=Mer de Chine méridionale
 Scarborough Shoal=Mer de Chine méridionale
-northern islands=Iles Spratly
-central islands=Iles Spratly
-south islands=Iles Spratly
+northern islands=Iles Spratleys
+central islands=Iles Spratleys
+south islands=Iles Spratleys

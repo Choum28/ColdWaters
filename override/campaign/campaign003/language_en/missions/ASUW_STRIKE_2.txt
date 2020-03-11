@@ -1,21 +1,21 @@
-﻿[ORDERS]
-1. (S) SITUATION TACTIQUE:
-LES PHOTOS SATELLITES MONTRENT QU'UN GROUPE DE COMBAT ENNEMI, ARME JUSQU'AUX DENTS DE MISSILES DE CROISIERE, SE PREPARE A CROISER A PARTIR DE <STARTLOCATION>. LE RENSEIGNEMENT ESTIME QU'IL FERA UNE PATROUILLE À PROXIMITÉ DE <ENDLOCATION>. LOCALISEZ CE GROUPE ET COULEZ LE PLUS DE NAVIRES POSSIBLES. DE PRECEDENTES RECONNAISSANCES INDIQUENT QUE LA FORCE CONTIENDRA AU MOINS UN OU DEUX NAVIRES ARMÉS AVEC DES MISSILES DE CROISIÈRE ANTI-NAVIRE. CONSIDÉREZ-LES COMME VOS CIBLES PRINCIPALES. UNE ESCORTE ENNEMIE DE COMBATTANTS DE SURFACE ET / OU DE SOUS-MARINS D'ATTAQUE EST EGALEMENT PREVUE.
+[ORDERS]
+1. (S) SITUATION TACTIQUE :
+LES PHOTOS SATELLITES MONTRENT QU'UN GROUPE DE COMBAT ENNEMI, ARMÉ JUSQU'AUX DENTS DE MISSILES DE CROISIERE, SE PRÉPARE À PARTIR DE <STARTLOCATION>. LE RENSEIGNEMENT ESTIME QU'IL FERA UNE PATROUILLE À PROXIMITÉ DE <ENDLOCATION>. LOCALISEZ CE GROUPE ET COULEZ LE PLUS DE NAVIRES POSSIBLES. DE PRÉCÉDENTES RECONNAISSANCES INDIQUENT QUE LA FORCE CONTIENDRA AU MOINS UN OU DEUX NAVIRES ARMÉS DE MISSILES ANTI-NAVIRE. CONSIDÉREZ-LES COMME VOS CIBLES PRINCIPALES. UNE ESCORTE ENNEMIE DE NAVIRES DE SURFACE ET / OU DE SOUS-MARINS D'ATTAQUE EST ÉGALEMENT PREVUE.
 
-2. (S) OBJECTIF PRINCIPAL
-LOCALISER ET COULER LA FORMATION D'ATTAQUE ENNEMIE
+2. (S) OBJECTIF PRINCIPAL :
+LOCALISER ET COULER LE GROUPE DE COMBAT ENNEMI
 
-3. (S) OBJECTIF SECONDAIRE:
+3. (S) OBJECTIF SECONDAIRE :
 LOCALISER ET ENGAGER TOUT NAVIRE D'ESCORTE SI POSSIBLE
 
-4. (S) ÉVITER LA DÉTECTION PAR DES PATROUILLES ENNEMIES
+4. (S) ÉVITER LA DÉTECTION PAR LES PATROUILLES ASM ENNEMIES
 
-5. (S) RE: ALERTE MAXIMALE, UTILISER TOUTES ARMES UTILES SUR LES CIBLES DÉSIGNÉES
+5. (S) RE: TOUTES ARMES AUTORISÉES
 
-6. (S) EMCON - MAINTENIR LE SILENCE RADIO JUSQU'A NOUVEL ORDRE
+6. (S) EMCON - MAINTENIR LE SILENCE RADIO JUSQU'À NOUVEL ORDRE
 [MISSION WIN]
-Excellent travail, commandant! Votre neutralisation de cette cible hautement prioritaire réduira considérablement la capacité de l'ennemi à gêner les convois transpacifiques. CINCPAC envoie des salutations à vous et votre équipage.
+Excellent travail, Commandan t! La neutralisation de cette cible hautement prioritaire réduira considérablement la capacité de l'ennemi à gêner les convois transpacifiques. CINCPAC envoie ses salutations à vous et votre équipage.
 [MISSION FAIL]
-Déçu d'apprendre que vous avez perdu cette opportunité contre une cible aussi hautement prioritaire. Vous aurez sans doute plus de chance la prochaine fois.
+Déçu d'apprendre que vous avez raté cette opportunité contre une cible hautement prioritaire. Vous aurez sans doute plus de chance la prochaine fois.
 [MISSION MISSED]
-Déçu d'apprendre que vous avez perdu cette opportunité contre une cible aussi hautement prioritaire. Vous aurez sans doute plus de chance la prochaine fois. La présence ennemie dans cette zone entravera probablement les convois transpacifiques. De nouveaux ordres seront envoyés après réévaluation des capacités de l'ennemi et intention supposée.
+Déçu d'apprendre que vous avez manqué cette opportunité contre une cible hautement prioritaire. Vous aurez sans doute plus de chance la prochaine fois. La présence ennemie dans cette zone entravera probablement les convois transpacifiques. De nouveaux ordres seront envoyés après réévaluation des capacités et des intentions supposées de l'ennemi.

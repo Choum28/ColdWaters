@@ -1,5 +1,5 @@
 ﻿[LOCATION NAMES AND COUNTRY/REGION]
-LocationName=Guam=Mariannes Nord
+LocationName=Guam=Mariannes du Nord
 LocationName=Subic Bay=Philippines
 LocationName=Yokosuka=Japon
 LocationName=Sasebo=Japon
@@ -71,7 +71,7 @@ LabelName=Scarborough\nShoal
 LabelPosition=-216.9,-173.8
 LabelName=Iles\nParacels
 LabelPosition=-111.7,-294
-LabelName=Iles\nSpratly
+LabelName=Iles\nSpratleys
 
 [MARKERS]
 Color=0,255,0,255
@@ -119,7 +119,7 @@ LabelName=PHILIPPINES
 LabelPosition=-330.9,-185.2
 LabelName=VIETNAM
 LabelPosition=-446.8,-220.3
-LabelName=THAïLANDE
+LabelName=THAÏLANDE
 LabelPosition=-366,-279
 LabelName=CAMBODGE
 LabelPosition=-550,-81

@@ -1,21 +1,21 @@
-﻿[ORDERS]
-1. (S) SITUATION TACTIQUE:
-LE RENSEIGNEMENT INDIQUE QUE LES RUSSES AUGMENTENT LEUR SOUTIEN À LA RPC EN ENVOYANT DES UNITÉS DE SURFACE POUR RENFORCER LA FLOTTE CHINOISE. LES SURVOLS DE RECONNAISSANCE INDIQUENT QU'UN GROUPE DE COMBAT DE SURFACE EST DÉJÀ CONSTITUÉ. IL SERA PROBABLEMENT CENTRÉ AUTOUR D'UNE UNITE DE HAUTE VALEUR, PROBABLEMENT UN PORTE-AVIONS DE CLASSE KIEV, ET CE GROUPE EST SUSCEPTIBLE D'ETRE ACCOMPAGNE D'UN PÉTROLIER DE RAVITAILLEMENT. LE RENSEIGNEMENT CROIT QUE CE GROUPE TRANSITERA PAR LA MER DU JAPON ET SE DÉPLOIERA À LA BASE NAVALE DE <ENDLOCATION>. ATTENDEZ-VOUS À CE QUE CE GROUPE SOIT FORTEMENT DÉFENDU. VOS ORDRES SONT D'INTERCEPTER CE GROUPE ET DE COULER LE NAVIRE PRINCIPAL ET LE PÉTROLIER.
+[ORDERS]
+1. (S) SITUATION TACTIQUE :
+LE RENSEIGNEMENT INDIQUE QUE LES RUSSES AUGMENTENT LEUR SOUTIEN À LA RPC EN ENVOYANT DES UNITÉS DE SURFACE POUR RENFORCER LA FLOTTE CHINOISE. LES SURVOLS DE RECONNAISSANCE RÉCENT INDIQUENT QU'UN GROUPE DE COMBAT EST EN TRAIN DE SE FORMER EN CE MOMENT MÊME. LE RENSEIGNEMENT CROIT QUE CE GROUPE TRANSITERA PAR LA MER DU JAPON ET SE DÉPLOIERA VERS LE HAUT-FOND DE SCARBOROUGH À L'OUEST DES PHILIPPINES. ATTENDEZ-VOUS À CE QUE CE GROUPE SOIT FORTEMENT DÉFENDU. VOS ORDRES SONT D'INTERCEPTER CE GROUPE ET DE COULER LE PLUS DE NAVIRES POSSIBLE.
 
-2. (S) OBJECTIF PRINCIPAL
-LOCALISER ET COULER LE PORTE-AVIONS ET SON RAVITAILLEUR
+2. (S) OBJECTIF PRINCIPAL :
+LOCALISER ET COULER LES NAVIRES DE GUERRE ENNEMIS
 
-3. (S) OBJECTIF SECONDAIRE:
-LOCALISER ET ENGAGER TOUT NAVIRE D'ESCORTE SI POSSIBLE
+3. (S) OBJECTIF SECONDAIRE :
+LOCALISER ET ENGAGER TOUT SOUS-MARIN D'ESCORTE SI POSSIBLE
 
-4. (S) ÉVITER LA DÉTECTION PAR DES PATROUILLES ENNEMIES
+4. (S) ÉVITER LA DÉTECTION PAR LES PATROUILLES ASM ENNEMIES
 
-5. (S) RE: ALERTE MAXIMALE, UTILISER TOUTES ARMES UTILES SUR LES CIBLES DÉSIGNÉES
+5. (S) RE: TOUTES ARMES AUTORISÉES
 
-6. (S) EMCON - MAINTENIR LE SILENCE RADIO JUSQU'A NOUVEL ORDRE
+6. (S) EMCON - MAINTENIR LE SILENCE RADIO JUSQU'À NOUVEL ORDRE
 [MISSION WIN]
-Excellent travail, commandant! Votre neutralisation de cette cible hautement prioritaire réduira considérablement la capacité de l'ennemi à gêner les convois transpacifiques. CINCPAC envoie des salutations à vous et votre équipage.
+Excellent travail, commandant! La neutralisation de cette cible hautement prioritaire réduira considérablement la capacité de l'ennemi à gêner les convois transpacifiques. CINCPAC envoie ses salutations à vous et votre équipage.
 [MISSION FAIL]
-Déçu d'apprendre que vous avez perdu cette opportunité contre une cible aussi hautement prioritaire. Vous aurez sans doute plus de chance la prochaine fois.
+Déçu d'apprendre que vous avez raté cette opportunité contre une cible hautement prioritaire. Vous aurez sans doute plus de chance la prochaine fois.
 [MISSION MISSED]
-Déçu d'apprendre que vous avez perdu cette opportunité contre une cible aussi hautement prioritaire. Vous aurez sans doute plus de chance la prochaine fois. La présence ennemie dans cette zone entravera probablement les convois transpacifiques. De nouveaux ordres seront envoyés après réévaluation des capacités de l'ennemi et intention supposée.
+Déçu d'apprendre que vous avez manqué cette opportunité contre une cible hautement prioritaire. Vous aurez sans doute plus de chance la prochaine fois. La présence ennemie dans cette zone entravera probablement les convois transpacifiques. De nouveaux ordres seront envoyés après réévaluation des capacités et des intentions supposées de l'ennemi.

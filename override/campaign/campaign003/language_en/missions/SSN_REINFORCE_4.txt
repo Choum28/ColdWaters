@@ -1,21 +1,21 @@
-﻿[ORDERS]
-1. (S) SITUATION TACTIQUE:
-LE RENSEIGNEMENT INDIQUE QUE LES RUSSES AUGMENTENT LEUR SOUTIEN À LA RPC EN ENVOYANT DES SOUS-MARINS POUR RENFORCER LES CHINOIS. LE RENSEIGNEMENT ESTIME QU'UNE ESCADRE DE SOUS-MARINS D'ATTAQUE NUCLEAIRES, COMPRENANT DES SOUS-MARINS DE CLASSES VICTOR ET AKULA, TENTERA DE TRAVERSER LA MER DU JAPON ET DE SE RENDRE A CAM RANH, SUR LA CÔTE SUD DU VIETNAM. LA PRÉSENCE DE CES BATEAUX DANS LA ZONE D'OPÉRATIONS RENFORCERAIT SIGNIFICATIVEMENT LA MENACE, ET NOUS DEVONS DONC INTERCEPTER CES BATEAUX AVANT QU'ILS PUISSENT ATTEINDRE LEUR DESTINATION.
+[ORDERS]
+1. (S) SITUATION TACTIQUE :
+LE RENSEIGNEMENT INDIQUE QUE LES RUSSES AUGMENTENT LEUR SOUTIEN À LA RPC EN ENVOYANT DES SOUS-MARINS POUR RENFORCER LES CHINOIS. LE RENSEIGNEMENT ESTIME QU'UNE ESCADRE DE SOUS-MARINS D'ATTAQUE NUCLEAIRES, COMPRENANT DES SOUS-MARINS DE CLASSES VICTOR ET AKULA, TENTERA DE TRAVERSER LA MER DU JAPON ET DE SE RENDRE A CAM RANH, SUR LA CÔTE SUD DU VIETNAM. LA PRÉSENCE DE CES NAVIRES DANS LA ZONE D'OPÉRATIONS RENFORCERAIT SIGNIFICATIVEMENT LA MENACE, ET NOUS DEVONS DONC COULER CES NAVIRES AVANT QU'ILS PUISSENT ATTEINDRE LEUR DESTINATION.
 
-2. (S) OBJECTIF PRINCIPAL
+2. (S) OBJECTIF PRINCIPAL :
 LOCALISER ET COULER LES SOUS-MARINS ENNEMIS
 
-3. (S) OBJECTIF SECONDAIRE:
-AUCUN
+3. (S) OBJECTIF SECONDAIRE :
+ÉVITER LES DOMMAGES COLLATÉRAUX
 
-4. (S) ÉVITER LA DÉTECTION PAR DES PATROUILLES ENNEMIES
+4. (S) ÉVITER LA DÉTECTION PAR LES PATROUILLES ASM ENNEMIES
 
-5. (S) RE: ALERTE MAXIMALE, UTILISER TOUTES ARMES UTILES SUR LES CIBLES DÉSIGNÉES
+5. (S) RE: TOUTES ARMES AUTORISÉES
 
-6. (S) EMCON - MAINTENIR LE SILENCE RADIO JUSQU'A NOUVEL ORDRE
+6. (S) EMCON - MAINTENIR LE SILENCE RADIO JUSQU'À NOUVEL ORDRE
 [MISSION WIN]
-Excellent travail, commandant! Votre neutralisation de cette cible hautement prioritaire réduira considérablement la capacité de l'ennemi à gêner les convois trans-pacifiques. CINCPAC envoie des salutations à vous et à votre équipe.
+Excellent travail, commandant! La neutralisation de cette cible hautement prioritaire réduira considérablement la capacité de l'ennemi d'entraver les convois transpacifiques. CINCLANT envoie ses salutations à vous et votre équipage.
 [MISSION FAIL]
-Déçu d'apprendre que vous avez perdu cette opportunité contre une cible aussi hautement prioritaire. Vous aurez sans doute plus de chance la prochaine fois.
+Déçu d'apprendre que vous avez raté cette opportunité contre une cible hautement prioritaire. Vous aurez sans doute plus de chance la prochaine fois.
 [MISSION MISSED]
-Déçu d'entendre que vous avez perdu cette opportunité contre une cible aussi hautement prioritaire. Vous aurez plus de chance la prochaine fois. La présence ennemie dans cette zone entravera probablement les convois transpacifiques. De nouveaux ordres seront envoyés après réévaluation des capacités de l'ennemi et de leur intention supposée.
+Déçu d'entendre que vous avez manqué cette opportunité contre une cible hautement prioritaire. La présence ennemie dans cette zone entravera probablement les convois transpacifiques. De nouveaux ordres seront envoyés après réévaluation des capacités et intentions supposées de l'ennemi.

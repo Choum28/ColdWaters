@@ -1,21 +1,21 @@
-﻿[ORDERS]
-1. (S) SITUATION TACTIQUE:
-UNE MEUTE DE SOUS-MARINS D'ATTAQUE ENNEMIS A ÉTÉ REPÉRÉE DANS LE DÉTROIT DE TAÏWAN, ENTRE TAÏWAN ET LE CONTINENT CHINOIS, OÙ ILS MÈNENT DES OPÉRATIONS CONTRE DES NAVIRES TAÏWANAIS. VOUS DEVEZ VOUS RENDRE DANS LA ZONE DE <ENDLOCATION> ET Y EFFECTUER UNE CHASSE ANTI-SOUS-MARINE. ÉVITEZ TOUTE VICTIME CIVILE.
+[ORDERS]
+1. (S) SITUATION TACTIQUE :
+UNE MEUTE DE SOUS-MARINS D'ATTAQUE ENNEMIS A ÉTÉ REPÉRÉE DANS LE DÉTROIT DE TAÏWAN, ENTRE TAÏWAN ET LA CHINE CONTINENTALE, OÙ ILS MÈNENT DES OPÉRATIONS ANTI-NAVIRES CONTRE LES TAÏWANAIS. VOUS DEVEZ VOUS RENDRE DANS LA ZONE DE <ENDLOCATION> ET Y EFFECTUER UNE CHASSE ANTI-SOUS-MARINE. ÉVITEZ TOUTE VICTIME CIVILE.
 
-2. (S) OBJECTIF PRINCIPAL
+2. (S) OBJECTIF PRINCIPAL :
 LOCALISER ET COULER LES SOUS-MARINS ENNEMIS
 
-3. (S) OBJECTIF SECONDAIRE:
+3. (S) OBJECTIF SECONDAIRE :
 AUCUN
 
-4. (S) ÉVITER LA DÉTECTION PAR DES PATROUILLES ENNEMIES
+4. (S) ÉVITER LA DÉTECTION PAR LES PATROUILLES ASM ENNEMIES
 
-5. (S) RE: ALERTE MAXIMALE, UTILISER TOUTES ARMES UTILES SUR LES CIBLES DÉSIGNÉES
+5. (S) RE: TOUTES ARMES AUTORISÉES
 
-6. (S) EMCON - MAINTENIR LE SILENCE RADIO JUSQU'A NOUVEL ORDRE
+6. (S) EMCON - MAINTENIR LE SILENCE RADIO JUSQU'À NOUVEL ORDRE
 [MISSION WIN]
-Très heureux de voir que vous avez traité ces sous-marins avec détermination, Commandant! Rappelez-vous que pour chaque navire ennemi que nous coulons, cela signifie un transport plus sûr pour nos troupes et nos ravitailleurs. Bon travail.
+Très heureux de voir que vous avez traité ces sous-marins avec détermination, Commandant! Rappelez-vous que pour chaque bâtiment ennemi que nous coulons, cela signifie un transport plus sûr pour nos troupes et nos ravitailleurs. Bon travail.
 [MISSION FAIL]
-Commandant, votre mission récente a été évaluée comme un échec global. Cet échec entraînera plus de tonnage perdu pour nos convois, et la possibilité pour l'ennemi de se rapprocher de la zone Pacifique. Nous devons faire mieux que ça, Commandant...
+Commandant, votre mission récente a été évaluée comme un échec. Cet échec entraînera plus de tonnage perdu pour nos convois, et la possibilité pour l'ennemi de fiare un pas de plus vers la fermeture du Pacifique. Nous devons faire mieux que ça, Commandant.
 [MISSION MISSED]
-Désolé d'entendre que les objectifs de la mission n'ont pas pu être atteints. Mais vous ne pouvez pas toujours gagner... Pour la prochaine fois, essayez de mieux planifier votre approche. Rappelez-vous toujours de l'équilibre entre les forces et les faiblesses. Nous avons encore l'avantage.
+Désolé d'entendre que les objectifs de la mission n'ont pas pu être atteints. Mais vous ne pouvez pas toujours gagner... La prochaine fois, essayez de mieux planifier votre approche. Rappelez-vous toujours de l'équilibre entre forces et faiblesses. Nous avons encore l'avantage.
