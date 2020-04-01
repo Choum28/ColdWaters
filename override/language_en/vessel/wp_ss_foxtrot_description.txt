@@ -1,4 +1,4 @@
 [Unit Reference]
 ShipClass=Foxtrot
 Description=Sous-marin diesel-électrique d'attaque de classe Foxtrot
-History=Quelque 58 de ces navires ont été construits de 1957 à 1971. Au début des années 60, ces navires représentaient le dernier des anciens sous-marins conventionnels bon marché conçus pour rôder dans l'Atlantique Nord contre les convois de l'OTAN, mais dans les années 1980, ils sont principalement utilisés comme navires d'opérations spéciales pour Spetsnaz. Bien qu'ils soient à la limite du passé, ils sont dsilencieux et peuvent encore constituer une menace pour les capitaines de sous-marins de l'OTAN non vigilants.
+History=Quelque 58 de ces navires ont été construits de 1957 à 1971. Au début des années 60, ces navires représentaient le dernier des anciens sous-marins conventionnels bon marché conçus pour rôder dans l'Atlantique Nord contre les convois de l'OTAN, mais dans les années 1980, ils sont principalement utilisés comme navires d'opérations spéciales pour Spetsnaz. Bien qu'ils soient à la limite du passé, ils sont silencieux et peuvent encore constituer une menace pour les capitaines de sous-marins de l'OTAN non vigilants.
