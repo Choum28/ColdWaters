@@ -1,8 +1,8 @@
 [MORTARS]
-wp_rbu6000_mortar=RBU 6000=C'est un lanceur de type hérisson qui utilise des roquettes pour lancer des grenades anti-sous-marines dans un pattern prédéfini sur de grandes distances. La désignation désigne la plage maximale en mètres.
-wp_rbu2500_mortar=RBU 2500=C'est un lanceur de type hérisson qui utilise des roquettes pour lancer des grenades anti-sous-marines dans un pattern prédéfini sur de grandes distances. La désignation désigne la plage maximale en mètres.
-wp_rbu1000_mortar=RBU 1000=C'est un lanceur de type hérisson qui utilise des roquettes pour lancer des grenades anti-sous-marines dans un pattern prédéfini sur de grandes distances. La désignation désigne la plage maximale en mètres.
-plan_fqf2500_mortar=FQF 2500=C'est un lanceur de type hérisson qui utilise des roquettes pour lancer des grenades anti-sous-marines dans un pattern prédéfini sur de grandes distances. La désignation désigne la plage maximale en mètres.
+wp_rbu6000_mortar=RBU 6000=C'est un lanceur de type hérisson qui utilise des roquettes pour lancer des grenades anti-sous-marines dans un pattern prédéfini sur de grandes distances. La désignation désigne la portée maximale en mètres.
+wp_rbu2500_mortar=RBU 2500=C'est un lanceur de type hérisson qui utilise des roquettes pour lancer des grenades anti-sous-marines dans un pattern prédéfini sur de grandes distances. La désignation désigne la portée maximale en mètres.
+wp_rbu1000_mortar=RBU 1000=C'est un lanceur de type hérisson qui utilise des roquettes pour lancer des grenades anti-sous-marines dans un pattern prédéfini sur de grandes distances. La désignation désigne la portée maximale en mètres.
+plan_fqf2500_mortar=FQF 2500=C'est un lanceur de type hérisson qui utilise des roquettes pour lancer des grenades anti-sous-marines dans un pattern prédéfini sur de grandes distances. La désignation désigne la portée maximale en mètres.
 plan_type81_mortar=Type 81=C'est un lanceur de type hérisson qui utilise des roquettes pour lancer des grenades anti-sous-marines dans un pattern prédéfini sur de grandes distances. La portée maximale est de 3000 yards.
 plan_type87_mortar=Type 87=C'est un lanceur de type hérisson qui utilise des roquettes pour lancer des grenades anti-sous-marines dans un pattern prédéfini sur de grandes distances. La portée maximale est de 5500 yards.
 
